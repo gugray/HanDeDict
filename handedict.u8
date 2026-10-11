@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-10T02:30:01Z
+# Datenstand: 2026-10-11T02:30:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -143341,7 +143341,9 @@ MP5衝鋒槍 MP5冲锋枪 [M P 5 chong1 feng1 qiang1] /HK MP5 (Maschinengewehr) 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 子宮切除手術 子宫切除手术 [zi3 gong1 qie1 chu2 shou3 shu4] /Hysterektomie (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-子宮切除手術 子宫切除手术 [zi3 gong1 qie1 chu2 shou3 shu4] /Hysterektomie (S)/
+# 子宮切除手術 子宫切除手术 [zi3 gong1 qie1 chu2 shou3 shu4] /Hysterektomie (S)/
+# Ver 2026-10-10T07:36:51Z nikolaus Stat-New >Verbesserung
+子宮切除手術 子宫切除手术 [zi3 gong1 qie1 chu2 shou3 shu4] /Hysterektomie, Gebärmutterentfernung (S, Med)/
 
 # ID-c04pD7Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -944027,7 +944029,9 @@ CD播放機 CD播放机 [C D bo1 fang4 ji1] /CD-Player (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 子宮切除 子宫切除 [zi3 gong1 qie1 chu2] /Hysterektomie (S)/
 # Ver 2023-12-04T17:35:20Z nikolaus Stat-New >Wortart 
-子宮切除 子宫切除 [zi3 gong1 qie1 chu2] /Hysterektomie (S, Med)/
+# 子宮切除 子宫切除 [zi3 gong1 qie1 chu2] /Hysterektomie (S, Med)/
+# Ver 2026-10-10T07:38:38Z nikolaus Stat-New >Verbesserung
+子宮切除 子宫切除 [zi3 gong1 qie1 chu2] /Hysterektomie, Gebärmutterentfernung (S, Med)/
 
 # ID-n32Uo1A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
