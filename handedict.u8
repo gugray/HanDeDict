@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-11T02:30:02Z
+# Datenstand: 2026-10-12T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -343363,7 +343363,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 
 # ID-e86ca8z
 # Ver 2023-07-22T21:22:33Z nikolaus Stat-New >Neu
-印古什人 印古什人 [yin4 gu3 shen2 ren2] /Inguschen (Eig, Ethn) /
+# 印古什人 印古什人 [yin4 gu3 shen2 ren2] /Inguschen (Eig, Ethn) /
+# Ver 2026-10-11T18:15:38Z nikolaus Stat-New >Verbesserung 
+印古什人 印古什人 [yin4 gu3 shen2 ren2] /Inguschen (S, Ethn) /
 
 # ID-e86cJ6J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1003959,6 +1003961,10 @@ X射線天文學 X射线天文学 [X she4 xian4 tian1 wen2 xue2] /Röntgenastron
 # Ver 2021-12-22T18:31:27Z nikolaus Stat-New >Wortart
 公共服務 公共服务 [gong1 gong4 fu2 wu4] /öffentliche Versorgung (Strom, Wasser etc.) (S)/
 
+# ID-o17ph1v
+# Ver 2026-10-11T17:47:32Z nikolaus Stat-New >Neu
+聖勞倫斯島 圣劳伦斯岛 [sheng4 lao2 lun2 si1 dao3] /Sankt-Lorenz-Insel (Insel in Alaska, USA) (Geo)/
+
 # ID-o17qd5l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 詬 诟 [gou4] /missbrauchen, beschimpfen (u.E.)/Schamgefühl (u.E.) (S)/
@@ -1078590,7 +1078596,9 @@ NPD禁止程序 NPD禁止程序 [N P D jin4 zhi3 cheng2 xu4] /NPD-Verbotsverfahr
 
 # ID-p23zV7a
 # Ver 2023-11-30T16:32:26Z nikolaus Stat-New >Neu
-亞茲迪 亚兹迪 [ya4 ci2 di2] /Jesiden, Eziden (Eig, Ethn)/
+# 亞茲迪 亚兹迪 [ya4 ci2 di2] /Jesiden, Eziden (Eig, Ethn)/
+# Ver 2026-10-11T18:17:38Z nikolaus Stat-New >Verbesserung 
+亞茲迪 亚兹迪 [ya4 ci2 di2] /Jesiden, Eziden (S, Ethn)/
 
 # ID-p23AK2I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
