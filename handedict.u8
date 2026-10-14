@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-12T02:30:01Z
+# Datenstand: 2026-10-14T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -6526,7 +6526,9 @@ DNA測試 DNA测试 [D N A ce4 shi4] /DNA-Test (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 低迷 低迷 [di1 mi2] /Delle (u.E.) (S)/Depression (u.E.) (S)/am Boden liegen, darniederliegen (Wirtschaft) (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-低迷 低迷 [di1 mi2] /Delle (S)/Depression (S)/am Boden liegen, darniederliegen (Wirtschaft) (V)/
+# 低迷 低迷 [di1 mi2] /Delle (S)/Depression (S)/am Boden liegen, darniederliegen (Wirtschaft) (V)/
+# Ver 2026-10-13T14:57:50Z nikolaus Stat-New >Verbesserung 
+低迷 低迷 [di1 mi2] /mau, flau, trüb (Adj)/Delle, Depression (S)/am Boden liegen, darniederliegen (Wirtschaft) (V)/
 
 # ID-a09rm3i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -86832,6 +86834,10 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # 櫥櫃 橱柜 [chu2 gui4] /Wandschrank/
 # Ver 2023-12-22T21:20:20Z nikolaus Stat-New >Verbesserung 
 櫥櫃 橱柜 [chu2 gui4] /Wandschrank (S)/
+
+# ID-b22vH7w
+# Ver 2026-10-13T13:08:40Z nikolaus Stat-New >Neu
+布盧梅瑙 布卢梅瑙 [bu4 lu2 mei2 nao3] /Blumenau (Stadt in Brasilien) (Geo)/
 
 # ID-b22vR7Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -201303,7 +201309,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 
 # ID-c86mN8e
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-韃 鞑 [da2] /Tataren (Stamm in China) (Eig, Ethn)/
+# 韃 鞑 [da2] /Tataren (Stamm in China) (Eig, Ethn)/
+# Ver 2026-10-13T10:29:46Z nikolaus Stat-Verif >Verbesserung 
+韃 鞑 [da2] /Tataren (Stamm in China) (S, Ethn)/
 
 # ID-c86mX6L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -251447,7 +251455,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 
 # ID-d57aO4E
 # Ver 2023-07-22T21:54:19Z nikolaus Stat-New >Neu
-滿族人 满族人 [man3 zu2 ren2] /Mandschuren (Eig, Ethn)/
+# 滿族人 满族人 [man3 zu2 ren2] /Mandschuren (Eig, Ethn)/
+# Ver 2026-10-13T08:52:01Z nikolaus Stat-New >Verbesserung 
+滿族人 满族人 [man3 zu2 ren2] /Mandschuren (S, Ethn)/
 
 # ID-d57aU8F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -287351,7 +287361,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 滿族 满族 [man3 zu2] /Mandschuren (S)/
 # Ver 2023-07-22T21:53:27Z nikolaus Stat-New >Verbesserung 
-滿族 满族 [man3 zu2] /Mandschuren (Abk. für 满族人[man3 zu2 ren2]) (Eig, Ethn)/
+# 滿族 满族 [man3 zu2] /Mandschuren (Abk. für 满族人[man3 zu2 ren2]) (Eig, Ethn)/
+# Ver 2026-10-13T08:51:37Z nikolaus Stat-New >Verbesserung 
+滿族 满族 [man3 zu2] /Mandschuren (S, Ethn)\Abk. für 满族人[man3 zu2 ren2] (X)/
 
 # ID-e07oh4Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -310273,7 +310285,9 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 烏孜別克族 乌孜别克族 [wu1 zi1 bie2 ke4 zu2] /Usbeken (S)/
 # Ver 2020-07-03T17:34:18Z nikolaus Stat-New >Verbesserung 
-烏孜別克族 乌孜别克族 [wu1 zi1 bie2 ke4 zu2] /Usbeken (Eig, Ethn)/
+# 烏孜別克族 乌孜别克族 [wu1 zi1 bie2 ke4 zu2] /Usbeken (Eig, Ethn)/
+# Ver 2026-10-13T10:31:54Z nikolaus Stat-New >Verbesserung 
+烏孜別克族 乌孜别克族 [wu1 zi1 bie2 ke4 zu2] /Usbeken (S, Ethn)/
 
 # ID-e39GY4q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -326929,7 +326943,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 
 # ID-e62iu0G
 # Ver 2023-07-22T17:56:45Z nikolaus Stat-New >Neu
-車臣人 车臣人 [che1 chen2 ren2] /Tschetschenen (Eig, Ethn)/
+# 車臣人 车臣人 [che1 chen2 ren2] /Tschetschenen (Eig, Ethn)/
+# Ver 2026-10-13T10:34:28Z nikolaus Stat-New >Verbesserung 
+車臣人 车臣人 [che1 chen2 ren2] /Tschetschenen (S, Ethn)/
 
 # ID-e62iA3Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -382092,7 +382108,9 @@ US房地產危機 US房地产危机 [U S fang2 di4 chan3 wei1 ji1] /US-Immobilie
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 阿瓦爾人 阿瓦尔人 [a1 wa3 er3 ren2] /Awaren/
 # Ver 2023-07-22T21:19:28Z nikolaus Stat-New >Verbesserung 
-阿瓦爾人 阿瓦尔人 [a1 wa3 er3 ren2] /Awaren (Eig, Ethn)/
+# 阿瓦爾人 阿瓦尔人 [a1 wa3 er3 ren2] /Awaren (Eig, Ethn)/
+# Ver 2026-10-13T10:25:04Z nikolaus Stat-New >Verbesserung 
+阿瓦爾人 阿瓦尔人 [a1 wa3 er3 ren2] /Awaren (S, Ethn)/
 
 # ID-f40kA1R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -546102,6 +546120,10 @@ DE匯流排拉緊 DE汇流排拉紧 [D E hui4 liu2 pai2 la1 jin3] /DE-Schiene ge
 # Ver 2020-06-08T07:00:52Z nikolaus Stat-New >Verbesserung 
 羽莖 羽茎 [yu3 jing1] /schmeicheln, aufspulen (V)/Hohlwelle (S)/
 
+# ID-h70Fy7k
+# Ver 2026-10-13T13:17:50Z nikolaus Stat-New >Neu
+聖塔安娜 圣塔安娜 [sheng4 ta3 an1 nuo2] /Santa Ana (Stadt in Kalifornien) (Geo)/
+
 # ID-h70GE3A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 肫 肫 [zhun1] /Muskelmagen (u.E.) (S)/
@@ -610973,7 +610995,9 @@ ccd電荷耦合器件照相機 CCD电荷耦合器件照相机 [c c d dian4 he2 o
 # Ver 2022-07-25T20:40:12Z nikolaus Stat-New >Verbesserung 
 # 彿來米族 佛来米族 [fu2 lai2 mi3 zu2] /Flamen, Einwohner der belgischen Region Flandern (Eig, Ethn)/
 # Ver 2023-09-23T07:16:39Z nikolaus Stat-New >Verbesserung 
-彿來米族 佛来米族 [fu2 lai2 mi3 zu2] /Flamen (Einwohner der belgischen Region Flandern) (Eig, Ethn)/
+# 彿來米族 佛来米族 [fu2 lai2 mi3 zu2] /Flamen (Einwohner der belgischen Region Flandern) (Eig, Ethn)/
+# Ver 2026-10-13T08:46:39Z nikolaus Stat-New >Verbesserung 
+彿來米族 佛来米族 [fu2 lai2 mi3 zu2] /Flamen (Einwohner der belg. Region Flandern) (S, Ethn)/
 
 # ID-i60WK1r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -726003,6 +726027,10 @@ Ct掃描儀 Ct扫描仪 [C t sao4 miao2 yi2] /Computertomograf, CT, CT-Scanner (
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 三年 三年 [san1 nian2] /dreijährig (Adj)/
 
+# ID-k22CL3S
+# Ver 2026-10-13T13:13:27Z nikolaus Stat-New >Verbesserung 
+聖塔芭芭拉 圣塔芭芭拉 [sheng4 ta3 ba1 ba1 la1] /Santa Barbara (Stadt in Kalifornien) (Geo)/
+
 # ID-k22Di9p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 會生產 会生产 [hui4 sheng1 chan3] /zeugungsfähig (u.E.)/
@@ -737248,7 +737276,9 @@ DA轉換器 DA转换器 [D A zhuan3 huan4 qi4] /Digital-Analog-Wandler (S, Phys)
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 伊利里亞人 伊利里亚人 [yi1 li4 li3 ya4 ren2] /Illyrer/
 # Ver 2023-12-02T16:03:35Z nikolaus Stat-New >Wortart 
-伊利里亞人 伊利里亚人 [yi1 li4 li3 ya4 ren2] /Illyrer (antikes Volk im Westbalkan) (Eig, Ethn)/
+# 伊利里亞人 伊利里亚人 [yi1 li4 li3 ya4 ren2] /Illyrer (antikes Volk im Westbalkan) (Eig, Ethn)/
+# Ver 2026-10-13T08:48:45Z nikolaus Stat-New >Verbesserung 
+伊利里亞人 伊利里亚人 [yi1 li4 li3 ya4 ren2] /Illyrer (antikes Volk im Westbalkan) (S, Ethn)/
 
 # ID-k39gY0F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -778790,7 +778820,9 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 克里奧人 克里奥人 [ke4 li3 ao4 ren2] /Kreole, Kreolin, kreolisch/
 # Ver 2020-07-01T11:46:44Z nikolaus Stat-New >Verbesserung 
-克里奧人 克里奥人 [ke4 li3 ao4 ren2] /Kreole, Kreolin (Eig, Ethn)/kreolisch (Adj)/
+# 克里奧人 克里奥人 [ke4 li3 ao4 ren2] /Kreole, Kreolin (Eig, Ethn)/kreolisch (Adj)/
+# Ver 2026-10-13T08:50:00Z nikolaus Stat-New >Verbesserung 
+克里奧人 克里奥人 [ke4 li3 ao4 ren2] /Kreole, Kreolin (S, Ethn)/kreolisch (Adj)/
 
 # ID-k98um6r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -814812,7 +814844,9 @@ DNA芯片 DNA芯片 [D N A xin4 pian4] /Biochip (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 楚科奇族 楚科奇族 [chu3 ke1 qi2 zu2] /Tschuktschen/
 # Ver 2022-03-27T21:06:59Z nikolaus Stat-New >Wortart
-楚科奇族 楚科奇族 [chu3 ke1 qi2 zu2] /Tschuktschen (Eig, Ethn)/
+# 楚科奇族 楚科奇族 [chu3 ke1 qi2 zu2] /Tschuktschen (Eig, Ethn)/
+# Ver 2026-10-13T10:35:39Z nikolaus Stat-New >Verbesserung 
+楚科奇族 楚科奇族 [chu3 ke1 qi2 zu2] /Tschuktschen (S, Ethn)/
 
 # ID-l48FV3u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1018444,7 +1018478,9 @@ DE匯流排張緊 DE汇流排张紧 [D E hui4 liu2 pai2 zhang1 jin3] /DE-Schiene
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 烏孜別克 乌孜别克 [wu1 zi1 bie2 ke4] /Usbeken (Bio)/
 # Ver 2020-07-03T17:33:41Z nikolaus Stat-New >Verbesserung 
-烏孜別克 乌孜别克 [wu1 zi1 bie2 ke4] /Usbeken (Eig, Ethn)/
+# 烏孜別克 乌孜别克 [wu1 zi1 bie2 ke4] /Usbeken (Eig, Ethn)/
+# Ver 2026-10-13T10:31:32Z nikolaus Stat-New >Verbesserung 
+烏孜別克 乌孜别克 [wu1 zi1 bie2 ke4] /Usbeken (S, Ethn)/
 
 # ID-o37Xo8P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1033629,7 +1033665,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 茨岡人 茨冈人 [ci2 gang1 ren2] /Roma und Sinti, Zigeuner/
 # Ver 2020-06-21T19:06:31Z nikolaus Stat-New >Verbesserung 
-茨岡人 茨冈人 [ci2 gang1 ren2] /Roma und Sinti, Zigeuner (Eig, Ethn)/
+# 茨岡人 茨冈人 [ci2 gang1 ren2] /Roma und Sinti, Zigeuner (Eig, Ethn)/
+# Ver 2026-10-13T10:28:06Z nikolaus Stat-New >Verbesserung 
+茨岡人 茨冈人 [ci2 gang1 ren2] /Roma und Sinti, Zigeuner (S, Ethn)/
 
 # ID-o59be5E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
