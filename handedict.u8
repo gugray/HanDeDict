@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-14T02:30:01Z
+# Datenstand: 2026-10-16T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -13948,7 +13948,9 @@ CCD電荷耦合器件光學系統 CCD电荷耦合器件光学系统 [C C D dian4
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 坦噶尼喀 坦噶尼喀 [tan3 ga2 ni2 ka1] /Tanganjika/
 # Ver 2023-01-13T16:44:20Z nikolaus Stat-New >Verbesserung 
-坦噶尼喀 坦噶尼喀 [tan3 ga2 ni2 ka1] /Tanganjika (Tansania und Insel Mafia, Ostafrika) (Geo)/
+# 坦噶尼喀 坦噶尼喀 [tan3 ga2 ni2 ka1] /Tanganjika (Tansania und Insel Mafia, Ostafrika) (Geo)/
+# Ver 2026-10-15T12:48:14Z nikolaus Stat-New >Verbesserung 
+坦噶尼喀 坦噶尼喀 [tan3 ga2 ni2 ka1] /Tanganjika (ehen. Tansania und Insel Mafia, Ostafrika) (Geo, Gesch)/
 
 # ID-a19wu5N
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -62659,7 +62661,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2020-04-01T10:15:45Z nikolaus Stat-Verif >Verbesserung
 # 亞速爾群島 亚速尔群岛 [ya4 su4 er3 qun2 dao3] /Azoren (Eig, Geo)/
 # Ver 2022-06-14T08:52:17Z nikolaus Stat-Verif >Verbesserung 
-亞速爾群島 亚速尔群岛 [ya4 su4 er3 qun2 dao3] /Azoren (portug. Inselgruppe im Atlantik) (Geo)/
+# 亞速爾群島 亚速尔群岛 [ya4 su4 er3 qun2 dao3] /Azoren (portug. Inselgruppe im Atlantik) (Geo)/
+# Ver 2026-10-15T13:09:32Z nikolaus Stat-Verif >Verbesserung 
+亞速爾群島 亚速尔群岛 [ya4 su4 er3 qun2 dao3] /Azoren (Inselgruppe im Atlantik, Portugal) (Geo)/
 
 # ID-a87Mh8p
 # Ver 2024-10-30T16:18:19Z nikolaus Stat-New >Neu
@@ -339613,7 +339617,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 葡萄牙人 葡萄牙人 [pu2 tao2 ya2 ren2] /Portugiese, Portugiesin, Portugiesen, Einwohner von Portugal (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-葡萄牙人 葡萄牙人 [pu2 tao2 ya2 ren2] /Portugiese, Portugiesin, Portugiesen, Einwohner von Portugal (S)/
+# 葡萄牙人 葡萄牙人 [pu2 tao2 ya2 ren2] /Portugiese, Portugiesin, Portugiesen, Einwohner von Portugal (S)/
+# Ver 2026-10-15T13:03:33Z nikolaus Stat-New >Verbesserung 
+葡萄牙人 葡萄牙人 [pu2 tao2 ya2 ren2] /Portugiese, Portugiesin, Portugiesen (S, Ethn)/
 
 # ID-e80Xi3r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -376279,6 +376285,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # 長陽土家族自治縣 长阳土家族自治县 [chang2 yang2 tu3 jia1 zu2 zi4 zhi4 xian4] /Autonomer Kreis Changyang der Tujia (Provinz Hubei, China) (u.E.) (Eig, Geo)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 長陽土家族自治縣 长阳土家族自治县 [chang2 yang2 tu3 jia1 zu2 zi4 zhi4 xian4] /Autonomer Kreis Changyang der Tujia (Provinz Hubei, China) (Eig, Geo)/
+
+# ID-f31ZY6Q
+# Ver 2026-10-15T15:27:45Z nikolaus Stat-New >Neu
+阿連特茹大區 阿连特茹大区 [a1 lian2 te4 ru2 da4 qu1] /Alentejo (Region in Portugal) (Geo)/
 
 # ID-f32ae1q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -489834,6 +489844,10 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # 聖約翰堡 圣约翰堡 [sheng4 yue1 han4 bao3] /São João Baptista d'Adjuda (Gesch)/
 # Ver 2023-11-03T18:42:44Z nikolaus Stat-New >Verbesserung 
 聖約翰堡 圣约翰堡 [sheng4 yue1 han4 bao3] /São João Baptista d'Adjuda (ehem. portug. Kolonialgebiet in Afrika) (Geo, Gesch)/
+
+# ID-g90YM9p
+# Ver 2026-10-15T13:10:32Z nikolaus Stat-New >Neu
+亞速爾群 亚速尔群 [ya4 su4 er3 qun2] /Azoren (Region in Portugal) (Geo)/
 
 # ID-g90YN6y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -888702,6 +888716,10 @@ LG集團 LG集团 [L G ji2 tuan2] /L.G. Mart Co. Ltd. (Org, Wirtsch)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 菌膜 菌膜 [jun1 mo2] /Hülle (S)/
 
+# ID-m54sz9R
+# Ver 2026-10-15T12:55:05Z nikolaus Stat-New >Neu
+莫羅戈羅 莫罗戈罗 [mo4 luo1 ge1 luo1] /Morogoro (Stadt in Tansania) (Geo)/
+
 # ID-m54tp8M
 # Ver 2023-09-11T20:02:35Z nikolaus Stat-New >Neu
 基茨比厄爾 基茨比厄尔 [ji1 ci2 bi3 e4 er3] /Kitzbühel (Stadt in Österreich) (Geo)/
@@ -963305,6 +963323,10 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # 鍵盤操作時間 键盘操作时间 [jian4 pan2 cao1 zuo4 shi2 jian1] /Erfassungsaufwand (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 鍵盤操作時間 键盘操作时间 [jian4 pan2 cao1 zuo4 shi2 jian1] /Erfassungsaufwand (S)/
+
+# ID-n59kC3X
+# Ver 2026-10-15T12:52:24Z nikolaus Stat-New >Neu
+馬菲亞島 马菲亚岛 [ma3 fei3 ya4 dao3] /Mafia (Insel im Indischen Ozean, Tansania) (Geo)/
 
 # ID-n59kM0A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
