@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-16T02:30:01Z
+# Datenstand: 2026-10-17T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -263489,7 +263489,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 卡紙 卡纸 [ka3 zhi3] /Pappe, Karton (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-卡紙 卡纸 [ka3 zhi3] /Pappe, Karton (S)/
+# 卡紙 卡纸 [ka3 zhi3] /Pappe, Karton (S)/
+# Ver 2026-10-16T07:11:00Z nikolaus Stat-New >Verbesserung 
+卡紙 卡纸 [ka3 zhi3] /Karton (S, Druckw)/Pappe, Pappendeckel (S, Druckw)/
 
 # ID-d74sA9f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -690286,7 +690288,9 @@ R剋 R克 [R ke4] /Ronnagramm (Symbol Rg, Gewichtseinheit) (S, Phys)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 倒下 倒下 [dao3 xia4] /zusammenbrechen, hinfallen (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-倒下 倒下 [dao3 xia4] /zusammenbrechen, hinfallen (V)/
+# 倒下 倒下 [dao3 xia4] /zusammenbrechen, hinfallen (V)/
+# Ver 2026-10-16T15:22:03Z nikolaus Stat-New >Verbesserung 
+倒下 倒下 [dao3 xia4] /zusammenbrechen, zusammensacken (V)/hinfallen (V)/
 
 # ID-j71Gc1n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -844021,7 +844025,9 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 紙板 纸板 [zhi3 ban3] /Karton (u.E.) (S)/Pappe (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-紙板 纸板 [zhi3 ban3] /Karton (S)/Pappe (S)/
+# 紙板 纸板 [zhi3 ban3] /Karton (S)/Pappe (S)/
+# Ver 2026-10-16T07:09:55Z nikolaus Stat-New >Verbesserung 
+紙板 纸板 [zhi3 ban3] /Karton (S, Druckw)/Pappe, Pappendeckel (S, Druckw)/
 
 # ID-l89Go1Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
