@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-17T02:30:01Z
+# Datenstand: 2026-10-18T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -189047,7 +189047,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 愛羅斯阿茲海默 爱罗斯阿兹海默 [ai4 luo2 si1 a1 zi1 hai3 mo4] /Alois Alzheimer < Arzt, Mediziner &gt (u.E.) (Eig, Pers, 1864 - 1915)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-愛羅斯阿茲海默 爱罗斯阿兹海默 [ai4 luo2 si1 a1 zi1 hai3 mo4] /Alois Alzheimer (Arzt, Mediziner) (Eig, Pers, 1864 - 1915)/
+# 愛羅斯阿茲海默 爱罗斯阿兹海默 [ai4 luo2 si1 a1 zi1 hai3 mo4] /Alois Alzheimer (Arzt, Mediziner) (Eig, Pers, 1864 - 1915)/
+# Ver 2026-10-17T14:15:36Z nikolaus Stat-New >Verbesserung 
+愛羅斯阿茲海默 爱罗斯阿兹海默 [ai4 luo2 si1 a1 zi1 hai3 mo4] /Alois Alzheimer (dt. Mediziner, Psychiater) (Eig, Pers, 1864-1915)/
 
 # ID-c68Cf1h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -466497,6 +466499,10 @@ IC卡 IC卡 [I C ka3] /Chipkarte (S)/
 # 一千七百五十八 一千七百五十八 [yi1 qian1 qi1 bai3 wu3 shi2 ba1] /1758 (tausendsiebenhundertachtundfünfzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 一千七百五十八 一千七百五十八 [yi1 qian1 qi1 bai3 wu3 shi2 ba1] /1758 (tausendsiebenhundertachtundfünfzig)/
+
+# ID-g58qQ6N
+# Ver 2026-10-17T13:10:35Z nikolaus Stat-New >Geo
+奧萊什基 奥莱什基 [ao4 lai2 shen2 ji1] /Oleschky (Stadt in der Ukraine) (Geo)/
 
 # ID-g58rG4i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
