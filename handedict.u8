@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-20T02:30:01Z
+# Datenstand: 2026-10-21T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -16303,7 +16303,9 @@ PC機 PC机 [P C ji1] /PC (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 中國人民革命軍事博物館 中国人民革命军事博物馆 [zhong1 guo2 ren2 min2 ge2 ming4 jun1 shi4 bo2 wu4 guan3] /Militärmuseum Beijing (u.E.) (Mil)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-中國人民革命軍事博物館 中国人民革命军事博物馆 [zhong1 guo2 ren2 min2 ge2 ming4 jun1 shi4 bo2 wu4 guan3] /Militärmuseum Beijing (Mil)/
+# 中國人民革命軍事博物館 中国人民革命军事博物馆 [zhong1 guo2 ren2 min2 ge2 ming4 jun1 shi4 bo2 wu4 guan3] /Militärmuseum Beijing (Mil)/
+# Ver 2026-10-20T09:56:26Z nikolaus Stat-New >Verbesserung 
+中國人民革命軍事博物館 中国人民革命军事博物馆 [zhong1 guo2 ren2 min2 ge2 ming4 jun1 shi4 bo2 wu4 guan3] /Militärmuseum Beijing (S, Mil)/
 
 # ID-a22Ib6K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -32855,6 +32857,10 @@ BB式滾筒結構 BB式滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 麗江市 丽江市 [li4 jiang1 shi4] /Lijiang (Stadt in der Provinz Yunnan, China) (Eig, Geo)/
 
+# ID-a45Jp3q
+# Ver 2026-10-20T08:25:19Z nikolaus Stat-New >Neu
+加布森 加布森 [jia1 bu4 sen1] /Garbsen (Stadt in Deutschland) (Geo)/
+
 # ID-a45Jy2L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 夏邑 夏邑 [xia4 yi4] /Xiayi (Ort in Henan) (u.E.) (Eig, Geo)/
@@ -38653,7 +38659,9 @@ xy平面 xy平面 [xy ping2 mian4] /xy-Ebene (S, Math)/
 
 # ID-a53KE8M
 # Ver 2022-12-19T22:39:17Z nikolaus Stat-New >Neu 
-佩加蒙博物館 佩加蒙博物馆 [pei4 jia1 meng2 bo2 wu4 guan3] /Pergamon Museum (Berlin) (S, Kunst)/
+# 佩加蒙博物館 佩加蒙博物馆 [pei4 jia1 meng2 bo2 wu4 guan3] /Pergamon Museum (Berlin) (S, Kunst)/
+# Ver 2026-10-20T09:59:46Z nikolaus Stat-New >Verbesserung 
+佩加蒙博物館 佩加蒙博物馆 [pei4 jia1 meng2 bo2 wu4 guan3] /Pergamonmuseum (Berlin) (S, Kunst)/
 
 # ID-a53Lh6Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -103201,6 +103209,10 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 台灣國際航電 台湾国际航电 [tai2 wan1 guo2 ji4 hang2 dian4] /Garmin (Org)/
 
+# ID-b45Wy7O
+# Ver 2026-10-20T05:34:57Z nikolaus Stat-New >Neu
+腓特烈斯多夫 腓特烈斯多夫 [fei2 te4 lie4 si1 duo1 fu1] /Friedrichsdorf (Stadt in Deutschland) (Geo)/
+
 # ID-b45Xu6L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 經濟人 经济人 [jing1 ji4 ren2] /Homo oeconomicus (u.E.) (Wirtsch)/
@@ -124699,6 +124711,10 @@ X光吸收光譜 X光吸收光谱 [X guang1 xi1 shou1 guang1 pu3] /Röntgenabsor
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 碳化 碳化 [tan4 hua4] /Gemischbildung (S)/Verkohlung (S)/
 
+# ID-b77pD4L
+# Ver 2026-10-20T08:12:19Z nikolaus Stat-New >Neu
+德紹羅斯勞 德绍罗斯劳 [de2 shao4 luo1 si1 lao2] /Dessau-Roßlau (Stadt in Deutschland) (Geo)/
+
 # ID-b77pH4H
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 # 鎹 鎹 [xx5] /(Japanese kokuji) große Metallklammer für den Zusammenhalt zweier Holzteile (S)/pr. kasugai (X)/
@@ -131444,6 +131460,10 @@ M16突擊步槍 M16突击步枪 [M 1 6 tu1 ji1 bu4 qiang1] /M16 Sturmgewehr (S, 
 # 筆相術 笔相术 [bi3 xiang1 shu4] /Grafologie (u.E.) (S)/Graphologie (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 筆相術 笔相术 [bi3 xiang1 shu4] /Grafologie (S)/Graphologie (S)/
+
+# ID-b86Jn9r
+# Ver 2026-10-20T10:11:27Z nikolaus Stat-New >Neu
+剋萊沃 克莱沃 [ke4 lai2 wo4] /Kleve (Stadt in Deutschland) (Geo)/
 
 # ID-b86JN3c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -175006,7 +175026,9 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 梵高 梵高 [fan4 gao1] /Vincent van Gogh (u.E.) (Eig, Pers)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-梵高 梵高 [fan4 gao1] /Vincent van Gogh (Eig, Pers)/
+# 梵高 梵高 [fan4 gao1] /Vincent van Gogh (Eig, Pers)/
+# Ver 2026-10-20T10:02:16Z nikolaus Stat-New >Verbesserung 
+梵高 梵高 [fan4 gao1] /van Gogh (Eig, Fam)/
 
 # ID-c48XE3z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -176398,6 +176420,10 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 迦膩色伽一世 迦腻色伽一世 [jia1 ni4 se4 ga1 yi1 shi4] /Kanishka (Eig, Pers, 58 - 31 v.Chr.)/
 
+# ID-c50TE4S
+# Ver 2026-10-20T10:31:04Z nikolaus Stat-New >Neu
+卡爾斯費爾德 卡尔斯费尔德 [ka3 er3 si1 fei4 er3 de2] /Karlsfeld (Gemeinde in Deutschland) (Geo)/
+
 # ID-c50Ut9Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鱷魚 鳄鱼 [e4 yu2] /Krokodil (u.E.) (S)/
@@ -176519,6 +176545,10 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # 經濟體制改革 经济体制改革 [jing1 ji4 ti3 zhi4 gai3 ge2] /Reform des Wirtschaftssystem (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 經濟體制改革 经济体制改革 [jing1 ji4 ti3 zhi4 gai3 ge2] /Reform des Wirtschaftssystem (S)/
+
+# ID-c51bN5m
+# Ver 2026-10-20T10:49:57Z nikolaus Stat-New >Neu
+安珀河 安珀河 [an1 po4 he2] /Amper (Fluss in Deutschland) (Geo)/
 
 # ID-c51cf5k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -183057,7 +183087,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 帕加馬博物館 帕加马博物馆 [pa4 jia1 ma3 bo2 wu4 guan3] /Pergamonmuseum (u.E.) (Eig, Gesch)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-帕加馬博物館 帕加马博物馆 [pa4 jia1 ma3 bo2 wu4 guan3] /Pergamonmuseum (Eig, Gesch)/
+# 帕加馬博物館 帕加马博物馆 [pa4 jia1 ma3 bo2 wu4 guan3] /Pergamonmuseum (Eig, Gesch)/
+# Ver 2026-10-20T09:58:43Z nikolaus Stat-New >Verbesserung 
+帕加馬博物館 帕加马博物馆 [pa4 jia1 ma3 bo2 wu4 guan3] /Pergamonmuseum (S, Gesch)/
 
 # ID-c60fL1n
 # Ver 2022-11-16T06:45:04Z nikolaus Stat-New >Neu
@@ -201566,6 +201598,10 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # 腦力創作物 脑力创作物 [nao3 li4 chuang4 zuo4 wu4] /Geistesprodukt (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 腦力創作物 脑力创作物 [nao3 li4 chuang4 zuo4 wu4] /Geistesprodukt (S)/
+
+# ID-c86FH6p
+# Ver 2026-10-20T08:40:26Z nikolaus Stat-New >Neu
+梅爾布施 梅尔布施 [mei2 er3 bu4 shi1] /Meerbusch (Stadt in Deutschland) (Geo)/
 
 # ID-c86FL5u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -271149,6 +271185,10 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2020-02-15T08:20:55Z nikolaus Stat-New >Verbesserung
 鶊 鶊 [geng1] /Pirol (S, Zool)/
 
+# ID-d84Ep0a
+# Ver 2026-10-20T08:19:29Z nikolaus Stat-New >Neu
+貝格海姆 贝格海姆 [bei4 ge2 hai3 mu3] /Bergheim (Stadt in Deutschland) (Geo)/
+
 # ID-d84Ez8d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 硯 砚 [yan4] /Tuschstein (auf dem die Tusche angerieben wird) (u.E.) (S)/Yan (u.E.) (Eig, Fam)/
@@ -276524,7 +276564,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 文森特梵高 文森特梵高 [wen2 sen1 te4 fan4 gao1] /Vincent van Gogh (u.E.) (Eig, Pers, 1853 - 1890)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-文森特梵高 文森特梵高 [wen2 sen1 te4 fan4 gao1] /Vincent van Gogh (Eig, Pers, 1853 - 1890)/
+# 文森特梵高 文森特梵高 [wen2 sen1 te4 fan4 gao1] /Vincent van Gogh (Eig, Pers, 1853 - 1890)/
+# Ver 2026-10-20T10:01:52Z nikolaus Stat-New >Verbesserung 
+文森特梵高 文森特梵高 [wen2 sen1 te4 fan4 gao1] /Vincent van Gogh (niederl. Maler) (Eig, Pers, 1853-1890)/
 
 # ID-d91YN7K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -279749,6 +279791,10 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # ID-d96xj1s
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 麭 麭 [pao4] /Gebäck, Kuchen (S, Ess)/
+
+# ID-d96xM8E
+# Ver 2026-10-20T10:29:01Z nikolaus Stat-New >Neu
+高廷 高廷 [gao1 ting2] /Gauting (Gemeinde in Deutschland) (Geo)/
 
 # ID-d96ya1j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -304538,6 +304584,10 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # 冏 冏 [jiong3] /Schönmalve (Abutilon avicennae) (eine Pflanze der Jute-Familie) (S, Bio)/hell (Adj)/
 # Ver 2025-04-23T19:07:28Z nikolaus Stat-Verif >Verbesserung 
 冏 冏 [jiong3] /Schönmalve (lat: Abutilon avicennae) (eine Pflanze der Jute-Familie) (S, Bot)/hell (Adj)/
+
+# ID-e31qU4I
+# Ver 2026-10-20T05:36:46Z nikolaus Stat-New >Neu
+大烏姆施塔特 大乌姆施塔特 [da4 wu1 mu3 shi1 ta3 te4] /Groß-Umstadt (Stadt in Deutschland) (Geo)/
 
 # ID-e31qV2I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -346347,6 +346397,14 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2020-06-23T06:57:06Z nikolaus Stat-New >Verbesserung 
 出口率 出口率 [chu1 kou3 lü4] /Exportanteil (S, Wirtsch)/
 
+# ID-e90jA3u
+# Ver 2026-10-20T08:18:02Z nikolaus Stat-New >Neu
+# 格雷文布羅赫 格雷文布罗赫 [ge2 lei2 wen2 bu4 luo1 he4] /Grevenbroich (Stadt in Deutschland) (Geo)///
+# Ver 2026-10-20T08:30:47Z nikolaus Stat-New >Verbesserung
+# 格雷文布羅赫 格雷文布罗赫 [ge2 lei2 wen2 bu4 luo1 he4] /Grevenbroich (Stadt in Deutschland) (Geo)/Grevenbroich (Stadt in Deutschland) (Geo)/
+# Ver 2026-10-20T08:31:14Z nikolaus Stat-New >Nochmal
+格雷文布羅赫 格雷文布罗赫 [ge2 lei2 wen2 bu4 luo1 he4] /Grevenbroich (Stadt in Deutschland) (Geo)/
+
 # ID-e90lI2l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 克倫 克伦 [ke4 lun2] /Keren (Stadt in Eritrea) (u.E.) (Eig, Geo)/
@@ -355850,6 +355908,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # 平頂女帽 平顶女帽 [ping2 ding3 nü3 mao4] /Postillion (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 平頂女帽 平顶女帽 [ping2 ding3 nü3 mao4] /Postillion (S)/
+
+# ID-f03vz2u
+# Ver 2026-10-20T05:31:50Z nikolaus Stat-New >Neu
+默費爾登瓦爾多夫 默费尔登瓦尔多夫 [mo4 fei4 er3 deng1 wa3 er3 duo1 fu1] /Mörfelden-Walldorf (Stadt in Deutschland) (Geo)/
 
 # ID-f03vM7m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -383943,6 +384005,10 @@ V形皮帶傳動 V形皮带传动 [V xing2 pi2 dai4 chuan2 dong4] /Keilriemenant
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 四百四十四 四百四十四 [si4 bai3 si4 shi2 si4] /444 (vierhundertvierundvierzig)/
 
+# ID-f42RI6m
+# Ver 2026-10-20T08:16:13Z nikolaus Stat-New >Neu
+凱爾彭 凯尔彭 [kai3 er3 peng2] /Kerpen (Stadt in Deutschland) (Geo)/
+
 # ID-f42Sc6F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 磁盤的格式化 磁盘的格式化 [ci2 pan2 de5 ge2 shi4 hua4] /Formatierung der Datenträger  (u.E.) (S)/
@@ -389219,6 +389285,10 @@ V形皮帶傳動 V形皮带传动 [V xing2 pi2 dai4 chuan2 dong4] /Keilriemenant
 # 吊扇 吊扇 [diao4 shan4] /Deckenventilator (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 吊扇 吊扇 [diao4 shan4] /Deckenventilator (S)/
+
+# ID-f50DZ4v
+# Ver 2026-10-20T10:32:15Z nikolaus Stat-New >Neu
+奧爾興 奥尔兴 [ao4 er3 xing4] /Olching (Stadt in Deutschland) (Geo)/
 
 # ID-f50Ea4X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -415913,7 +415983,9 @@ IC扁平管座 IC扁平管座 [I C bian3 ping2 guan3 zuo4] /IC-Flachfassung (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 凡高博物館 凡高博物馆 [fan2 gao1 bo2 wu4 guan3] /Van Gogh Museum (u.E.) (Kunst)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-凡高博物館 凡高博物馆 [fan2 gao1 bo2 wu4 guan3] /Van Gogh Museum (Kunst)/
+# 凡高博物館 凡高博物馆 [fan2 gao1 bo2 wu4 guan3] /Van Gogh Museum (Kunst)/
+# Ver 2026-10-20T10:00:28Z nikolaus Stat-New >Verbesserung 
+凡高博物館 凡高博物馆 [fan2 gao1 bo2 wu4 guan3] /Van Gogh Museum (S, Kunst)/
 
 # ID-f88fY4O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -447706,6 +447778,10 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 長期貸款 长期贷款 [chang2 qi1 dai4 kuan3] /langfristiges Geld (S)/
 
+# ID-g32FS5s
+# Ver 2026-10-20T08:35:33Z nikolaus Stat-New >Neu
+施托爾貝格 施托尔贝格 [shi1 tuo1 er3 bei4 ge2] /Stolberg (Stadt in Deutschland) (Geo)/
+
 # ID-g32FW4P
 # Ver 2022-11-24T09:06:17Z nikolaus Stat-New >Neu mathematik
 容許解 容许解 [rong2 xu3 jie3] /zulässige Lösung (S, Math)/
@@ -455136,6 +455212,10 @@ H型印刷機組 H型印刷机组 [H xing2 yin4 shua4 ji1 zu3] /H-Druckwerk (S, 
 # 茂 茂 [mao4] /reich und prachvoll (Adj)/wuchernd (Adj)/üppig, reichlich, prächtig (Adj)/
 # Ver 2025-01-12T16:41:20Z nikolaus Stat-New >Rechtschreibefehler
 茂 茂 [mao4] /reich, prachtvoll (Adj)/wuchernd (Adj)/üppig, reichlich, prächtig (Adj)/
+
+# ID-g42PC7O
+# Ver 2026-10-20T10:09:24Z nikolaus Stat-New >Neu
+希爾登 希尔登 [xi1 er3 deng1] /Hilden (Stadt in Deutschland) (Geo)/
 
 # ID-g42Qb8q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -485693,6 +485773,10 @@ CAS編號 CAS编号 [C A S bian1 hao4] /CAS-Nummer (S, Chem)/Chemical Abstract S
 # Ver 2021-05-02T08:55:55Z nikolaus Stat-New >Neu
 弗爾剋林根 弗尔克林根 [fu2 er3 ke4 lin2 gen1] /Völklingen (Stadt in Deutschland) (Geo)/
 
+# ID-g85bg7o
+# Ver 2026-10-20T08:20:48Z nikolaus Stat-New >Neu
+許爾特 许尔特 [xu3 er3 te4] /Hürth (Stadt in Deutschland) (Geo)/
+
 # ID-g85bo3Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 會變化 会变化 [hui4 bian4 hua4] /ohne Gewähr (u.E.)/
@@ -506171,6 +506255,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2023-11-18T07:46:22Z nikolaus Stat-New >Wortart 
 偏方 偏方 [pian1 fang1] /Geheimrezept, Wundermittel (S)/
 
+# ID-h13JE7R
+# Ver 2026-10-20T08:13:38Z nikolaus Stat-New >Neu
+多斯滕 多斯滕 [duo1 si1 teng2] /Dorsten (Stadt in Deutschland) (Geo)/
+
 # ID-h13JG1b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 帕子 帕子 [pa4 zi5] /Kopftuch (u.E.) (S)/
@@ -522571,6 +522659,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # 洛克希德事件 洛克希德事件 [luo4 ke4 xi1 de2 shi4 jian4] /Lockheed-Skandal (u.E.) (S, Pol)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 洛克希德事件 洛克希德事件 [luo4 ke4 xi1 de2 shi4 jian4] /Lockheed-Skandal (S, Pol)/
+
+# ID-h37pY8d
+# Ver 2026-10-20T08:08:06Z nikolaus Stat-New >Neu
+費爾伯特 费尔伯特 [fei4 er3 bo2 te4] /Velbert (Stadt in Deutschland) (Geo)/
 
 # ID-h37qj7u
 # Ver 2023-10-19T13:31:36Z BiGF00T Stat-New >Kunstwort aus Hollywood and Palestina für gestellte palestinensische Propagandaaufnamen
@@ -539768,6 +539860,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 商業機構 商业机构 [shang1 ye4 ji1 gou4] /Handelseinrichtung (S)/Handelsorgan (S)/kommerzielle Einrichtung (S)/
 
+# ID-h61jK4d
+# Ver 2026-10-20T08:38:42Z nikolaus Stat-New >Neu
+魏布林根 魏布林根 [wei4 bu4 lin2 gen1] /Waiblingen (Stadt in Deutschland) (Geo)/
+
 # ID-h61kq3f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 下旅客 下旅客 [xia4 lü3 ke4] /Absetzen von Fluggästen (u.E.) (S)/
@@ -549854,6 +549950,10 @@ IC扁平管座 IC扁平管座 [I C bian3 ping2 guan3 zuo4] /IC-Flachfassung (S)/
 # Ver 2023-12-25T17:21:37Z nikolaus Stat-New >Verbesserung 
 幽谷 幽谷 [you1 gu3] /stilles Tal (S, Geo)/
 
+# ID-h75zw6c
+# Ver 2026-10-20T05:39:29Z nikolaus Stat-New >Neu
+烏辛根 乌辛根 [wu1 xin1 gen1] /Usingen (Stadt in Deutschland) (Geo)/
+
 # ID-h75zH0M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 歐洲專利局 欧洲专利局 [ou1 zhou1 zhuan1 li4 ju2] /Europäische Patentorganisation (EPO, english: European Patent Office) (S, Pol)/
@@ -551097,6 +551197,10 @@ SIM卡 SIM卡 [S I M ka3] /SIM-Karte (Lehnwort) (S, EDV)/
 # 窮困 穷困 [qiong2 kun4] /Armseligkeit (u.E.) (S)/Bedürftigkeit (u.E.) (S)/Bedrängnis (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 窮困 穷困 [qiong2 kun4] /Armseligkeit (S)/Bedürftigkeit (S)/Bedrängnis (S)/
+
+# ID-h77tj0b
+# Ver 2026-10-20T10:25:00Z nikolaus Stat-New >Neu
+蓋默靈 盖默灵 [gai4 mo4 ling2] /Germering (Stadt in Deutschland) (Geo)/
 
 # ID-h77tu6d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -553327,6 +553431,10 @@ SIM卡 SIM卡 [S I M ka3] /SIM-Karte (Lehnwort) (S, EDV)/
 # 退休金支付機構 退休金支付机构 [tui4 xiu1 jin1 zhi1 fu4 ji1 gou4] /Rentenkasse (u.E.) (S, Org)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 退休金支付機構 退休金支付机构 [tui4 xiu1 jin1 zhi1 fu4 ji1 gou4] /Rentenkasse (S, Org)/
+
+# ID-h80jb8d
+# Ver 2026-10-20T10:48:31Z nikolaus Stat-New >Neu
+盧薩蒂亞尼斯河 卢萨蒂亚尼斯河 [lu2 sa4 di4 ya4 ni2 si1 he2] /Lausitzer Neiße (Fluss in Europa) (Geo)/
 
 # ID-h80jq5r
 # Ver 2026-02-22T16:34:56Z nikolaus Stat-New >Neu
@@ -626710,6 +626818,10 @@ X線診斷學 X线诊断学 [X xian4 zhen3 duan4 xue2] /Röntgendiagnostik (S, M
 # Ver 2023-11-21T12:55:46Z nikolaus Stat-New >Wortart 
 中選 中选 [zhong4 xuan3] /gewählt sein (V), die Wahl fällt auf (Redew)/
 
+# ID-i83vh5B
+# Ver 2026-10-20T10:12:43Z nikolaus Stat-New >Neu
+哈廷根 哈廷根 [ha1 ting2 gen1] /Hattingen (Stadt in Deutschland) (Geo)/
+
 # ID-i83vq3h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 博爾頓足球俱樂部 博尔顿足球俱乐部 [bo2 er3 dun4 zu2 qiu2 ju4 le4 bu4] /Bolton Wanderers F.C. (u.E.)/
@@ -647762,6 +647874,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 安地卡島 安地卡岛 [an1 di4 ka3 dao3] /Antigua/
 # Ver 2021-10-28T12:14:34Z nikolaus Stat-New >Verbesserung 
 安地卡島 安地卡岛 [an1 di4 ka3 dao3] /Antigua (Insel in der Karibik) (Geo)/
+
+# ID-j13eU0E
+# Ver 2026-10-20T10:18:00Z nikolaus Stat-New >Neu
+特勞恩羅伊特 特劳恩罗伊特 [te4 lao2 en1 luo1 yi1 te4] /Traunreut (Stadt in Deutschland) (Geo)/
 
 # ID-j13fl8N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -671550,6 +671666,10 @@ BB式印刷機組 BB式印刷机组 [B B shi4 yin4 shua4 ji1 zu3] /Gummi-gegen�
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 爌 爌 [huang3] /alte Variante von 晃[huang3] (X)/hell, leuchtend (Adj)/
 
+# ID-j45Kj3f
+# Ver 2026-10-20T05:25:44Z nikolaus Stat-New >Neu
+上烏瑟爾 上乌瑟尔 [shang4 wu1 se4 er3] /Oberursel (Stadt in Deutschland) (Geo)/
+
 # ID-j45KC5p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 暗管 暗管 [an4 guan3] /unterirdisches Rohr (u.E.)/
@@ -674897,6 +675017,10 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # 暗指 暗指 [an4 zhi3] /anspielen auf (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 暗指 暗指 [an4 zhi3] /anspielen auf (V)/
+
+# ID-j50Bv0i
+# Ver 2026-10-20T10:16:20Z nikolaus Stat-New >Neu
+多瑙沃特 多瑙沃特 [duo1 nao3 wo4 te4] /Donauwörth (Stadt in Deutschland) (Geo)/
 
 # ID-j50Bx1L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -683377,6 +683501,10 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # 女帽匠 女帽匠 [nü3 mao4 jiang4] /Hutmacher (u.E.) (S)/Hutmacherin (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 女帽匠 女帽匠 [nü3 mao4 jiang4] /Hutmacher (S)/Hutmacherin (S)/
+
+# ID-j62bZ0T
+# Ver 2026-10-20T10:43:26Z nikolaus Stat-New >Neu
+埃爾德河 埃尔德河 [ai1 er3 de2 he2] /Elde (Fluss in Deutschland) (Geo)/
 
 # ID-j62cw1H
 # Ver 2022-02-27T19:02:34Z nikolaus Stat-New >Neu
@@ -708845,6 +708973,10 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # Ver 2022-05-04T21:27:21Z nikolaus Stat-New >Verbesserung 
 後趙 后赵 [hou4 zhao4] /Spätere Zhao (eine sinisierte Xiongnu-Dynastie) (Eig, Gesch)/
 
+# ID-j98vJ6m
+# Ver 2026-10-20T08:14:59Z nikolaus Stat-New >Neu
+利普施塔特 利普施塔特 [li4 pu3 shi1 ta3 te4] /Lippstadt (Stadt in Deutschland) (Geo)/
+
 # ID-j98vK9g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 螵 螵 [piao1] /Schmetterlingspuppe (u.E.)/
@@ -717548,6 +717680,10 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # 水牛城辣雞翅 水牛城辣鸡翅 [shui3 niu2 cheng2 la4 ji1 chi4] /scharf gewürzte, frittierte Hähnchenflügel (S, Ess)/
 # Ver 2020-11-09T14:51:32Z nikolaus Stat-New >verbesserung
 水牛城辣雞翅 水牛城辣鸡翅 [shui3 niu2 cheng2 la4 ji1 chi4] /scharf gewürzte und frittierte Hähnchenflügel (S, Ess)/
+
+# ID-k10tH2C
+# Ver 2026-10-20T05:27:05Z nikolaus Stat-New >Neu
+黑森州朗根 黑森州朗根 [hei1 sen1 zhou1 lang3 gen1] /Langen (Stadt in Deutschland) (Geo)/
 
 # ID-k10wt7x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -771385,6 +771521,10 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # 證券投機商 证券投机商 [zheng4 quan4 tou2 ji1 shang1] /Börsenspekulant (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 證券投機商 证券投机商 [zheng4 quan4 tou2 ji1 shang1] /Börsenspekulant (S)/
+
+# ID-k87ph2d
+# Ver 2026-10-20T10:45:02Z nikolaus Stat-New >Neu
+魏瑟埃爾斯特河 魏瑟埃尔斯特河 [wei4 se4 ai1 er3 si1 te4 he2] /Weiße Elster (Fluss in Deutschland) (Geo)/
 
 # ID-k87qJ2n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -825273,6 +825413,10 @@ ISDN接口 ISDN接口 [I S D N e1 kou3] /ISDN-Schnittstelle, ISDN-Buchse, ISDN-A
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 國家安全部 国家安全部 [guo2 jia1 an1 quan2 ju2] /Ministerium für Staatliche Sicherheit (S)/
 
+# ID-l63kD3F
+# Ver 2026-10-20T08:33:52Z nikolaus Stat-New >Neu
+朗根費爾德 朗根费尔德 [lang3 gen1 fei4 er3 de2] /Langenfeld (Stadt in Deutschland) (Geo)/
+
 # ID-l63lY1o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 收入減少 收入减少 [shou1 ru4 jian3 shao3] /Einkommensausfall (u.E.) (S, Wirtsch)/
@@ -858458,6 +858602,10 @@ DAX指數 DAX指数 [D A X zhi3 shu4] /DAX (S)/Deutsche Aktienindex (S, Wirtsch)
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 鋼管 钢管 [gang1 guan3] /Stahlrohr (S)/
 
+# ID-m10nr0Y
+# Ver 2026-10-20T05:28:19Z nikolaus Stat-New >Neu
+新伊森堡 新伊森堡 [xin1 yi1 sen1 bao3] /Neu-Isenburg (Stadt in Deutschland) (Geo)/
+
 # ID-m10ns4F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 制模 制模 [zhi4 mo2] /Ausprägung (u.E.) (S)/
@@ -861972,7 +862120,9 @@ DAX指數 DAX指数 [D A X zhi3 shu4] /DAX (S)/Deutsche Aktienindex (S, Wirtsch)
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 柏林猶太博物館 柏林犹太博物馆 [bo2 lin2 you2 tai4 bo2 wu4 guan3] /Jüdisches Museum Berlin (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-柏林猶太博物館 柏林犹太博物馆 [bo2 lin2 you2 tai4 bo2 wu4 guan3] /Jüdisches Museum Berlin (Eig)/
+# 柏林猶太博物館 柏林犹太博物馆 [bo2 lin2 you2 tai4 bo2 wu4 guan3] /Jüdisches Museum Berlin (Eig)/
+# Ver 2026-10-20T09:55:18Z nikolaus Stat-New >Verbesserung 
+柏林猶太博物館 柏林犹太博物馆 [bo2 lin2 you2 tai4 bo2 wu4 guan3] /Jüdisches Museum Berlin (S)/
 
 # ID-m15yA7C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -880113,6 +880263,10 @@ EP油脂 EP油脂 [E P you2 zhi1] /EP-Fett (EP extreme pressure) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 八千八百 八千八百 [ba1 qian1 ba1 bai3] /8800 (achttausendachthundert)/
 
+# ID-m41uY4p
+# Ver 2026-10-20T08:27:26Z nikolaus Stat-New >Neu
+奧伊斯基興 奥伊斯基兴 [ao4 yi1 si1 ji1 xing4] /Euskirchen (Stadt in Deutschland) (Geo)/
+
 # ID-m41vl8L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 情緒化 情绪化 [qing2 xu4 hua4] /gefühlsmäßig (u.E.) (Adj)/
@@ -882235,6 +882389,10 @@ EP油脂 EP油脂 [E P you2 zhi1] /EP-Fett (EP extreme pressure) (S)/
 # 家庭用品 家庭用品 [jia1 ting2 yong4 pin3] /Haushaltswaren (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 家庭用品 家庭用品 [jia1 ting2 yong4 pin3] /Haushaltswaren (S)/
+
+# ID-m44Yi8D
+# Ver 2026-10-20T05:29:42Z nikolaus Stat-New >Neu
+迪岑巴赫 迪岑巴赫 [di2 cen2 ba1 he4] /Dietzenbach (Stadt in Deutschland) (Geo)/
 
 # ID-m44YW3y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -887025,6 +887183,10 @@ EP油脂 EP油脂 [E P you2 zhi1] /EP-Fett (EP extreme pressure) (S)/
 # 除了‥以外 除了‥以外 [chu2 le5 ‥ yi3 wai4] /außer, abgesehen von/
 # Ver 2020-07-04T07:42:42Z nikolaus Stat-New >Verbesserung 
 除了‥以外 除了‥以外 [chu2 le5 ‥ yi3 wai4] /außer (P), abgesehen von (P)/
+
+# ID-m51Xf6W
+# Ver 2026-10-20T08:23:27Z nikolaus Stat-New >Neu
+黑爾滕 黑尔滕 [hei1 er3 teng2] /Herten (Stadt in Deutschland) (Geo)/
 
 # ID-m51Xu7T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -912883,6 +913045,10 @@ B小調 B小调 [B xiao3 diao4] /H-Moll (S, Mus)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 劉半農 刘半农 [liu2 ban4 nong2] /Liu Bannong (Pers)/
 
+# ID-m88HD3i
+# Ver 2026-10-20T10:22:54Z nikolaus Stat-New >Neu
+奧托布倫 奥托布伦 [ao4 tuo1 bu4 lun2] /Ottobrunn (Gemeinde in Deutschland) (Geo)/
+
 # ID-m88HU2g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 漢堡王 汉堡王 [han4 bao3 wang2] /Burger King (u.E.) (Org)/
@@ -917743,6 +917909,10 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # Ver 2025-12-21T08:21:41Z nikolaus Stat-New >Verbesserung
 拳擊手 拳击手 [quan2 ji1 shou3] /Boxer (S, Sport)/
 
+# ID-m95te3C
+# Ver 2026-10-20T10:38:04Z nikolaus Stat-New >Neu
+加米施帕滕基興 加米施帕滕基兴 [jia1 mi3 shi1 pa4 teng2 ji1 xing4] /Garmisch-Partenkirchen (Stadt in Deutschland) (Geo)///
+
 # ID-m95tS8f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 大猩猩 大猩猩 [da4 xing1 xing1] /Gorilla (u.E.) (S, Bio)/
@@ -919794,6 +919964,10 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # 獲勝 获胜 [hou4 sheng4] /gewinnen, triumphieren, siegreich sein (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 獲勝 获胜 [hou4 sheng4] /gewinnen, triumphieren, siegreich sein (V)/
+
+# ID-m98nz8h
+# Ver 2026-10-20T05:33:12Z nikolaus Stat-New >Neu
+陶努斯施泰因 陶努斯施泰因 [tao2 nu3 si1 shi1 tai4 yin1] /Taunusstein (Stadt in Deutschland) (Geo)/
 
 # ID-m98nA7V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -924996,6 +925170,10 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # 嚴肅地 严肃地 [yan2 su4 de5] /gesetzt/ruhig/
 # Ver 2023-03-12T12:48:15Z nikolaus Stat-Verif >Wortart 
 嚴肅地 严肃地 [yan2 su4 de5] /gesetzt (Adj)/ruhig (Adj)/
+
+# ID-n05xA9N
+# Ver 2026-10-20T08:41:54Z nikolaus Stat-New >Neu
+埃姆斯河畔林根 埃姆斯河畔林根 [ai1 mu3 si1 he2 pan4 lin2 gen1] /Lingen (Stadt in Deutschland) (Geo)/
 
 # ID-n05xJ6S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -931312,7 +931490,9 @@ DVD播放機 DVD播放机 [D V D bo1 fang4 ji1] /DVD-Player, DVD-Spieler (S, Tec
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 聖奧古斯丁 圣奥古斯丁 [sheng4 ao4 gu3 si1 ding1] /Augustinus von Hippo (Eig, Pers, 354 - 430)/
 # Ver 2024-08-29T15:30:11Z nikolaus Stat-New >Verbesserung 
-聖奧古斯丁 圣奥古斯丁 [sheng4 ao4 gu3 si1 ding1] /Augustinus von Hippo (röm. Bischof und Kirchenlehrer) (Eig, Pers, 354-430)/
+# 聖奧古斯丁 圣奥古斯丁 [sheng4 ao4 gu3 si1 ding1] /Augustinus von Hippo (röm. Bischof und Kirchenlehrer) (Eig, Pers, 354-430)/
+# Ver 2026-10-20T08:43:53Z nikolaus Stat-New >Verbesserung
+聖奧古斯丁 圣奥古斯丁 [sheng4 ao4 gu3 si1 ding1] /Augustinus von Hippo (röm. Bischof und Kirchenlehrer) (Eig, Pers, 354-430)/Sankt Augustin (Stadt in Deutschland) (Geo)/
 
 # ID-n14Vq8k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -933749,6 +933929,10 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # 退 退 [tui4] /zurückgeben, zurücktreten (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 退 退 [tui4] /zurückgeben, zurücktreten (V)/
+
+# ID-n18mY2U
+# Ver 2026-10-20T08:10:33Z nikolaus Stat-New >Neu
+格拉德貝剋 格拉德贝克 [ge2 la1 de2 bei4 ke4] /Gladbeck (Stadt in Deutschland) (Geo)/
 
 # ID-n18nj6T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -980110,6 +980294,10 @@ X光檢查 X光检查 [X guang1 jian3 cha2] /Durchleuchtung (S)/röntgen (V)/
 # Ver 2025-06-04T16:46:05Z nikolaus Stat-New >Verbesserung 
 古西伯利亞語言 古西伯利亚语言 [gu3 xi1 bo2 li4 ya4 yu3 yan2] /Paläosibirische Sprachen (S, Sprachw)/
 
+# ID-n82uq9W
+# Ver 2026-10-20T08:22:14Z nikolaus Stat-New >Neu
+辛德爾芬根 辛德尔芬根 [xin1 de2 er3 fen1 gen1] /Sindelfingen (Stadt in Deutschland) (Geo)/
+
 # ID-n82uE4n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 普克區 普克区 [pu3 ke4 qu1] /Kreis Durrës (u.E.)/
@@ -983702,7 +983890,9 @@ DA匯流排閉合 DA汇流排闭合 [D A hui4 liu2 pai2 bi4 he2] /DA-Schiene ges
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 東京國立博物館 东京国立博物馆 [dong1 jing1 guo2 li4 bo2 wu4 guan3] /Nationalmuseum Tokyo (u.E.) (Kunst)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-東京國立博物館 东京国立博物馆 [dong1 jing1 guo2 li4 bo2 wu4 guan3] /Nationalmuseum Tokyo (Kunst)/
+# 東京國立博物館 东京国立博物馆 [dong1 jing1 guo2 li4 bo2 wu4 guan3] /Nationalmuseum Tokyo (Kunst)/
+# Ver 2026-10-20T09:57:19Z nikolaus Stat-New >Verbesserung 
+東京國立博物館 东京国立博物馆 [dong1 jing1 guo2 li4 bo2 wu4 guan3] /Nationalmuseum Tokyo (S, Kunst)/
 
 # ID-n87rC5i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1020118,7 +1020308,9 @@ DNA檢驗 DNA检验 [D N A jian3 yan4] /Gentest (S, Bio)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 哈爾 哈尔 [ha1 er3] /HAL (aus Arthur C. Clarkes 2001: Odyssee im Weltraum) (u.E.) (Eig, Lit)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-哈爾 哈尔 [ha1 er3] /HAL (aus Arthur C. Clarkes 2001: Odyssee im Weltraum) (Eig, Lit)/
+# 哈爾 哈尔 [ha1 er3] /HAL (aus Arthur C. Clarkes 2001: Odyssee im Weltraum) (Eig, Lit)/
+# Ver 2026-10-20T10:20:26Z nikolaus Stat-New >Erweiterung
+哈爾 哈尔 [ha1 er3] /Haar (Stadt in Deutschland) (Geo)/HAL (aus Arthur C. Clarkes 2001: Odyssee im Weltraum) (Eig, Lit)/
 
 # ID-o39UT6S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1023426,6 +1023618,10 @@ DNA檢驗 DNA检验 [D N A jian3 yan4] /Gentest (S, Bio)/
 # 烏賊 乌贼 [wu1 zei2] /Tintenfische/
 # Ver 2020-03-28T15:34:22Z nikolaus Stat-New >Verbesserung
 烏賊 乌贼 [wu1 zei2] /Tintenfisch (S, Zool)/
+
+# ID-o44OH6V
+# Ver 2026-10-20T10:34:01Z nikolaus Stat-New >Neu
+柯尼希斯布倫 柯尼希斯布伦 [ke1 ni2 xi1 si1 bu4 lun2] /Königsbrunn (Stadt in Deutschland) (Geo)/
 
 # ID-o44OS7z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -1037872,6 +1038068,10 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # 有毒资产 有毒资产 [you3 du2 zi1 chan3] /toxische Bankpapiere (u.E.) (S, Wirtsch)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 有毒资产 有毒资产 [you3 du2 zi1 chan3] /toxische Bankpapiere (S, Wirtsch)/
+
+# ID-o64Ep0m
+# Ver 2026-10-20T08:45:38Z nikolaus Stat-New >Neu
+普爾海姆 普尔海姆 [pu3 er3 hai3 mu3] /Pulheim (Stadt in Deutschland) (Geo)/
 
 # ID-o64Ew1x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1064206,6 +1064406,10 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # 樋口一葉 樋口一叶 [tong1 kou3 yi1 ye4] /Higuchi Ichiyo (u.E.) (Eig, Pers, 1872 - 1896)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 樋口一葉 樋口一叶 [tong1 kou3 yi1 ye4] /Higuchi Ichiyo (Eig, Pers, 1872 - 1896)/
+
+# ID-p02NG2L
+# Ver 2026-10-20T08:37:06Z nikolaus Stat-New >Neu
+埃施韋勒 埃施韦勒 [ai1 shi1 wei2 lei1] /Eschweiler (Stadt in Deutschland) (Geo)/
 
 # ID-p02NH2U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
