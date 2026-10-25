@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-24T02:30:01Z
+# Datenstand: 2026-10-25T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -132199,7 +132199,9 @@ IT人才 IT人才 [I T ren2 cai2] /IT-Personal (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 欲望主婦 欲望主妇 [yu4 wang4 zhu3 fu4] /Desperate Housewives (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-欲望主婦 欲望主妇 [yu4 wang4 zhu3 fu4] /Desperate Housewives (Eig)/
+# 欲望主婦 欲望主妇 [yu4 wang4 zhu3 fu4] /Desperate Housewives (Eig)/
+# Ver 2026-10-24T15:25:45Z nikolaus Stat-New >Verbesserung 
+欲望主婦 欲望主妇 [yu4 wang4 zhu3 fu4] /Desperate Housewives (TV-Serie) (Fillm)/
 
 # ID-b87Jz7U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -142905,7 +142907,9 @@ MP5衝鋒槍 MP5冲锋枪 [M P 5 chong1 feng1 qiang1] /HK MP5 (Maschinengewehr) 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 非常人販 非常人贩 [fei1 chang2 ren2 fan4] /The Transporter < Filmtitel &gt (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-非常人販 非常人贩 [fei1 chang2 ren2 fan4] /The Transporter (Filmtitel) (Eig)/
+# 非常人販 非常人贩 [fei1 chang2 ren2 fan4] /The Transporter (Filmtitel) (Eig)/
+# Ver 2026-10-24T16:11:14Z nikolaus Stat-New >Verbesserung 
+非常人販 非常人贩 [fei1 chang2 ren2 fan4] /The Transporter (Filmtitel) (Film)/
 
 # ID-c03DT4A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -159437,6 +159441,10 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # Ver 2021-05-13T07:59:22Z nikolaus Stat-New >Verbesserung
 千人呤萬人唱 千人呤万人唱 [qian1 ren2 ling2 wan4 ren2 chang4] /Von tausenden gesprochen, von zehntausenden gesungen (oftmals rezitiert) (Sprichw)/
 
+# ID-c26SA5X
+# Ver 2026-10-24T08:20:56Z nikolaus Stat-New >Neu
+魏厄 魏厄 [wei4 e4] /Weyhe (Gemeinde in Deutschland) (Geo)/
+
 # ID-c26SB2A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 泰蘭 泰兰 [tai4 lan2] /Tellin (u.E.) (Geo)/
@@ -166185,6 +166193,10 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # 臟器 脏器 [zang4 qi4] /innere Organe (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 臟器 脏器 [zang4 qi4] /innere Organe (S)/
+
+# ID-c36nv3o
+# Ver 2026-10-24T06:29:05Z nikolaus Stat-New >Neu
+施皮爾貝格 施皮尔贝格 [shi1 pi2 er3 bei4 ge2] /Spielberg (Stadt in Österreich) (Geo)/
 
 # ID-c36nV2M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -187149,6 +187161,10 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 發改委 发改委 [fa1 gai3 wei3] /Entwicklungs- und Reformkommission (S, Pol)/
 
+# ID-c65MN2t
+# Ver 2026-10-24T08:25:24Z nikolaus Stat-New >Neu
+剋羅伊茨塔爾 克罗伊茨塔尔 [ke4 luo1 yi1 ci2 ta3 er3] /Kreuztal (Stadt in Deutschland) (Geo)/
+
 # ID-c65NU9q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 九千二百六十二 九千二百六十二 [jiu3 qian1 er4 bai3 liu4 shi2 er4] /9262 (neuntausendzweihundertzweiundsechzig) (u.E.)/
@@ -206647,6 +206663,10 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # 回電話 回电话 [hui2 dian4 hua4] /Rückruf (u.E.) (S)/jmdn. zurückrufen (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 回電話 回电话 [hui2 dian4 hua4] /Rückruf (S)/jmdn. zurückrufen (V)/
+
+# ID-c93DB1o
+# Ver 2026-10-24T08:22:59Z nikolaus Stat-New >Neu
+瓦爾斯羅德 瓦尔斯罗德 [wa3 er3 si1 luo1 de2] /Walsrode (Stadt in Deutschland) (Geo)/
 
 # ID-c93DR0X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -244389,7 +244409,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 正紅旗下 正红旗下 [zheng4 hong2 qi2 xia4] /Sperber über Peking (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-正紅旗下 正红旗下 [zheng4 hong2 qi2 xia4] /Sperber über Peking (Eig)/
+# 正紅旗下 正红旗下 [zheng4 hong2 qi2 xia4] /Sperber über Peking (Eig)/
+# Ver 2026-10-24T16:05:09Z nikolaus Stat-New >Verbesserung 
+正紅旗下 正红旗下 [zheng4 hong2 qi2 xia4] /Sperber über Peking (Roman von Lao She, 1953) (Lit, Werk)/
 
 # ID-d47fM6H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -264735,7 +264757,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 法蘭克 法兰克 [fa3 lan2 ke4] /Frankenreich (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-法蘭克 法兰克 [fa3 lan2 ke4] /Frankenreich (Eig)/
+# 法蘭克 法兰克 [fa3 lan2 ke4] /Frankenreich (Eig)/
+# Ver 2026-10-24T14:54:49Z nikolaus Stat-New >Verbesserung 
+法蘭克 法兰克 [fa3 lan2 ke4] /Frankenreich (Geo, Gesch)/
 
 # ID-d75Sg1t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -289569,7 +289593,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 大小各異 大小各异 [da4 xiao3 ge4 yi4] /verschiedener Größe (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-大小各異 大小各异 [da4 xiao3 ge4 yi4] /verschiedener Größe (Eig)/
+# 大小各異 大小各异 [da4 xiao3 ge4 yi4] /verschiedener Größe (Eig)/
+# Ver 2026-10-24T16:15:22Z nikolaus Stat-New >Verbesserung 
+大小各異 大小各异 [da4 xiao3 ge4 yi4] /verschiedener Größe (Redew)/unterschiedlich groß (Adj)/
 
 # ID-e09Wq4L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -290597,7 +290623,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 海藍星號 海蓝星号 [hai3 lan2 xing1 hao4] /Horizon (Kreuzfahrtschiff) (S)/
 # Ver 2025-10-16T08:37:43Z nikolaus Stat-New >Verbesserung
-海藍星號 海蓝星号 [hai3 lan2 xing1 hao4] /Horizon (Kreuzfahrtschiff) (Eig)/
+# 海藍星號 海蓝星号 [hai3 lan2 xing1 hao4] /Horizon (Kreuzfahrtschiff) (Eig)/
+# Ver 2026-10-24T15:33:31Z nikolaus Stat-New >Verbesserung 
+海藍星號 海蓝星号 [hai3 lan2 xing1 hao4] /Horizon (Kreuzfahrtschiff) (Eig, Naut)/
 
 # ID-e11sM8T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -306271,7 +306299,9 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 大瓜節 大瓜节 [da4 gua1 jie2] /Halloween (Fam)/
 # Ver 2022-02-16T09:36:47Z nikolaus Stat-New >Verbesserung
-大瓜節 大瓜节 [da4 gua1 jie2] /Halloween (großes Melonenfest) (Eig)/
+# 大瓜節 大瓜节 [da4 gua1 jie2] /Halloween (großes Melonenfest) (Eig)/
+# Ver 2026-10-24T15:28:37Z nikolaus Stat-New >Verbesserung 
+大瓜節 大瓜节 [da4 gua1 jie2] /Halloween (großes Melonenfest) (S)/
 
 # ID-e33CF4L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -317559,7 +317589,9 @@ X電容 X电容 [X dian4 rong2] /X-Kondensator (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 欲亂絕情妻 欲乱绝情妻 [yu4 luan4 jue2 qing2 qi1] /Desperate Housewives/
 # Ver 2020-06-22T13:18:18Z nikolaus Stat-New >Verbesserung 
-欲亂絕情妻 欲乱绝情妻 [yu4 luan4 jue2 qing2 qi1] /Desperate Housewives (S, Werk)/
+# 欲亂絕情妻 欲乱绝情妻 [yu4 luan4 jue2 qing2 qi1] /Desperate Housewives (S, Werk)/
+# Ver 2026-10-24T15:25:24Z nikolaus Stat-New >Verbesserung 
+欲亂絕情妻 欲乱绝情妻 [yu4 luan4 jue2 qing2 qi1] /Desperate Housewives (TV-Serie) (Fillm)/
 
 # ID-e49aS8c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -320879,7 +320911,9 @@ X電容 X电容 [X dian4 rong2] /X-Kondensator (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 因人而異 因人而异 [yin1 ren2 er2 yi4] /von Person zu Person verschieden (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-因人而異 因人而异 [yin1 ren2 er2 yi4] /von Person zu Person verschieden (Eig)/
+# 因人而異 因人而异 [yin1 ren2 er2 yi4] /von Person zu Person verschieden (Eig)/
+# Ver 2026-10-24T16:17:11Z nikolaus Stat-New >Verbesserung 
+因人而異 因人而异 [yin1 ren2 er2 yi4] /von Person zu Person verschieden (Redew)/
 
 # ID-e53uB5n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -342411,6 +342445,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 框架公約 框架公约 [kuang1 jia4 gong1 yue1] /Rahmenabkommen (S)/
 
+# ID-e84tQ1v
+# Ver 2026-10-24T08:27:11Z nikolaus Stat-New >Neu
+捨訥貝剋 舍讷贝克 [she3 ne4 bei4 ke4] /Schönebeck (Stadt in Deutschland) (Geo)/
+
 # ID-e84un0J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 技術要求 技术要求 [ji4 shu4 yao1 qiu2] /Ausführung (u.E.) (S)/
@@ -357689,7 +357727,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 魁梧 魁梧 [kui2 wu2] /von großer und mächtiger Gestalt (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-魁梧 魁梧 [kui2 wu2] /von großer und mächtiger Gestalt (Eig)/
+# 魁梧 魁梧 [kui2 wu2] /von großer und mächtiger Gestalt (Eig)/
+# Ver 2026-10-24T16:16:29Z nikolaus Stat-New >Verbesserung 
+魁梧 魁梧 [kui2 wu2] /von großer und mächtiger Gestalt (Redew)/
 
 # ID-f05Hl6O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -373327,6 +373367,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # 污水槽 污水槽 [wu1 shui3 cao2] /Schmutzwasserbehälter (S)/Sinkkasten (S)/
 # Ver 2025-11-22T09:37:46Z nikolaus Stat-New >Verbesserung
 污水槽 污水槽 [wu1 shui3 cao2] /Schmutzwasserbehälter (S, Tech)/Sinkkasten (S, Tech)/
+
+# ID-f27CX3j
+# Ver 2026-10-24T08:28:26Z nikolaus Stat-New >Neu
+哈恩 哈恩 [ha1 en1] /Haan (Stadt in Deutschland) (Geo)/
 
 # ID-f27DX5j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -427194,6 +427238,10 @@ ATM卡 ATM卡 [A T M ka3] /ATM Karte (S)/Bankomatkarte (Schweiz, Österr.) (S)/G
 # Ver 2023-10-22T21:41:31Z nikolaus Stat-New >Verbesserung 
 榮譽勛章 荣誉勋章 [rong2 yu4 xun1 zhang1] /Ehrenmedaille (S)/
 
+# ID-g03vQ3I
+# Ver 2026-10-24T06:53:56Z nikolaus Stat-New >Neu
+韋尼格羅德 韦尼格罗德 [wei2 ni2 ge2 luo1 de2] /Wernigerode (Stadt in Deutschland) (Geo)/
+
 # ID-g03vR0s
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 圓夢 圆梦 [yuan2 meng4] /Traumdeutung, Trauminterpretation, seinen Traum verwirklichen (u.E.)/
@@ -459329,7 +459377,9 @@ H型印刷機組 H型印刷机组 [H xing2 yin4 shua4 ji1 zu3] /H-Druckwerk (S, 
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 宮殿大桥 宮殿大橋 [gong1 dian4 da4 qiao2] /Schlossbrücke (Eig)/
 # Ver 2023-10-12T17:25:03Z nikolaus Stat-New >Falsche Zeichen
-宮殿大橋 宫殿大桥 [gong1 dian4 da4 qiao2] /Schlossbrücke (Eig)/
+# 宮殿大橋 宫殿大桥 [gong1 dian4 da4 qiao2] /Schlossbrücke (Eig)/
+# Ver 2026-10-24T16:00:52Z nikolaus Stat-New >Verbesserung 
+宮殿大橋 宫殿大桥 [gong1 dian4 da4 qiao2] /Schlossbrücke, Palastbrücke (S)/
 
 # ID-g48kR0H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -483539,7 +483589,9 @@ C大調 C大调 [C da4 diao4] /C-Dur (S, Mus)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 可拉 可拉 [ke3 la1] /Korach (u.E.) (Pers)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-可拉 可拉 [ke3 la1] /Korach (Pers)/
+# 可拉 可拉 [ke3 la1] /Korach (Pers)/
+# Ver 2026-10-24T14:24:41Z nikolaus Stat-New >Verbesserung 
+可拉 可拉 [ke3 la1] /Korach (bibl. Figur) (Eig, Rel)/
 
 # ID-g81Za1R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -485059,7 +485111,9 @@ CAS編號 CAS编号 [C A S bian1 hao4] /CAS-Nummer (S, Chem)/Chemical Abstract S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 媚必臨 媚必临 [mei4 bi4 lin2] /Maybelline (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-媚必臨 媚必临 [mei4 bi4 lin2] /Maybelline (Eig)/
+# 媚必臨 媚必临 [mei4 bi4 lin2] /Maybelline (Eig)/
+# Ver 2026-10-24T15:52:54Z nikolaus Stat-New >Verbesserung 
+媚必臨 媚必临 [mei4 bi4 lin2] /Maybelline (Wirtsch)/
 
 # ID-g83Sr6N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -541210,6 +541264,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 三等士官長 三等士官长 [san1 deng3 shi4 guan1 chang2] /Hauptfeldwebel (S, Mil)/
 
+# ID-h62Vn0Z
+# Ver 2026-10-24T10:18:08Z nikolaus Stat-New >Neu
+布裡奇曼石 布里奇曼石 [bu4 li3 qi2 man4 shi2] /Bridgmanit (Mineral) (S, Geol)/
+
 # ID-h62Vr9k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 人跡 人迹 [ren2 ji1] /menschliche Spuren (u.E.) (V)/
@@ -549995,6 +550053,10 @@ DE匯流排拉緊 DE汇流排拉紧 [D E hui4 liu2 pai2 la1 jin3] /DE-Schiene ge
 # 火車票價 火车票价 [huo3 che1 piao4 jia4] /Bahnpreis (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 火車票價 火车票价 [huo3 che1 piao4 jia4] /Bahnpreis (S)/
+
+# ID-h75os1P
+# Ver 2026-10-24T08:19:11Z nikolaus Stat-New >Neu
+布格多夫 布格多夫 [bu4 ge2 duo1 fu1] /Burgdorf (Stadt in Deutschland) (Geo)/
 
 # ID-h75oP4K
 # Ver 2020-01-12T09:30:01Z nikolaus Stat-New >Wikipedia
@@ -559172,7 +559234,9 @@ BB型捲筒紙膠印機 BB型卷筒纸胶印机 [B B xing2 juan3 tong3 zhi3 jiao
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 霸王別姬 霸王别姬 [ba4 wang2 bie2 ji1] /Lebewohl, meine Konkubine (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-霸王別姬 霸王别姬 [ba4 wang2 bie2 ji1] /Lebewohl, meine Konkubine (Eig)/
+# 霸王別姬 霸王别姬 [ba4 wang2 bie2 ji1] /Lebewohl, meine Konkubine (Eig)/
+# Ver 2026-10-24T15:35:47Z nikolaus Stat-New >Verbesserung 
+霸王別姬 霸王别姬 [ba4 wang2 bie2 ji1] /Lebewohl, meine Konkubine (Redew)/
 
 # ID-h88kS6j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -573898,7 +573962,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 麥肯錫公司 麦肯锡公司 [mai4 ken3 xi1 gong1 si1] /McKinsey & Company (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-麥肯錫公司 麦肯锡公司 [mai4 ken3 xi1 gong1 si1] /McKinsey & Company (Eig)/
+# 麥肯錫公司 麦肯锡公司 [mai4 ken3 xi1 gong1 si1] /McKinsey & Company (Eig)/
+# Ver 2026-10-24T15:54:04Z nikolaus Stat-New >Verbesserung 
+麥肯錫公司 麦肯锡公司 [mai4 ken3 xi1 gong1 si1] /McKinsey & Company (Wirtsch)/
 
 # ID-i09cD0E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -620592,7 +620658,9 @@ CD刻錄機 CD刻录机 [C D ke4 lu4 ji1] /CD-Brenner (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 薩爾達傳說 萨尔达传说 [sa4 er3 da2 chuan2 shuo1] /The Legend of Zelda (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-薩爾達傳說 萨尔达传说 [sa4 er3 da2 chuan2 shuo1] /The Legend of Zelda (Eig)/
+# 薩爾達傳說 萨尔达传说 [sa4 er3 da2 chuan2 shuo1] /The Legend of Zelda (Eig)/
+# Ver 2026-10-24T16:09:34Z nikolaus Stat-New >Verbesserung 
+薩爾達傳說 萨尔达传说 [sa4 er3 da2 chuan2 shuo1] /The Legend of Zelda (Spiel)/
 
 # ID-i74jO5E
 # Ver 2024-11-05T08:44:44Z nikolaus Stat-New >Neu 
@@ -622723,6 +622791,10 @@ CD刻錄機 CD刻录机 [C D ke4 lu4 ji1] /CD-Brenner (S, EDV)/
 # 保護器 保护器 [bao3 hu4 qi4] /Schutzeinrichtung (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 保護器 保护器 [bao3 hu4 qi4] /Schutzeinrichtung (S)/
+
+# ID-i77ly6F
+# Ver 2026-10-24T06:52:02Z nikolaus Stat-New >Neu
+代爾布呂剋 代尔布吕克 [dai4 er3 bu4 lü3 ke4] /Delbrück (Stadt in Deutschland) (Geo)/
 
 # ID-i77lU2E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -655380,6 +655452,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 剔骨 剔骨 [ti1 gu3] /ohne Knochen/
 # Ver 2024-07-10T14:55:55Z nikolaus Stat-New >Verbesserung 
 剔骨 剔骨 [ti1 gu3] /ohne Knochen (S)/ausbeinen (V) /
+
+# ID-j22Kl3X
+# Ver 2026-10-24T08:24:12Z nikolaus Stat-New >Neu
+洛馬爾 洛马尔 [luo4 ma3 er3] /Lohmar (Stadt in Deutschland) (Geo)/
 
 # ID-j22KJ8o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -722335,7 +722411,9 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 天安門 天安门 [tian1 an1 men2] /Tor des himmlischen Friedens/
 # Ver 2021-06-04T17:18:19Z nikolaus Stat-New >Verbesserung 
-天安門 天安门 [tian1 an1 men2] /Tor des himmlischen Friedens (Beijing) (Eig)/
+# 天安門 天安门 [tian1 an1 men2] /Tor des himmlischen Friedens (Beijing) (Eig)/
+# Ver 2026-10-24T16:12:34Z nikolaus Stat-New >Verbesserung 
+天安門 天安门 [tian1 an1 men2] /Tor des himmlischen Friedens (Beijing) (S, Arch)/
 
 # ID-k16yF6H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -739757,6 +739835,10 @@ DA轉換器 DA转换器 [D A zhuan3 huan4 qi4] /Digital-Analog-Wandler (S, Phys)
 # 剌 剌 [la2] /drastisch kürzen, drastisch reduzieren/
 # Ver 2021-01-23T13:39:33Z nikolaus Stat-New >Verbesserung
 剌 剌 [la2] /drastisch kürzen, drastisch reduzieren (V)/
+
+# ID-k41Xx7L
+# Ver 2026-10-24T06:50:05Z nikolaus Stat-New >Neu
+肯彭 肯彭 [ken3 peng2] /Kempen (Stadt in Deutschland) (Geo)/
 
 # ID-k41XA3A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -784096,6 +784178,10 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 放浪的 放浪的 [fang4 lang4 de5] /verführerisch (Adj)/
 
+# ID-l04ZC6e
+# Ver 2026-10-24T08:17:45Z nikolaus Stat-New >Neu
+格奧爾格斯馬林許特 格奥尔格斯马林许特 [ge2 ao4 er3 ge2 si1 ma3 lin2 xu3 te4] /Georgsmarienhütte (Stadt in Deutschland) (Geo)/
+
 # ID-l05ae7c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 英格蘭東北 英格兰东北 [ying1 ge2 lan2 dong1 bei3] /North East England (u.E.)/
@@ -793925,6 +794011,10 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # 不友好 不友好 [bu4 you3 hao3] /unfreundlich (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 不友好 不友好 [bu4 you3 hao3] /unfreundlich (Adj)/
+
+# ID-l19gq8a
+# Ver 2026-10-24T08:14:54Z nikolaus Stat-New >Neu
+甘德剋塞 甘德克塞 [gan1 de2 ke4 sai1] /Ganderkesee (Gemeinde in Deutschland) (Geo)/
 
 # ID-l19gC9c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -833660,7 +833750,9 @@ n次方根 n次方根 [n ci4 fang1 gen1] /n-te Wurzel (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 吉拉 吉拉 [ji2 la1] /Zilla (Bio)/
 # Ver 2024-08-12T08:47:39Z nikolaus Stat-New >Verbesserung 
-吉拉 吉拉 [ji2 la1] /Zilla (Filmmonster) (Eig)/
+# 吉拉 吉拉 [ji2 la1] /Zilla (Filmmonster) (Eig)/
+# Ver 2026-10-24T16:20:40Z nikolaus Stat-New >Verbesserung 
+吉拉 吉拉 [ji2 la1] /Zilla (Filmmonster) (Eig, Film)/
 
 # ID-l74kr7Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -888576,7 +888668,9 @@ CCD電荷耦合器件掃描機 CCD电荷耦合器件扫描机 [C C D dian4 he2 o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 夏德 夏德 [xia4 de2] /Friedrich Hirth (u.E.) (Pers)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-夏德 夏德 [xia4 de2] /Friedrich Hirth (Pers)/
+# 夏德 夏德 [xia4 de2] /Friedrich Hirth (Pers)/
+# Ver 2026-10-24T14:21:15Z nikolaus Stat-New >Neu
+夏德 夏德 [xia4 de2] /Friedrich Hirth (dt. Sinologe) (Eig, Pers, 1845-1927)/
 
 # ID-m53vb9E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -919917,7 +920011,9 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 奧迪A6 奥迪A6 [ao4 di2 A 6] /Audi  A6 (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-奧迪A6 奥迪A6 [ao4 di2 A 6] /Audi A6 (Eig)/
+# 奧迪A6 奥迪A6 [ao4 di2 A 6] /Audi A6 (Eig)/
+# Ver 2026-10-24T15:21:36Z nikolaus Stat-New >Verbesserung 
+奧迪A6 奥迪A6 [ao4 di2 A 6] /Audi A6 (Eig, Kfz)/
 
 # ID-m97Dg0J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -935584,6 +935680,10 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # 以工代賑 以工代帐 [yi3 gong1 dai4 zhen4] /die Rechnung mit Arbeit begleichen (u.E.) (V, Wirtsch)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 以工代賑 以工代帐 [yi3 gong1 dai4 zhen4] /die Rechnung mit Arbeit begleichen (V, Wirtsch)/
+
+# ID-n19ZO8t
+# Ver 2026-10-24T07:11:39Z nikolaus Stat-New >Neu
+腕隧道 腕隧道 [wan4 sui4 dao4] /Karpaltunnel, Karpalkanal (lat: Canalis carpi) (S, Anat)/
 
 # ID-n20bE3s
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1001415,7 +1001515,9 @@ X射線天文學 X射线天文学 [X she4 xian4 tian1 wen2 xue2] /Röntgenastron
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 絕望的主婦 绝望的主妇 [jue2 wang4 de5 zhu3 fu4] /Desperate Housewives (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-絕望的主婦 绝望的主妇 [jue2 wang4 de5 zhu3 fu4] /Desperate Housewives (S)/
+# 絕望的主婦 绝望的主妇 [jue2 wang4 de5 zhu3 fu4] /Desperate Housewives (S)/
+# Ver 2026-10-24T15:24:48Z nikolaus Stat-New >Verbesserung 
+絕望的主婦 绝望的主妇 [jue2 wang4 de5 zhu3 fu4] /Desperate Housewives (TV-Serie) (Fillm)/
 
 # ID-o12Ov5f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1047426,6 +1047528,10 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 # 聯軍 联军 [lian2 jun1] /militärische Allianz (S, Mil)/militärische Koalition (S, Mil)/Zusammenschluß der Streitkräfte (S, Mil)/Streitkräfte vereinigen, zusammenschließen (V, Mil)/
 # Ver 2021-04-01T12:11:41Z nikolaus Stat-New >Verbesserung
 聯軍 联军 [lian2 jun1] /militärische Allianz (S, Mil)/militärische Koalition (S, Mil)/Zusammenschluss der Streitkräfte (S, Mil)/Streitkräfte vereinigen, zusammenschließen (V, Mil)/
+
+# ID-o78hk2l
+# Ver 2026-10-24T08:16:35Z nikolaus Stat-New >Neu
+蓋斯特蘭 盖斯特兰 [gai4 si1 te4 lan2] /Geestland (Stadt in Deutschland) (Geo)/
 
 # ID-o78ho6i
 # Ver 2025-10-21T14:02:00Z nikolaus Stat-New >Neu
