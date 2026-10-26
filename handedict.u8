@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-25T02:30:01Z
+# Datenstand: 2026-10-26T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -3537,6 +3537,10 @@
 # 你經常坐出租車嗎 你经常坐出租车吗 [ni3 jing1 chang2 zuo4 chu1 zu1 che1 ma5] /Nimmst du dir oft ein Taxi?/
 # Ver 2023-03-18T11:06:18Z nikolaus Stat-New >Verbesserung
 你經常坐出租車嗎 你经常坐出租车吗 [ni3 jing1 chang2 zuo4 chu1 zu1 che1 ma5] /Nimmst du dir oft ein Taxi? (Frage)/
+
+# ID-a04RA7t
+# Ver 2026-10-25T08:40:51Z nikolaus Stat-New >Neu
+鬆德斯豪森 松德斯豪森 [song1 de2 si1 hao2 sen1] /Sondershausen (Stadt in Deutschland) (Geo)/
 
 # ID-a04RF1M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -8207,7 +8211,9 @@ DNA測試 DNA测试 [D N A ce4 shi4] /DNA-Test (S, Med)/
 
 # ID-a11FK2E
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-噲 哙 [kuai4] /Hals, Rachen, Kehle, Gurgel (S)/hinunterschlucken (V)/Kuai (Eig, Fam)/
+# 噲 哙 [kuai4] /Hals, Rachen, Kehle, Gurgel (S)/hinunterschlucken (V)/Kuai (Eig, Fam)/
+# Ver 2026-10-25T13:38:47Z nikolaus Stat-Verif >Verbesserung 
+噲 哙 [kuai4] /Hals, Rachen, Kehle, Gurgel (S, Anat)/hinunterschlucken (V)/Kuai (Eig, Fam)/
 
 # ID-a11FM0w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -31609,7 +31615,9 @@ BB式滾筒結構 BB式滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2020-11-09T17:12:38Z nikolaus Stat-New >Verbesserung
 # 溝 沟 [gou1] /einhundert Quintillionen (100.000.000.000.000.000.000.000.000.000.000,10^32) (Num)/Rille (S)/Schützengraben (S)/Senke (S)/flackern, aushöhlen (V)/
 # Ver 2021-11-20T17:16:51Z nikolaus Stat-New >Verbesserung 
-溝 沟 [gou1] /einhundert Quintillionen (100.000.000.000.000.000.000.000.000.000.000,10^32) (Num)/Rille (S)/Schützengraben (S, Mil)/Senke (S)/flackern, aushöhlen (V)/
+# 溝 沟 [gou1] /einhundert Quintillionen (100.000.000.000.000.000.000.000.000.000.000,10^32) (Num)/Rille (S)/Schützengraben (S, Mil)/Senke (S)/flackern, aushöhlen (V)/
+# Ver 2026-10-25T13:43:56Z nikolaus Stat-New >Erweiterung
+溝 沟 [gou1] /einhundert Quintillionen (100.000.000.000.000.000.000.000.000.000.000,10^32) (Num)/Rille (S)/Kehlung (S, Tech)/Schützengraben (S, Mil)/Senke, Graben (S)/flackern, aushöhlen (V)/
 
 # ID-a43Qo8j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -53826,7 +53834,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 
 # ID-a75kg8x
 # Ver 2025-04-26T14:01:11Z nikolaus Stat-New >Neu 
-比倫 比伦 [bi3 lun2] /Billund (Stadt in Dänemark) (Geo)/
+# 比倫 比伦 [bi3 lun2] /Billund (Stadt in Dänemark) (Geo)/
+# Ver 2026-10-25T08:47:47Z nikolaus Stat-New >Erweiterung
+比倫 比伦 [bi3 lun2] /Billund (Stadt in Dänemark) (Geo)/Büren (Stadt in Deutschland) (Geo)/
 
 # ID-a75kB1l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -132201,7 +132211,9 @@ IT人才 IT人才 [I T ren2 cai2] /IT-Personal (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 欲望主婦 欲望主妇 [yu4 wang4 zhu3 fu4] /Desperate Housewives (Eig)/
 # Ver 2026-10-24T15:25:45Z nikolaus Stat-New >Verbesserung 
-欲望主婦 欲望主妇 [yu4 wang4 zhu3 fu4] /Desperate Housewives (TV-Serie) (Fillm)/
+# 欲望主婦 欲望主妇 [yu4 wang4 zhu3 fu4] /Desperate Housewives (TV-Serie) (Fillm)/
+# Ver 2026-10-25T07:22:15Z nikolaus Stat-New >Fehler
+欲望主婦 欲望主妇 [yu4 wang4 zhu3 fu4] /Desperate Housewives (TV-Serie) (Film)/
 
 # ID-b87Jz7U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -147945,7 +147957,9 @@ SVD狙擊步槍 SVD狙击步枪 [S V D ju1 ji1 bu4 qiang1] /Dragunov (Mil)/SVD D
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 嗓子 嗓子 [sang3 zi5] /Gicht, Ventilbohrungskehle (S)/Kehle, Rachen/
 # Ver 2021-12-12T10:56:56Z nikolaus Stat-New >Verbesserung
-嗓子 嗓子 [sang3 zi5] /Gicht, Ventilbohrungskehle (S)/Kehle, Rachen (S)/
+# 嗓子 嗓子 [sang3 zi5] /Gicht, Ventilbohrungskehle (S)/Kehle, Rachen (S)/
+# Ver 2026-10-25T13:37:12Z nikolaus Stat-New >Verbesserung 
+嗓子 嗓子 [sang3 zi5] /Gicht, Ventilbohrungskehle (S)/Kehle, Rachen (S, Anat)/
 
 # ID-c10PI1B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -223025,6 +223039,10 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 五千一百二十八 五千一百二十八 [wu3 qian1 yi1 bai3 er4 shi2 ba1] /5128 (fünftausendeinhundertachtundzwanzig)/
 
+# ID-d16yH5i
+# Ver 2026-10-25T13:33:56Z nikolaus Stat-New >Neu
+凱爾斯坦山 凯尔斯坦山 [kai3 er3 si1 tan3 shan1] /Kehlstein (Berggipfel in den Alpen, Deutschland) (Geo)/
+
 # ID-d16AY6W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彈劾 弹劾 [tan2 he2] /anklagen (u.E.)/Impeachment (u.E.) (Rechtsw)/Anfechtung (u.E.) (S)/Infragestellung (u.E.) (S)/
@@ -254724,6 +254742,10 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # 京 京 [jing1] /Hauptstadt (S)/zehn Billiarden (10000000000000000, 10^16) (Num)/Jing (Eig, Fam)/
 # Ver 2021-03-15T16:31:44Z yxonsozomber Stat-New >Verbesserung/Ergänzung
 京 京 [jing1] /Hauptstadt (S, Geo, Pol)/zehn Billiarden (10.000.000.000.000.000, 10^16) (Num)/Jing (Eig, Fam)/
+
+# ID-d61ma6A
+# Ver 2026-10-25T08:42:08Z nikolaus Stat-New >Neu
+維爾夫拉特 维尔夫拉特 [wei2 er3 fu1 la1 te4] /Wülfrath (Stadt in Deutschland) (Geo)/
 
 # ID-d61mD3u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -296978,6 +297000,10 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2026-04-21T10:11:27Z nikolaus Stat-New >Verbesserung
 木芙蓉 木芙蓉 [mu4 fu2 rong2] /Mandeleibisch, Mandelhibiskus (lat: Hibiscus mutabilis) (S, Bot)/
 
+# ID-e20rL8N
+# Ver 2026-10-25T08:49:11Z nikolaus Stat-New >Neu
+紹爾滕斯 绍尔滕斯 [shao4 er3 teng2 si1] /Schortens (Stadt in Deutschland) (Geo)/
+
 # ID-e20rV4C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 倒鉤球 倒钩球 [dao4 gou1 qiu2] /Fallrückzieher (u.E.) (S, Sport)/Scherenschlag (u.E.) (S, Sport)/
@@ -317591,7 +317617,9 @@ X電容 X电容 [X dian4 rong2] /X-Kondensator (S, Tech)/
 # Ver 2020-06-22T13:18:18Z nikolaus Stat-New >Verbesserung 
 # 欲亂絕情妻 欲乱绝情妻 [yu4 luan4 jue2 qing2 qi1] /Desperate Housewives (S, Werk)/
 # Ver 2026-10-24T15:25:24Z nikolaus Stat-New >Verbesserung 
-欲亂絕情妻 欲乱绝情妻 [yu4 luan4 jue2 qing2 qi1] /Desperate Housewives (TV-Serie) (Fillm)/
+# 欲亂絕情妻 欲乱绝情妻 [yu4 luan4 jue2 qing2 qi1] /Desperate Housewives (TV-Serie) (Fillm)/
+# Ver 2026-10-25T07:22:28Z nikolaus Stat-New >Fehler
+欲亂絕情妻 欲乱绝情妻 [yu4 luan4 jue2 qing2 qi1] /Desperate Housewives (TV-Serie) (Film)/
 
 # ID-e49aS8c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -324388,6 +324416,10 @@ X電容 X电容 [X dian4 rong2] /X-Kondensator (S, Tech)/
 # ID-e58ru0b
 # Ver 2024-08-06T14:35:41Z nikolaus Stat-New >Neu
 材料硬度 材料硬度 [cai2 liao4 ying4 du4] /Materialhärte (S, Phys)/
+
+# ID-e58rB4k
+# Ver 2026-10-25T08:33:55Z nikolaus Stat-New >Neu
+瓦赫特貝格 瓦赫特贝格 [wa3 he4 te4 bei4 ge2] /Wachtberg (Gemeinde in Deutschland) (Geo)/
 
 # ID-e58rL6d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -345701,6 +345733,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 空白的磁帶 空白的磁带 [kong4 bai2 de5 ci2 dai4] /Leerkassette (S)/
 
+# ID-e89cR7p
+# Ver 2026-10-25T08:44:58Z nikolaus Stat-New >Neu
+施普倫貝格 施普伦贝格 [shi1 pu3 lun2 bei4 ge2] /Spremberg (Stadt in Deutschland) (Geo)/
+
 # ID-e89di6u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 普通 普通 [pu3 tong1] /allgemein, durchschnittlich, generell, gewöhnlich (u.E.)/
@@ -350759,7 +350795,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 
 # ID-e95NG1V
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-吭 吭 [hang2] /Gurgel, Hals, Kehle, Rachen (S)/
+# 吭 吭 [hang2] /Gurgel, Hals, Kehle, Rachen (S)/
+# Ver 2026-10-25T13:58:30Z nikolaus Stat-Verif >Verbesserung 
+吭 吭 [hang2] /Gurgel, Hals, Kehle, Rachen (S, Anat)/
 
 # ID-e95NS2K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -359425,7 +359463,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2023-12-25T09:44:13Z nikolaus Stat-New >Rechtschreibfehler 
 # 穨 穨 [tui2] /dekadent, ruinös (Adj)/Dekadenz, Niedetgang (S, Soz)/Kehlkopf (S)/
 # Ver 2024-09-15T17:24:40Z nikolaus Stat-New >Rechtschreibfehler 
-穨 穨 [tui2] /dekadent, ruinös (Adj)/Dekadenz, Niedergang (S, Soz)/Kehlkopf (S)/
+# 穨 穨 [tui2] /dekadent, ruinös (Adj)/Dekadenz, Niedergang (S, Soz)/Kehlkopf (S)/
+# Ver 2026-10-25T13:52:51Z nikolaus Stat-New >Verbesserung 
+穨 穨 [tui2] /dekadent, ruinös (Adj)/Dekadenz, Niedergang (S, Soz)/zerfallen, zusammenbrechen, abnehmen, verfallen (V)/niedergeschlagen, entmutigt, kahlköpfig (Adj)/
 
 # ID-f08sg4d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -371487,6 +371527,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # 小鯡魚捲 小鲱鱼卷 [xiao3 fei4 yu2 juan3] /Heringsröllchen, Heringshäppchen (u.E.) (S, Ess)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 小鯡魚捲 小鲱鱼卷 [xiao3 fei4 yu2 juan3] /Heringsröllchen, Heringshäppchen (S, Ess)/
+
+# ID-f25bC3T
+# Ver 2026-10-25T14:30:26Z nikolaus Stat-New >Neu
+韋特勞 韦特劳 [wei2 te4 lao2] /Wetterau (Region in Deutschland) (Geo)/
 
 # ID-f25bE5X
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -387166,7 +387210,9 @@ V形皮帶傳動 V形皮带传动 [V xing2 pi2 dai4 chuan2 dong4] /Keilriemenant
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 喉嚨 喉咙 [hou2 long5] /Kehle, Gurgel, Schlund (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-喉嚨 喉咙 [hou2 long5] /Kehle, Gurgel, Schlund (S)/
+# 喉嚨 喉咙 [hou2 long5] /Kehle, Gurgel, Schlund (S)/
+# Ver 2026-10-25T13:36:42Z nikolaus Stat-New >Verbesserung 
+喉嚨 喉咙 [hou2 long5] /Kehle, Gurgel, Schlund (S, Anat)/
 
 # ID-f47jV6C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -435155,6 +435201,10 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # 打瞌睡 打瞌睡 [da3 ke1 shui4] /einnicken, ein Nickerchen machen/
 # Ver 2020-06-21T19:22:40Z nikolaus Stat-New >Verbesserung 
 打瞌睡 打瞌睡 [da3 ke1 shui4] /einnicken, ein Nickerchen machen (V)/
+
+# ID-g13Lb2x
+# Ver 2026-10-25T08:46:18Z nikolaus Stat-New >Neu
+巴特瓦爾德塞 巴特瓦尔德塞 [ba1 te4 wa3 er3 de2 sai1] /Bad Waldsee (Stadt in Deutschland) (Geo)/
 
 # ID-g13Ln3D
 # Ver 2026-06-06T15:19:56Z nikolaus Stat-New >Neu
@@ -531310,6 +531360,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2022-04-08T15:43:21Z nikolaus Stat-New >Wortart
 跑步 跑步 [pao3 bu4] /joggen, laufen (V, Sport); Bsp.: 我每天在公園里跑步。 我每天在公园里跑步。 -- Ich jogge jeden Tag im Park./im Laufschritt marschieren (V); Bsp.: 跑步走！ 跑步走！ -- Im Laufschritt, marsch!; Bsp.: 跑步前進！ 跑步前进！ -- Im Eilschritt!/
 
+# ID-h49bP1t
+# Ver 2026-10-25T08:35:34Z nikolaus Stat-New >Neu
+施泰因哈根 施泰因哈根 [shi1 tai4 yin1 ha1 gen1] /Steinhagen (Gemeinde in Deutschland) (Geo)/
+
 # ID-h49dx7K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 皮輥 皮辊 [pi2 gun3] /Druckwalze (Textil) (u.E.) (S, Tech)/
@@ -604197,6 +604251,10 @@ X射線譜學 X射线谱学 [X she4 xian4 pu3 xue2] /Röntgenspektroskopie (S, P
 # Ver 2020-11-08T13:33:43Z nikolaus Stat-New >Verbesserung 
 拍岸 拍岸 [pai1 an4] /gegen das Ufer schlagen (V)/
 
+# ID-i50NJ6x
+# Ver 2026-10-25T08:32:06Z nikolaus Stat-New >Neu
+瓦倫 瓦伦 [wa3 lun2] /Waren (Stadt in Deutschland) (Geo)/
+
 # ID-i50NL0E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 聞到 闻到 [wen2 dao4] /(ein Hund hat etw. ) gewittert (u.E.) (V)/etw. gerochen (u.E.) (V)/
@@ -620019,6 +620077,10 @@ CD刻錄機 CD刻录机 [C D ke4 lu4 ji1] /CD-Brenner (S, EDV)/
 # 陰莖套 阴茎套 [yin1 jing1 tao4] /Präservativ (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 陰莖套 阴茎套 [yin1 jing1 tao4] /Präservativ (S)/
+
+# ID-i73jJ7r
+# Ver 2026-10-25T08:43:40Z nikolaus Stat-New >Neu
+施塔特洛恩 施塔特洛恩 [shi1 ta3 te4 luo4 en1] /Stadtlohn (Stadt in Deutschland) (Geo)/
 
 # ID-i73ka9G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -636830,6 +636892,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 每小時 每小时 [mei3 xiao3 shi2] /stündlich, jede Stunde (Adv)/
 # Ver 2020-07-10T14:18:19Z nikolaus Stat-Verif >Verbesserung 
 每小時 每小时 [mei3 xiao3 shi2] /stündlich (Adj), jede Stunde (S)/
+
+# ID-i97aT4b
+# Ver 2026-10-25T14:27:57Z nikolaus Stat-New >Neu
+魯爾河畔韋特 鲁尔河畔韦特 [lu3 er3 he2 pan4 wei2 te4] /Wetter (Stadt in Deutschland) (Geo)/
 
 # ID-i97bj0M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -722521,7 +722587,9 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # Ver 2017-12-02T11:41:08Z msp Stat-New >Ergänzungen
 # 一般 一般 [yi4 ban1] /gleich; ebenso; Bsp.: 他們倆一般高。 他们俩一般高。 -- Sie sind gleich groß./allgemein; gewöhnlich; Bsp.: 一般規律 一般规律 -- allgemeines Gesetz; Bsp.: 一般情況 一般情况 -- normale Umstände; Bsp.: 一般說來 一般说来 -- allgemein gesagt; Bsp.: 我一般七點起床。 我一般七点起床。 -- Gewöhnlich stehe ich um sieben Uhr auf./
 # Ver 2020-07-15T21:36:05Z nikolaus Stat-New >Verbesserung 
-一般 一般 [yi4 ban1] /gleich; ebenso (Adv); Bsp.: 他們倆一般高。 他们俩一般高。 -- Sie sind gleich groß./allgemein; gewöhnlich (Adj); Bsp.: 一般規律 一般规律 -- allgemeines Gesetz; Bsp.: 一般情況 一般情况 -- normale Umstände; Bsp.: 一般說來 一般说来 -- allgemein gesagt; Bsp.: 我一般七點起床。 我一般七点起床。 -- Gewöhnlich stehe ich um sieben Uhr auf./
+# 一般 一般 [yi4 ban1] /gleich; ebenso (Adv); Bsp.: 他們倆一般高。 他们俩一般高。 -- Sie sind gleich groß./allgemein; gewöhnlich (Adj); Bsp.: 一般規律 一般规律 -- allgemeines Gesetz; Bsp.: 一般情況 一般情况 -- normale Umstände; Bsp.: 一般說來 一般说来 -- allgemein gesagt; Bsp.: 我一般七點起床。 我一般七点起床。 -- Gewöhnlich stehe ich um sieben Uhr auf./
+# Ver 2026-10-25T20:03:32Z daniel Stat-New >Aussprache
+一般 一般 [yi1 ban1] /gleich; ebenso (Adv); Bsp.: 他們倆一般高。 他们俩一般高。 -- Sie sind gleich groß./allgemein; gewöhnlich (Adj); Bsp.: 一般規律 一般规律 -- allgemeines Gesetz; Bsp.: 一般情況 一般情况 -- normale Umstände; Bsp.: 一般說來 一般说来 -- allgemein gesagt; Bsp.: 我一般七點起床。 我一般七点起床。 -- Gewöhnlich stehe ich um sieben Uhr auf./
 
 # ID-k16EK1d
 # Ver 2023-02-08T15:58:19Z nikolaus Stat-New >Neu
@@ -773326,6 +773394,10 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 兩口子 两口子 [liang3 kou3 zi5] /Ehegatten (S)/
 
+# ID-k89xi1H
+# Ver 2026-10-25T11:25:55Z nikolaus Stat-New >Neu
+巨細胞 巨细胞 [ju4 xi4 bao1] /Reiseziele (S, Bio)/
+
 # ID-k89xk5K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 辨色 辨色 [bian4 se4] /Farben unterscheiden (u.E.) (S)/
@@ -775704,7 +775776,9 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 嗓門兒 嗓门儿 [sang3 men2 er1] /Kehlkopf (S)/
 # Ver 2020-11-01T23:09:39Z eingu Stat-New >pinyin
-嗓門兒 嗓门儿 [sang3 men2 r5] /Kehlkopf (S)/
+# 嗓門兒 嗓门儿 [sang3 men2 r5] /Kehlkopf (S)/
+# Ver 2026-10-25T13:48:42Z nikolaus Stat-New >Verbesserung 
+嗓門兒 嗓门儿 [sang3 men2 r5] /Stimme, Kehle (S)/
 
 # ID-k92Rp3b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -822691,6 +822765,10 @@ ISDN接口 ISDN接口 [I S D N e1 kou3] /ISDN-Schnittstelle, ISDN-Buchse, ISDN-A
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 搗碎化紙漿 捣碎化纸浆 [dao3 sui4 hua4 zhi3 jiang1] /einstampfen (Papier, Bücher) (V, Wirtsch)/
 
+# ID-l58UV2I
+# Ver 2026-10-25T08:38:29Z nikolaus Stat-New >Neu
+奧赫特魯普 奥赫特鲁普 [ao4 he4 te4 lu3 pu3] /Ochtrup (Stadt in Deutschland) (Geo)/
+
 # ID-l58Ve3x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 向秀 向秀 [xiang4 xiu4] /Xiang Xiu (u.E.) (Eig, Pers,  - 275)/
@@ -850722,6 +850800,10 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 # Ver 2022-03-05T13:14:22Z nikolaus Stat-New >Verbesserung
 希臘諸神譜系 希腊诸神谱系 [xi1 la4 zhu1 shen2 pu3 xi4] /Stammbaum der griechischen Götter (S, Myth)/
 
+# ID-l98fz1x
+# Ver 2026-10-25T14:32:11Z nikolaus Stat-New >Neu
+厄爾德 厄尔德 [e4 er3 de2] /Oelde (Stadt in Deutschland) (Geo)/
+
 # ID-l98fJ9h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 牙粉 牙粉 [ya2 fen3] /Zahnpaste (u.E.) (S)/
@@ -851511,6 +851593,10 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 # 不能解決問題 不能解决问题 [bu4 neng2 jie3 jue2 wen4 ti2] /ungenügend/
 # Ver 2023-10-23T08:23:36Z nikolaus Stat-New >Verbesserung 
 不能解決問題 不能解决问题 [bu4 neng2 jie3 jue2 wen4 ti2] /ungenügend (Adj)/
+
+# ID-l99jJ6S
+# Ver 2026-10-25T08:39:46Z nikolaus Stat-New >Neu
+恩格 恩格 [en1 ge2] /Enger (Stadt in Deutschland) (Geo)/
 
 # ID-l99jM5Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -923939,6 +924025,10 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # Ver 2024-03-16T10:01:01Z nikolaus Stat-New >Verbesserung 
 抑制不住 抑制不住 [yi4 zhi4 bu4 zhu4] /unlöschbar (Adj)/
 
+# ID-n02ZQ4j
+# Ver 2026-10-25T08:37:13Z nikolaus Stat-New >Neu
+諾因基興塞爾沙伊德 诺因基兴塞尔沙伊德 [nuo4 yin1 ji1 xing4 sai1 er3 sha1 yi1 de2] /Neunkirchen-Seelscheid (Gemeinde in Deutschland) (Geo)/
+
 # ID-n02ZV6t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 碘酸銅 碘酸铜 [dian3 suan1 tong2] /Iodat (Salz der Iodsäure) (u.E.) (S, Chem)/
@@ -993926,7 +994016,9 @@ DA匯流排閉合 DA汇流排闭合 [D A hui4 liu2 pai2 bi4 he2] /DA-Schiene ges
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 喉 喉 [hou2] /Gicht, Ventilbohrungskehle (u.E.) (S)/Gurgel (u.E.) (S)/Kehle, Kehlkopf (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-喉 喉 [hou2] /Gicht, Ventilbohrungskehle (S)/Gurgel (S)/Kehle, Kehlkopf (S)/
+# 喉 喉 [hou2] /Gicht, Ventilbohrungskehle (S)/Gurgel (S)/Kehle, Kehlkopf (S)/
+# Ver 2026-10-25T13:37:48Z nikolaus Stat-New >Verbesserung 
+喉 喉 [hou2] /Gicht, Ventilbohrungskehle (S)/Gurgel (S, Anat)/Kehle, Kehlkopf (S, Anat)/
 
 # ID-o01tV0d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -997863,7 +997955,9 @@ IT系統電子工 IT系统电子工 [I T xi4 tong3 dian4 zi3 gong1] /IT-Systemel
 
 # ID-o07lt1Q
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-嚨 咙 [long2] /Gurgel, Hals, Kehle, Rachen (S)/
+# 嚨 咙 [long2] /Gurgel, Hals, Kehle, Rachen (S)/
+# Ver 2026-10-25T13:38:20Z nikolaus Stat-Verif >Verbesserung 
+嚨 咙 [long2] /Gurgel, Hals, Kehle, Rachen (S, Anat)/
 
 # ID-o07lV9J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1001517,7 +1001611,9 @@ X射線天文學 X射线天文学 [X she4 xian4 tian1 wen2 xue2] /Röntgenastron
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 絕望的主婦 绝望的主妇 [jue2 wang4 de5 zhu3 fu4] /Desperate Housewives (S)/
 # Ver 2026-10-24T15:24:48Z nikolaus Stat-New >Verbesserung 
-絕望的主婦 绝望的主妇 [jue2 wang4 de5 zhu3 fu4] /Desperate Housewives (TV-Serie) (Fillm)/
+# 絕望的主婦 绝望的主妇 [jue2 wang4 de5 zhu3 fu4] /Desperate Housewives (TV-Serie) (Fillm)/
+# Ver 2026-10-25T07:22:42Z nikolaus Stat-New >Fehler
+絕望的主婦 绝望的主妇 [jue2 wang4 de5 zhu3 fu4] /Desperate Housewives (TV-Serie) (Film)/
 
 # ID-o12Ov5f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1021393,6 +1021489,10 @@ DNA檢驗 DNA检验 [D N A jian3 yan4] /Gentest (S, Bio)/
 # 江戶川亂步 江户川乱步 [jiang1 hu4 chuan1 luan4 bu4] /Edogawa Rampo (u.E.) (Eig, Pers, 1894 - 1965)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 江戶川亂步 江户川乱步 [jiang1 hu4 chuan1 luan4 bu4] /Edogawa Rampo (Eig, Pers, 1894 - 1965)/
+
+# ID-o40Ul5v
+# Ver 2026-10-25T08:50:27Z nikolaus Stat-New >Neu
+蓋瑟剋 盖瑟克 [gai4 se4 ke4] /Geseke (Stadt in Deutschland) (Geo)/
 
 # ID-o40Ur0w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1061663,7 +1061763,9 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 唐卡 唐卡 [tang2 ka3] /Thanka (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-唐卡 唐卡 [tang2 ka3] /Thanka (Sprachw)/
+# 唐卡 唐卡 [tang2 ka3] /Thanka (Sprachw)/
+# Ver 2026-10-25T17:56:03Z nikolaus Stat-New >Verbesserung 
+唐卡 唐卡 [tang2 ka3] /Thangka (Tibet. Rollbild) (S, Buddh)/
 
 # ID-o97Ya7q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
