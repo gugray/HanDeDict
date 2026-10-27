@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-26T02:30:01Z
+# Datenstand: 2026-10-27T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5880,7 +5880,9 @@ DNA測試 DNA测试 [D N A ce4 shi4] /DNA-Test (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 哐 哐 [kuang1] /Ausspracheform der Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-哐 哐 [kuang1] /Ausspracheform der Sprache (S)/
+# 哐 哐 [kuang1] /Ausspracheform der Sprache (S)/
+# Ver 2026-10-26T08:48:02Z nikolaus Stat-New >Verbesserung 
+哐 哐 [kuang1] /Ausspracheform der Sprache (S, Sprachw)/
 
 # ID-a08sm8b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -76595,7 +76597,9 @@ ISBN國際標準書號 ISBN国际标准书号 [I S B N guo2 ji4 biao1 zhun3 shu1
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 藏語 藏语 [zang4 yu3] /Tibetische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-藏語 藏语 [zang4 yu3] /Tibetische Sprache (S)/
+# 藏語 藏语 [zang4 yu3] /Tibetische Sprache (S)/
+# Ver 2026-10-26T08:50:41Z nikolaus Stat-New >Verbesserung 
+藏語 藏语 [zang4 yu3] /Tibetische Sprache, Tibetisch (S, Sprachw)/
 
 # ID-b07Lj1G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -99969,6 +99973,10 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2022-11-03T09:36:36Z nikolaus Stat-New >Wortart
 懸掛標簽 悬挂标签 [xuan2 gua4 biao1 qian1] /Anhängeetikett (S, Druckw)/
 
+# ID-b41hH0Z
+# Ver 2026-10-26T06:32:56Z nikolaus Stat-New >Neu
+比蒂希海姆比辛根 比蒂希海姆比辛根 [bi3 di4 xi1 hai3 mu3 bi3 xin1 gen1] /Bietigheim-Bissingen (Stadt in Deutschland) (Geo)/
+
 # ID-b41hI7t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 課桌 课桌 [ke4 zhuo1] /Schulbank (u.E.) (S)/
@@ -102190,6 +102198,10 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # 九千九百五十八 九千九百五十八 [jiu3 qian1 jiu3 bai3 wu3 shi2 ba1] /9958 (neuntausendneunhundertachtundfünfzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 九千九百五十八 九千九百五十八 [jiu3 qian1 jiu3 bai3 wu3 shi2 ba1] /9958 (neuntausendneunhundertachtundfünfzig)/
+
+# ID-b44qz0E
+# Ver 2026-10-26T13:20:17Z nikolaus Stat-New >Neu
+上鹽山 上盐山 [shang4 yan2 shan1] /Obersalzberg (Ortsteil von Berchtesgaden, Deutschland) (Geo)/
 
 # ID-b44qC5v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -182649,7 +182661,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 吐火羅語族 吐火罗语族 [tu3 huo3 luo2 yu3 zu2] /Tocharische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-吐火羅語族 吐火罗语族 [tu3 huo3 luo2 yu3 zu2] /Tocharische Sprache (S)/
+# 吐火羅語族 吐火罗语族 [tu3 huo3 luo2 yu3 zu2] /Tocharische Sprache (S)/
+# Ver 2026-10-26T11:20:41Z nikolaus Stat-New >Verbesserung 
+吐火羅語族 吐火罗语族 [tu3 huo3 luo2 yu3 zu2] /Tocharische Sprache (S, Sprachw)/
 
 # ID-c59rv0N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -200908,6 +200922,10 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # 勇士們 勇士们 [yong3 shi4 men5] /Helden (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 勇士們 勇士们 [yong3 shi4 men5] /Helden (S)/
+
+# ID-c85wz3E
+# Ver 2026-10-26T06:34:11Z nikolaus Stat-New >Neu
+裡特貝格 里特贝格 [li3 te4 bei4 ge2] /Rietberg (Stadt in Deutschland) (Geo)/
 
 # ID-c85xt9C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -229476,7 +229494,9 @@ C柱 C柱 [C zhu4] /C-Säule (S, Kfz)/
 
 # ID-d26cy0T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-法文 法文 [fa3 wen2] /Französisch, französische Sprache (S)/
+# 法文 法文 [fa3 wen2] /Französisch, französische Sprache (S)/
+# Ver 2026-10-26T08:47:18Z nikolaus Stat-Verif >Verbesserung 
+法文 法文 [fa3 wen2] /Französisch, französische Sprache (S, Sprachw)/
 
 # ID-d26cC7M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -232160,7 +232180,9 @@ X射線 X射线 [X she4 xian4] /Röntgenstrahlung (English: X-Ray) (S, Phys)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 意第緒語 意第绪语 [yi4 di4 xu4 yu3] /Jiddisch (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-意第緒語 意第绪语 [yi4 di4 xu4 yu3] /Jiddisch (Sprachw)/
+# 意第緒語 意第绪语 [yi4 di4 xu4 yu3] /Jiddisch (Sprachw)/
+# Ver 2026-10-26T11:29:26Z nikolaus Stat-New >Verbesserung 
+意第緒語 意第绪语 [yi4 di4 xu4 yu3] /Jiddisch (S, Sprachw)/
 
 # ID-d29Qo2D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -235369,7 +235391,9 @@ A型沸石 A型沸石 [A xing2 fei4 shi2] /Zeolith A (S, Chem)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 錫伯語 锡伯语 [xi2 bo2 yu3] /Xibenisch (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-錫伯語 锡伯语 [xi2 bo2 yu3] /Xibenisch (Sprachw)/
+# 錫伯語 锡伯语 [xi2 bo2 yu3] /Xibenisch (Sprachw)/
+# Ver 2026-10-26T12:14:08Z nikolaus Stat-New >Verbesserung
+錫伯語 锡伯语 [xi2 bo2 yu3] /Xibenisch (S, Sprachw)/
 
 # ID-d34Ke8I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -328657,7 +328681,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 近代英語 近代英语 [jin4 dai4 ying1 yu3] /Mittelenglische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-近代英語 近代英语 [jin4 dai4 ying1 yu3] /Mittelenglische Sprache (S)/
+# 近代英語 近代英语 [jin4 dai4 ying1 yu3] /Mittelenglische Sprache (S)/
+# Ver 2026-10-26T10:44:23Z nikolaus Stat-New >Verbesserung 
+近代英語 近代英语 [jin4 dai4 ying1 yu3] /Mittelenglische Sprache (S, Sprachw)/
 
 # ID-e64nZ8J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -390360,6 +390386,10 @@ V形皮帶傳動 V形皮带传动 [V xing2 pi2 dai4 chuan2 dong4] /Keilriemenant
 # Ver 2022-01-31T10:58:12Z nikolaus Stat-New >Wortart
 軌跡 轨迹 [gui3 ji4] /Ablaufverfolgung (S)/Bahnspur, Bahn (S)/geometrischer Ort, Ortskurve (S, Math)/Musterspur (Textil) (S)/
 
+# ID-f51LP7a
+# Ver 2026-10-26T06:35:29Z nikolaus Stat-New >Neu
+溫嫩登 温嫩登 [wen1 nen4 deng1] /Winnenden (Stadt in Deutschland) (Geo)/
+
 # ID-f51MP4Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 套馬 套马 [tao4 ma3] /Pferd anspannen (u.E.)/Pferd mit dem Lasso fangen (u.E.)/
@@ -417511,7 +417541,9 @@ IC扁平管座 IC扁平管座 [I C bian3 ping2 guan3 zuo4] /IC-Flachfassung (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 爪哇語 爪哇语 [zhua3 wa1 yu3] /Javanische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-爪哇語 爪哇语 [zhua3 wa1 yu3] /Javanische Sprache (S)/
+# 爪哇語 爪哇语 [zhua3 wa1 yu3] /Javanische Sprache (S)/
+# Ver 2026-10-26T11:19:54Z nikolaus Stat-New >Verbesserung 
+爪哇語 爪哇语 [zhua3 wa1 yu3] /Javanische Sprache (S, Sprachw)/
 
 # ID-f90ay1r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -420529,7 +420561,9 @@ A計劃 A计划 [A ji4 hua4] /Der Superfighter (Film)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 澳大利亞英語 澳大利亚英语 [ao4 da4 li4 ya4 ying1 yu3] /Australisches Englisch (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-澳大利亞英語 澳大利亚英语 [ao4 da4 li4 ya4 ying1 yu3] /Australisches Englisch (Sprachw)/
+# 澳大利亞英語 澳大利亚英语 [ao4 da4 li4 ya4 ying1 yu3] /Australisches Englisch (Sprachw)/
+# Ver 2026-10-26T11:23:41Z nikolaus Stat-New >Verbesserung 
+澳大利亞英語 澳大利亚英语 [ao4 da4 li4 ya4 ying1 yu3] /Australisches Englisch (S, Sprachw)/
 
 # ID-f94on1R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -425762,7 +425796,9 @@ ATM卡 ATM卡 [A T M ka3] /ATM Karte (S)/Bankomatkarte (Schweiz, Österr.) (S)/G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 普什圖語 普什图语 [pu3 shi2 tu2 yu3] /Paschtunische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-普什圖語 普什图语 [pu3 shi2 tu2 yu3] /Paschtunische Sprache (S)/
+# 普什圖語 普什图语 [pu3 shi2 tu2 yu3] /Paschtunische Sprache (S)/
+# Ver 2026-10-26T11:08:12Z nikolaus Stat-New >Verbesserung 
+普什圖語 普什图语 [pu3 shi2 tu2 yu3] /Paschtunische Sprache, Paschtunisch (S, Sprachw)/
 
 # ID-g01hk4X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -440224,7 +440260,9 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 閩北話 闽北话 [min2 bei3 hua4] /Min Bei (chin. Dialekt/Sprache) (u.E.) (S, Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-閩北話 闽北话 [min2 bei3 hua4] /Min Bei (chin. Dialekt/Sprache) (S, Sprachw)/
+# 閩北話 闽北话 [min2 bei3 hua4] /Min Bei (chin. Dialekt/Sprache) (S, Sprachw)/
+# Ver 2026-10-26T11:16:42Z nikolaus Stat-New >Verbesserung 
+閩北話 闽北话 [min2 bei3 hua4] /Min Bei (chin. Dialekt bzw. Sprache) (S, Sprachw)/
 
 # ID-g20YC0y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -451959,7 +451997,9 @@ X射線防護 X射线防护 [X she4 xian4 fang2 hu4] /Schutz vor Röntgenstrahle
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 越南語 越南语 [yue4 nan2 yu3] /Vietnamesische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-越南語 越南语 [yue4 nan2 yu3] /Vietnamesische Sprache (S)/
+# 越南語 越南语 [yue4 nan2 yu3] /Vietnamesische Sprache (S)/
+# Ver 2026-10-26T11:10:58Z nikolaus Stat-New >Verbesserung 
+越南語 越南语 [yue4 nan2 yu3] /Vietnamesische Sprache, Vietnamesisch (S, Sprachw)/
 
 # ID-g37Tf1F
 # Ver 2022-11-12T10:59:52Z nikolaus Stat-New >Neu Mathematik
@@ -475203,7 +475243,9 @@ DNA分析 DNA分析 [D N A fen1 xi1] /DNA-Analyse (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 歐西坦語 欧西坦语 [ou1 xi1 tan3 yu3] /Okzitanische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-歐西坦語 欧西坦语 [ou1 xi1 tan3 yu3] /Okzitanische Sprache (S)/
+# 歐西坦語 欧西坦语 [ou1 xi1 tan3 yu3] /Okzitanische Sprache (S)/
+# Ver 2026-10-26T11:09:47Z nikolaus Stat-New >Verbesserung 
+歐西坦語 欧西坦语 [ou1 xi1 tan3 yu3] /Okzitanische Sprache, Okzitanisch (S, Sprachw)/
 
 # ID-g70dj0X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -486684,6 +486726,10 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # ID-g86cN4h
 # Ver 2021-12-15T00:33:23Z nikolaus Stat-New >Neu
 威爾瓦 威尔瓦 [wei1 er3 wa3] /Huelva (atlantischen Hafenstadt in Süd Spanien) (Geo)/
+
+# ID-g86dl8p
+# Ver 2026-10-26T14:43:31Z nikolaus Stat-New >Neu
+路德維希斯費爾德 路德维希斯费尔德 [lu4 de2 wei2 xi1 si1 fei4 er3 de2] /Ludwigsfelde (Stadt in Deutschland) (Geo)/
 
 # ID-g86dx6g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -501686,7 +501732,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 克羅地亞語 克罗地亚语 [ke4 luo2 di4 ya4 yu3] /Kroatische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-克羅地亞語 克罗地亚语 [ke4 luo2 di4 ya4 yu3] /Kroatische Sprache (S)/
+# 克羅地亞語 克罗地亚语 [ke4 luo2 di4 ya4 yu3] /Kroatische Sprache (S)/
+# Ver 2026-10-26T11:03:38Z nikolaus Stat-New >Verbesserung 
+克羅地亞語 克罗地亚语 [ke4 luo2 di4 ya4 yu3] /Kroatische Sprache, Kroatisch (S, Sprachw)/
 
 # ID-h06Dv0q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -502926,7 +502974,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 華嚴經 华严经 [hua2 yan2 jing1] /Avatamsaka-Sutra (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-華嚴經 华严经 [hua2 yan2 jing1] /Avatamsaka-Sutra (Sprachw)/
+# 華嚴經 华严经 [hua2 yan2 jing1] /Avatamsaka-Sutra (Sprachw)/
+# Ver 2026-10-26T08:25:30Z nikolaus Stat-New >Verbesserung
+華嚴經 华严经 [hua2 yan2 jing1] /Avatamsaka-Sutra (S, Buddh)/
 
 # ID-h08oY0r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -512619,7 +512669,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 法羅語 法罗语 [fa3 luo2 yu3] /Färöische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-法羅語 法罗语 [fa3 luo2 yu3] /Färöische Sprache (S)/
+# 法羅語 法罗语 [fa3 luo2 yu3] /Färöische Sprache (S)/
+# Ver 2026-10-26T11:05:46Z nikolaus Stat-New >Verbesserung 
+法羅語 法罗语 [fa3 luo2 yu3] /Färöische Sprache (S, Sprachw)/
 
 # ID-h22Do6z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -557950,7 +558002,9 @@ SIM卡 SIM卡 [S I M ka3] /SIM-Karte (Lehnwort) (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 西低地德語 西低地德语 [xi1 di1 di4 de2 yu3] /Niedersächsische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-西低地德語 西低地德语 [xi1 di1 di4 de2 yu3] /Niedersächsische Sprache (S)/
+# 西低地德語 西低地德语 [xi1 di1 di4 de2 yu3] /Niedersächsische Sprache (S)/
+# Ver 2026-10-26T11:04:23Z nikolaus Stat-New >Verbesserung 
+西低地德語 西低地德语 [xi1 di1 di4 de2 yu3] /Niedersächsische Sprache (S, Sprachw)/
 
 # ID-h86rP0O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -558912,7 +558966,9 @@ BB型捲筒紙膠印機 BB型卷筒纸胶印机 [B B xing2 juan3 tong3 zhi3 jiao
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 滿語 满语 [man3 yu3] /Mandschurische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-滿語 满语 [man3 yu3] /Mandschurische Sprache (S)/
+# 滿語 满语 [man3 yu3] /Mandschurische Sprache (S)/
+# Ver 2026-10-26T10:48:03Z nikolaus Stat-New >Verbesserung 
+滿語 满语 [man3 yu3] /Mandschurische Sprache (S, Sprachw)/
 
 # ID-h87MM7L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -567304,7 +567360,9 @@ BP機 BP机 [B P ji1] /Piepser (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 土庫曼語 土库曼语 [tu3 ku4 man4 yu3] /Turkmenische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-土庫曼語 土库曼语 [tu3 ku4 man4 yu3] /Turkmenische Sprache (S)/
+# 土庫曼語 土库曼语 [tu3 ku4 man4 yu3] /Turkmenische Sprache (S)/
+# Ver 2026-10-26T10:46:32Z nikolaus Stat-New >Verbesserung 
+土庫曼語 土库曼语 [tu3 ku4 man4 yu3] /Turkmenische Sprache, Turkmenisch (S, Sprachw)/
 
 # ID-h99DE1R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -578060,7 +578118,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 旁遮普語 旁遮普语 [pang2 zhe1 pu3 yu3] /Punjabi (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-旁遮普語 旁遮普语 [pang2 zhe1 pu3 yu3] /Punjabi (Sprachw)/
+# 旁遮普語 旁遮普语 [pang2 zhe1 pu3 yu3] /Punjabi (Sprachw)/
+# Ver 2026-10-26T11:58:15Z nikolaus Stat-New >Verbesserung
+旁遮普語 旁遮普语 [pang2 zhe1 pu3 yu3] /Punjabi (S, Sprachw)/
 
 # ID-i14Uv9V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -593721,7 +593781,9 @@ Y染色體 Y染色体 [Y ran3 se4 ti3] /Y-Chromosom (S, Bio)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 挪威語 挪威语 [nuo2 wei1 yu3] /Norwegische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-挪威語 挪威语 [nuo2 wei1 yu3] /Norwegische Sprache (S)/
+# 挪威語 挪威语 [nuo2 wei1 yu3] /Norwegische Sprache (S)/
+# Ver 2026-10-26T10:45:09Z nikolaus Stat-New >Verbesserung 
+挪威語 挪威语 [nuo2 wei1 yu3] /Norwegische Sprache, Norwegisch (S, Sprachw)/
 
 # ID-i36wP0U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -608623,7 +608685,9 @@ X射線譜學 X射线谱学 [X she4 xian4 pu3 xue2] /Röntgenspektroskopie (S, P
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 韓文 韩文 [han2 wen2] /Koreanische Sprache/
 # Ver 2020-08-07T21:41:20Z nikolaus Stat-New >Verbesserung 
-韓文 韩文 [han2 wen2] /Koreanische Sprache (S, Sprachw)/
+# 韓文 韩文 [han2 wen2] /Koreanische Sprache (S, Sprachw)/
+# Ver 2026-10-26T11:21:31Z nikolaus Stat-New >Verbesserung 
+韓文 韩文 [han2 wen2] /Koreanische Sprache, Koreanisch (S, Sprachw)/
 
 # ID-i56WV1u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -622160,7 +622224,9 @@ CD刻錄機 CD刻录机 [C D ke4 lu4 ji1] /CD-Brenner (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 羅馬尼亞語 罗马尼亚语 [luo2 ma3 ni2 ya4 yu3] /Rumänische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-羅馬尼亞語 罗马尼亚语 [luo2 ma3 ni2 ya4 yu3] /Rumänische Sprache (S)/
+# 羅馬尼亞語 罗马尼亚语 [luo2 ma3 ni2 ya4 yu3] /Rumänische Sprache (S)/
+# Ver 2026-10-26T10:47:25Z nikolaus Stat-New >Verbesserung 
+羅馬尼亞語 罗马尼亚语 [luo2 ma3 ni2 ya4 yu3] /Rumänische Sprache, Rumänisch (S, Sprachw)/
 
 # ID-i76iV1I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -625298,6 +625364,10 @@ X線診斷學 X线诊断学 [X xian4 zhen3 duan4 xue2] /Röntgendiagnostik (S, M
 # Ver 2021-11-18T11:06:16Z nikolaus Stat-New >Verbesserung 
 斯瓦比亞 斯瓦比亚 [si1 wa3 bi3 ya4] /schwäbisch (Adj)/Schwaben (Region in Deutschland) (Geo)/
 
+# ID-i80KA3h
+# Ver 2026-10-26T14:40:43Z nikolaus Stat-New >Neu
+韋爾 韦尔 [wei2 er3] /Werl (Stadt in Deutschland) (Geo)/
+
 # ID-i80Lq4e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 二千五百五十六 二千五百五十六 [er4 qian1 wu3 bai3 wu3 shi2 liu4] /2556 (zweitausendfünfhundertsechsundfünfzig) (u.E.)/
@@ -625556,7 +625626,9 @@ X線診斷學 X线诊断学 [X xian4 zhen3 duan4 xue2] /Röntgendiagnostik (S, M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 瓦龍語 瓦龙语 [wa3 long2 yu3] /Wallonische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-瓦龍語 瓦龙语 [wa3 long2 yu3] /Wallonische Sprache (S)/
+# 瓦龍語 瓦龙语 [wa3 long2 yu3] /Wallonische Sprache (S)/
+# Ver 2026-10-26T11:05:08Z nikolaus Stat-New >Verbesserung 
+瓦龍語 瓦龙语 [wa3 long2 yu3] /Wallonische Sprache, Wllonisch (S, Sprachw)/
 
 # ID-i81bE7y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -633967,7 +634039,9 @@ T形頭 T形头 [T xing2 tou2] /Hammerkopf (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 克什米爾語 克什米尔语 [ke4 shi2 mi3 er3 yu3] /Kashmiri (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-克什米爾語 克什米尔语 [ke4 shi2 mi3 er3 yu3] /Kashmiri (Sprachw)/
+# 克什米爾語 克什米尔语 [ke4 shi2 mi3 er3 yu3] /Kashmiri (Sprachw)/
+# Ver 2026-10-26T11:31:07Z nikolaus Stat-New >Verbesserung 
+克什米爾語 克什米尔语 [ke4 shi2 mi3 er3 yu3] /Kashmiri (S, Sprachw)/
 
 # ID-i93ba3t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -653301,7 +653375,9 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 不動明王 不动明王 [bu4 dong4 ming2 wang2] /Acala (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-不動明王 不动明王 [bu4 dong4 ming2 wang2] /Acala (Sprachw)/
+# 不動明王 不动明王 [bu4 dong4 ming2 wang2] /Acala (Sprachw)/
+# Ver 2026-10-26T08:08:47Z nikolaus Stat-New >Verbesserung 
+不動明王 不动明王 [bu4 dong4 ming2 wang2] /Acala (Buddh)/
 
 # ID-j19Qm6o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -677826,7 +677902,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 葡萄牙語 葡萄牙语 [pu2 tao2 ya2 yu3] /Portugiesische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-葡萄牙語 葡萄牙语 [pu2 tao2 ya2 yu3] /Portugiesische Sprache (S)/
+# 葡萄牙語 葡萄牙语 [pu2 tao2 ya2 yu3] /Portugiesische Sprache (S)/
+# Ver 2026-10-26T08:46:36Z nikolaus Stat-New >Verbesserung 
+葡萄牙語 葡萄牙语 [pu2 tao2 ya2 yu3] /Portugiesische Sprache (S, Sprachw)/
 
 # ID-j53Rz9U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -678160,7 +678238,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 阿布哈茲語 阿布哈兹语 [a1 bu4 ha1 zi1 yu3] /Abchasische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-阿布哈茲語 阿布哈兹语 [a1 bu4 ha1 zi1 yu3] /Abchasische Sprache (S)/
+# 阿布哈茲語 阿布哈兹语 [a1 bu4 ha1 zi1 yu3] /Abchasische Sprache (S)/
+# Ver 2026-10-26T11:06:25Z nikolaus Stat-New >Verbesserung 
+阿布哈茲語 阿布哈兹语 [a1 bu4 ha1 zi1 yu3] /Abchasische Sprache (S, Sprachw)/
 
 # ID-j54sy5N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -682966,7 +683046,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 布裡亞特語 布里亚特语 [bu4 li3 ya4 te4 yu3] /Burjatische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-布裡亞特語 布里亚特语 [bu4 li3 ya4 te4 yu3] /Burjatische Sprache (S)/
+# 布裡亞特語 布里亚特语 [bu4 li3 ya4 te4 yu3] /Burjatische Sprache (S)/
+# Ver 2026-10-26T11:06:56Z nikolaus Stat-New >Verbesserung 
+布裡亞特語 布里亚特语 [bu4 li3 ya4 te4 yu3] /Burjatische Sprache (S, Sprachw)/
 
 # ID-j60Lb5L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -699942,7 +700024,9 @@ A片 A片 [A pian4] /Pornofilm, Film für Erwachsene (A=Adults) (S, Film)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 馬其頓語 马其顿语 [ma3 qi2 dun4 yu3] /Mazedonische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-馬其頓語 马其顿语 [ma3 qi2 dun4 yu3] /Mazedonische Sprache (S)/
+# 馬其頓語 马其顿语 [ma3 qi2 dun4 yu3] /Mazedonische Sprache (S)/
+# Ver 2026-10-26T11:11:56Z nikolaus Stat-New >Verbesserung 
+馬其頓語 马其顿语 [ma3 qi2 dun4 yu3] /Mazedonische Sprache, Mazedonisch (S, Sprachw)/
 
 # ID-j84WR4s
 # Ver 2018-08-27T09:11:26Z BiGF00T Stat-New >neues Wort...
@@ -704829,7 +704913,9 @@ AD轉換器 AD转换器 [A D zhuan3 huan4 qi4] /AD-Wandler (S, Tech)/
 
 # ID-j91DH1b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-義大利語 义大利语 [yi4 da4 li4 yu3] /Italienisch, italienische Sprache (S)/
+# 義大利語 义大利语 [yi4 da4 li4 yu3] /Italienisch, italienische Sprache (S)/
+# Ver 2026-10-26T11:12:34Z nikolaus Stat-Verif >Verbesserung 
+義大利語 义大利语 [yi4 da4 li4 yu3] /Italienisch, italienische Sprache (S, Sprachw)/
 
 # ID-j91Ft4Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -712423,7 +712509,9 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 拉瑪堅 拉玛坚 [la1 ma3 jian1] /Ramakien (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-拉瑪堅 拉玛坚 [la1 ma3 jian1] /Ramakien (Sprachw)/
+# 拉瑪堅 拉玛坚 [la1 ma3 jian1] /Ramakien (Sprachw)/
+# Ver 2026-10-26T12:02:40Z nikolaus Stat-New >Verbesserung 
+拉瑪堅 拉玛坚 [la1 ma3 jian1] /Ramakien (thai. Epos) (Lit, Werk)/
 
 # ID-k02Gg2Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -730520,7 +730608,9 @@ Ct掃描儀 Ct扫描仪 [C t sao4 miao2 yi2] /Computertomograf, CT, CT-Scanner (
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 塞爾維亞語 塞尔维亚语 [sai1 er3 wei2 ya4 yu3] /Serbische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-塞爾維亞語 塞尔维亚语 [sai1 er3 wei2 ya4 yu3] /Serbische Sprache (S)/
+# 塞爾維亞語 塞尔维亚语 [sai1 er3 wei2 ya4 yu3] /Serbische Sprache (S)/
+# Ver 2026-10-26T11:19:02Z nikolaus Stat-New >Verbesserung 
+塞爾維亞語 塞尔维亚语 [sai1 er3 wei2 ya4 yu3] /Serbische Sprache, Serbisch (S, Sprachw)/
 
 # ID-k27WP0w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -745112,7 +745202,9 @@ B大調 B大调 [B da4 diao4] /H-Dur (S, Mus)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 拉登語 拉登语 [la1 deng1 yu3] /Ladinische Sprache (u.E.) (S, Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-拉登語 拉登语 [la1 deng1 yu3] /Ladinische Sprache (S, Sprachw)/
+# 拉登語 拉登语 [la1 deng1 yu3] /Ladinische Sprache (S, Sprachw)/
+# Ver 2026-10-26T11:17:53Z nikolaus Stat-New >Verbesserung 
+拉登語 拉登语 [la1 deng1 yu3] /Ladinische Sprache, Ladinisch (S, Sprachw)/
 
 # ID-k49Pe4y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -750288,7 +750380,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 古波斯語 古波斯语 [gu3 bo1 si1 yu3] /Altpersische Sprache (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-古波斯語 古波斯语 [gu3 bo1 si1 yu3] /Altpersische Sprache (Sprachw)/
+# 古波斯語 古波斯语 [gu3 bo1 si1 yu3] /Altpersische Sprache (Sprachw)/
+# Ver 2026-10-26T08:56:22Z nikolaus Stat-New >Verbesserung 
+古波斯語 古波斯语 [gu3 bo1 si1 yu3] /Altpersische Sprache (S, Sprachw)/
 
 # ID-k56QJ8a
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -750850,7 +750944,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 亞拉姆語 亚拉姆语 [ya4 la1 mu3 yu3] /Aramäische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-亞拉姆語 亚拉姆语 [ya4 la1 mu3 yu3] /Aramäische Sprache (S)/
+# 亞拉姆語 亚拉姆语 [ya4 la1 mu3 yu3] /Aramäische Sprache (S)/
+# Ver 2026-10-26T11:14:10Z nikolaus Stat-New >Verbesserung 
+亞拉姆語 亚拉姆语 [ya4 la1 mu3 yu3] /Aramäische Sprache, Aramäisch (S, Sprachw)/
 
 # ID-k57QS1Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -759171,7 +759267,9 @@ A大調 A大调 [A da4 diao4] /A-Dur (S, Mus)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 桑塔利語 桑塔利语 [sang1 ta3 li4 yu3] /Santali (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-桑塔利語 桑塔利语 [sang1 ta3 li4 yu3] /Santali (Sprachw)/
+# 桑塔利語 桑塔利语 [sang1 ta3 li4 yu3] /Santali (Sprachw)/
+# Ver 2026-10-26T12:04:18Z nikolaus Stat-New >Verbesserung 
+桑塔利語 桑塔利语 [sang1 ta3 li4 yu3] /Santali (S, Sprachw)/
 
 # ID-k69xC5C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -761901,7 +761999,9 @@ A大調 A大调 [A da4 diao4] /A-Dur (S, Mus)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 四諦 四谛 [si4 di4] /Vier Edle Wahrheiten (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-四諦 四谛 [si4 di4] /Vier Edle Wahrheiten (Sprachw)/
+# 四諦 四谛 [si4 di4] /Vier Edle Wahrheiten (Sprachw)/
+# Ver 2026-10-26T12:08:11Z nikolaus Stat-New >Verbesserung 
+四諦 四谛 [si4 di4] /Vier Edle Wahrheiten (S, Buddh)/
 
 # ID-k73rS7E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -769938,7 +770038,9 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 烏茲別克語 乌兹别克语 [wu1 zi1 bie2 ke4 yu3] /Usbekische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-烏茲別克語 乌兹别克语 [wu1 zi1 bie2 ke4 yu3] /Usbekische Sprache (S)/
+# 烏茲別克語 乌兹别克语 [wu1 zi1 bie2 ke4 yu3] /Usbekische Sprache (S)/
+# Ver 2026-10-26T08:54:14Z nikolaus Stat-New >Verbesserung 
+烏茲別克語 乌兹别克语 [wu1 zi1 bie2 ke4 yu3] /Usbekische Sprache (S, Sprachw)/
 
 # ID-k84oY4p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -773396,7 +773498,9 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 
 # ID-k89xi1H
 # Ver 2026-10-25T11:25:55Z nikolaus Stat-New >Neu
-巨細胞 巨细胞 [ju4 xi4 bao1] /Reiseziele (S, Bio)/
+# 巨細胞 巨细胞 [ju4 xi4 bao1] /Reiseziele (S, Bio)/
+# Ver 2026-10-26T06:15:53Z nikolaus Stat-New >Fehler
+巨細胞 巨细胞 [ju4 xi4 bao1] /Riesenzelle (S, Bio)/
 
 # ID-k89xk5K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -816095,7 +816199,9 @@ DNA芯片 DNA芯片 [D N A xin4 pian4] /Biochip (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 上古漢語 上古汉语 [shang4 gu3 han4 yu3] /Altchinesische Sprache (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-上古漢語 上古汉语 [shang4 gu3 han4 yu3] /Altchinesische Sprache (Sprachw)/
+# 上古漢語 上古汉语 [shang4 gu3 han4 yu3] /Altchinesische Sprache (Sprachw)/
+# Ver 2026-10-26T08:57:08Z nikolaus Stat-New >Verbesserung 
+上古漢語 上古汉语 [shang4 gu3 han4 yu3] /Altchinesische Sprache (S, Sprachw)/
 
 # ID-l49sa8Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -832938,7 +833044,9 @@ n次方根 n次方根 [n ci4 fang1 gen1] /n-te Wurzel (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 斯洛文尼亞語 斯洛文尼亚语 [si1 luo4 wen2 ni2 ya4 yu3] /Slowenische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-斯洛文尼亞語 斯洛文尼亚语 [si1 luo4 wen2 ni2 ya4 yu3] /Slowenische Sprache (S)/
+# 斯洛文尼亞語 斯洛文尼亚语 [si1 luo4 wen2 ni2 ya4 yu3] /Slowenische Sprache (S)/
+# Ver 2026-10-26T09:03:17Z nikolaus Stat-New >Verbesserung
+斯洛文尼亞語 斯洛文尼亚语 [si1 luo4 wen2 ni2 ya4 yu3] /Slowenische Sprache, Slowenisch (S, Sprachw)/
 
 # ID-l73eA7D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -836654,7 +836762,9 @@ CRT電子搶 CRT电子抢 [C R T dian4 zi3 qiang3] /Kathodenstrahlröhre (S, Tec
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 馬拉地語 马拉地语 [ma3 la1 de5 yu3] /Marathi (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-馬拉地語 马拉地语 [ma3 la1 de5 yu3] /Marathi (Sprachw)/
+# 馬拉地語 马拉地语 [ma3 la1 de5 yu3] /Marathi (Sprachw)/
+# Ver 2026-10-26T11:33:00Z nikolaus Stat-New >Verbesserung 
+馬拉地語 马拉地语 [ma3 la1 de5 yu3] /Marathi (S, Sprachw)/
 
 # ID-l78zU8t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -847877,7 +847987,9 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 金剛般若波羅蜜經 金刚般若波罗蜜经 [jin1 gang1 bo1 re3 bo1 luo2 mi4 jing1] /Diamant-Sutra (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-金剛般若波羅蜜經 金刚般若波罗蜜经 [jin1 gang1 bo1 re3 bo1 luo2 mi4 jing1] /Diamant-Sutra (Sprachw)/
+# 金剛般若波羅蜜經 金刚般若波罗蜜经 [jin1 gang1 bo1 re3 bo1 luo2 mi4 jing1] /Diamant-Sutra (Sprachw)/
+# Ver 2026-10-26T08:28:08Z nikolaus Stat-New >Verbesserung
+金剛般若波羅蜜經 金刚般若波罗蜜经 [jin1 gang1 bo1 re3 bo1 luo2 mi4 jing1] /Diamant-Sutra (S, Buddh)/
 
 # ID-l94gC2a
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -848832,7 +848944,9 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 盧森尼亞語 卢森尼亚语 [lu2 sen1 ni2 ya4 yu3] /Karpato-russinische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-盧森尼亞語 卢森尼亚语 [lu2 sen1 ni2 ya4 yu3] /Karpato-russinische Sprache (S)/
+# 盧森尼亞語 卢森尼亚语 [lu2 sen1 ni2 ya4 yu3] /Karpato-russinische Sprache (S)/
+# Ver 2026-10-26T10:35:33Z nikolaus Stat-New >Verbesserung 
+盧森尼亞語 卢森尼亚语 [lu2 sen1 ni2 ya4 yu3] /Karpato-russinische Sprache (S, Sprachw)/
 
 # ID-l95tW2u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -859683,6 +859797,10 @@ DAX指數 DAX指数 [D A X zhi3 shu4] /DAX (S)/Deutsche Aktienindex (S, Wirtsch)
 # 加快步伐 加快步伐 [jia1 kuai4 bu4 fa2] /die Gangart beschleunigen/
 # Ver 2023-11-01T10:40:46Z nikolaus Stat-New >Wortart
 加快步伐 加快步伐 [jia1 kuai4 bu4 fa2] /die Gangart beschleunigen (V)/
+
+# ID-m11rV7Q
+# Ver 2026-10-26T14:42:01Z nikolaus Stat-New >Neu
+韋德馬剋 韦德马克 [wei2 de2 ma3 ke4] /Wedemark (Gemeinde in Deutschland) (Geo)/
 
 # ID-m11sc3A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -878291,7 +878409,9 @@ x射線研究 x射线研究 [x she4 xian4 yan2 jiu1] /röntgenologische Forschun
 # Ver 2022-02-02T10:20:02Z nikolaus Stat-New >Wortart
 # 法華經 法华经 [fa3 hua1 jing1] /Lotos-Sutra (S, Sprachw)/Lotossutra (S)/
 # Ver 2025-12-08T09:07:55Z nikolaus Stat-New >Verbesserung
-法華經 法华经 [fa3 hua1 jing1] /Lotos-Sutra (S, Sprachw)/
+# 法華經 法华经 [fa3 hua1 jing1] /Lotos-Sutra (S, Sprachw)/
+# Ver 2026-10-26T08:26:01Z nikolaus Stat-New >Verbesserung
+法華經 法华经 [fa3 hua1 jing1] /Lotos-Sutra (S, Buddh)/
 
 # ID-m37pn0m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -891462,7 +891582,9 @@ LG集團 LG集团 [L G ji2 tuan2] /L.G. Mart Co. Ltd. (Org, Wirtsch)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 雪爾塔語 雪尔塔语 [xue3 er3 ta3 yu3] /Shelta (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-雪爾塔語 雪尔塔语 [xue3 er3 ta3 yu3] /Shelta (Sprachw)/
+# 雪爾塔語 雪尔塔语 [xue3 er3 ta3 yu3] /Shelta (Sprachw)/
+# Ver 2026-10-26T12:05:53Z nikolaus Stat-New >Verbesserung 
+雪爾塔語 雪尔塔语 [xue3 er3 ta3 yu3] /Shelta (S, Sprachw)/
 
 # ID-m57qo3O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -894879,7 +895001,9 @@ CCD電荷耦合器件照相機 CCD电荷耦合器件照相机 [C C D dian4 he2 o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 土耳其語 土耳其语 [tu3 er3 qi2 yu3] /Türkische Sprache (u.E.) (S, Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-土耳其語 土耳其语 [tu3 er3 qi2 yu3] /Türkische Sprache (S, Sprachw)/
+# 土耳其語 土耳其语 [tu3 er3 qi2 yu3] /Türkische Sprache (S, Sprachw)/
+# Ver 2026-10-26T11:15:27Z nikolaus Stat-New >Verbesserung 
+土耳其語 土耳其语 [tu3 er3 qi2 yu3] /Türkische Sprache, Türkisch (S, Sprachw)/
 
 # ID-m62lt0I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -896487,7 +896611,9 @@ CCD電荷耦合器件照相機 CCD电荷耦合器件照相机 [C C D dian4 he2 o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 吐火羅語 吐火罗语 [tu3 huo3 luo2 yu3] /Tocharische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-吐火羅語 吐火罗语 [tu3 huo3 luo2 yu3] /Tocharische Sprache (S)/
+# 吐火羅語 吐火罗语 [tu3 huo3 luo2 yu3] /Tocharische Sprache (S)/
+# Ver 2026-10-26T08:53:39Z nikolaus Stat-New >Verbesserung 
+吐火羅語 吐火罗语 [tu3 huo3 luo2 yu3] /Tocharische Sprache (S, Sprachw)/
 
 # ID-m64wq6p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -927329,7 +927455,9 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 馬爾他語 马尔他语 [ma3 er3 ta1 yu3] /Maltesische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-馬爾他語 马尔他语 [ma3 er3 ta1 yu3] /Maltesische Sprache (S)/
+# 馬爾他語 马尔他语 [ma3 er3 ta1 yu3] /Maltesische Sprache (S)/
+# Ver 2026-10-26T10:41:24Z nikolaus Stat-New >Verbesserung 
+馬爾他語 马尔他语 [ma3 er3 ta1 yu3] /Maltesische Sprache, Maltesisch (Malti) (S, Sprachw)/
 
 # ID-n07ON4A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -936509,7 +936637,9 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 客家語 客家语 [ke4 jia1 yu3] /Sprache der Hakka (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-客家語 客家语 [ke4 jia1 yu3] /Sprache der Hakka (S)/
+# 客家語 客家语 [ke4 jia1 yu3] /Sprache der Hakka (S)/
+# Ver 2026-10-26T08:49:00Z nikolaus Stat-New >Verbesserung 
+客家語 客家语 [ke4 jia1 yu3] /Sprache der Hakka (S, Sprachw)/
 
 # ID-n21kk2F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -947585,7 +947715,9 @@ CD播放機 CD播放机 [C D bo1 fang4 ji1] /CD-Player (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 維吾爾語 维吾尔语 [wei2 wu2 er3 yu3] /Uigurische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-維吾爾語 维吾尔语 [wei2 wu2 er3 yu3] /Uigurische Sprache (S)/
+# 維吾爾語 维吾尔语 [wei2 wu2 er3 yu3] /Uigurische Sprache (S)/
+# Ver 2026-10-26T08:52:10Z nikolaus Stat-New >Verbesserung 
+維吾爾語 维吾尔语 [wei2 wu2 er3 yu3] /Uigurische Sprache, Uigurisch (S, Sprachw)/
 
 # ID-n36AE7y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -962816,7 +962948,9 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 希伯來語 希伯来语 [xi1 bo2 lai2 yu3] /Hebräische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-希伯來語 希伯来语 [xi1 bo2 lai2 yu3] /Hebräische Sprache (S)/
+# 希伯來語 希伯来语 [xi1 bo2 lai2 yu3] /Hebräische Sprache (S)/
+# Ver 2026-10-26T10:39:08Z nikolaus Stat-New >Verbesserung 
+希伯來語 希伯来语 [xi1 bo2 lai2 yu3] /Hebräische Sprache,  Hebräisch (S, Sprachw)/
 
 # ID-n57iq7Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -972791,7 +972925,9 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 純 纯 [chun3] /rein, lauter, unvermischt/
 # Ver 2020-06-05T21:38:10Z nikolaus Stat-New >Verbesserung 
-純 纯 [chun3] /rein, lauter, unvermischt (Adj)/
+# 純 纯 [chun3] /rein, lauter, unvermischt (Adj)/
+# Ver 2026-10-26T18:12:11Z daniel Stat-New >Aussprache
+純 纯 [chun2] /rein, lauter, unvermischt (Adj)/
 
 # ID-n71ky3M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -976049,7 +976185,9 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 印度斯坦語 印度斯坦语 [yin4 du4 si1 tan3 yu3] /Hindustani (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-印度斯坦語 印度斯坦语 [yin4 du4 si1 tan3 yu3] /Hindustani (Sprachw)/
+# 印度斯坦語 印度斯坦语 [yin4 du4 si1 tan3 yu3] /Hindustani (Sprachw)/
+# Ver 2026-10-26T11:27:47Z nikolaus Stat-New >Verbesserung 
+印度斯坦語 印度斯坦语 [yin4 du4 si1 tan3 yu3] /Hindustani (S, Sprachw)/
 
 # ID-n75Jd1D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1044283,6 +1044421,10 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 # Ver 2022-02-04T18:27:32Z nikolaus Stat-New >Verbesserung 
 大梁 大梁 [da4 liang2] /Querbalken, Holm (S, Arch)/
 
+# ID-o73de7p
+# Ver 2026-10-26T14:45:10Z nikolaus Stat-New >Neu
+巴特茨維申安 巴特茨维申安 [ba1 te4 ci2 wei2 shen1 an1] /Bad Zwischenahn (Gemeinde in Deutschland) (Geo)/
+
 # ID-o73dj4R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 六千六百八十九 六千六百八十九 [liu4 qian1 liu4 bai3 ba1 shi2 jiu3] /6689 (sechstausendsechshundertneunundachtzig) (u.E.)/
@@ -1045003,7 +1045145,9 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 中古愛爾蘭語 中古爱尔兰语 [zhong1 gu3 ai4 er3 lan2 yu3] /Mittelirische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-中古愛爾蘭語 中古爱尔兰语 [zhong1 gu3 ai4 er3 lan2 yu3] /Mittelirische Sprache (S)/
+# 中古愛爾蘭語 中古爱尔兰语 [zhong1 gu3 ai4 er3 lan2 yu3] /Mittelirische Sprache (S)/
+# Ver 2026-10-26T10:36:31Z nikolaus Stat-New >Verbesserung 
+中古愛爾蘭語 中古爱尔兰语 [zhong1 gu3 ai4 er3 lan2 yu3] /Mittelirische Sprache (S, Sprachw)/
 
 # ID-o74ps7Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -1062947,7 +1063091,9 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 摩爾多瓦語 摩尔多瓦语 [mo2 er3 duo1 wa3 yu3] /Moldawische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-摩爾多瓦語 摩尔多瓦语 [mo2 er3 duo1 wa3 yu3] /Moldawische Sprache (S)/
+# 摩爾多瓦語 摩尔多瓦语 [mo2 er3 duo1 wa3 yu3] /Moldawische Sprache (S)/
+# Ver 2026-10-26T10:38:22Z nikolaus Stat-New >Verbesserung 
+摩爾多瓦語 摩尔多瓦语 [mo2 er3 duo1 wa3 yu3] /Moldawische Sprache, Moldawisch (S, Sprachw)/
 
 # ID-o99PO0C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
