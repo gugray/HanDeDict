@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-29T02:30:01Z
+# Datenstand: 2026-10-30T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -39891,7 +39891,9 @@ xy平面 xy平面 [xy ping2 mian4] /xy-Ebene (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 速度 速度 [su4 du4] /Geschwindigkeit (S)/
 # Ver 2022-11-04T10:56:36Z nikolaus Stat-New >Mathematik
-速度 速度 [su4 du4] /Geschwindigkeit (S, Phys)/
+# 速度 速度 [su4 du4] /Geschwindigkeit (S, Phys)/
+# Ver 2026-10-29T15:30:20Z nikolaus Stat-New >Verbesserung 
+速度 速度 [su4 du4] /Geschwindigkeit (Symbol v) (S, Phys)/
 
 # ID-a55yt8q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -71024,6 +71026,10 @@ DE匯流排關閉 DE汇流排关闭 [D E hui4 liu2 pai2 guan1 bi4] /DE-Schiene g
 # 四千六百九十九 四千六百九十九 [si4 qian1 liu4 bai3 jiu3 shi2 jiu3] /4699 (viertausendsechshundertneunundneunzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 四千六百九十九 四千六百九十九 [si4 qian1 liu4 bai3 jiu3 shi2 jiu3] /4699 (viertausendsechshundertneunundneunzig)/
+
+# ID-a99uq0K
+# Ver 2026-10-29T13:24:42Z nikolaus Stat-New >Neu
+森夫滕貝格 森夫滕贝格 [sen1 fu1 teng2 bei4 ge2] /Senftenberg (Stadt in Deutschland) (Geo)/
 
 # ID-a99uv9E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -112305,6 +112311,10 @@ IP電話 IP电话 [I P dian4 hua4] /IP-Telefonie (Internet-Protokoll-Telefonie),
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 奴工 奴工 [nu2 gong1] /Sklavenarbeit (S)/
 
+# ID-b59zO6F
+# Ver 2026-10-29T13:35:16Z nikolaus Stat-New >Neu
+弗裡斯奧伊特 弗里斯奥伊特 [fu2 li3 si1 ao4 yi1 te4] /Friesoythe (Stadt in Deutschland) (Geo)/
+
 # ID-b59zQ0H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 七千八百八十一 七千八百八十一 [qi1 qian1 ba1 bai3 ba1 shi2 yi1] /7881 (siebentausendachthunderteinundachtzig) (u.E.)/
@@ -112936,6 +112946,10 @@ IP電話 IP电话 [I P dian4 hua4] /IP-Telefonie (Internet-Protokoll-Telefonie),
 # ID-b60nN8P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 硫化銻 硫化锑 [liu2 hua4 ti1] /Antimonsulfid (S, Chem)/
+
+# ID-b60oW9z
+# Ver 2026-10-29T07:34:32Z nikolaus Stat-New >Neu
+施普羅剋赫弗爾 施普罗克赫弗尔 [shi1 pu3 luo1 ke4 he4 fu2 er3] /Sprockhövel (Stadt in Deutschland) (Geo)/
 
 # ID-b60qA2n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -121619,6 +121633,10 @@ X光吸收光譜 X光吸收光谱 [X guang1 xi1 shou1 guang1 pu3] /Röntgenabsor
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 顣 顣 [qi1] /die Stirn runzeln (V)/
 
+# ID-b72Ex2S
+# Ver 2026-10-29T13:21:06Z nikolaus Stat-New >Neu
+梅青根 梅青根 [mei2 qing1 gen1] /Metzingen (Stadt in Deutschland) (Geo)/
+
 # ID-b72Fl6x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 貨幣需求 货币需求 [huo4 bi4 xu1 qiu2] /Geldnachfrage (u.E.)/
@@ -123062,6 +123080,10 @@ X光吸收光譜 X光吸收光谱 [X guang1 xi1 shou1 guang1 pu3] /Röntgenabsor
 # 五千六百十九 五千六百十九 [wu3 qian1 liu4 bai3 shi2 jiu3] /5619 (fünftausendsechshundertneunzehn) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 五千六百十九 五千六百十九 [wu3 qian1 liu4 bai3 shi2 jiu3] /5619 (fünftausendsechshundertneunzehn)/
+
+# ID-b74LR7V
+# Ver 2026-10-29T07:36:07Z nikolaus Stat-New >Neu
+德伯爾恩 德伯尔恩 [de2 bo2 er3 en1] /Döbeln (Stadt in Deutschland) (Geo)/
 
 # ID-b74LR9J
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -271923,7 +271945,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 位速率 位速率 [wei4 su4 lü4] /Bitrate (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-位速率 位速率 [wei4 su4 lü4] /Bitrate (S)/
+# 位速率 位速率 [wei4 su4 lü4] /Bitrate (S)/
+# Ver 2026-10-29T15:31:42Z nikolaus Stat-New >Verbesserung 
+位速率 位速率 [wei4 su4 lü4] /Bitrate (S, EDV)/
 
 # ID-d85nf3r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -300179,6 +300203,10 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 恢復平靜 恢复平静 [hui1 fu4 ping2 jing4] /aufatmen (V)/
 
+# ID-e24xZ5z
+# Ver 2026-10-29T13:15:09Z nikolaus Stat-New >Neu
+森德 森德 [sen1 de2] /Sehnde (Stadt in Deutschland) (Geo)/
+
 # ID-e24yQ2C
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 丐 丐 [gai4] /Almosen betteln (V)/Bettler (S)/
@@ -305570,6 +305598,10 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # 三千二百九十五 三千二百九十五 [san1 qian1 er4 bai3 jiu3 shi2 wu3] /3295 (dreitausendzweihundertfünfundneunzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 三千二百九十五 三千二百九十五 [san1 qian1 er4 bai3 jiu3 shi2 wu3] /3295 (dreitausendzweihundertfünfundneunzig)/
+
+# ID-e32qQ6B
+# Ver 2026-10-29T13:11:25Z nikolaus Stat-New >Neu
+阿爾夫特 阿尔夫特 [a1 er3 fu1 te4] /Alfter (Gemeinde in Deutschland) (Geo)/
 
 # ID-e32rO1S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -323657,6 +323689,10 @@ X電容 X电容 [X dian4 rong2] /X-Kondensator (S, Tech)/
 # Ver 2026-02-12T09:12:42Z nikolaus Stat-New >Verbesserung 
 遊艇 游艇 [you2 ting3] /Segeljacht, Segelyacht (S, Naut)/Yacht, Jacht (S, Naut)/
 
+# ID-e57aZ9p
+# Ver 2026-10-29T13:36:34Z nikolaus Stat-New >Neu
+埃平根 埃平根 [ai1 ping2 gen1] /Eppingen (Stadt in Deutschland) (Geo)/
+
 # ID-e57bQ9C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 # 薄荷奶油色 薄荷奶油色 [bo4 he5 nai3 you2 se4] /pfefferminzcremefarben; mint cream (S)/RGB-Code #F5FFFA/
@@ -340963,6 +340999,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 一千零五十六 一千零五十六 [yi1 qian1 ling2 wu3 shi2 liu4] /1056 (tausendsechsundfünfzig)/
 
+# ID-e82mq3U
+# Ver 2026-10-29T13:26:08Z nikolaus Stat-New >Neu
+弗雷登 弗雷登 [fu2 lei2 deng1] /Vreden (Stadt in Deutschland) (Geo)/
+
 # ID-e82mL9z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 特麗夏沃 特丽夏沃 [te4 li4 xia4 wo4] /Terri Schiavo (u.E.) (Eig, Pers, 1963 - 2005)/
@@ -357693,6 +357733,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 枟 枟 [yun4] /Holzstreifen, Latte (S)/
 
+# ID-f05xL3i
+# Ver 2026-10-29T13:27:33Z nikolaus Stat-New >Neu
+內特芬 内特芬 [nei4 te4 fen1] /Netphen (Stadt in Deutschland) (Geo)/
+
 # ID-f05xN6U
 # Ver 2025-01-22T20:59:05Z nikolaus Stat-New >Neu
 普埃布拉州 普埃布拉州 [pu3 ai1 bu4 la1 zhou1] /Puebla (Bundesstaat in Mexiko) (Geo)/
@@ -357948,6 +357992,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # 點金術 点金石 [dian3 jin1 shu4] /Stein der Weisen/
 # Ver 2024-01-25T09:52:09Z nikolaus Stat-New >Verbesserung 
 點金術 点金石 [dian3 jin1 shu4] /Stein der Weisen (S, Myth)/
+
+# ID-f05Ov6i
+# Ver 2026-10-29T13:39:24Z nikolaus Stat-New >Neu
+瓦倫霍斯特 瓦伦霍斯特 [wa3 lun2 huo4 si1 te4] /Wallenhorst (Gemeinde in Deutschland) (Geo)/
 
 # ID-f05OA7c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -441597,6 +441645,10 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 醫學科學 医学科学 [yi1 xue2 ke1 xue2] /medizinische Wissenschaft (S)/
 
+# ID-g22Kc4O
+# Ver 2026-10-29T13:32:02Z nikolaus Stat-New >Neu
+布爾格 布尔格 [bu4 er3 ge2] /Burg (Stadt in Deutschland) (Geo)/
+
 # ID-g22Kf7J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 保護發明創造專利權 保护发明创造专利权 [bao3 hu4 fa1 ming2 chuang4 zao4 zhuan1 li4 quan2] /patentrechtlich schützen (u.E.) (V, Rechtsw)/
@@ -447147,6 +447199,10 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # 失靈 失灵 [shi1 ling2] /Störung, Defekt (u.E.) (S, Tech)/ausfallen (u.E.) (V, Tech)/defekt, ausgefallen (u.E.) (Adj, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 失靈 失灵 [shi1 ling2] /Störung, Defekt (S, Tech)/ausfallen (V, Tech)/defekt, ausgefallen (Adj, Tech)/
+
+# ID-g30Yq4P
+# Ver 2026-10-29T13:13:45Z nikolaus Stat-New >Neu
+新武爾姆斯托夫 新武尔姆斯托夫 [xin1 wu3 er3 mu3 si1 tuo1 fu1] /Neu Wulmstorf (Gemeinde in Deutschland) (Geo)/
 
 # ID-g30YS6M
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -490682,6 +490738,10 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # ID-g91qk4I
 # Ver 2025-01-20T20:26:47Z nikolaus Stat-New >Neu
 謝爾 谢尔 [xie4 er3] /Scheel (Eig, Fam)/
+
+# ID-g91qt3v
+# Ver 2026-10-29T13:17:55Z nikolaus Stat-New >Neu
+阿滕多恩 阿滕多恩 [a1 teng2 duo1 en1] /Attendorn (Stadt in Deutschland) (Geo)/
 
 # ID-g91rs8H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -555936,6 +555996,10 @@ SIM卡 SIM卡 [S I M ka3] /SIM-Karte (Lehnwort) (S, EDV)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 劔 劔 [jian4] /Schwert (S)/
 
+# ID-h83lf3s
+# Ver 2026-10-29T13:33:51Z nikolaus Stat-New >Neu
+韋爾特海姆 韦尔特海姆 [wei2 er3 te4 hai3 mu3] /Wertheim (Stadt in Deutschland) (Geo)/
+
 # ID-h83lB0A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 掛 掛 [gua4] /Kette (u.E.)/
@@ -569788,6 +569852,10 @@ BP機 BP机 [B P ji1] /Piepser (S)/
 # Ver 2023-09-17T15:21:49Z nikolaus Stat-New >Verbesserung 
 瓦爾帕萊索 瓦尔帕莱索 [wa3 er3 pa4 lai2 suo3] /Valparaíso, Valparaiso (Stadt in Chile) (Geo)/
 
+# ID-i02Vb1y
+# Ver 2026-10-29T13:30:11Z nikolaus Stat-New >Neu
+薩爾茨韋德爾 萨尔茨韦德尔 [sa4 er3 ci2 wei2 de2 er3] /Salzwedel (Stadt in Deutschland) (Geo)/
+
 # ID-i02VP1F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 雙對氯苯基三氯乙烷 双对氯苯基三氯乙烷 [shuang1 dui4 lü4 ben3 ji1 san1 lü4 yi3 wan2] /Dichlordiphenyltrichlorethan (DDT)  (u.E.) (S, Chem)/Clofenotane (ein Insektizid) (u.E.) (Eig, Chem)/
@@ -582622,7 +582690,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 碼 码 [ma3] /Yard, Ziffer, Nummer/
 # Ver 2023-03-09T08:15:54Z nikolaus Stat-New >Verbesserung 
-碼 码 [ma3] /Yard, Ziffer, Nummer (S)/
+# 碼 码 [ma3] /Yard, Ziffer, Nummer (S)/
+# Ver 2026-10-29T15:25:54Z nikolaus Stat-New >Verbesserung 
+碼 码 [ma3] /Yard (Symbol yd) (S, Phys)/Code (S, EDV)/Größe (Kleidung) (S)/Ziffer, Nummer (S, Math)/(ugs) anhäufen, stapeln (V)/
 
 # ID-i20JM5m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -587234,6 +587304,10 @@ Y染色體 Y染色体 [Y ran3 se4 ti3] /Y-Chromosom (S, Bio)/
 # 手裏劍 手里剑 [shou3 li3 jian4] /Shuriken/
 # Ver 2023-12-18T09:30:40Z nikolaus Stat-New >Verbesserung 
 手裏劍 手里剑 [shou3 li3 jian4] /Shuriken (jap. Wurfwaffe) (Eig, Mil)/
+
+# ID-i27qd0x
+# Ver 2026-10-29T13:19:33Z nikolaus Stat-New >Neu
+莫爾默蘭 莫尔默兰 [mo4 er3 mo4 lan2] /Moormerland (Gemeinde in Deutschland) (Geo)/
 
 # ID-i27qt2U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -599071,6 +599145,10 @@ Y染色體 Y染色体 [Y ran3 se4 ti3] /Y-Chromosom (S, Bio)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 工學 工学 [gong1 xue2] /Ingenieurtechnik, Engineering (S)/
 
+# ID-i43kb1d
+# Ver 2026-10-29T07:37:16Z nikolaus Stat-New >Neu
+韋斯特施泰德 韦斯特施泰德 [wei2 si1 te4 shi1 tai4 de2] /Westerstede (Stadt in Deutschland) (Geo)/
+
 # ID-i43lm1H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 氣團 气团 [qi4 tuan2] /Luftmasse (u.E.) (S)/
@@ -608200,6 +608278,10 @@ X射線譜學 X射线谱学 [X she4 xian4 pu3 xue2] /Röntgenspektroskopie (S, P
 # ID-i55WZ4K
 # Ver 2023-02-21T17:23:06Z nikolaus Stat-New >Verbesserung 
 澳洲魔蜥 澳洲魔蜥 [ao4 zhou1 mo2 xi1] /Dornteufel (S, Zool)/
+
+# ID-i55Xc2e
+# Ver 2026-10-29T13:23:19Z nikolaus Stat-New >Neu
+維默河畔羅滕堡 维默河畔罗滕堡 [wei2 mo4 he2 pan4 luo1 teng2 bao3] /Rotenburg (Stadt in Deutschland) (Geo)/
 
 # ID-i55Xz2Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -619614,6 +619696,10 @@ CD刻錄機 CD刻录机 [C D ke4 lu4 ji1] /CD-Brenner (S, EDV)/
 # Ver 2025-01-22T18:50:29Z nikolaus Stat-New >Verbesserung 
 學校圖書館 学校图书馆 [xue2 xiao4 tu2 shu1 guan3] /Schulbibliothek (S, Edu)/
 
+# ID-i72nn4B
+# Ver 2026-10-29T13:28:56Z nikolaus Stat-New >Neu
+拉斯泰德 拉斯泰德 [la1 si1 tai4 de2] /Rastede (Gemeinde in Deutschland) (Geo)/
+
 # ID-i72nI4e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 包法利夫人 包法利夫人 [bao1 fa3 li4 fu1 ren2] /Madame Bovary (u.E.)/
@@ -619777,6 +619863,10 @@ CD刻錄機 CD刻录机 [C D ke4 lu4 ji1] /CD-Brenner (S, EDV)/
 # 意思表示錯誤 意思表示错误 [yi4 si1 biao3 shi4 cuo4 wu4] /Erklärungsirrtum (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 意思表示錯誤 意思表示错误 [yi4 si1 biao3 shi4 cuo4 wu4] /Erklärungsirrtum (S)/
+
+# ID-i72zb4X
+# Ver 2026-10-29T13:40:48Z nikolaus Stat-New >Neu
+迪青根 迪青根 [di2 qing1 gen1] /Ditzingen (Stadt in Deutschland) (Geo)/
 
 # ID-i72zr9b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -644637,7 +644727,9 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 最大速率 最大速率 [zui4 da4 su4 lü4] /Höchstgeschwindigkeit (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-最大速率 最大速率 [zui4 da4 su4 lü4] /Höchstgeschwindigkeit (S)/
+# 最大速率 最大速率 [zui4 da4 su4 lü4] /Höchstgeschwindigkeit (S)/
+# Ver 2026-10-29T15:31:25Z nikolaus Stat-New >Verbesserung 
+最大速率 最大速率 [zui4 da4 su4 lü4] /Höchstgeschwindigkeit (S, Phys)/
 
 # ID-j07Ma8g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -646998,6 +647090,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 蒸汽浴 蒸汽浴 [zheng1 qi4 yu4] /Sauna (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 蒸汽浴 蒸汽浴 [zheng1 qi4 yu4] /Sauna (S)/
+
+# ID-j10RT3Z
+# Ver 2026-10-29T11:29:53Z nikolaus Stat-New >Neu 
+多瑙河擬鯉 多瑙河拟鲤 [duo1 nao3 he2 ni3 li3] /Pigo, Frauennerfling (lat: Rutilus pigus) (S, Zool)/
 
 # ID-j10Tb5l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -659883,7 +659979,9 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 速率 速率 [su4 lü4] /Geschwindigkeit (u.E.) (S, Phys)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-速率 速率 [su4 lü4] /Geschwindigkeit (S, Phys)/
+# 速率 速率 [su4 lü4] /Geschwindigkeit (S, Phys)/
+# Ver 2026-10-29T15:31:01Z nikolaus Stat-New >Verbesserung 
+速率 速率 [su4 lü4] /Geschwindigkeit (Symbol v) (S, Phys)/
 
 # ID-j28rr9H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -665517,6 +665615,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 射後不理 射后不理 [she4 hou4 bu4 li3] /Fire-and-Forget (u.E.) (Mil)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 射後不理 射后不理 [she4 hou4 bu4 li3] /Fire-and-Forget (Mil)/
+
+# ID-j36py2i
+# Ver 2026-10-29T13:42:13Z nikolaus Stat-New >Neu
+巴特薩爾聰根 巴特萨尔聪根 [ba1 te4 sa4 er3 cong1 gen1] /Bad Salzungen (Stadt in Deutschland) (Geo)/
 
 # ID-j36pI1S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -700553,6 +700655,10 @@ C級系列 C级系列 [C ji2 xi4 lie4] /C-Klasse (S)/
 # 雁 雁 [yan4] /Wildgans (S, Zool)/
 # Ver 2026-04-23T11:44:39Z nikolaus Stat-New >Verbesserung 
 雁 雁 [yan4] /Gans (lat: Anserina) (S, Zool)/
+
+# ID-j85AY8v
+# Ver 2026-10-29T13:37:56Z nikolaus Stat-New >Neu
+奎剋博恩 奎克博恩 [kui2 ke4 bo2 en1] /Quickborn (Stadt in Deutschland) (Geo)/
 
 # ID-j85BS4N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -737120,6 +737226,10 @@ DA轉換器 DA转换器 [D A zhuan3 huan4 qi4] /Digital-Analog-Wandler (S, Phys)
 # Ver 2020-03-19T16:33:14Z nikolaus Stat-New >Verbesserung
 手球 手球 [shou3 qiu2] /Handball (S, Sport)/
 
+# ID-k37zz0x
+# Ver 2026-10-29T13:16:41Z nikolaus Stat-New >Neu
+林巴赫上弗羅納 林巴赫上弗罗纳 [lin2 ba1 he4 shang4 fu2 luo1 na4] /Limbach-Oberfrohna (Stadt in Deutschland) (Geo)/
+
 # ID-k37zK6b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彀 彀 [gou4] /ausreichend, hinreichend (u.E.)/
@@ -753064,7 +753174,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 碼數 码数 [ma3 shu4] /Yard (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-碼數 码数 [ma3 shu4] /Yard (S)/
+# 碼數 码数 [ma3 shu4] /Yard (S)/
+# Ver 2026-10-29T15:21:24Z nikolaus Stat-New >Verbesserung 
+碼數 码数 [ma3 shu4] /Yard (Symbol yd) (S, Phys)/
 
 # ID-k60EX8F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -788497,6 +788609,10 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # 洪江市 洪江市 [hong2 jiang1 shi4] /Hongjiang (u.E.) (Geo)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 洪江市 洪江市 [hong2 jiang1 shi4] /Hongjiang (Geo)/
+
+# ID-l10Co7G
+# Ver 2026-10-29T13:08:01Z nikolaus Stat-New >Neu
+納戈爾德 纳戈尔德 [na4 ge1 er3 de2] /Nagold (Stadt in Deutschland) (Geo)/
 
 # ID-l10Ct2j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -835337,6 +835453,10 @@ CRT電子搶 CRT电子抢 [C R T dian4 zi3 qiang3] /Kathodenstrahlröhre (S, Tec
 # 科學工作者 科学工作者 [ke1 xue2 gong1 zuo4 zhe3] /Wissenschaftler (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 科學工作者 科学工作者 [ke1 xue2 gong1 zuo4 zhe3] /Wissenschaftler (S)/
+
+# ID-l76aB0m
+# Ver 2026-10-29T13:12:27Z nikolaus Stat-New >Neu
+卡爾滕基興 卡尔滕基兴 [ka3 er3 teng2 ji1 xing4] /Kaltenkirchen (Stadt in Deutschland) (Geo)/
 
 # ID-l76bi6b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -888300,6 +888420,10 @@ EP油脂 EP油脂 [E P you2 zhi1] /EP-Fett (EP extreme pressure) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 房屋維護 房屋维护 [fang2 wu1 wei2 hu4] /Gebäudeinstandhaltung (S)/
 
+# ID-m52sq5I
+# Ver 2026-10-29T13:06:40Z nikolaus Stat-New >Neu
+於興 于兴 [yu2 xing4] /Jüchen (Stadt in Deutschland) (Geo)/
+
 # ID-m52sx5J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 防獃 防呆 [fang2 dai1] /Poka Yoke (u.E.) (Wirtsch)/
@@ -937143,6 +937267,10 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 阿羅漢 阿罗汉 [a1 luo2 han4] /Arhat (Sprachw)/
 
+# ID-n21Ee4M
+# Ver 2026-10-29T13:05:29Z nikolaus Stat-New >Neu
+倫訥施塔特 伦讷施塔特 [lun2 ne4 shi1 ta3 te4] /Lennestadt (Stadt in Deutschland) (Geo)/
+
 # ID-n21EG7M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 山梨酸 山梨酸 [shan1 li2 suan1] /Sorbinsäure (u.E.) (S, Chem)/
@@ -958926,6 +959054,10 @@ B柱 B柱 [B zhu4] /B-Säule (S, Kfz)/
 # Ver 2024-11-30T13:27:04Z nikolaus Stat-New >Verbesserung 
 施密特觸發器 施密特触发器 [shi1 mi4 te4 chu4 fa1 qi4] /Schmitt-Trigger (S, Tech)/
 
+# ID-n51HU9O
+# Ver 2026-10-29T13:09:23Z nikolaus Stat-New >Neu
+龍嫩貝格 龙嫩贝格 [long2 nen4 bei4 ge2] /Ronnenberg (Stadt in Deutschland) (Geo)/
+
 # ID-n51Id2r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 字跡 字迹 [zi4 ji1] /Handschrift (u.E.) (S)/
@@ -965281,6 +965413,10 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # 薩瓦河 萨瓦河 [sa4 wa3 he2] /Save (Geo)/
 # Ver 2023-09-08T17:58:44Z nikolaus Stat-New >Verbesserung 
 薩瓦河 萨瓦河 [sa4 wa3 he2] /Save, Sava (Fluss in Europa) (Geo)/
+
+# ID-n60kE8B
+# Ver 2026-10-29T13:04:05Z nikolaus Stat-New >Neu
+伊森哈根 伊森哈根 [yi1 sen1 ha1 gen1] /Isernhagen (Gemeinde in Deutschland) (Geo)/
 
 # ID-n60lZ1c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1010893,6 +1011029,10 @@ pH值 pH值 [p H zhi2] /pH-Wert (S, Chem)/
 # 若澤愛德華多多斯桑託斯 若泽爱德华多多斯桑托斯 [ruo4 ze2 ai4 de2 hua2 duo1 duo1 si1 sang1 tuo1 si1] /José Eduardo dos Santos/
 # Ver 2020-07-01T09:58:29Z nikolaus Stat-New >Verbesserung 
 若澤愛德華多多斯桑託斯 若泽爱德华多多斯桑托斯 [ruo4 ze2 ai4 de2 hua2 duo1 duo1 si1 sang1 tuo1 si1] /José Eduardo dos Santos (Eig, Pers) /
+
+# ID-o25wS3P
+# Ver 2026-10-29T13:44:25Z nikolaus Stat-New >Neu
+萊茵施泰滕 莱茵施泰滕 [lai2 yin1 shi1 tai4 teng2] /Rheinstetten (Stadt in Deutschland) (Geo)/
 
 # ID-o25xp9D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
