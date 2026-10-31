@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-30T02:30:01Z
+# Datenstand: 2026-10-31T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -39833,7 +39833,9 @@ xy平面 xy平面 [xy ping2 mian4] /xy-Ebene (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 宗曆 佛历 [zong1 li4] /Buddhistische Zeitrechnung (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-宗曆 佛历 [zong1 li4] /Buddhistische Zeitrechnung (Sprachw)/
+# 宗曆 佛历 [zong1 li4] /Buddhistische Zeitrechnung (Sprachw)/
+# Ver 2026-10-30T13:59:50Z nikolaus Stat-New >Verbesserung 
+宗曆 佛历 [zong1 li4] /Buddhistische Zeitrechnung (S, Buddh)/
 
 # ID-a55tP3A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -59483,6 +59485,10 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # 吉米杜立特 吉米杜立特 [ji2 mi3 du4 li4 te2] /James H. Doolittle/
 # Ver 2020-07-21T05:21:50Z nikolaus Stat-New >Verbesserung 
 吉米杜立特 吉米杜立特 [ji2 mi3 du4 li4 te2] /James H. Doolittle (Eig, Pers)/
+
+# ID-a83wG4N
+# Ver 2026-10-30T18:43:51Z nikolaus Stat-New >Neu
+施韋青根 施韦青根 [shi1 wei2 qing1 gen1] /Schwetzingen (Stadt in Deutschland) (Geo)/
 
 # ID-a83wL9x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -130487,7 +130493,9 @@ M16突擊步槍 M16突击步枪 [M 1 6 tu1 ji1 bu4 qiang1] /M16 Sturmgewehr (S, 
 
 # ID-b85uF7r
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-蒦 蒦 [huo4] /phonetische Komponente in für huò, wie z.B. 護, 獲, 穫 und 擭 (X)/
+# 蒦 蒦 [huo4] /phonetische Komponente in für huò, wie z.B. 護, 獲, 穫 und 擭 (X)/
+# Ver 2026-10-30T13:54:20Z nikolaus Stat-Verif >Verbesserung 
+蒦 蒦 [huo4] /(phonetische Komponente in für huò, wie z.B. 護, 獲, 穫 und 擭)/
 
 # ID-b85uG9f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -149665,7 +149673,9 @@ SVD狙擊步槍 SVD狙击步枪 [S V D ju1 ji1 bu4 qiang1] /Dragunov (Mil)/SVD D
 
 # ID-c13bl0z
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-嗪 嗪 [qin2] /phonetische Transkription für -xine, -zine or -chin (Sprachw)/
+# 嗪 嗪 [qin2] /phonetische Transkription für -xine, -zine or -chin (Sprachw)/
+# Ver 2026-10-30T13:52:51Z nikolaus Stat-Verif >Verbesserung 
+嗪 嗪 [qin2] /(phonetische Transkription für -xine, -zine or -chin)/
 
 # ID-c13bl9A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -220802,6 +220812,10 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2026-01-28T22:15:26Z nikolaus Stat-New >Verbesserung 
 垧 垧 [shang3] /(altes chinesisches Flächenmaß, ca. 1 Hektar)/
 
+# ID-d13bL6H
+# Ver 2026-10-30T18:41:36Z nikolaus Stat-New >Neu
+曲爾皮希 曲尔皮希 [qu1 er3 pi2 xi1] /Zülpich (Stadt in Deutschland) (Geo)/
+
 # ID-d13bP2c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 險些 险些 [xian3 xie1] /nahezu, beinahe (u.E.)/
@@ -227818,7 +227832,9 @@ C柱 C柱 [C zhu4] /C-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 坎伯蘭語 坎伯兰语 [kan3 bo2 lan2 yu3] /Kumbrisch (eine keltische Sprache) (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-坎伯蘭語 坎伯兰语 [kan3 bo2 lan2 yu3] /Kumbrisch (eine keltische Sprache) (Sprachw)/
+# 坎伯蘭語 坎伯兰语 [kan3 bo2 lan2 yu3] /Kumbrisch (eine keltische Sprache) (Sprachw)/
+# Ver 2026-10-30T17:28:14Z nikolaus Stat-New >Verbesserung 
+坎伯蘭語 坎伯兰语 [kan3 bo2 lan2 yu3] /Kumbrisch (eine keltische Sprache) (S, Sprachw)/
 
 # ID-d23xy2l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -236845,7 +236861,9 @@ A型沸石 A型沸石 [A xing2 fei4 shi2] /Zeolith A (S, Chem)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 曼德語族 曼德语族 [man4 de2 yu3 zu2] /Mande-Sprachen (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-曼德語族 曼德语族 [man4 de2 yu3 zu2] /Mande-Sprachen (Sprachw)/
+# 曼德語族 曼德语族 [man4 de2 yu3 zu2] /Mande-Sprachen (Sprachw)/
+# Ver 2026-10-30T18:56:30Z nikolaus Stat-New >Neu
+曼德語族 曼德语族 [man4 de2 yu3 zu2] /Mande-Sprachen (S, Sprachw)/
 
 # ID-d36HZ7O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -252383,7 +252401,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 阿留申語 阿留申语 [a1 liu2 shen1 yu3] /Aleutisch (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-阿留申語 阿留申语 [a1 liu2 shen1 yu3] /Aleutisch (Sprachw)/
+# 阿留申語 阿留申语 [a1 liu2 shen1 yu3] /Aleutisch (Sprachw)/
+# Ver 2026-10-30T13:58:20Z nikolaus Stat-New >Verbesserung 
+阿留申語 阿留申语 [a1 liu2 shen1 yu3] /Aleutisch (S, Sprachw)/
 
 # ID-d57SF1f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -259241,7 +259261,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 猶加敦馬雅語 犹加敦马雅语 [you2 jia1 dun1 ma3 ya3 yu3] /Yucateco (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-猶加敦馬雅語 犹加敦马雅语 [you2 jia1 dun1 ma3 ya3 yu3] /Yucateco (Sprachw)/
+# 猶加敦馬雅語 犹加敦马雅语 [you2 jia1 dun1 ma3 ya3 yu3] /Yucateco (Sprachw)/
+# Ver 2026-10-30T19:02:24Z nikolaus Stat-New >Verbesserung 
+猶加敦馬雅語 犹加敦马雅语 [you2 jia1 dun1 ma3 ya3 yu3] /Yucateco (S, Sprachw)/
 
 # ID-d67Lt4J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -290643,7 +290665,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 佛教音樂 佛教音乐 [fo2 jiao4 yin1 yue4] /Buddhistische Musik (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-佛教音樂 佛教音乐 [fo2 jiao4 yin1 yue4] /Buddhistische Musik (Sprachw)/
+# 佛教音樂 佛教音乐 [fo2 jiao4 yin1 yue4] /Buddhistische Musik (Sprachw)/
+# Ver 2026-10-30T14:00:19Z nikolaus Stat-New >Verbesserung 
+佛教音樂 佛教音乐 [fo2 jiao4 yin1 yue4] /Buddhistische Musik (S,  Buddh)/
 
 # ID-e11gI0U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -340157,7 +340181,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 信德語 信德语 [xin4 de2 yu3] /Sindhi (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-信德語 信德语 [xin4 de2 yu3] /Sindhi (Sprachw)/
+# 信德語 信德语 [xin4 de2 yu3] /Sindhi (Sprachw)/
+# Ver 2026-10-30T18:59:30Z nikolaus Stat-New >Verbesserung 
+信德語 信德语 [xin4 de2 yu3] /Sindhi (S, Sprachw)/
 
 # ID-e81fx3O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -399620,6 +399646,10 @@ X光散射 X光散射 [X guang1 san4 she4] /Röntgenbeugung, Röntgenstreuung (S
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 大使館館員 大使馆馆员 [da4 shi3 guan3 guan3 yuan2] /Attache (S)/
 
+# ID-f64Bj5g
+# Ver 2026-10-30T06:42:00Z nikolaus Stat-New >Neu
+埃德韋希特 埃德韦希特 [ai1 de2 wei2 xi1 te4] /Edewecht (Gemeinde in Deutschland) (Geo)/
+
 # ID-f64BL8Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 男性親屬 男性亲属 [nan2 xing4 qin1 shu3] /männliche Verwandtschaft (u.E.) (S)/
@@ -404595,7 +404625,9 @@ Ct機 Ct机 [C t ji1] /Computertomograph, CT (S, Med, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 卡納達語 卡纳达语 [ka3 na4 da2 yu3] /Kannada, Kanaresisch (eine Sprache) (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-卡納達語 卡纳达语 [ka3 na4 da2 yu3] /Kannada, Kanaresisch (eine Sprache) (Sprachw)/
+# 卡納達語 卡纳达语 [ka3 na4 da2 yu3] /Kannada, Kanaresisch (eine Sprache) (Sprachw)/
+# Ver 2026-10-30T14:53:01Z nikolaus Stat-New >Verbesserung 
+卡納達語 卡纳达语 [ka3 na4 da2 yu3] /Kannada, Kanaresisch (eine ind. Sprache) (S, Sprachw)/
 
 # ID-f71yy9k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -450393,7 +450425,9 @@ X射線防護 X射线防护 [X she4 xian4 fang2 hu4] /Schutz vor Röntgenstrahle
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 我有時間 我有时间 [wo3 you3 shi2 jian1] /Ich habe Zeit (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-我有時間 我有时间 [wo3 you3 shi2 jian1] /Ich habe Zeit (Sprachw)/
+# 我有時間 我有时间 [wo3 you3 shi2 jian1] /Ich habe Zeit (Sprachw)/
+# Ver 2026-10-30T14:03:16Z nikolaus Stat-New >Verbesserung 
+我有時間 我有时间 [wo3 you3 shi2 jian1] /Ich habe Zeit. (Satz)/
 
 # ID-g35wt0t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -497077,6 +497111,10 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2023-09-15T20:00:36Z nikolaus Stat-New >Verbesserung 
 建成區 建成区 [jian4 cheng2 qu1] /bebautes Gebiet (S, Geo)/
 
+# ID-h00aE4s
+# Ver 2026-10-30T18:47:00Z nikolaus Stat-New >Neu
+瓦爾德基希 瓦尔德基希 [wa3 er3 de2 ji1 xi1] /Waldkirch (Stadt in Deutschland) (Geo)/
+
 # ID-h00aF8U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 無擺動式傳墨輥輸墨裝置 无摆动式传墨辊输墨装置 [wu2 bai3 dong4 shi4 chuan2 mo4 gun3 shu1 mo4 zhuang1 zhi4] /heberloses Farbwerk (u.E.)/
@@ -511532,6 +511570,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # ID-h20IB8R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 期盼 期盼 [qi1 pan4] /hoffnungsvoll erwarten (V)/
+
+# ID-h20IQ6W
+# Ver 2026-10-30T18:38:55Z nikolaus Stat-New >Neu
+海德 海德 [hai3 de2] /Heide (Stadt in Deutschland) (Geo)//
 
 # ID-h20IQ7X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -540170,7 +540212,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 海地克里奧爾語 海地克里奥尔语 [hai3 di4 ke4 li3 ao4 er3 yu3] /Haitianische Sprache (u.E.) (Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-海地克里奧爾語 海地克里奥尔语 [hai3 di4 ke4 li3 ao4 er3 yu3] /Haitianische Sprache (Sprachw)/
+# 海地克里奧爾語 海地克里奥尔语 [hai3 di4 ke4 li3 ao4 er3 yu3] /Haitianische Sprache (Sprachw)/
+# Ver 2026-10-30T14:01:59Z nikolaus Stat-New >Verbesserung 
+海地克里奧爾語 海地克里奥尔语 [hai3 di4 ke4 li3 ao4 er3 yu3] /Haitianische Sprache (S, Sprachw)/
 
 # ID-h60SD6B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -646502,6 +646546,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 庫利 库利 [ku4 li4] /Charles Horton Cooley (u.E.) (Eig, Pers, 1929 - 1929)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 庫利 库利 [ku4 li4] /Charles Horton Cooley (Eig, Pers, 1929 - 1929)/
+
+# ID-j10be3o
+# Ver 2026-10-30T14:48:16Z nikolaus Stat-New >Neu
+倫格裡希 伦格里希 [lun2 ge2 li3 xi1] /Lengerich (Stadt in Deutschland) (Geo)/
 
 # ID-j10bP5A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -879087,7 +879135,9 @@ x射線研究 x射线研究 [x she4 xian4 yan2 jiu1] /röntgenologische Forschun
 # Ver 2020-02-16T10:20:11Z nikolaus Stat-New >Verbesserung
 # 闍 闍 [she2] /phonetische Transkription der Silbe jā oder ja ; Bsp.: 闍多伽 闍多伽 -- ; Bsp.: 闍耶跋摩 阇耶跋摩 -- Jayavarman/
 # Ver 2022-02-20T22:37:43Z nikolaus Stat-New >Verbesserung
-闍 闍 [she2] /phonetische Transkription der Silbe jā oder ja (Sprachw) ; Bsp.: 闍多伽 闍多伽 -- ; Bsp.: 闍耶跋摩 阇耶跋摩 -- Jayavarman/
+# 闍 闍 [she2] /phonetische Transkription der Silbe jā oder ja (Sprachw) ; Bsp.: 闍多伽 闍多伽 -- ; Bsp.: 闍耶跋摩 阇耶跋摩 -- Jayavarman/
+# Ver 2026-10-30T13:53:32Z nikolaus Stat-New >Verbesserung 
+闍 闍 [she2] /(phonetische Transkription der Silbe jā oder ja) ; Bsp.: 闍多伽 闍多伽 -- ; Bsp.: 闍耶跋摩 阇耶跋摩 -- Jayavarman/
 
 # ID-m37UZ3M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -1038481,7 +1038531,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 我沒有時間 我没有时间 [wo3 mei2 you3 shi2 jian1] /Ich habe keine Zeit./
 # Ver 2020-10-15T21:18:22Z nikolaus Stat-New >Verbesserung 
-我沒有時間 我没有时间 [wo3 mei2 you3 shi2 jian1] /Ich habe keine Zeit. (Phrase)/
+# 我沒有時間 我没有时间 [wo3 mei2 you3 shi2 jian1] /Ich habe keine Zeit. (Phrase)/
+# Ver 2026-10-30T14:03:40Z nikolaus Stat-New >Verbesserung 
+我沒有時間 我没有时间 [wo3 mei2 you3 shi2 jian1] /Ich habe keine Zeit. (Satz)/
 
 # ID-o63Gl8E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
