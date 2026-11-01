@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-10-31T02:30:01Z
+# Datenstand: 2026-11-01T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -32327,7 +32327,9 @@ BB式滾筒結構 BB式滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 僧伽羅語 僧伽罗语 [seng1 ga1 luo2 yu3] /Singhalesische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-僧伽羅語 僧伽罗语 [seng1 ga1 luo2 yu3] /Singhalesische Sprache (S)/
+# 僧伽羅語 僧伽罗语 [seng1 ga1 luo2 yu3] /Singhalesische Sprache (S)/
+# Ver 2026-10-31T21:57:58Z nikolaus Stat-New >Verbesserung 
+僧伽羅語 僧伽罗语 [seng1 ga1 luo2 yu3] /Singhalesische Sprache, Singhalesisch (S, Sprachw)/
 
 # ID-a44Qu7r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -53132,7 +53134,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 弗裡西語 弗里西语 [fu2 li3 xi1 yu3] /Friesische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-弗裡西語 弗里西语 [fu2 li3 xi1 yu3] /Friesische Sprache (S)/
+# 弗裡西語 弗里西语 [fu2 li3 xi1 yu3] /Friesische Sprache (S)/
+# Ver 2026-10-31T21:48:24Z nikolaus Stat-New >Verbesserung 
+弗裡西語 弗里西语 [fu2 li3 xi1 yu3] /Friesische Sprache, Friesisch (S, Sprachw)/
 
 # ID-a74kY3I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -74237,6 +74241,10 @@ DE匯流排關閉 DE汇流排关闭 [D E hui4 liu2 pai2 guan1 bi4] /DE-Schiene g
 # Ver 2023-10-27T14:57:36Z nikolaus Stat-New >Wortart
 有時間 有时间 [you3 shi2 jian1] /Zeit haben (V)/
 
+# ID-b04jk2Q
+# Ver 2026-10-31T06:59:58Z nikolaus Stat-New >Neu
+埃爾斯多夫 埃尔斯多夫 [ai1 er3 si1 duo1 fu1] /Elsdorf (Stadt in Deutschland) (Geo)/
+
 # ID-b04jZ3E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 舊金山 旧金山 [jiu4 jin1 shan1] /San Francisco (u.E.) (Eig, Geo)/
@@ -78327,7 +78335,9 @@ ISBN國際標準書號 ISBN国际标准书号 [I S B N guo2 ji4 biao1 zhun3 shu1
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 古愛爾蘭語 古爱尔兰语 [gu3 ai4 er3 lan2 yu3] /Altirische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-古愛爾蘭語 古爱尔兰语 [gu3 ai4 er3 lan2 yu3] /Altirische Sprache (S)/
+# 古愛爾蘭語 古爱尔兰语 [gu3 ai4 er3 lan2 yu3] /Altirische Sprache (S)/
+# Ver 2026-10-31T21:40:23Z nikolaus Stat-New >Verbesserung 
+古愛爾蘭語 古爱尔兰语 [gu3 ai4 er3 lan2 yu3] /Altirische Sprache (S, Sprachw)/
 
 # ID-b10kE1z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -109957,6 +109967,10 @@ AA制 AA制 [A A zhi4] /Jeder zahlt für sich selbst (Redew)/
 # Ver 2020-05-30T15:15:36Z nikolaus Stat-New >Verbesserung 
 一看就 一看就 [yi1 kan4 jiu4] /und sogleich; und schon (Adv)/
 
+# ID-b55Wm6Q
+# Ver 2026-10-31T07:11:44Z nikolaus Stat-New >Neu
+加爾德萊根 加尔德莱根 [jia1 er3 de2 lai2 gen1] /Gardelegen (Stadt in Deutschland) (Geo)/
+
 # ID-b55WE2L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 獵人 猎人 [lie4 ren2] /Jäger (u.E.) (S)/Verfolger (u.E.) (S)/
@@ -125597,7 +125611,9 @@ X光吸收光譜 X光吸收光谱 [X guang1 xi1 shou1 guang1 pu3] /Röntgenabsor
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 古英語 古英语 [gu3 ying1 yu3] /Altenglische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-古英語 古英语 [gu3 ying1 yu3] /Altenglische Sprache (S)/
+# 古英語 古英语 [gu3 ying1 yu3] /Altenglische Sprache (S)/
+# Ver 2026-10-31T21:39:52Z nikolaus Stat-New >Verbesserung 
+古英語 古英语 [gu3 ying1 yu3] /Altenglische Sprache (S, Sprachw)/
 
 # ID-b78vA2Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -188259,7 +188275,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 聽我發音 听我发音 [ting1 wo3 fa1 yin1] /Hören Sie auf meine Aussprache. (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-聽我發音 听我发音 [ting1 wo3 fa1 yin1] /Hören Sie auf meine Aussprache. (S)/
+# 聽我發音 听我发音 [ting1 wo3 fa1 yin1] /Hören Sie auf meine Aussprache. (S)/
+# Ver 2026-10-31T21:49:41Z nikolaus Stat-New >Verbesserung 
+聽我發音 听我发音 [ting1 wo3 fa1 yin1] /Hören Sie auf meine Aussprache. (Satz)/
 
 # ID-c67gO7q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -251961,6 +251979,10 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 蘭溪 兰溪 [lan2 xi1] /Lanxi (Stadt in Zhejiang) (Eig, Geo)/
 
+# ID-d57ls4s
+# Ver 2026-10-31T07:05:01Z nikolaus Stat-New >Neu
+拉德福姆瓦爾德 拉德福姆瓦尔德 [la1 de2 fu2 mu3 wa3 er3 de2] /Radevormwald (Stadt in Deutschland) (Geo)/
+
 # ID-d57lZ1t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 # 小腸 小肠 [xiao3 chang2] /Dünndarm (lat: Intestinum tenue) (S, Med)/
@@ -290667,7 +290689,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 佛教音樂 佛教音乐 [fo2 jiao4 yin1 yue4] /Buddhistische Musik (Sprachw)/
 # Ver 2026-10-30T14:00:19Z nikolaus Stat-New >Verbesserung 
-佛教音樂 佛教音乐 [fo2 jiao4 yin1 yue4] /Buddhistische Musik (S,  Buddh)/
+# 佛教音樂 佛教音乐 [fo2 jiao4 yin1 yue4] /Buddhistische Musik (S,  Buddh)/
+# Ver 2026-10-31T06:46:18Z nikolaus Stat-New >Space
+佛教音樂 佛教音乐 [fo2 jiao4 yin1 yue4] /Buddhistische Musik (S, Buddh)/
 
 # ID-e11gI0U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -295440,7 +295464,9 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 
 # ID-e17RH2L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-改刀 改刀 [gai3 dao1] /Schraubenzieher (Umgangssprache) (S)/
+# 改刀 改刀 [gai3 dao1] /Schraubenzieher (Umgangssprache) (S)/
+# Ver 2026-10-31T21:55:33Z nikolaus Stat-Verif >Verbesserung 
+改刀 改刀 [gai3 dao1] /Schraubenzieher (ugs) (S, Tech)/
 
 # ID-e17SI7s
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -311777,7 +311803,9 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 白語 白语 [bai2 yu3] /Bai/
 # Ver 2023-12-11T09:31:33Z nikolaus Stat-New >Verbesserung 
-白語 白语 [bai2 yu3] /Bai (tibetobirmanische Sprache) (Eig, Sprachw)/
+# 白語 白语 [bai2 yu3] /Bai (tibetobirmanische Sprache) (Eig, Sprachw)/
+# Ver 2026-10-31T21:44:31Z nikolaus Stat-New >Verbesserung 
+白語 白语 [bai2 yu3] /Bai (tibetobirmanische Sprache) (S, Sprachw)/
 
 # ID-e41fV4N
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -346185,7 +346213,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 
 # ID-e89wh6Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-他加祿語 他加禄语 [ta1 jia1 lu4 yu3] /Tagalog (eine Sprache auf den Philippinen) (Eig, Sprachw)/
+# 他加祿語 他加禄语 [ta1 jia1 lu4 yu3] /Tagalog (eine Sprache auf den Philippinen) (Eig, Sprachw)/
+# Ver 2026-10-31T22:08:26Z nikolaus Stat-Verif >Verbesserung 
+他加祿語 他加禄语 [ta1 jia1 lu4 yu3] /Tagalog (eine Sprache auf den Philippinen) (S, Sprachw)/
 
 # ID-e89wC4m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -395640,7 +395670,9 @@ X光散射 X光散射 [X guang1 san4 she4] /Röntgenbeugung, Röntgenstreuung (S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 斯洛伐克語 斯洛伐克语 [si1 luo4 fa2 ke4 yu3] /Slowakische Sprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-斯洛伐克語 斯洛伐克语 [si1 luo4 fa2 ke4 yu3] /Slowakische Sprache (S)/
+# 斯洛伐克語 斯洛伐克语 [si1 luo4 fa2 ke4 yu3] /Slowakische Sprache (S)/
+# Ver 2026-10-31T21:59:18Z nikolaus Stat-New >Verbesserung 
+斯洛伐克語 斯洛伐克语 [si1 luo4 fa2 ke4 yu3] /Slowakische Sprache, Slowakisch (S, Sprachw)/
 
 # ID-f59cN2z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -411879,7 +411911,9 @@ Ct機 Ct机 [C t ji1] /Computertomograph, CT (S, Med, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 匈牙利語 匈牙利语 [xiong1 ya2 li4 yu3] /Ungarische Sprache (u.E.) (S, Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-匈牙利語 匈牙利语 [xiong1 ya2 li4 yu3] /Ungarische Sprache (S, Sprachw)/
+# 匈牙利語 匈牙利语 [xiong1 ya2 li4 yu3] /Ungarische Sprache (S, Sprachw)/
+# Ver 2026-10-31T22:02:52Z nikolaus Stat-New >Verbesserung 
+匈牙利語 匈牙利语 [xiong1 ya2 li4 yu3] /Ungarische Sprache, Ungarisch (S, Sprachw)/
 
 # ID-f81yX9U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -425524,7 +425558,9 @@ DA匯流排斷開 DA汇流排断开 [D A hui4 liu2 pai2 duan4 kai1] /DA-Schiene 
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 跨新幾內亞語系 跨新几内亚语系 [kua4 xin1 ji1 nei4 ya4 yu3 xi4] /Trans-Neuguinea-Sprachen/
 # Ver 2023-10-19T08:06:47Z nikolaus Stat-New >Verbesserung 
-跨新幾內亞語系 跨新几内亚语系 [kua4 xin1 ji1 nei4 ya4 yu3 xi4] /Trans-Neuguinea-Sprachen (Eig, Sprachw)/
+# 跨新幾內亞語系 跨新几内亚语系 [kua4 xin1 ji1 nei4 ya4 yu3 xi4] /Trans-Neuguinea-Sprachen (Eig, Sprachw)/
+# Ver 2026-10-31T22:07:25Z nikolaus Stat-New >Verbesserung 
+跨新幾內亞語系 跨新几内亚语系 [kua4 xin1 ji1 nei4 ya4 yu3 xi4] /Trans-Neuguinea-Sprachen (S, Sprachw)/
 
 # ID-g00Ff5f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -441758,6 +441794,10 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # 河南省 河南省 [he2 nan2 sheng3] /Provinz Henan (China) (u.E.) (Eig, Geo)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 河南省 河南省 [he2 nan2 sheng3] /Provinz Henan (China) (Eig, Geo)/
+
+# ID-g22PK6c
+# Ver 2026-10-31T07:02:33Z nikolaus Stat-New >Neu
+費爾斯莫爾德 费尔斯莫尔德 [fei4 er3 si1 mo4 er3 de2] /Versmold (Stadt in Deutschland) (Geo)/
 
 # ID-g22Qi2O
 # Ver 2026-04-14T20:29:32Z nikolaus Stat-New >Neu
@@ -466378,7 +466418,9 @@ IC卡 IC卡 [I C ka3] /Chipkarte (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 世界的語言 世界的语言 [shi4 jie4 de5 yu3 yan2] /Weltsprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-世界的語言 世界的语言 [shi4 jie4 de5 yu3 yan2] /Weltsprache (S)/
+# 世界的語言 世界的语言 [shi4 jie4 de5 yu3 yan2] /Weltsprache (S)/
+# Ver 2026-10-31T22:04:41Z nikolaus Stat-New >Verbesserung 
+世界的語言 世界的语言 [shi4 jie4 de5 yu3 yan2] /Weltsprache (S, Sprachw)/
 
 # ID-g57mW7N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -509123,7 +509165,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 湿 湿 [shi5] /feucht, nass (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-湿 湿 [shi5] /feucht, nass (Adj)/
+# 湿 湿 [shi5] /feucht, nass (Adj)/
+# Ver 2026-10-31T08:52:34Z daniel Stat-New >Aussprache
+湿 湿 [shi1] /feucht, nass (Adj)/
 
 # ID-h17ed0b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -517873,6 +517917,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # 交響樂團員 交响乐团员 [jiao1 xiang3 yue4 tuan2 yuan2] /Philharmoniker (u.E.) (S, Mus)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 交響樂團員 交响乐团员 [jiao1 xiang3 yue4 tuan2 yuan2] /Philharmoniker (S, Mus)/
+
+# ID-h29oq9Q
+# Ver 2026-10-31T07:03:49Z nikolaus Stat-New >Neu
+潘剋塔爾 潘克塔尔 [pan1 ke4 ta3 er3] /Panketal (Gemeinde in Deutschland) (Geo)/
 
 # ID-h29oG9U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -556449,6 +556497,10 @@ SIM卡 SIM卡 [S I M ka3] /SIM-Karte (Lehnwort) (S, EDV)/
 # 電燈泡 电灯泡 [dian4 deng1 pao4] /Glühlampe/
 # Ver 2024-01-09T21:16:25Z nikolaus Stat-New >Verbesserung 
 電燈泡 电灯泡 [dian4 deng1 pao4] /Glühlampe (S)/(lit.) unerwünschter dritter Gast (S)/
+
+# ID-h83MU4y
+# Ver 2026-10-31T07:06:25Z nikolaus Stat-New >Neu
+林德拉爾 林德拉尔 [lin2 de2 la1 er3] /Lindlar (Gemeinde in Deutschland) (Geo)/
 
 # ID-h83Nj5l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -625524,6 +625576,10 @@ X線診斷學 X线诊断学 [X xian4 zhen3 duan4 xue2] /Röntgendiagnostik (S, M
 # Ver 2026-01-01T10:16:29Z nikolaus Stat-New >Verbesserung
 紙毛 纸毛 [zhi3 mao2] /Linting (Papierfaserstaub), Fusseln (S, Druckw)/
 
+# ID-i80EO1N
+# Ver 2026-10-31T07:08:47Z nikolaus Stat-New >Neu
+措森 措森 [cuo4 sen1] /Zossen (Stadt in Deutschland) (Geo)/
+
 # ID-i80Fq3x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 危急 危急 [wei1 ji2] /mäkelig ??? kritisch, gefährlich (u.E.) (Adj)/
@@ -638234,6 +638290,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 之上 之上 [zhi1 shang4] /über (P)/oben (Adv)/
 # Ver 2024-12-12T16:16:38Z nikolaus Stat-New >Verbesserung 
 之上 之上 [zhi1 shang4] /über, auf, oberhalb (P)/oben (Adv)/
+
+# ID-i98vw6H
+# Ver 2026-10-31T07:01:13Z nikolaus Stat-New >Neu
+格勞豪 格劳豪 [ge2 lao2 hao2] /Glauchau (Stadt in Deutschland) (Geo)/
 
 # ID-i98ws0J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -703595,6 +703655,10 @@ AD轉換器 AD转换器 [A D zhuan3 huan4 qi4] /AD-Wandler (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 二千二百三十八 二千二百三十八 [er4 qian1 er4 bai3 san1 shi2 ba1] /2238 (zweitausendzweihundertachtunddreißig)/
 
+# ID-j89gq9J
+# Ver 2026-10-31T08:20:56Z nikolaus Stat-New >Neu
+小把戲 小把戏 [xiao3 ba3 xi4] /kleiner Trick, Sperenzchen (ugs) (S)/
+
 # ID-j89gB2R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 蟬蛻 蝉蜕 [chan2 tui4] /Zikadenpanzer (u.E.) (S, Bio)/
@@ -737550,6 +737614,10 @@ DA轉換器 DA转换器 [D A zhuan3 huan4 qi4] /Digital-Analog-Wandler (S, Phys)
 # Ver 2023-10-28T08:39:25Z nikolaus Stat-New >Wortart
 嘶鳴 嘶鸣 [si1 ming2] /wiehern (V)/
 
+# ID-k37Yz6W
+# Ver 2026-10-31T06:58:43Z nikolaus Stat-New >Neu
+西奧沃萊丁根 西奥沃莱丁根 [xi1 ao4 wo4 lai2 ding1 gen1] /Westoverledingen (Gemeinde in Deutschland) (Geo)/
+
 # ID-k37YQ9b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 來處 来处 [lai2 chu4] /woher (u.E.)/
@@ -742905,6 +742973,10 @@ B大調 B大调 [B da4 diao4] /H-Dur (S, Mus)/
 # ID-k45Fz2h
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 皤 皤 [po2] /weiß (Adj)/
+
+# ID-k45FW2P
+# Ver 2026-10-31T07:07:35Z nikolaus Stat-New >Neu
+伊爾瑟德 伊尔瑟德 [yi1 er3 se4 de2] /Ilsede (Gemeinde in Deutschland) (Geo)/
 
 # ID-k45Ha3A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -768753,7 +768825,9 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 
 # ID-k82il9e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-巴斯克語 巴斯克语 [ba1 si1 ke4 yu3] /(die Sprache) Baskisch (S)/
+# 巴斯克語 巴斯克语 [ba1 si1 ke4 yu3] /(die Sprache) Baskisch (S)/
+# Ver 2026-10-31T21:37:04Z nikolaus Stat-Verif >Verbesserung 
+巴斯克語 巴斯克语 [ba1 si1 ke4 yu3] /Baskisch (Sprache) (S, Sprachw)/
 
 # ID-k82in5B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -783612,7 +783686,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 易怒的 易怒的 [yi4 nu4 de5] /zickig (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-易怒的 易怒的 [yi4 nu4 de5] /zickig (Adj)/
+# 易怒的 易怒的 [yi4 nu4 de5] /zickig (Adj)/
+# Ver 2026-10-31T08:16:01Z nikolaus Stat-New >Verbesserung 
+易怒的 易怒的 [yi4 nu4 de5] /zickig, gereizt (Adj)/
 
 # ID-l03ut6Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -804480,6 +804556,10 @@ DVD驅動器 DVD驱动器 [D V D qu1 dong4 qi4] /DVD-Laufwerk (S, EDV)/
 # ID-l32Nv0H
 # Ver 2022-09-11T17:14:29Z nikolaus Stat-New >Neu
 塔維拉 塔维拉 [ta3 wei2 la1] /Tavira (Stadt in Portugal) (Geo)/
+
+# ID-l32NF0w
+# Ver 2026-10-31T07:13:40Z nikolaus Stat-New >Neu
+瓦格霍伊瑟爾 瓦格霍伊瑟尔 [wa3 ge2 huo4 yi1 se4 er3] /Waghäusel (Stadt in Deutschland) (Geo)/
 
 # ID-l32NW0f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1077848,6 +1077928,10 @@ NPD禁止程序 NPD禁止程序 [N P D jin4 zhi3 cheng2 xu4] /NPD-Verbotsverfahr
 # 球狀物 球状物 [qiu2 zhuang4 wu4] /Kugel, Ball (u.E.) (S)/Kugelform, Ballform (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 球狀物 球状物 [qiu2 zhuang4 wu4] /Kugel, Ball (S)/Kugelform, Ballform (S)/
+
+# ID-p20cb7F
+# Ver 2026-10-31T07:10:30Z nikolaus Stat-New >Neu
+默辛根 默辛根 [mo4 xin1 gen1] /Mössingen (Stadt in Deutschland) (Geo)/
 
 # ID-p20ck1p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
