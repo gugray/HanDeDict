@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-01T02:30:01Z
+# Datenstand: 2026-11-02T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -47081,7 +47081,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 文學語言 文学语言 [wen2 xue2 yu3 yan2] /Hochsprache (u.E.) (S)/Literatursprache (u.E.) (S)/Schriftsprache (u.E.) (S, Sprachw)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-文學語言 文学语言 [wen2 xue2 yu3 yan2] /Hochsprache (S)/Literatursprache (S)/Schriftsprache (S, Sprachw)/
+# 文學語言 文学语言 [wen2 xue2 yu3 yan2] /Hochsprache (S)/Literatursprache (S)/Schriftsprache (S, Sprachw)/
+# Ver 2026-11-01T09:44:41Z nikolaus Stat-New >Verbesserung 
+文學語言 文学语言 [wen2 xue2 yu3 yan2] /Hochsprache (S, Sprachw)/Literatursprache (S, Sprachw)/Schriftsprache (S, Sprachw)/
 
 # ID-a65vy3U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -118955,7 +118957,9 @@ x截距 x截距 [x jie2 ju4] /x-Achsenabschnitt (S, Math)/
 
 # ID-b68DH5i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-外語 外语 [wai4 yu3] /Fremdsprache (S)/
+# 外語 外语 [wai4 yu3] /Fremdsprache (S)/
+# Ver 2026-11-01T09:33:04Z nikolaus Stat-Verif >Verbesserung 
+外語 外语 [wai4 yu3] /Fremdsprache (S, Sprachw)/
 
 # ID-b68DQ3K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -197179,7 +197183,9 @@ x線檢驗 x线检验 [x xian4 jian3 yan4] /Röntgenprüfung (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 書籍扒圓 书籍扒圆 [shu1 ji2 ba1 yuan2] /Buchrunden (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-書籍扒圓 书籍扒圆 [shu1 ji2 ba1 yuan2] /Buchrunden (V)/
+# 書籍扒圓 书籍扒圆 [shu1 ji2 ba1 yuan2] /Buchrunden (V)/
+# Ver 2026-11-01T08:48:59Z nikolaus Stat-New >Verbesserung
+書籍扒圓 书籍扒圆 [shu1 ji2 ba1 yuan2] /Buchrunden (S, Druckw)/
 
 # ID-c79JL2C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -208769,6 +208775,10 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # 優先行使權 优先行使权 [you1 xian1 xing2 shi3 quan2] /Vorfahrt (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 優先行使權 优先行使权 [you1 xian1 xing2 shi3 quan2] /Vorfahrt (S)/
+
+# ID-c96nf3I
+# Ver 2026-11-01T12:37:14Z nikolaus Stat-New >Neu 
+黃背心運動 黄背心运动 [huang2 bei4 xin1 yun4 dong4] /Gelbwestenbewegung (in Frankreich) (S, Pol)/
 
 # ID-c96nz5A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -245347,7 +245357,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 聲調屈折 声调屈折 [sheng1 diao4 qu1 zhe2] /Tonsprache (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-聲調屈折 声调屈折 [sheng1 diao4 qu1 zhe2] /Tonsprache/
+# 聲調屈折 声调屈折 [sheng1 diao4 qu1 zhe2] /Tonsprache/
+# Ver 2026-11-01T09:49:42Z nikolaus Stat-New >Verbesserung 
+聲調屈折 声调屈折 [sheng1 diao4 qu1 zhe2] /Tonbeugung, Tonflexion (S, Sprachw)/
 
 # ID-d48nd7C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -300037,6 +300049,10 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2021-02-05T09:45:02Z nikolaus Stat-New >Verbesserung
 毫無考慮余地 毫无考虑余地 [hao2 wu2 kao3 lü4 yu2 di4] /ausgeschlossen (Adj)/ausschließen (V)/
 
+# ID-e24it7c
+# Ver 2026-11-01T06:41:59Z nikolaus Stat-New >Neu
+路德城威登堡 路德城威登堡 [lu4 de2 cheng2 wei1 deng1 bao3] /Lutherstadt Wittenberg (Stadt Deutschland) (Geo)/
+
 # ID-e24iB6P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 七千四百八十八 七千四百八十八 [qi1 qian1 si4 bai3 ba1 shi2 ba1] /7488 (siebentausendvierhundertachtundachtzig) (u.E.)/
@@ -332961,6 +332977,10 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2020-06-14T16:30:54Z nikolaus Stat-New >Verbesserung 
 亞斯伯格症候群 亚斯伯格症候群 [ya4 si1 bo2 ge2 zheng4 hou4 qun2] /Asperger-Syndrom (S, Med)/
 
+# ID-e70pc5S
+# Ver 2026-11-01T19:16:12Z nikolaus Stat-New >Neu 
+恩斯河 恩斯河 [en1 si1 he2] /Enns (Fluss in Österreich) (Geo)/
+
 # ID-e70pn2g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 化學系 化学系 [hua4 xue2 xi4] /Chemieabteilung (u.E.) (S, Chem)/
@@ -336321,7 +336341,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 意大利語 意大利语 [yi4 da4 li4 yu3] /Italienisch (u.E.) (S)/italienische Sprache (u.E.) (S)/italienisch (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-意大利語 意大利语 [yi4 da4 li4 yu3] /Italienisch (S)/italienische Sprache (S)/italienisch (Adj)/
+# 意大利語 意大利语 [yi4 da4 li4 yu3] /Italienisch (S)/italienische Sprache (S)/italienisch (Adj)/
+# Ver 2026-11-01T09:36:23Z nikolaus Stat-New >Verbesserung 
+意大利語 意大利语 [yi4 da4 li4 yu3] /Italienisch, italienische Sprache (S, Sprachw)/italienisch (Adj)/
 
 # ID-e75CU5A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -388100,7 +388122,9 @@ V形皮帶傳動 V形皮带传动 [V xing2 pi2 dai4 chuan2 dong4] /Keilriemenant
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 介音 介音 [jie4 yin1] /Halbvokal (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-介音 介音 [jie4 yin1] /Halbvokal/
+# 介音 介音 [jie4 yin1] /Halbvokal/
+# Ver 2026-11-01T17:30:39Z nikolaus Stat-New >Verbesserung 
+介音 介音 [jie4 yin1] /Gleitlaut, Halbvokal, Medial (S, Sprachw)/
 
 # ID-f48hi8X
 # Ver 2021-12-16T04:20:59Z SciencePark Stat-New >Technikbegriff
@@ -403779,7 +403803,9 @@ Ct機 Ct机 [C t ji1] /Computertomograph, CT (S, Med, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 十字型螺絲刀 十字型螺丝刀 [shi2 zi4 xing2 luo2 si1 dao1] /Kreuzschlitzschraubendreher (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-十字型螺絲刀 十字型螺丝刀 [shi2 zi4 xing2 luo2 si1 dao1] /Kreuzschlitzschraubendreher (S)/
+# 十字型螺絲刀 十字型螺丝刀 [shi2 zi4 xing2 luo2 si1 dao1] /Kreuzschlitzschraubendreher (S)/
+# Ver 2026-11-01T09:39:55Z nikolaus Stat-New >Verbesserung 
+十字型螺絲刀 十字型螺丝刀 [shi2 zi4 xing2 luo2 si1 dao1] /Kreuzschlitzschraubendreher (S, Tech)/
 
 # ID-f70ga3G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -410425,7 +410451,9 @@ Ct機 Ct机 [C t ji1] /Computertomograph, CT (S, Med, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 通過管道 通过管道 [tong1 guo4 guan3 dao4] /gelenkt (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-通過管道 通过管道 [tong1 guo4 guan3 dao4] /gelenkt (V)/
+# 通過管道 通过管道 [tong1 guo4 guan3 dao4] /gelenkt (V)/
+# Ver 2026-11-01T08:57:40Z nikolaus Stat-New >Verbesserung
+通過管道 通过管道 [tong1 guo4 guan3 dao4] /durch Rohre (S)/per Pipeline (S)/
 
 # ID-f79xD0f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -416317,7 +416345,9 @@ IC扁平管座 IC扁平管座 [I C bian3 ping2 guan3 zuo4] /IC-Flachfassung (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 通過煙囪 通过烟囱 [tong1 guo4 yan1 cong1] /gelenkt (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-通過煙囪 通过烟囱 [tong1 guo4 yan1 cong1] /gelenkt (V)/
+# 通過煙囪 通过烟囱 [tong1 guo4 yan1 cong1] /gelenkt (V)/
+# Ver 2026-11-01T08:58:52Z nikolaus Stat-New >Verbesserung
+通過煙囪 通过烟囱 [tong1 guo4 yan1 cong1] /durch den Schornstein (Redew) /durch den Kamin (Redew)/
 
 # ID-f87Vi6C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -451359,7 +451389,9 @@ X射線防護 X射线防护 [X she4 xian4 fang2 hu4] /Schutz vor Röntgenstrahle
 
 # ID-g36Re0q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-十字改刀 十字改刀 [shi2 zi4 gai3 dao1] /Kreuzschlitzschraubenzieher (Umgangssprache) (S)/
+# 十字改刀 十字改刀 [shi2 zi4 gai3 dao1] /Kreuzschlitzschraubenzieher (Umgangssprache) (S)/
+# Ver 2026-11-01T09:39:29Z nikolaus Stat-Verif >Verbesserung 
+十字改刀 十字改刀 [shi2 zi4 gai3 dao1] /Kreuzschlitzschraubenzieher (ugs) (S, Tech)/
 
 # ID-g36Rp1d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -471222,7 +471254,9 @@ DNA分析 DNA分析 [D N A fen1 xi1] /DNA-Analyse (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 粗俗語 粗俗语 [cu1 su2 yu3] /Vulgärsprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-粗俗語 粗俗语 [cu1 su2 yu3] /Vulgärsprache (S)/
+# 粗俗語 粗俗语 [cu1 su2 yu3] /Vulgärsprache (S)/
+# Ver 2026-11-01T09:52:09Z nikolaus Stat-New >Verbesserung 
+粗俗語 粗俗语 [cu1 su2 yu3] /Vulgärsprache, vulgäre Sprache (S, Sprachw)/
 
 # ID-g63Su5k
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -518186,7 +518220,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鍋慮板 锅虑板 [guo1 lü4 ban3] /Filterplatte (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鍋慮板 锅虑板 [guo1 lü4 ban3] /Filterplatte/
+# 鍋慮板 锅虑板 [guo1 lü4 ban3] /Filterplatte/
+# Ver 2026-11-01T17:22:20Z nikolaus Stat-New >Doch
+過濾板 过滤板 [guo1 lü4 ban3] /Filterplatte (S, Tech)/
 
 # ID-h29NH9e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -521179,6 +521215,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # 四千五百 四千五百 [si4 qian1 wu3 bai3] /4500 (viertausendfünfhundert) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 四千五百 四千五百 [si4 qian1 wu3 bai3] /4500 (viertausendfünfhundert)/
+
+# ID-h34kS0a
+# Ver 2026-11-01T12:37:47Z nikolaus Stat-New >Neu
+黃背心 黄背心 [huang2 bei4 xin1] /Gelbweste (s)/
 
 # ID-h34lg4n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -538576,7 +538616,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 本國語 本国语 [ben3 guo2 yu3] /Landessprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-本國語 本国语 [ben3 guo2 yu3] /Landessprache (S)/
+# 本國語 本国语 [ben3 guo2 yu3] /Landessprache (S)/
+# Ver 2026-11-01T09:41:58Z nikolaus Stat-New >Verbesserung 
+本國語 本国语 [ben3 guo2 yu3] /Landessprache, Muttersprache (S, Sprachw)/
 
 # ID-h58Jy4t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -581136,7 +581178,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 譯音 译音 [yi4 yin1] /phonetische Übertragung aus einer Fremdsprache/
 # Ver 2020-06-26T10:45:39Z nikolaus Stat-New >Verbesserung 
-譯音 译音 [yi4 yin1] /phonetische Übertragung aus einer Fremdsprache (S)/
+# 譯音 译音 [yi4 yin1] /phonetische Übertragung aus einer Fremdsprache (S)/
+# Ver 2026-11-01T09:34:19Z nikolaus Stat-New >Verbesserung 
+譯音 译音 [yi4 yin1] /phonetische Übertragung aus einer Fremdsprache (S, Sprachw)/
 
 # ID-i18vI1N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -592239,7 +592283,9 @@ Y染色體 Y染色体 [Y ran3 se4 ti3] /Y-Chromosom (S, Bio)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 仁里 仁里 [ren2 li3] /gute Nachbarschaft (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-仁里 仁里 [ren2 li3] /gute Nachbarschaft/
+# 仁里 仁里 [ren2 li3] /gute Nachbarschaft/
+# Ver 2026-11-01T17:28:26Z nikolaus Stat-New >Verbesserung 
+仁里 仁里 [ren2 li3] /gute Nachbarschaft (S)/Wohnort gütiger Menschen (S)/
 
 # ID-i34ap6J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -665814,6 +665860,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 網上搜查 网上搜查 [wang3 shang4 sou1 cha2] /Onlineuntersuchung (S, EDV)/
 
+# ID-j36tB8S
+# Ver 2026-11-01T11:25:00Z nikolaus Stat-New >Neu
+聖瑪爾塔錐尾鸚鵡 圣玛尔塔锥尾鹦鹉 [sheng4 ma3 er3 ta3 zhui1 wei3 ying1 wu3] /Santa-Marta-Sittich, Santa-Marta-Rotschwanzsittich (lat: Pyrrhura viridicata) (S, Zool)/
+
 # ID-j36uh5A
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 耈 耈 [gou3] /alte Variante von 耇[gou3] (X)/
@@ -680182,6 +680232,10 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2025-08-28T17:40:08Z nikolaus Stat-New >Erweiterung 
 恩尼斯 恩尼斯 [en1 ni2 si1] /António Ramalho Eanes (Eig, Pers, 1935 -)/Ennis (Stadt in Irland) (Geo) /
 
+# ID-j56wG3x
+# Ver 2026-11-01T11:19:36Z nikolaus Stat-New >Neu
+山道年 山道年 [shan1 dao4 nian2] /Santonin, Santoninsäureanhydrid, Santolacton (C15H18O3) (S, Chem)/
+
 # ID-j56xa0n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 伯爾赫斯弗雷德里克斯金納 伯尔赫斯弗雷德里克斯金纳 [bo2 er3 he4 si1 fu2 lei2 de2 li3 ke4 si1 jin1 na4] /Burrhus Frederic Skinner (u.E.) (Eig, Pers, 1904 - 1990)/
@@ -680954,7 +681008,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 國內業務權 国内业务权 [guo2 nei4 ye4 wu4 quan2] /Kabotage (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-國內業務權 国内业务权 [guo2 nei4 ye4 wu4 quan2] /Kabotage/
+# 國內業務權 国内业务权 [guo2 nei4 ye4 wu4 quan2] /Kabotage/
+# Ver 2026-11-01T17:33:50Z nikolaus Stat-New >Verbesserung 
+國內業務權 国内业务权 [guo2 nei4 ye4 wu4 quan2] /Inlandsgeschäftsrecht (S)/
 
 # ID-j57Bg8e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -708045,6 +708101,10 @@ BB式機組 BB式机组 [B B shi4 ji1 zu3] /Gummi-gegen-Gummi-Druckeinheit (S)/
 # Ver 2025-04-17T06:58:54Z nikolaus Stat-New >Verbesserung
 皮蛋 皮蛋 [pi2 dan4] /Hundertjährige Eier (wörtl. Leder-Eier) (S, Ess)/Tausendjährige Eier (wörtl. Leder-Eier) (S, Ess)/
 
+# ID-j95XG7C
+# Ver 2026-11-01T19:14:16Z nikolaus Stat-New >Neu
+穆爾河 穆尔河 [mu4 er3 he2] /Mur (Fluss in Europa) (Geo)/
+
 # ID-j95Yp3h
 # Ver 2025-07-11T15:45:00Z nikolaus Stat-New >Neu
 貝勒尼基 贝勒尼基 [bei4 lei1 ni2 ji1] /Berenike (Königin von Chalkis) (Eig, Pers, 28-79)/
@@ -711071,7 +711131,9 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 掌舵 掌舵 [zhang3 duo4] /Zwischendeck (u.E.) (S)/gelenkt (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-掌舵 掌舵 [zhang3 duo4] /Zwischendeck (S)/gelenkt (V)/
+# 掌舵 掌舵 [zhang3 duo4] /Zwischendeck (S)/gelenkt (V)/
+# Ver 2026-11-01T08:55:25Z nikolaus Stat-New >Verbesserung
+掌舵 掌舵 [zhang3 duo4] /Steuerer, Steuermann (S)/steuern, das Ruder übernehmen (V)/
 
 # ID-k00cS1p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -727686,7 +727748,9 @@ Ct掃描儀 Ct扫描仪 [C t sao4 miao2 yi2] /Computertomograf, CT, CT-Scanner (
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 片兒會 片儿会 [pian4 er5 hui4] /Nachbarschaftstreffen/
 # Ver 2022-11-05T15:49:22Z eingu Stat-New >r5
-片兒會 片儿会 [pian4 r5 hui4] /Nachbarschaftstreffen/
+# 片兒會 片儿会 [pian4 r5 hui4] /Nachbarschaftstreffen/
+# Ver 2026-11-01T17:42:49Z nikolaus Stat-New >Verbesserung 
+片兒會 片儿会 [pian4 r5 hui4] /Nachbarschaftstreffen, Bezirksversammlung (S)/
 
 # ID-k23rL6w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -737518,7 +737582,9 @@ DA轉換器 DA转换器 [D A zhuan3 huan4 qi4] /Digital-Analog-Wandler (S, Phys)
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 音子 音子 [yin1 zi3] /Phonon (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-音子 音子 [yin1 zi3] /Phonon/
+# 音子 音子 [yin1 zi3] /Phonon/
+# Ver 2026-11-01T17:47:01Z nikolaus Stat-New >Verbesserung 
+音子 音子 [yin1 zi3] /Phonon (S, Phys)/
 
 # ID-k37QJ4I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -754318,7 +754384,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 書寫語言 书写语言 [shu1 xie3 yu3 yan2] /Schriftsprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-書寫語言 书写语言 [shu1 xie3 yu3 yan2] /Schriftsprache (S)/
+# 書寫語言 书写语言 [shu1 xie3 yu3 yan2] /Schriftsprache (S)/
+# Ver 2026-11-01T09:43:56Z nikolaus Stat-New >Verbesserung 
+書寫語言 书写语言 [shu1 xie3 yu3 yan2] /Schriftsprache (S, Sprachw)/
 
 # ID-k61SO5Y
 # Ver 2025-03-19T20:34:21Z nikolaus Stat-New >Neu
@@ -790858,7 +790926,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2022-02-01T10:14:08Z nikolaus Stat-New >Wortart
 # 金錢草 金钱草 [jin1 qian2 cao3] /Gilbweiderich (Lysimachia lat.) (S, Bio)/
 # Ver 2025-04-18T08:59:15Z nikolaus Stat-New >Verbesserung 
-金錢草 金钱草 [jin1 qian2 cao3] /Gilbweiderich (lat: Lysimachia) (S, Bot)/
+# 金錢草 金钱草 [jin1 qian2 cao3] /Gilbweiderich (lat: Lysimachia) (S, Bot)/
+# Ver 2026-11-01T12:33:55Z nikolaus Stat-New >Verbesserung 
+金錢草 金钱草 [jin1 qian2 cao3] /Gelbweiderich, Gilbweiderich (lat: Lysimachia) (S, Bot)/
 
 # ID-l13Gs6m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -799524,6 +799594,10 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # 西川 西川 [xi1 chuan1] /Szetschuan, Szechuan (四川 Sìchuān) (Geo)/Jehol (熱河|热河 [Re4 he2]); Rehe Provinz (Manchu: Jehol) (während der Qing-Dynastie, Hauptstadt Chengde 承德, abgeschafft im Jahre 1955 und aufgeteilt zwischen Hebei, Liaoning und Innerer Mongolei) (Gesch)/
 # Ver 2026-01-27T16:30:54Z nikolaus Stat-New >Verbesserung 
 西川 西川 [xi1 chuan1] /Szetschuan, Szechuan (四川 Sìchuān) (Geo)/Jehol (熱河|热河 [Re4 he2]) (Geo, Gesch)/Rehe Provinz (Manchu: Jehol) (Geo, Gesch)/
+
+# ID-l25Il4F
+# Ver 2026-11-01T06:38:03Z nikolaus Stat-New >Neu
+陶努斯山麓巴特索登 陶努斯山麓巴特索登 [tao2 nu3 si1 shan1 lu4 ba1 te4 suo3 deng1] /Bad Soden am Taunus (Stadt in Deutschland) (Geo)/
 
 # ID-l25Iz8Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -823111,7 +823185,9 @@ ISDN接口 ISDN接口 [I S D N e1 kou3] /ISDN-Schnittstelle, ISDN-Buchse, ISDN-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 導絲盤 导丝盘 [dao3 si1 pan2] /Gallette (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-導絲盤 导丝盘 [dao3 si1 pan2] /Gallette/
+# 導絲盤 导丝盘 [dao3 si1 pan2] /Gallette/
+# Ver 2026-11-01T17:25:22Z nikolaus Stat-New >Verbesserung 
+導絲盤 导丝盘 [dao3 si1 pan2] /Gallette (S, Tech)/
 
 # ID-l58FA8h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -921273,7 +921349,9 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 泥石流 泥石流 [ni2 shi2 liu2] /Mure (u.E.) (S)/Murenabgang (u.E.) (S)/Schlammlawine (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-泥石流 泥石流 [ni2 shi2 liu2] /Mure (S)/Murenabgang (S)/Schlammlawine (S)/
+# 泥石流 泥石流 [ni2 shi2 liu2] /Mure (S)/Murenabgang (S)/Schlammlawine (S)/
+# Ver 2026-11-01T19:12:38Z nikolaus Stat-New >Verbesserung 
+泥石流 泥石流 [ni2 shi2 liu2] /Mure (S, Geol)/Murenabgang (S, Geol)/Schlammlawine (S, Geol)/
 
 # ID-m98xm7z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -945213,7 +945291,11 @@ CD播放機 CD播放机 [C D bo1 fang4 ji1] /CD-Player (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 坐機 坐機 [zuo4 ji1] /Festnetztelefon (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-坐機 坐機 [zuo4 ji1] /Festnetztelefon/
+# 坐機 坐機 [zuo4 ji1] /Festnetztelefon/
+# Ver 2026-11-01T17:14:04Z nikolaus Stat-New >Verbesserung 
+# 坐機 坐機 [zuo4 ji1] /Festnetztelefon, Festnetz (S, Tech)/eigenes Flugzeug (S)/
+# Ver 2026-11-01T17:15:38Z nikolaus Stat-New >Verbesserung 
+坐機 坐机 [zuo4 ji1] /Festnetztelefon, Festnetz (S, Tech)/eigenes Flugzeug (S)/
 
 # ID-n32xh8b
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -987078,7 +987160,9 @@ DA匯流排閉合 DA汇流排闭合 [D A hui4 liu2 pai2 bi4 he2] /DA-Schiene ges
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 外國話 外国话 [wai4 guo2 hua4] /Fremdsprache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-外國話 外国话 [wai4 guo2 hua4] /Fremdsprache (S)/
+# 外國話 外国话 [wai4 guo2 hua4] /Fremdsprache (S)/
+# Ver 2026-11-01T09:33:44Z nikolaus Stat-New >Verbesserung 
+外國話 外国话 [wai4 guo2 hua4] /Fremdsprache (S, Sprachw)/
 
 # ID-n90jI0Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1024989,7 +1025073,9 @@ DNA檢驗 DNA检验 [D N A jian3 yan4] /Gentest (S, Bio)/
 # Ver 2026-01-26T08:17:20Z nikolaus Stat-New >Verbesserung
 # 弔 吊 [diao4] /Kran (S, Tech)/Umlenkrolle (S, Tech)/annullieren, für ungültig erklären, widerrufen, zurücknehmen (V)/bemitleiden (V)/etw. am Seil hochziehen, hinab lassen, etw. emporwinden (V)/etw. mit Pelz füttern, Pelz annähen, einnähen (V)/kondolieren, jmdm. sein Beileid ausdrücken, um jmdn. trauern (V)/mitempfinden, sich erbarmen (V)/Diao (Schnur, Schnüre mit 1.000 Kupfermünzen (Käsch, alte Währungseinheit im feudalen China) (Zähl, Wirtsch)/den Geistern der Toten Verehrung darbringen (V)/sein Beileid aussprechen (V)/seine Teilnahme ausdrücken (V)/zu den Totengeistern beten (V)/
 # Ver 2026-01-26T08:20:49Z nikolaus Stat-New >Formatfehler
-弔 吊 [diao4] /Kran (S, Tech)/Umlenkrolle (S, Tech)/annullieren, für ungültig erklären, widerrufen, zurücknehmen (V)/bemitleiden (V)/etw. am Seil hochziehen, hinab lassen, etw. emporwinden (V)/etw. mit Pelz füttern, Pelz annähen, einnähen (V)/kondolieren, jmdm. sein Beileid ausdrücken, um jmdn. trauern (V)/mitempfinden, sich erbarmen (V)/Diao (Schnur, Schnüre mit 1.000 Kupfermünzen, Käsch, alte Währungseinheit im feudalen China) (Zähl, Wirtsch)/den Geistern der Toten Verehrung darbringen (V)/sein Beileid aussprechen, Kondolieren (V)/zu den Totengeistern beten (V)/
+# 弔 吊 [diao4] /Kran (S, Tech)/Umlenkrolle (S, Tech)/annullieren, für ungültig erklären, widerrufen, zurücknehmen (V)/bemitleiden (V)/etw. am Seil hochziehen, hinab lassen, etw. emporwinden (V)/etw. mit Pelz füttern, Pelz annähen, einnähen (V)/kondolieren, jmdm. sein Beileid ausdrücken, um jmdn. trauern (V)/mitempfinden, sich erbarmen (V)/Diao (Schnur, Schnüre mit 1.000 Kupfermünzen, Käsch, alte Währungseinheit im feudalen China) (Zähl, Wirtsch)/den Geistern der Toten Verehrung darbringen (V)/sein Beileid aussprechen, Kondolieren (V)/zu den Totengeistern beten (V)/
+# Ver 2026-11-01T09:00:19Z nikolaus Stat-New >Verbesserung
+弔 吊 [diao4] /Kran (S, Tech)/Umlenkrolle (S, Tech)/annullieren, für ungültig erklären, widerrufen, zurücknehmen (V)/bemitleiden (V)/etw. am Seil hochziehen, hinab lassen, etw. emporwinden (V)/etw. mit Pelz füttern, Pelz annähen, einnähen (V)/kondolieren, jmdm. sein Beileid ausdrücken, um jmdn. trauern (V)/mitempfinden, sich erbarmen (V)/Diao (Schnur, Schnüre mit 1.000 Kupfermünzen, Käsch, alte Währungseinheit im feudalen China) (Zähl, Wirtsch)/den Geistern der Toten Verehrung darbringen (V)/sein Beileid aussprechen, kondolieren (V)/zu den Totengeistern beten (V)/
 
 # ID-o44WD3y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1036733,7 +1036819,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 # 會義字 会义字 [hui4 yi4 zi4] /SS-Sinographem (S)/
 # Ver 2026-01-19T21:52:47Z nikolaus Stat-Verif >Verbesserung 
-會義字 会义字 [hui4 yi4 zi4] /SS-Sinographem (SS: Stroke sequence) (S, Sprache)/
+# 會義字 会义字 [hui4 yi4 zi4] /SS-Sinographem (SS: Stroke sequence) (S, Sprache)/
+# Ver 2026-11-01T09:46:37Z nikolaus Stat-Verif >Verbesserung 
+會義字 会义字 [hui4 yi4 zi4] /SS-Sinographem (SS: Stroke sequence) (S, Sprachw)/
 
 # ID-o61dw2c
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -1054455,7 +1054543,9 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 外國語 外国语 [wai4 guo2 yu3] /Fremdsprache  (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-外國語 外国语 [wai4 guo2 yu3] /Fremdsprache (S)/
+# 外國語 外国语 [wai4 guo2 yu3] /Fremdsprache (S)/
+# Ver 2026-11-01T09:33:22Z nikolaus Stat-New >Verbesserung 
+外國語 外国语 [wai4 guo2 yu3] /Fremdsprache (S, Sprachw)/
 
 # ID-o87qn5b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
