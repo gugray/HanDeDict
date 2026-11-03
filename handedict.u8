@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-02T02:30:01Z
+# Datenstand: 2026-11-03T02:30:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -168136,7 +168136,9 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 錐子 锥子 [zhui1 zi5] /Ahle (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-錐子 锥子 [zhui1 zi5] /Ahle (S)/
+# 錐子 锥子 [zhui1 zi5] /Ahle (S)/
+# Ver 2026-11-02T16:38:48Z nikolaus Stat-New >Verbesserung 
+錐子 锥子 [zhui1 zi5] /Ahle (S, Tech)/
 
 # ID-c38UK3l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -217691,7 +217693,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 活字夾 活字夹 [huo2 zi4 jia1] /Ahle (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-活字夾 活字夹 [huo2 zi4 jia1] /Ahle/
+# 活字夾 活字夹 [huo2 zi4 jia1] /Ahle/
+# Ver 2026-11-02T16:35:32Z nikolaus Stat-New >Verbesserung 
+活字夾 活字夹 [huo2 zi4 jia1] /Winkelhaken (S, Druckw)/Schrifthalter, Typenhalter (S, Druckw)/
 
 # ID-d08SO3A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -521218,7 +521222,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 
 # ID-h34kS0a
 # Ver 2026-11-01T12:37:47Z nikolaus Stat-New >Neu
-黃背心 黄背心 [huang2 bei4 xin1] /Gelbweste (s)/
+# 黃背心 黄背心 [huang2 bei4 xin1] /Gelbweste (s)/
+# Ver 2026-11-02T06:27:58Z nikolaus Stat-New >Fehler
+黃背心 黄背心 [huang2 bei4 xin1] /Gelbweste (S)/
 
 # ID-h34lg4n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -996812,7 +996818,9 @@ IT系統電子工 IT系统电子工 [I T xi4 tong3 dian4 zi3 gong1] /IT-Systemel
 # Ver 2021-12-27T15:46:07Z nikolaus Stat-New >Wortart
 # 錐 锥 [zhui1] /Ahle, Pfriem (S)/langweilen, sich bohren (V)/
 # Ver 2022-11-11T09:31:22Z nikolaus Stat-New >Erweiterung
-錐 锥 [zhui1] /Ahle, Pfriem (S)/Kegel (S, Math)/langweilen, sich bohren (V)/
+# 錐 锥 [zhui1] /Ahle, Pfriem (S)/Kegel (S, Math)/langweilen, sich bohren (V)/
+# Ver 2026-11-02T16:37:29Z nikolaus Stat-New >Verbesserung 
+錐 锥 [zhui1] /Ahle, Pfriem (S  Tech)/Kegel (S, Math)/langweilen, sich bohren (V)/
 
 # ID-o04CH3V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
