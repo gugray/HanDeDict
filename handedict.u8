@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-03T02:30:02Z
+# Datenstand: 2026-11-04T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7441,7 +7441,9 @@ DNA測試 DNA测试 [D N A ce4 shi4] /DNA-Test (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彩色電視機 彩色电视机 [cai3 se4 dian4 shi4 ji1] /Farbfernseher (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-彩色電視機 彩色电视机 [cai3 se4 dian4 shi4 ji1] /Farbfernseher (S)/
+# 彩色電視機 彩色电视机 [cai3 se4 dian4 shi4 ji1] /Farbfernseher (S)/
+# Ver 2026-11-03T16:34:16Z nikolaus Stat-New >Verbesserung 
+彩色電視機 彩色电视机 [cai3 se4 dian4 shi4 ji1] /Farbfernseher (S, Tech)/
 
 # ID-a10xH2Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -43821,7 +43823,9 @@ EDV輔助的 EDV辅助的 [E D V fu3 zhu4 de5] /EDV-gestützt (Adj)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彩色激光打印機 彩色激光打印机 [cai3 se4 ji1 guang1 da3 yin4 ji1] /Farblaserdrucker (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-彩色激光打印機 彩色激光打印机 [cai3 se4 ji1 guang1 da3 yin4 ji1] /Farblaserdrucker (S)/
+# 彩色激光打印機 彩色激光打印机 [cai3 se4 ji1 guang1 da3 yin4 ji1] /Farblaserdrucker (S)/
+# Ver 2026-11-03T16:38:39Z nikolaus Stat-New >Verbesserung 
+彩色激光打印機 彩色激光打印机 [cai3 se4 ji1 guang1 da3 yin4 ji1] /Farblaserdrucker (S, Druckw)/
 
 # ID-a60Qg7Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -96731,7 +96735,9 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彩印紙 彩印纸 [cai3 yin4 zhi3] /Chromopapier (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-彩印紙 彩印纸 [cai3 yin4 zhi3] /Chromopapier (S)/
+# 彩印紙 彩印纸 [cai3 yin4 zhi3] /Chromopapier (S)/
+# Ver 2026-11-03T16:44:03Z nikolaus Stat-New >Verbesserung 
+彩印紙 彩印纸 [cai3 yin4 zhi3] /Chromopapier (S, Druckw)/
 
 # ID-b36AZ7x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -169846,7 +169852,9 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 基準軸 基准轴 [ji1 zhun3 zhou2] /Einheitswelle (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-基準軸 基准轴 [ji1 zhun3 zhou2] /Einheitswelle/
+# 基準軸 基准轴 [ji1 zhun3 zhou2] /Einheitswelle/
+# Ver 2026-11-03T10:57:16Z nikolaus Stat-New >Verbesserung 
+基準軸 基准轴 [ji1 zhun3 zhou2] /Grundwelle, Bezugsachse (S, Tech)/Basisachse (S, Math)//
 
 # ID-c41fC2Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -170741,6 +170749,10 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # 小林一茶 小林一茶 [xiao3 lin2 yi1 cha2] /Kobayashi Issa (u.E.) (Eig, Pers, 1763 - 1827)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 小林一茶 小林一茶 [xiao3 lin2 yi1 cha2] /Kobayashi Issa (Eig, Pers, 1763 - 1827)/
+
+# ID-c42iF0y
+# Ver 2026-11-03T18:59:27Z nikolaus Stat-New >Neu
+奧斯汀 奥斯汀 [ao4 si1 ting1] /Austin (Stadt in Texas, USA) (Geo)/
 
 # ID-c42iJ2m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -189053,7 +189065,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 彩 彩 [cai4] /bunt (S)/
 # Ver 2022-02-22T16:47:36Z nikolaus Stat-New >Verbesserung
-彩 彩 [cai4] /bunt (Adj)/
+# 彩 彩 [cai4] /bunt (Adj)/
+# Ver 2026-11-03T15:08:37Z daniel Stat-New >Aussprache
+彩 彩 [cai3] /bunt (Adj)/
 
 # ID-c68iY8J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -259165,7 +259179,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 濬集處 濬集处 [jun4 ji2 chu4] /Großer Staatsrat (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-濬集處 濬集处 [jun4 ji2 chu4] /Großer Staatsrat/
+# 濬集處 濬集处 [jun4 ji2 chu4] /Großer Staatsrat/
+# Ver 2026-11-03T11:00:05Z nikolaus Stat-New >Verbesserung 
+濬集處 濬集处 [jun4 ji2 chu4] /Ort der tiefen Zusammenkunft (Redew)/
 
 # ID-d67xY4z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -377752,7 +377768,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 打號軸 打号轴 [da3 hao4 zhou2] /Nummerierwelle (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-打號軸 打号轴 [da3 hao4 zhou2] /Nummerierwelle/
+# 打號軸 打号轴 [da3 hao4 zhou2] /Nummerierwelle/
+# Ver 2026-11-03T11:02:14Z nikolaus Stat-New >Verbesserung 
+打號軸 打号轴 [da3 hao4 zhou2] /Nummerierwelle (S, Druckw)/Ziffernwelle (S, Tech)/
 
 # ID-f33gJ2L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -407061,7 +407079,9 @@ Ct機 Ct机 [C t ji1] /Computertomograph, CT (S, Med, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 克卡 克卡 [ke4 ka3] /unbestimmte Wärmeeinheit (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-克卡 克卡 [ke4 ka3] /unbestimmte Wärmeeinheit/
+# 克卡 克卡 [ke4 ka3] /unbestimmte Wärmeeinheit/
+# Ver 2026-11-03T10:44:11Z nikolaus Stat-New >Verbesserung 
+克卡 克卡 [ke4 ka3] /Grammkalorie (S, Phys)/
 
 # ID-f74Lv9j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -450431,7 +450451,9 @@ X射線防護 X射线防护 [X she4 xian4 fang2 hu4] /Schutz vor Röntgenstrahle
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 攝象管 摄象管 [she4 xiang4 guan3] /Fernsehaufnahmeröhre (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-攝象管 摄象管 [she4 xiang4 guan3] /Fernsehaufnahmeröhre/
+# 攝象管 摄象管 [she4 xiang4 guan3] /Fernsehaufnahmeröhre/
+# Ver 2026-11-03T11:04:51Z nikolaus Stat-New >Verbesserung 
+攝象管 摄象管 [she4 xiang4 guan3] /Bildaufnahmeröhre, Fernsehkameraröhre (S, Tech)/
 
 # ID-g35sp0b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -454916,6 +454938,10 @@ H型印刷機組 H型印刷机组 [H xing2 yin4 shua4 ji1 zu3] /H-Druckwerk (S, 
 # 八千三百零六 八千三百零六 [ba1 qian1 san1 bai3 ling2 liu4] /8306 (achttausenddreihundertsechs) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 八千三百零六 八千三百零六 [ba1 qian1 san1 bai3 ling2 liu4] /8306 (achttausenddreihundertsechs)/
+
+# ID-g41DO9K
+# Ver 2026-11-03T19:43:19Z nikolaus Stat-New >Neu
+耶索洛 耶索洛 [ye2 suo3 luo4] /Jesolo (Stadt in Italien) (Geo)/
 
 # ID-g41Er8B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -519764,6 +519790,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2026-04-24T16:35:33Z nikolaus Stat-New >Verbesserung 
 顴 颧 [quan2] /Jochbein (Os cygomaticum) (S, Anat)/
 
+# ID-h32gP4i
+# Ver 2026-11-03T13:25:20Z nikolaus Stat-New >Neu
+摩擦熱 摩擦热 [mo2 ca1 re4] /Reibungshitze, Reibungswärme (S, Phys)/
+
 # ID-h32hj4P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 光心 光心 [guang1 xin1] /Zentrierspitze, optical centre (u.E.) (S)/
@@ -528326,7 +528356,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 根徑 根径 [gen1 jing4] /Fußkreismesser (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-根徑 根径 [gen1 jing4] /Fußkreismesser/
+# 根徑 根径 [gen1 jing4] /Fußkreismesser/
+# Ver 2026-11-03T10:49:28Z nikolaus Stat-New >Verbesserung 
+根徑 根径 [gen1 jing4] /Fußkreisdurchmesser, Kerndurchmesser (Gewinde od. Zahnräder) (S, Tech)/
 
 # ID-h44ex2f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -534292,7 +534324,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彩屏 彩屏 [cai3 ping2] /Farbmonitor (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-彩屏 彩屏 [cai3 ping2] /Farbmonitor (S)/
+# 彩屏 彩屏 [cai3 ping2] /Farbmonitor (S)/
+# Ver 2026-11-03T16:35:53Z nikolaus Stat-New >Verbesserung 
+彩屏 彩屏 [cai3 ping2] /Farbmonitor (S, Tech)/
 
 # ID-h52OS6C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -577616,7 +577650,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彩色平版印刷術 彩色平版印刷术 [cai3 se4 ping2 ban3 yin4 shua1 shu4] /Chromolithografie (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-彩色平版印刷術 彩色平版印刷术 [cai3 se4 ping2 ban3 yin4 shua1 shu4] /Chromolithografie (S)/
+# 彩色平版印刷術 彩色平版印刷术 [cai3 se4 ping2 ban3 yin4 shua1 shu4] /Chromolithografie (S)/
+# Ver 2026-11-03T16:40:20Z nikolaus Stat-New >Verbesserung 
+彩色平版印刷術 彩色平版印刷术 [cai3 se4 ping2 ban3 yin4 shua1 shu4] /Chromolithografie (S, Druckw)/
 
 # ID-i13IN8Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -703891,6 +703927,10 @@ AD轉換器 AD转换器 [A D zhuan3 huan4 qi4] /AD-Wandler (S, Tech)/
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 蹔 暂 [zan4] /trippeln (V)/Variante von 暫|暂[zan4] (X)/
 
+# ID-j89uM4J
+# Ver 2026-11-03T12:09:18Z nikolaus Stat-New >Neu
+西裝背心 西装背心 [xi1 zhuang1 bei4 xin1] /Anzugsweste (S)/
+
 # ID-j89uM9h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 戈爾韋 戈尔韦 [ge1 er3 wei2] /Galway (u.E.) (Geo)/
@@ -713969,7 +714009,9 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 膠彩畫 胶彩画 [jiao1 cai3 hua4] /Nihonga (u.E.) (Kunst)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-膠彩畫 胶彩画 [jiao1 cai3 hua4] /Nihonga (Kunst)/
+# 膠彩畫 胶彩画 [jiao1 cai3 hua4] /Nihonga (Kunst)/
+# Ver 2026-11-03T16:46:27Z nikolaus Stat-New >Verbesserung 
+膠彩畫 胶彩画 [jiao1 cai3 hua4] /Nihonga (S, Kunst)/
 
 # ID-k03VX0p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -913837,7 +913879,9 @@ B小調 B小调 [B xiao3 diao4] /H-Moll (S, Mus)/
 
 # ID-m87WK0F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-形旁 形旁 [xing2 pang2] /Signifikum/
+# 形旁 形旁 [xing2 pang2] /Signifikum/
+# Ver 2026-11-03T10:52:07Z nikolaus Stat-Verif >Verbesserung 
+形旁 形旁 [xing2 pang2] /Signifikum, Bedeutungskomponente (S)/
 
 # ID-m87Xf9k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -928175,7 +928219,9 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 超冬場 超冬场 [chao1 dong1 chang3] /Überwinterungsplatz (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-超冬場 超冬场 [chao1 dong1 chang3] /Überwinterungsplatz/
+# 超冬場 超冬场 [chao1 dong1 chang3] /Überwinterungsplatz/
+# Ver 2026-11-03T11:07:20Z nikolaus Stat-New >Verbesserung 
+超冬場 超冬场 [chao1 dong1 chang3] /Überwinterungsplatz (S)/
 
 # ID-n08af9H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -971873,7 +971919,9 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彩虹 彩虹 [cai3 hong2] /Regenbogen (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-彩虹 彩虹 [cai3 hong2] /Regenbogen (S)/
+# 彩虹 彩虹 [cai3 hong2] /Regenbogen (S)/
+# Ver 2026-11-03T16:37:50Z nikolaus Stat-New >Verbesserung 
+彩虹 彩虹 [cai3 hong2] /Regenbogen (S, Met)/
 
 # ID-n69dU9E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -980201,6 +980249,10 @@ X光檢查 X光检查 [X guang1 jian3 cha2] /Durchleuchtung (S)/röntgen (V)/
 # 七千二百五十二 七千二百五十二 [qi1 qian1 er4 bai3 wu3 shi2 er4] /7252 (siebentausendzweihundertzweiundfünfzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 七千二百五十二 七千二百五十二 [qi1 qian1 er4 bai3 wu3 shi2 er4] /7252 (siebentausendzweihundertzweiundfünfzig)/
+
+# ID-n80sl3W
+# Ver 2026-11-03T12:15:21Z nikolaus Stat-New >Neu
+加熱背心 加热背心 [jia1 re4 bei4 xin1] /Thermoweste, Wärmeweste (S)/
 
 # ID-n80st9H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -996820,7 +996872,9 @@ IT系統電子工 IT系统电子工 [I T xi4 tong3 dian4 zi3 gong1] /IT-Systemel
 # Ver 2022-11-11T09:31:22Z nikolaus Stat-New >Erweiterung
 # 錐 锥 [zhui1] /Ahle, Pfriem (S)/Kegel (S, Math)/langweilen, sich bohren (V)/
 # Ver 2026-11-02T16:37:29Z nikolaus Stat-New >Verbesserung 
-錐 锥 [zhui1] /Ahle, Pfriem (S  Tech)/Kegel (S, Math)/langweilen, sich bohren (V)/
+# 錐 锥 [zhui1] /Ahle, Pfriem (S  Tech)/Kegel (S, Math)/langweilen, sich bohren (V)/
+# Ver 2026-11-03T06:40:05Z nikolaus Stat-New >Formatfehler
+錐 锥 [zhui1] /Ahle, Pfriem (S, Tech)/Kegel (S, Math)/langweilen, sich bohren (V)/
 
 # ID-o04CH3V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1032313,7 +1032367,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 車本 车本 [che1 ben3] /Fahrzeugpapiere (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-車本 车本 [che1 ben3] /Fahrzeugpapiere/
+# 車本 车本 [che1 ben3] /Fahrzeugpapiere/
+# Ver 2026-11-03T10:53:56Z nikolaus Stat-New >Verbesserung 
+車本 车本 [che1 ben3] /Führerschein (S)/
 
 # ID-o54XR9u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -1077591,7 +1077647,9 @@ NPD禁止程序 NPD禁止程序 [N P D jin4 zhi3 cheng2 xu4] /NPD-Verbotsverfahr
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彩色印版 彩色印版 [cai3 se4 yin4 ban3] /Buntdruckform (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-彩色印版 彩色印版 [cai3 se4 yin4 ban3] /Buntdruckform (S)/
+# 彩色印版 彩色印版 [cai3 se4 yin4 ban3] /Buntdruckform (S)/
+# Ver 2026-11-03T16:42:03Z nikolaus Stat-New >Verbesserung 
+彩色印版 彩色印版 [cai3 se4 yin4 ban3] /Buntdruckform (S, Druckw)/
 
 # ID-p19xA9T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
