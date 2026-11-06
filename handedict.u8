@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-05T02:30:01Z
+# Datenstand: 2026-11-06T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -76383,7 +76383,9 @@ ISBN國際標準書號 ISBN国际标准书号 [I S B N guo2 ji4 biao1 zhun3 shu1
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 申請方式 申请方式 [shen1 qing3 fang1 shi4] /Anforderungsmodus (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-申請方式 申请方式 [shen1 qing3 fang1 shi4] /Anforderungsmodus/
+# 申請方式 申请方式 [shen1 qing3 fang1 shi4] /Anforderungsmodus/
+# Ver 2026-11-05T10:41:48Z nikolaus Stat-New >Verbesserung 
+申請方式 申请方式 [shen1 qing3 fang1 shi4] /Bewerbungsverfahren (S) /
 
 # ID-b07uI3Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -99731,7 +99733,9 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 打開天頭 打开天头 [da3 kai1 tian1 tou2] /offener Kopf (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-打開天頭 打开天头 [da3 kai1 tian1 tou2] /offener Kopf/
+# 打開天頭 打开天头 [da3 kai1 tian1 tou2] /offener Kopf/
+# Ver 2026-11-05T11:04:30Z nikolaus Stat-New >Verbesserung 
+打開天頭 打开天头 [da3 kai1 tian1 tou2] /Header erweitern (Webdesign) (V)/
 
 # ID-b40NR7i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -179139,7 +179143,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 喂入組 喂入组 [wei2 ru4 zu3] /Eingangsgruppe (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-喂入組 喂入组 [wei2 ru4 zu3] /Eingangsgruppe/
+# 喂入組 喂入组 [wei2 ru4 zu3] /Eingangsgruppe/
+# Ver 2026-11-05T10:25:01Z nikolaus Stat-New >Verbesserung 
+喂入組 喂入组 [wei2 ru4 zu3] /Einzugsgruppe S, Druckw)/Zuführbaugruppe (S, Tech)/
 
 # ID-c54Ae6F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -181777,7 +181783,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 運費已付 运费已付 [yun4 fei4 yi3 fu4] /frachtfrei (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-運費已付 运费已付 [yun4 fei4 yi3 fu4] /frachtfrei (Adj)/
+# 運費已付 运费已付 [yun4 fei4 yi3 fu4] /frachtfrei (Adj)/
+# Ver 2026-11-05T15:49:24Z nikolaus Stat-New >Verbesserung 
+運費已付 运费已付 [yun4 fei4 yi3 fu4] /frachtfrei (Adj)/franko (Adv)/
 
 # ID-c58dm3X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -202111,7 +202119,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 抽條 抽条 [chou1 tiao2] /Wachstumsschub (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-抽條 抽条 [chou1 tiao2] /Wachstumsschub/
+# 抽條 抽条 [chou1 tiao2] /Wachstumsschub/
+# Ver 2026-11-05T08:41:11Z nikolaus Stat-New >Verbesserung 
+抽條 抽条 [chou1 tiao2] /austreiben, sprossen (V, Bot)/Austrieb (S, Bot)/Tunnelzug, Kordelzug (S)/
 
 # ID-c87ej3v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -274923,7 +274933,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 線條軟片 线条软片 [xian4 tiao2 ruan3 pian4] /Linefilm (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-線條軟片 线条软片 [xian4 tiao2 ruan3 pian4] /Linefilm/
+# 線條軟片 线条软片 [xian4 tiao2 ruan3 pian4] /Linefilm/
+# Ver 2026-11-05T10:55:48Z nikolaus Stat-New >Verbesserung 
+線條軟片 线条软片 [xian4 tiao2 ruan3 pian4] /Linefilm, Strichfilm (S)/
 
 # ID-d89rD4h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -321069,7 +321081,9 @@ X電容 X电容 [X dian4 rong2] /X-Kondensator (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 分配部件 分配部件 [fen1 pei4 bu4 jian4] /Verteilerblock (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-分配部件 分配部件 [fen1 pei4 bu4 jian4] /Verteilerblock/
+# 分配部件 分配部件 [fen1 pei4 bu4 jian4] /Verteilerblock/
+# Ver 2026-11-05T10:46:10Z nikolaus Stat-New >Verbesserung 
+分配部件 分配部件 [fen1 pei4 bu4 jian4] /Teilezuordnung, Bauteilzuordnung (S, Tech)/zugeordnetes Bauteil (S, Tech)/
 
 # ID-e53ow2K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -394092,7 +394106,9 @@ X光散射 X光散射 [X guang1 san4 she4] /Röntgenbeugung, Röntgenstreuung (S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 光點式 光点式 [guang1 dian3 shi4] /Lichtmarken..., Lichtpunkt... (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-光點式 光点式 [guang1 dian3 shi4] /Lichtmarken..., Lichtpunkt.../
+# 光點式 光点式 [guang1 dian3 shi4] /Lichtmarken..., Lichtpunkt.../
+# Ver 2026-11-05T10:29:11Z nikolaus Stat-New >Verbesserung 
+光點式 光点式 [guang1 dian3 shi4] /Lichtmarken-, Lichtpunkt- (Vorsilbe)/
 
 # ID-f57ct8N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -426260,7 +426276,9 @@ ATM卡 ATM卡 [A T M ka3] /ATM Karte (S)/Bankomatkarte (Schweiz, Österr.) (S)/G
 
 # ID-g01yf3a
 # Ver 2026-04-04T08:18:51Z nikolaus Stat-New >Neu
-延衚索酸 延胡索酸 [yan2 hu2 suo3 suan1] /Fumarsäure, trans-Butendisäure, trans-Ethylendicarbonsäure/
+# 延衚索酸 延胡索酸 [yan2 hu2 suo3 suan1] /Fumarsäure, trans-Butendisäure, trans-Ethylendicarbonsäure/
+# Ver 2026-11-05T10:53:39Z nikolaus Stat-New >Verbesserung 
+延衚索酸 延胡索酸 [yan2 hu2 suo3 suan1] /Fumarsäure, trans-Butendisäure, trans-Ethylendicarbonsäure (C4H4O4) (S, Chem)/
 
 # ID-g01yF6y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -475773,6 +475791,10 @@ DNA分析 DNA分析 [D N A fen1 xi1] /DNA-Analyse (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 壓縮 压缩 [ya1 suo1] /komprimieren (V)/quetschen, verpressen (V)/straffen; kürzen (V)/
 
+# ID-g70wn4x
+# Ver 2026-11-05T14:31:08Z nikolaus Stat-New >Neu
+潛水背心 潜水背心 [qian2 shui3 bei4 xin1] /Taucherweste (S)/
+
 # ID-g70ws6I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 費公尺 费公尺 [fei4 gong1 chi3] /Femtometer (fm, eine Längeneinheit) (S, Phys)/
@@ -488449,7 +488471,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 腳線 脚线 [jiao3 xian4] /Fußlinie (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-腳線 脚线 [jiao3 xian4] /Fußlinie/
+# 腳線 脚线 [jiao3 xian4] /Fußlinie/
+# Ver 2026-11-05T08:43:43Z nikolaus Stat-New >Verbesserung 
+腳線 脚线 [jiao3 xian4] /Fußleiste, Fußbodenleiste, Sockelleiste (S)/
 
 # ID-g88jF3e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -617923,7 +617947,9 @@ CD刻錄機 CD刻录机 [C D ke4 lu4 ji1] /CD-Brenner (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 成象制版 成象制版 [cheng2 xiang4 zhi4 ban3] /Imagesetting (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-成象制版 成象制版 [cheng2 xiang4 zhi4 ban3] /Imagesetting/
+# 成象制版 成象制版 [cheng2 xiang4 zhi4 ban3] /Imagesetting/
+# Ver 2026-11-05T10:49:17Z nikolaus Stat-New >Verbesserung 
+成象制版 成象制版 [cheng2 xiang4 zhi4 ban3] /Druckformherstellung (S, Druckw)/
 
 # ID-i69Eh9P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -668302,7 +668328,9 @@ CD自動接紙裝置 CD自动接纸装置 [C D zi4 dong4 jie1 zhi3 zhuang1 zhi4]
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 芯頭 芯头 [xin1 tou2] /Dorn (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-芯頭 芯头 [xin1 tou2] /Dorn/
+# 芯頭 芯头 [xin1 tou2] /Dorn/
+# Ver 2026-11-05T08:52:21Z nikolaus Stat-New >Verbesserung 
+芯頭 芯头 [xin1 tou2] /Dorn, Kernkopf (S, Tech)/
 
 # ID-j39IE9U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -935352,6 +935380,10 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 金屬色亮光油 金属色亮光油 [jin1 shu3 se4 liang4 guang1 you2] /Metallpigmentlack (S)/
 
+# ID-n18wV6s
+# Ver 2026-11-05T14:27:59Z nikolaus Stat-New >Neu
+鉛背心 铅背心 [qian1 bei4 xin1] /Bleiweste, Bleischürze (S)/
+
 # ID-n18xw3q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 測量塊條 测量块条 [ce4 liang2 kuai4 tiao2] /Messfeldstreifen (u.E.) (Phys)/
@@ -986744,7 +986776,9 @@ DA匯流排閉合 DA汇流排闭合 [D A hui4 liu2 pai2 bi4 he2] /DA-Schiene ges
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 繞羅拉 绕罗拉 [rao4 luo2 la1] /Faserwickel (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-繞羅拉 绕罗拉 [rao4 luo2 la1] /Faserwickel/
+# 繞羅拉 绕罗拉 [rao4 luo2 la1] /Faserwickel/
+# Ver 2026-11-05T10:33:33Z nikolaus Stat-New >Löschen
+繞羅拉 绕罗拉 [rao4 luo2 la1] /*** löschen (X)/
 
 # ID-n89Br8M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1015726,7 +1015760,9 @@ pH值 pH值 [p H zhi2] /pH-Wert (S, Chem)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 進紙處 进纸处 [jin4 zhi3 chu4] /Einlaufstelle (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-進紙處 进纸处 [jin4 zhi3 chu4] /Einlaufstelle/
+# 進紙處 进纸处 [jin4 zhi3 chu4] /Einlaufstelle/
+# Ver 2026-11-05T10:36:22Z nikolaus Stat-New >Verbesserung 
+進紙處 进纸处 [jin4 zhi3 chu4] /Papiereinzug, Papierfach, Papierzufuhr (S, Druckw)/
 
 # ID-o31NA5Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1033359,7 +1033395,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 殤丁口 殇丁口 [shang1 ding1 kou3] /Tod eines Jugendlichen (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-殤丁口 殇丁口 [shang1 ding1 kou3] /Tod eines Jugendlichen/
+# 殤丁口 殇丁口 [shang1 ding1 kou3] /Tod eines Jugendlichen/
+# Ver 2026-11-05T10:39:44Z nikolaus Stat-New >Verbesserung 
+殤丁口 殇丁口 [shang1 ding1 kou3] /Tod eines Jugendlichen (S)/Versterben im Jugendalter (S) /
 
 # ID-o56xR5I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1035923,7 +1035961,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 後片 后片 [hou4 pian4] /Halbschale hinten (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-後片 后片 [hou4 pian4] /Halbschale hinten/
+# 後片 后片 [hou4 pian4] /Halbschale hinten/
+# Ver 2026-11-05T08:54:22Z nikolaus Stat-New >Verbesserung 
+後片 后片 [hou4 pian4] /Hinterteil (Kleidung) (S)/
 
 # ID-o59Kc1R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1067403,6 +1067443,10 @@ IBM敷設電纜系統 IBM敷设电缆系统 [I B M fu1 she4 dian4 lan3 xi4 tong3
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 遠距傳物 远距传物 [yuan3 ju4 chuan2 wu4] /Teleportation (S)/
 
+# ID-p04Wd9E
+# Ver 2026-11-05T14:34:35Z nikolaus Stat-New >Neu
+工作背心 工作背心 [gong1 zuo4 bei4 xin1] /Arbeitsweste (S)/
+
 # ID-p04Wx0i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 四百十二 四百十二 [si4 bai3 shi2 er4] /412 (vierhundertzwölf) (u.E.)/
@@ -1075645,7 +1075689,9 @@ B超檢查 B超检查 [B chao1 jian3 cha2] /Ultraschall-Untersuchung (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 前片 前片 [qian2 pian4] /Halbschale vorn (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-前片 前片 [qian2 pian4] /Halbschale vorn/
+# 前片 前片 [qian2 pian4] /Halbschale vorn/
+# Ver 2026-11-05T10:18:53Z nikolaus Stat-New >Verbesserung 
+前片 前片 [qian2 pian4] /Vorderteil (Kleidung) (S)/
 
 # ID-p16qR4M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
