@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-09T02:30:01Z
+# Datenstand: 2026-11-12T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7408,7 +7408,9 @@ DNA測試 DNA测试 [D N A ce4 shi4] /DNA-Test (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 元音 元音 [yuan2 yin1] /Vokal (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-元音 元音 [yuan2 yin1] /Vokal (S)/
+# 元音 元音 [yuan2 yin1] /Vokal (S)/
+# Ver 2026-11-11T16:18:20Z nikolaus Stat-New >Verbesserung 
+元音 元音 [yuan2 yin1] /Vokal (S, Sprachw)/
 
 # ID-a10vm5K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -30543,7 +30545,9 @@ BB式滾筒結構 BB式滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 留置權 留置权 [liu2 zhi4 quan2] /Pfandrecht (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-留置權 留置权 [liu2 zhi4 quan2] /Pfandrecht (S)/
+# 留置權 留置权 [liu2 zhi4 quan2] /Pfandrecht (S)/
+# Ver 2026-11-11T16:47:59Z nikolaus Stat-New >Verbesserung 
+留置權 留置权 [liu2 zhi4 quan2] /Pfandrecht (S, Rechtsw)/
 
 # ID-a42nT0q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -40409,7 +40413,9 @@ EDV輔助的 EDV辅助的 [E D V fu3 zhu4 de5] /EDV-gestützt (Adj)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 初級課本 初级课本 [chu1 ji2 ke4 ben3] /Fibel (Lehrbuch für Schulanfänger) (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-初級課本 初级课本 [chu1 ji2 ke4 ben3] /Fibel (Lehrbuch für Schulanfänger) (S)/
+# 初級課本 初级课本 [chu1 ji2 ke4 ben3] /Fibel (Lehrbuch für Schulanfänger) (S)/
+# Ver 2026-11-11T14:01:00Z nikolaus Stat-New >Verbesserung
+初級課本 初级课本 [chu1 ji2 ke4 ben3] /Fibel (Lehrbuch für Schulanfänger), ABC-Buch (S, Edu)/
 
 # ID-a56fL1v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -74709,6 +74715,10 @@ DE匯流排關閉 DE汇流排关闭 [D E hui4 liu2 pai2 guan1 bi4] /DE-Schiene g
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 欄架 栏架 [lan2 jia4] /Hürde (S, Sport)/
 
+# ID-b04TC7x
+# Ver 2026-11-11T13:48:38Z nikolaus Stat-New >Neu
+阿爾河 阿尔河 [a1 er3 he2] /Aar (Fluss in Deutschland) (Geo)/
+
 # ID-b04Uh0j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 找出 找出 [zhao3 chu1] /herausfinden (u.E.) (V)/
@@ -106725,7 +106735,9 @@ AA制 AA制 [A A zhi4] /Jeder zahlt für sich selbst (Redew)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 字母表 字母表 [zi4 mu3 biao3] /Alphabet <Informatik&gt (u.E.) (S, EDV)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-字母表 字母表 [zi4 mu3 biao3] /Alphabet (Informatik) (S, EDV)/
+# 字母表 字母表 [zi4 mu3 biao3] /Alphabet (Informatik) (S, EDV)/
+# Ver 2026-11-11T13:44:41Z nikolaus Stat-New >Verbesserung
+字母表 字母表 [zi4 mu3 biao3] /Alphabet (Informatik) (S, EDV)/ABC (S, Sprachw)/
 
 # ID-b50NN1i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -213448,6 +213460,12 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 指令執行過程 指令执行过程 [zhi3 ling4 zhi2 xing2 guo4 cheng2] /Ablauf des Befehls (S)/Befehlsablauf (S)/
 
+# ID-d02UL3r
+# Ver 2026-11-11T14:26:40Z nikolaus Stat-New >Neu
+# 清管器 清管器 [qing1 guan3 qi4] /Rohrreinigungsmolch, Molch (S, Tech)/
+# Ver 2026-11-11T14:29:02Z nikolaus Stat-New >Verbesserung
+清管器 清管器 [qing1 guan3 qi4] /Rohrreinigungsmolch, Rohrmolch, Molch (S, Tech)/
+
 # ID-d02UN2G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 偶數頁 偶数页 [ou3 shu4 ye4] /gerade Seiten, linke Seiten (u.E.)/
@@ -242102,6 +242120,10 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # 騶 驺 [zou1] /gehen, führen/Zou (Eig, Fam)/
 # Ver 2021-12-14T13:54:14Z nikolaus Stat-New >Wortart
 騶 驺 [zou1] /gehen, führen (V)/Zou (Eig, Fam)/
+
+# ID-d44bX6y
+# Ver 2026-11-11T17:58:34Z nikolaus Stat-New >Neu
+祭祖 祭祖 [ji4 zu3] /Totenkult, Ahnenkult (S, Rel)/
 
 # ID-d44co9K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -276410,6 +276432,10 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # 離港 离港 [li2 gang3] /auslaufen, ablegen (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 離港 离港 [li2 gang3] /auslaufen, ablegen (V)/
+
+# ID-d91lz5P
+# Ver 2026-11-11T13:51:46Z nikolaus Stat-New >Neu
+葬甲科 葬甲科 [zang4 jia3 ke1] /Aaskäfer (lat: Silphidae) (S, Zool)/
 
 # ID-d91mF9t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -320691,6 +320717,10 @@ X電容 X电容 [X dian4 rong2] /X-Kondensator (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 森起 森起 [sen1 qi3] /zahlreich (Adj)/
 
+# ID-e52Ne1m
+# Ver 2026-11-11T14:10:36Z nikolaus Stat-New >Verbesserung
+江鱈 江鳕 [jiang1 xue3] /Quappe, Aalraupe (lat: Lota lota) (S, Zool)/
+
 # ID-e52NI5I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 八宿縣 八宿县 [ba1 su4 xian4] /Kreis Baxoi (Autonomes Gebiet Tibet, China) (Eig, Geo)/
@@ -331230,6 +331260,10 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # 保羅科爾賀 保罗科尔贺 [bao3 luo2 ke1 er3 he4] /Paulo Coelho (u.E.) (Eig, Pers, 1947 - )/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 保羅科爾賀 保罗科尔贺 [bao3 luo2 ke1 er3 he4] /Paulo Coelho (Eig, Pers, 1947 -)/
+
+# ID-e67Gy3W
+# Ver 2026-11-11T16:46:12Z nikolaus Stat-New >Neumarkt 
+高校法 高校法 [gao1 xiao4 fa3] /Hochschulrecht, Hochschulgesetz (S, Rechtsw)/
 
 # ID-e67Hc3I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -347247,7 +347281,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 刑律 刑律 [xing2 lü4] /Strafrecht (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-刑律 刑律 [xing2 lü4] /Strafrecht (S)/
+# 刑律 刑律 [xing2 lü4] /Strafrecht (S)/
+# Ver 2026-11-11T17:00:21Z nikolaus Stat-New >Verbesserung 
+刑律 刑律 [xing2 lü4] /Strafrecht (S, Rechtsw)/
 
 # ID-e90NP1v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -366338,7 +366374,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 
 # ID-f17xZ3b
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-蚖 蚖 [yuan2] /Protura (Erdreich für Sechsfüßler) (S)/Variante von 螈 (X), Salamander (S)/Molch (S)/Triton (S)/
+# 蚖 蚖 [yuan2] /Protura (Erdreich für Sechsfüßler) (S)/Variante von 螈 (X), Salamander (S)/Molch (S)/Triton (S)/
+# Ver 2026-11-11T14:17:33Z nikolaus Stat-Verif >Verbesserung
+蚖 蚖 [yuan2] /Protura (Erdreich für Sechsfüßler) (S)/Variante von 螈 (X), Salamander (S, Zool)/Molch (S, Zool)/Triton (S)/
 
 # ID-f17yf4G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -436708,7 +436746,9 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 核子武器 核子武器 [he2 zi3 wu3 qi4] /Atomwaffe (u.E.) (S, Mil)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-核子武器 核子武器 [he2 zi3 wu3 qi4] /Atomwaffe (S, Mil)/
+# 核子武器 核子武器 [he2 zi3 wu3 qi4] /Atomwaffe (S, Mil)/
+# Ver 2026-11-11T13:41:45Z nikolaus Stat-New >Verbesserung
+核子武器 核子武器 [he2 zi3 wu3 qi4] /Atomwaffe, A-Waffe (S, Mil)/
 
 # ID-g15sS1m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -448248,6 +448288,10 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 四千三百三十 四千三百三十 [si4 qian1 san1 bai3 san1 shi2] /4330 (viertausenddreihundertdreißig)/
 
+# ID-g32xv8T
+# Ver 2026-11-11T16:53:57Z nikolaus Stat-New >Neu
+性犯罪法 性犯罪法 [xing4 fan4 zui4 fa3] /Sexualstrafrecht, Sexualstrafgesetz (S, Rechtsw)/
+
 # ID-g32xV8Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 朵兒隻 朵儿只 [duo3 er2 zhi1] /Duo'erzhi (u.E.) (Eig, Fam)/
@@ -455747,7 +455791,9 @@ H型印刷機組 H型印刷机组 [H xing2 yin4 shua4 ji1 zu3] /H-Druckwerk (S, 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 雙元音 双元音 [shuang1 yuan2 yin1] /Doppellaut, Doppelvokal, Diphthong (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-雙元音 双元音 [shuang1 yuan2 yin1] /Doppellaut, Doppelvokal, Diphthong (S)/
+# 雙元音 双元音 [shuang1 yuan2 yin1] /Doppellaut, Doppelvokal, Diphthong (S)/
+# Ver 2026-11-11T16:17:39Z nikolaus Stat-New >Verbesserung 
+雙元音 双元音 [shuang1 yuan2 yin1] /Doppellaut, Doppelvokal, Diphthong (S, Sprachw)/
 
 # ID-g42Iz5I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -468408,6 +468454,10 @@ O型密封圈 O型密封圈 [O xing2 mi4 feng1 quan1] /O-Ring, o-förmiger Dicht
 # Ver 2023-12-09T22:21:52Z nikolaus Stat-New >Verbesserung 
 彎道 弯道 [wan1 dao4] /Kurve, Serpentinen (S)/
 
+# ID-g60cv3E
+# Ver 2026-11-11T14:21:01Z nikolaus Stat-New >Neu
+清管係統 清管系统 [qing1 guan3 xi4 tong3] /Molchsystem, Molchtechnik (S, Tech)/
+
 # ID-g60cx3x
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 # 皴 皴 [cun1] /gerissen (Adj), geplatzt (Adj)/gesprungen (V), rissig (Adj)/
@@ -468738,7 +468788,9 @@ O型密封圈 O型密封圈 [O xing2 mi4 feng1 quan1] /O-Ring, o-förmiger Dicht
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 半元音字 半元音字 [ban4 yuan2 yin1 zi4] /Halbvokal (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-半元音字 半元音字 [ban4 yuan2 yin1 zi4] /Halbvokal (S)/
+# 半元音字 半元音字 [ban4 yuan2 yin1 zi4] /Halbvokal (S)/
+# Ver 2026-11-11T16:19:27Z nikolaus Stat-New >Verbesserung 
+半元音字 半元音字 [ban4 yuan2 yin1 zi4] /Halbvokal (S, Sprachw)/
 
 # ID-g60Ei5M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -480174,6 +480226,10 @@ T恤衫 T恤衫 [T xu4 shan1] /T-Shirt (S)/
 # 二次量子化 二次量子化 [er4 ci4 liang4 zi3 hua4] /Zweite Quantisierung (u.E.) (S, Phys)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 二次量子化 二次量子化 [er4 ci4 liang4 zi3 hua4] /Zweite Quantisierung (S, Phys)/
+
+# ID-g76Bo5w
+# Ver 2026-11-11T17:06:26Z nikolaus Stat-New >Neu
+居住權 居住权 [ju1 zhu4 quan2] /Wohnrecht (S, Rechtsw)/
 
 # ID-g76Bo7m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -630161,7 +630217,9 @@ CAS號 CAS号 [C A S hao4] /CAS-Nummer (S, Chem)/Chemical Abstract Services Chem
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 人民法院 人民法院 [ren2 min2 fa3 yuan4] /Volksgericht (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-人民法院 人民法院 [ren2 min2 fa3 yuan4] /Volksgericht (S)/
+# 人民法院 人民法院 [ren2 min2 fa3 yuan4] /Volksgericht (S)/
+# Ver 2026-11-11T16:27:44Z nikolaus Stat-New >Verbesserung 
+人民法院 人民法院 [ren2 min2 fa3 yuan4] /Volksgericht (S, Rechtsw)/Volksgerichtshof (1934-45 in Deutschland) (S, Gesch)/
 
 # ID-i86ZT2C
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -646604,6 +646662,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 祇 祇 [qi2] /Frieden, Friede (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 祇 祇 [qi2] /Frieden, Friede (S)/
+
+# ID-j09Rj5z
+# Ver 2026-11-11T16:54:56Z nikolaus Stat-New >NEU
+性犯罪 性犯罪 [xing4 fan4 zui4] /Sexualstraftat (S, Rechtsw)/
 
 # ID-j09Rv5t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -663550,6 +663612,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 全國人民代表大會常務委員會 全国人民代表大会常务委员会 [quan2 guo2 ren2 min2 dai4 biao3 da4 hui4 chang2 wu4 wei3 yuan2 hui4] /Ständiger Ausschuss des Nationalen Volkskongresses (u.E.) (Pol)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 全國人民代表大會常務委員會 全国人民代表大会常务委员会 [quan2 guo2 ren2 min2 dai4 biao3 da4 hui4 chang2 wu4 wei3 yuan2 hui4] /Ständiger Ausschuss des Nationalen Volkskongresses (Pol)/
+
+# ID-j33kP3n
+# Ver 2026-11-11T14:14:01Z nikolaus Stat-New >Neu
+兩棲鯢 两栖鲵 [liang3 qi1 ni2] /Aalmolch, Fischmolch (lat: Amphiuma) (S, Zool)/
 
 # ID-j33kZ9R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -940115,7 +940181,11 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 核能發電站 核能发电站 [he2 neng2 fa1 dian4 zhan4] /Atomkraftwerk (u.E.) (S)/Kernkraftwerk (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-核能發電站 核能发电站 [he2 neng2 fa1 dian4 zhan4] /Atomkraftwerk (S)/Kernkraftwerk (S)/
+# 核能發電站 核能发电站 [he2 neng2 fa1 dian4 zhan4] /Atomkraftwerk (S)/Kernkraftwerk (S)/
+# Ver 2026-11-11T14:02:04Z nikolaus Stat-New >Verbesserung
+# 核能發電站 核能发电站 [he2 neng2 fa1 dian4 zhan4] /Atomkraftwerk, AKM (S, Tech)/Kernkraftwerk (S, Tech)/
+# Ver 2026-11-11T14:02:25Z nikolaus Stat-New >falsch
+核能發電站 核能发电站 [he2 neng2 fa1 dian4 zhan4] /Atomkraftwerk, AKW (S, Tech)/Kernkraftwerk (S, Tech)/
 
 # ID-n24ZF9e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -964529,6 +964599,10 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # 醯氯 醯氯 [xi1 lü4] /Carbonsäurechlorid, Acylchlorid (u.E.) (S, Chem)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 醯氯 醯氯 [xi1 lü4] /Carbonsäurechlorid, Acylchlorid (S, Chem)/
+
+# ID-n58yF8G
+# Ver 2026-11-11T17:26:06Z nikolaus Stat-New >Neu
+鬆鼠猴屬 松鼠猴属 [song1 shu3 hou2 shu3] /Totenkopfaffen, Totenkopfäffchen (lat: Saimiri) (S, Zool)/
 
 # ID-n58zg1Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1034871,7 +1034945,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 武器持有權 武器持有权 [wu3 qi4 chi2 you3 quan2] /Waffenrecht (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-武器持有權 武器持有权 [wu3 qi4 chi2 you3 quan2] /Waffenrecht (S)/
+# 武器持有權 武器持有权 [wu3 qi4 chi2 you3 quan2] /Waffenrecht (S)/
+# Ver 2026-11-11T17:02:06Z nikolaus Stat-New >Verbesserung 
+武器持有權 武器持有权 [wu3 qi4 chi2 you3 quan2] /Waffenrecht (S, Rechtsw)/
 
 # ID-o58qM7z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
