@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-12T02:30:01Z
+# Datenstand: 2026-11-13T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -25126,6 +25126,10 @@ VDSL網絡 VDSL网络 [V D S L wang3 luo4] /VDSL-Netz (S, EDV)/
 # 牛至 牛至 [niu2 zhi4] /Oregano (S)/
 # Ver 2026-01-31T12:13:28Z nikolaus Stat-New >Verbesserung 
 牛至 牛至 [niu2 zhi4] /Oregano, Dost (S, Ess)/
+
+# ID-a34EV0f
+# Ver 2026-11-12T22:30:18Z nikolaus Stat-New >Neu
+二端元件 二端元件 [er4 duan1 yuan2 jian4] /Zweipol, Zweipol-Bauelement (S, Tech)/
 
 # ID-a34Fs1X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -62249,7 +62253,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 國際標準舞 国际标准舞 [guo2 ji4 biao1 zhun3 wu3] /Tanzsport (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-國際標準舞 国际标准舞 [guo2 ji4 biao1 zhun3 wu3] /Tanzsport (S)/
+# 國際標準舞 国际标准舞 [guo2 ji4 biao1 zhun3 wu3] /Tanzsport (S)/
+# Ver 2026-11-12T13:29:22Z nikolaus Stat-New >Verbesserung 
+國際標準舞 国际标准舞 [guo2 ji4 biao1 zhun3 wu3] /Internationaler Standard-Turniertanz, Tanzsport (S, Sport)/
 
 # ID-a87bj7h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -216509,7 +216515,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 瀣 瀣 [xie4] /feuchter Dunst, Nebel (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-瀣 瀣 [xie4] /feuchter Dunst, Nebel (S)/
+# 瀣 瀣 [xie4] /feuchter Dunst, Nebel (S)/
+# Ver 2026-11-12T16:28:18Z nikolaus Stat-New >Verbesserung 
+瀣 瀣 [xie4] /feuchter Dunst, Nebel (S, Met)/
 
 # ID-d07gc3B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -323335,7 +323343,9 @@ X電容 X电容 [X dian4 rong2] /X-Kondensator (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 躧步 躧步 [xi3 bu4] /Tanz (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-躧步 躧步 [xi3 bu4] /Tanz (S)/
+# 躧步 躧步 [xi3 bu4] /Tanz (S)/
+# Ver 2026-11-12T15:21:57Z nikolaus Stat-New >Verbesserung 
+躧步 躧步 [xi3 bu4] /leichtfüßiger Schritt, anmutiger Tanzschritt (S)/
 
 # ID-e56rP3y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -326167,7 +326177,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 神經節 神经节 [shen2 jing1 jie2] /Überbein (S, Bio)/
 # Ver 2024-11-22T11:14:31Z nikolaus Stat-New >Verbesserung 
-神經節 神经节 [shen2 jing1 jie2] /Ganglion (S, Anat)/Überbein (S, Bio)/
+# 神經節 神经节 [shen2 jing1 jie2] /Ganglion (S, Anat)/Überbein (S, Bio)/
+# Ver 2026-11-12T15:34:20Z nikolaus Stat-New >Verbesserung 
+神經節 神经节 [shen2 jing1 jie2] /Ganglion (S, Anat)/Überbein (lat: Synovialzyste) (S, Anat)/
 
 # ID-e60iW7U
 # Ver 2025-01-27T21:15:22Z nikolaus Stat-New >Neu
@@ -375476,7 +375488,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 燃氣價格 燃气价格 [ran2 qi4 jia4 ge2] /Gaspreise (u.E.) (S, Wirtsch)/Gaspreisen (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-燃氣價格 燃气价格 [ran2 qi4 jia4 ge2] /Gaspreise (S, Wirtsch)/Gaspreisen (S)/
+# 燃氣價格 燃气价格 [ran2 qi4 jia4 ge2] /Gaspreise (S, Wirtsch)/Gaspreisen (S)/
+# Ver 2026-11-12T07:37:39Z nikolaus Stat-New >Verbesserung
+燃氣價格 燃气价格 [ran2 qi4 jia4 ge2] /Gaspreise (S, Wirtsch)/
 
 # ID-f29Xi0H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -498479,7 +498493,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 自罰 自罚 [zi4 fa2] /Buße (u.E.) (S)/Bussen (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-自罰 自罚 [zi4 fa2] /Buße (S)/Bussen (S)/
+# 自罰 自罚 [zi4 fa2] /Buße (S)/Bussen (S)/
+# Ver 2026-11-12T07:34:29Z nikolaus Stat-New >Verbesserung
+自罰 自罚 [zi4 fa2] /Buße, Bußen (S, Rel)/
 
 # ID-h01Hx6w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -535660,6 +535676,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2020-06-24T12:02:40Z nikolaus Stat-New >Verbesserung 
 依次 依次 [yi1 ci4] /in der Reihenfolge, der Reihe nach (S)/
 
+# ID-h54DS5i
+# Ver 2026-11-12T15:30:54Z nikolaus Stat-New >Neu
+受試物質 受试物质 [shou4 shi4 wu4 zhi4] /Prüfsubstanz, Testsubstanz (S, Chem)/
+
 # ID-h54DX5R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 三千零二十四 三千零二十四 [san1 qian1 ling2 er4 shi2 si4] /3024 (dreitausendvierundzwanzig) (u.E.)/
@@ -569906,7 +569926,9 @@ BP機 BP机 [B P ji1] /Piepser (S)/
 # Ver 2021-12-06T09:03:15Z nikolaus Stat-New >Verbesserung
 # 訪客 访客 [fang3 ke4] /Besucher, Gast, Gästen (S)/einen Besuch abstattet (V)/besichtigen, besuchen (V)/Strichvogel (S)/
 # Ver 2022-11-07T08:51:56Z nikolaus Stat-New >Fehler abstattet
-訪客 访客 [fang3 ke4] /Besucher, Gast, Gästen (S)/einen Besuch abstatten (V)/besichtigen, besuchen (V)/Strichvogel (S)/
+# 訪客 访客 [fang3 ke4] /Besucher, Gast, Gästen (S)/einen Besuch abstatten (V)/besichtigen, besuchen (V)/Strichvogel (S)/
+# Ver 2026-11-12T07:38:17Z nikolaus Stat-New >Verbesserung
+訪客 访客 [fang3 ke4] /Besucher, Gast, Gäste (S)/einen Besuch abstatten (V)/besichtigen, besuchen (V)/Strichvogel (S)/
 
 # ID-i02JR6U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -576352,7 +576374,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 體育舞蹈 体育舞蹈 [ti3 yu4 wu3 dao4] /Tanzsport (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-體育舞蹈 体育舞蹈 [ti3 yu4 wu3 dao4] /Tanzsport (S)/
+# 體育舞蹈 体育舞蹈 [ti3 yu4 wu3 dao4] /Tanzsport (S)/
+# Ver 2026-11-12T13:27:50Z nikolaus Stat-New >Verbesserung 
+體育舞蹈 体育舞蹈 [ti3 yu4 wu3 dao4] /Tanzsport (S, Sport)/
 
 # ID-i11Db5q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -676676,7 +676700,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 旅行證件 旅行证件 [lü3 xing2 zheng4 jian4] /Reisedokument (u.E.) (S)/Reisedokumenten (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-旅行證件 旅行证件 [lü3 xing2 zheng4 jian4] /Reisedokument (S)/Reisedokumenten (S)/
+# 旅行證件 旅行证件 [lü3 xing2 zheng4 jian4] /Reisedokument (S)/Reisedokumenten (S)/
+# Ver 2026-11-12T07:39:45Z nikolaus Stat-New >Verbesserung
+旅行證件 旅行证件 [lü3 xing2 zheng4 jian4] /Reisedokument (S)/Reisedokumente (S)/
 
 # ID-j51nN1c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -683294,7 +683320,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 
 # ID-j60nq1P
 # Ver 2018-01-11T11:52:52Z baozi Stat-New >MOE
-陣頭 阵头 [zhen4 tou2] /Traditionelle Volkstanzgruppen auf Jahrmärkten, Volksfesten, Tempelfesten (S)/
+# 陣頭 阵头 [zhen4 tou2] /Traditionelle Volkstanzgruppen auf Jahrmärkten, Volksfesten, Tempelfesten (S)/
+# Ver 2026-11-12T07:40:50Z nikolaus Stat-New >Verbesserung
+陣頭 阵头 [zhen4 tou2] /Traditionelle Volkstanzgruppen auf Jahrmärkten (Volksfesten, Tempelfesten) (S)/
 
 # ID-j60nY7C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -757621,7 +757649,9 @@ A大調 A大调 [A da4 diao4] /A-Dur (S, Mus)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 歐洲議會 欧洲议会 [ou1 zhou1 yi4 hui4] /Europaparlament (u.E.) (S, Pol)/Europaparlaments (u.E.) (S)/Europäisches Parlament (u.E.) (S, Pol)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-歐洲議會 欧洲议会 [ou1 zhou1 yi4 hui4] /Europaparlament (S, Pol)/Europaparlaments (S)/Europäisches Parlament (S, Pol)/
+# 歐洲議會 欧洲议会 [ou1 zhou1 yi4 hui4] /Europaparlament (S, Pol)/Europaparlaments (S)/Europäisches Parlament (S, Pol)/
+# Ver 2026-11-12T07:32:20Z nikolaus Stat-New >Verbesserung
+歐洲議會 欧洲议会 [ou1 zhou1 yi4 hui4] /Europaparlament (S, Pol)/Europäisches Parlament (S, Pol)/
 
 # ID-k66hP0n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -777897,6 +777927,10 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # 科學神教 科学神教 [ke1 xue2 shen2 jiao4] /Scientology (Philos)/
 # Ver 2023-11-25T10:48:26Z nikolaus Stat-New >Wortart
 科學神教 科学神教 [ke1 xue2 shen2 jiao4] /Scientology (Eig, Philos)/
+
+# ID-k94Xj3c
+# Ver 2026-11-12T13:26:22Z nikolaus Stat-New >Neu
+舞蹈課 舞蹈课 [wu3 dao3 ke4] /Tanzkurs, Tanzstunde (S)/
 
 # ID-k94Xo4y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -799269,7 +799303,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 住宅樓宇 住宅楼宇 [zhu4 zhai2 lou2 yu3] /Geschosswohnungsbau (u.E.) (S, Arch)/Wohngebäuden (u.E.) (S, Arch)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-住宅樓宇 住宅楼宇 [zhu4 zhai2 lou2 yu3] /Geschosswohnungsbau (S, Arch)/Wohngebäuden (S, Arch)/
+# 住宅樓宇 住宅楼宇 [zhu4 zhai2 lou2 yu3] /Geschosswohnungsbau (S, Arch)/Wohngebäuden (S, Arch)/
+# Ver 2026-11-12T07:41:32Z nikolaus Stat-New >Verbesserung
+住宅樓宇 住宅楼宇 [zhu4 zhai2 lou2 yu3] /Geschosswohnungsbau (S, Arch)/Wohngebäude (S, Arch)/
 
 # ID-l25bQ5v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -830495,7 +830531,9 @@ n次方根 n次方根 [n ci4 fang1 gen1] /n-te Wurzel (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 課時 课时 [ke4 shi2] /Klasse (u.E.) (S)/Lektion (u.E.) (S)/Periode (u.E.) (S)/Semesterwochenstunde, SWS (u.E.) (S)/Unterrichtsstunde (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-課時 课时 [ke4 shi2] /Klasse (S)/Lektion (S)/Periode (S)/Semesterwochenstunde, SWS (S)/Unterrichtsstunde (S)/
+# 課時 课时 [ke4 shi2] /Klasse (S)/Lektion (S)/Periode (S)/Semesterwochenstunde, SWS (S)/Unterrichtsstunde (S)/
+# Ver 2026-11-12T13:32:40Z nikolaus Stat-New >Verbesserung 
+課時 课时 [ke4 shi2] /Klasse, Lektion (S, Edu)/Periode (S)/Semesterwochenstunde, SWS (S  Edu)/Unterrichtsstunde, Schulstunde (S, Edu)/
 
 # ID-l68Mi4W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -909582,7 +909620,9 @@ QR快速剝離效應 QR快速剥离效应 [Q R kuai4 su4 bo1 li2 xiao4 ying4] /Q
 # Ver 2022-12-28T09:30:07Z nikolaus Stat-New >Verbesserung
 # 午後 午后 [wu3 hou4] /Nachmittag (S)/nach den Stunden des Pferdes (wörtl., alt. chin. Zeitangabe nach den 12 Erdzweigen, 午 [wu3] = Tierkreiszeichen Pferd, 午時 [wu3 shi2] = 11-13:00 ) (temp)/nachmittags (Adv)/
 # Ver 2023-10-03T07:26:44Z nikolaus Stat-New >Space
-午後 午后 [wu3 hou4] /Nachmittag (S)/nach den Stunden des Pferdes (wörtl., alt. chin. Zeitangabe nach den 12 Erdzweigen, 午 [wu3] = Tierkreiszeichen Pferd, 午時 [wu3 shi2] = 11-13:00) (temp)/nachmittags (Adv)/
+# 午後 午后 [wu3 hou4] /Nachmittag (S)/nach den Stunden des Pferdes (wörtl., alt. chin. Zeitangabe nach den 12 Erdzweigen, 午 [wu3] = Tierkreiszeichen Pferd, 午時 [wu3 shi2] = 11-13:00) (temp)/nachmittags (Adv)/
+# Ver 2026-11-12T13:36:17Z nikolaus Stat-New >Verbesserung 
+午後 午后 [wu3 hou4] /Nachmittag, Nachmittagsstunde (S, temp)/nach den Stunden des Pferdes (wörtl., alt. chin. Zeitangabe nach den 12 Erdzweigen, 午 [wu3] = Tierkreiszeichen Pferd, 午時 [wu3 shi2] = 11-13:00) (temp)/nachmittags (Adv)/
 
 # ID-m81rl8I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -970968,7 +971008,9 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 軍隊郵政服務 军队邮政服务 [jun1 dui4 you2 zheng4 fu2 wu4] /Feldpost (u.E.) (S)/Feldpostens (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-軍隊郵政服務 军队邮政服务 [jun1 dui4 you2 zheng4 fu2 wu4] /Feldpost (S)/Feldpostens (S)/
+# 軍隊郵政服務 军队邮政服务 [jun1 dui4 you2 zheng4 fu2 wu4] /Feldpost (S)/Feldpostens (S)/
+# Ver 2026-11-12T07:36:36Z nikolaus Stat-New >Verbesserung
+軍隊郵政服務 军队邮政服务 [jun1 dui4 you2 zheng4 fu2 wu4] /Feldpost, Militärpostdienst (S, Mil)/
 
 # ID-n67Gq0P
 # Ver 2021-11-03T21:31:22Z nikolaus Stat-New >Neu
@@ -987612,7 +987654,9 @@ DA匯流排閉合 DA汇流排闭合 [D A hui4 liu2 pai2 bi4 he2] /DA-Schiene ges
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 隼 隼 [zhun3] /Falke, Habicht (S, Bio)/Adler(nase), Harkennase (S)/
 # Ver 2020-02-15T08:06:26Z nikolaus Stat-New >Verbesserung
-隼 隼 [zhun3] /Falke, Habicht (S, Zool)/Adler(nase), Harkennase (S)/
+# 隼 隼 [zhun3] /Falke, Habicht (S, Zool)/Adler(nase), Harkennase (S)/
+# Ver 2026-11-12T16:35:15Z nikolaus Stat-New >Verbesserung
+隼 隼 [zhun3] /Falke, Habicht, Adler (S, Zool)/Harkennase (S)/
 
 # ID-n90Ln4R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1048621,7 +1048665,9 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 朝 朝 [zhao1] /Frühe, Morgen (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-朝 朝 [zhao1] /Frühe, Morgen (S)/
+# 朝 朝 [zhao1] /Frühe, Morgen (S)/
+# Ver 2026-11-12T13:37:27Z nikolaus Stat-New >Verbesserung 
+朝 朝 [zhao1] /Frühe, Morgen, Morgenstunde (S, temp)/
 
 # ID-o78mJ9q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
