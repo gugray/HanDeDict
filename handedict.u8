@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-13T02:30:01Z
+# Datenstand: 2026-11-14T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -8671,6 +8671,10 @@ DNA測試 DNA测试 [D N A ce4 shi4] /DNA-Test (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 水力工程 水力工程 [shui3 li4 gong1 cheng2] /Wasserbauprojekt (S)/
 
+# ID-a12kK6v
+# Ver 2026-11-13T17:00:11Z nikolaus Stat-New >Neu
+三法則 三法则 [san1 fa3 ze2] /Dreisatz (S, Math)/
+
 # ID-a12kO8C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 韓國銀行 韩国银行 [han2 guo2 yin2 hang2] /Bank von Korea (u.E.) (Wirtsch)/
@@ -14696,6 +14700,10 @@ CCD電荷耦合器件光學系統 CCD电荷耦合器件光学系统 [C C D dian4
 # 有益於健康 有益于健康 [you3 yi4 yu2 jian4 kang1] /gesund (u.E.) (Adj)/heilsam (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 有益於健康 有益于健康 [you3 yi4 yu2 jian4 kang1] /gesund (Adj)/heilsam (Adj)/
+
+# ID-a20vq0l
+# Ver 2026-11-13T15:35:14Z nikolaus Stat-New >Verbesserung 
+環境保護法 环境保护法 [huan2 jing4 bao3 hu4 fa3] /Umweltgesetz, Umweltschutzgesetz (S, Rechtsw)/
 
 # ID-a20vx4O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -40368,6 +40376,10 @@ xy平面 xy平面 [xy ping2 mian4] /xy-Ebene (S, Math)/
 # 二千零二十二 二千零二十二 [er4 qian1 ling2 er4 shi2 er4] /2022 (zweitausendzweiundzwanzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 二千零二十二 二千零二十二 [er4 qian1 ling2 er4 shi2 er4] /2022 (zweitausendzweiundzwanzig)/
+
+# ID-a56dG2I
+# Ver 2026-11-13T11:45:33Z nikolaus Stat-New >Neu
+暴怒 暴怒 [bao4 nu4] /Wut, Wutausbruch, Jähzorn (S, Psych)/
 
 # ID-a56dK4e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -91659,6 +91671,10 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 金田一耕助 金田一耕助 [jin1 tian2 yi1 geng1 zhu4] /Kindaiichi Kosuke (fiktiver japanischer Detektiv) (Eig)/
 
+# ID-b29hP5F
+# Ver 2026-11-13T11:53:32Z nikolaus Stat-New >Neu
+木製義肢 木制义肢 [mu4 zhi4 yi4 zhi1] /Holzbein, Holzprothese (S, Med)/
+
 # ID-b29iy0j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 種名 种名 [zhong3 ming2] /Konfession (u.E.) (S)/
@@ -108961,7 +108977,9 @@ AA制 AA制 [A A zhi4] /Jeder zahlt für sich selbst (Redew)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 車軸破裂 车轴破裂 [che1 zhou2 po4 lie4] /Achsenbruch (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-車軸破裂 车轴破裂 [che1 zhou2 po4 lie4] /Achsenbruch (S)/
+# 車軸破裂 车轴破裂 [che1 zhou2 po4 lie4] /Achsenbruch (S)/
+# Ver 2026-11-13T11:39:41Z nikolaus Stat-New >Verbesserung 
+車軸破裂 车轴破裂 [che1 zhou2 po4 lie4] /Achsenbruch, Achsbruch (S, Kfz)/
 
 # ID-b54xe1m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -121997,6 +122015,10 @@ X光吸收光譜 X光吸收光谱 [X guang1 xi1 shou1 guang1 pu3] /Röntgenabsor
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 語音識別 语音识别 [yu3 yin1 shi2 bie2] /Spracherkennung (S, Sprachw)/
 
+# ID-b72Zu0J
+# Ver 2026-11-13T14:33:58Z nikolaus Stat-New >Neu
+道閘 道闸 [dao4 zha2] /Schlagbaum, Schranke (S, Tech)/
+
 # ID-b72ZN2c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 軋鋼機 轧钢机 [zha2 gang1 ji1] /Walzwerk (u.E.) (S)/
@@ -134757,6 +134779,10 @@ IT人才 IT人才 [I T ren2 cai2] /IT-Personal (S)/
 # Ver 2023-12-08T16:08:03Z nikolaus Stat-New >Verbesserung 
 慈江道 慈江道 [ci2 jiang1 dao4] /Chagang-do (Provinz in Nordkorea) (Geo)/
 
+# ID-b91kI2D
+# Ver 2026-11-13T15:42:07Z nikolaus Stat-New >Neu
+吸收律 吸收律 [xi1 shou1 lü4] /Absorptionsgesetz (S, Math)/
+
 # ID-b91kI5E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 叻沙 叻沙 [le4 sha1] /Laksa [ südostasiat. Suppe mit Nudeln, Gemüse, Fisch oder Krabben, Kokosmilch und Chili,, siehe " 喇沙" ] (u.E.) (S, Ess)/
@@ -144627,7 +144653,9 @@ MP5衝鋒槍 MP5冲锋枪 [M P 5 chong1 feng1 qiang1] /HK MP5 (Maschinengewehr) 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 靈長類動物 灵长类动物 [ling2 chang2 lei4 dong4 wu4] /Primat (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-靈長類動物 灵长类动物 [ling2 chang2 lei4 dong4 wu4] /Primat (S)/
+# 靈長類動物 灵长类动物 [ling2 chang2 lei4 dong4 wu4] /Primat (S)/
+# Ver 2026-11-13T07:38:36Z nikolaus Stat-New >Verbesserung
+靈長類動物 灵长类动物 [ling2 chang2 lei4 dong4 wu4] /Primat (S, Zool)/
 
 # ID-c05Km3H
 # Ver 2020-03-23T12:03:56Z nikolaus Stat-New >Wikipedia
@@ -294643,7 +294671,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 中華人民共和國環境保護法 中华人民共和国环境保护法 [zhong1 hua2 ren2 min2 gong4 he2 guo2 huan2 jing4 bao3 hu4 fa3] /Umweltschutzgesetz der VR China (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-中華人民共和國環境保護法 中华人民共和国环境保护法 [zhong1 hua2 ren2 min2 gong4 he2 guo2 huan2 jing4 bao3 hu4 fa3] /Umweltschutzgesetz der VR China (S)/
+# 中華人民共和國環境保護法 中华人民共和国环境保护法 [zhong1 hua2 ren2 min2 gong4 he2 guo2 huan2 jing4 bao3 hu4 fa3] /Umweltschutzgesetz der VR China (S)/
+# Ver 2026-11-13T15:34:18Z nikolaus Stat-New >Verbesserung 
+中華人民共和國環境保護法 中华人民共和国环境保护法 [zhong1 hua2 ren2 min2 gong4 he2 guo2 huan2 jing4 bao3 hu4 fa3] /Umweltschutzgesetz der VR China (S, Rechtsw)/
 
 # ID-e16xl1L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -326929,7 +326959,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 下腹部 下腹部 [xia4 fu4 bu4] /Unterbauch (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-下腹部 下腹部 [xia4 fu4 bu4] /Unterbauch (S)/
+# 下腹部 下腹部 [xia4 fu4 bu4] /Unterbauch (S)/
+# Ver 2026-11-13T14:26:18Z nikolaus Stat-New >Verbesserung 
+下腹部 下腹部 [xia4 fu4 bu4] /Unterbauch (S, Anat)/
 
 # ID-e61hE1t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -327809,7 +327841,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 法典 法典 [fa3 dian3] /Gesetzeswerk/
 # Ver 2020-05-08T19:50:23Z nikolaus Stat-New >Verbesserung 
-法典 法典 [fa3 dian3] /Gesetzeswerk (S, Rechtsw)/
+# 法典 法典 [fa3 dian3] /Gesetzeswerk (S, Rechtsw)/
+# Ver 2026-11-13T14:58:22Z nikolaus Stat-New >Verbesserung 
+法典 法典 [fa3 dian3] /Gesetzeswerk, Gesetzbuch, Kodex (S, Rechtsw)/
 
 # ID-e62xx1x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -352820,6 +352854,10 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # 香菇青菜 香菇青菜 [xiang1 gu1 qing1 cai4] /chinesisches grünes Gemüse mit Shiitake (u.E.) (S, Ess)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 香菇青菜 香菇青菜 [xiang1 gu1 qing1 cai4] /chinesisches grünes Gemüse mit Shiitake (S, Ess)/
+
+# ID-e98mJ9O
+# Ver 2026-11-13T15:27:50Z nikolaus Stat-New >Neu
+緊急狀態法 紧急状态法 [jin3 ji2 zhuang4 tai4 fa3] /Notstandsgesetz (S, Rechtsw)/
 
 # ID-e98mV3T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -451669,7 +451707,9 @@ X射線防護 X射线防护 [X she4 xian4 fang2 hu4] /Schutz vor Röntgenstrahle
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 奇異誇克 奇異夸克 [qi2 yi4 kua1 ke4] /Strange-Quark (u.E.) (S, Phys)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-奇異誇克 奇異夸克 [qi2 yi4 kua1 ke4] /Strange-Quark (S, Phys)/
+# 奇異誇克 奇異夸克 [qi2 yi4 kua1 ke4] /Strange-Quark (S, Phys)/
+# Ver 2026-11-13T08:58:27Z nikolaus Stat-New >Verbesserung 
+奇異誇克 奇異夸克 [qi2 yi4 kua1 ke4] /Strange-Quark, S-Quark (S, Phys)/
 
 # ID-g37hg8k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -466019,6 +466059,10 @@ H型印刷機組 H型印刷机组 [H xing2 yin4 shua4 ji1 zu3] /H-Druckwerk (S, 
 # 每天 每天 [mei3 tian1] /jeden Tag/täglich/
 # Ver 2023-03-15T08:23:59Z nikolaus Stat-Verif >Wortart 
 每天 每天 [mei3 tian1] /jeden Tag (S)/täglich (Adj)/
+
+# ID-g56AI0e
+# Ver 2026-11-13T15:38:09Z nikolaus Stat-New >Neu
+海關法 海关法 [hai3 guan1 fa3] /Zollrecht, Zollgesetz (S, Rechtsw)/
 
 # ID-g56AR2S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -501325,7 +501369,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 奶豆腐 奶豆腐 [nai3 dou4 fu3] /Quark, Weißkäse (S)/
 # Ver 2022-09-09T16:51:48Z nikolaus Stat-New >Verbesserung 
-奶豆腐 奶豆腐 [nai3 dou4 fu3] /Quark, Weißkäse (S, Ess)/
+# 奶豆腐 奶豆腐 [nai3 dou4 fu3] /Quark, Weißkäse (S, Ess)/
+# Ver 2026-11-13T08:57:13Z nikolaus Stat-New >Verbesserung 
+奶豆腐 奶豆腐 [nai3 dou4 fu3] /Quark, Speisequark, Weißkäse (S, Ess)/
 
 # ID-h05vo3z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -540670,7 +540716,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 易受攻擊的地帶 易受攻击的地带 [yi4 shou4 gong1 ji1 de5 di4 dai4] /Unterbauch (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-易受攻擊的地帶 易受攻击的地带 [yi4 shou4 gong1 ji1 de5 di4 dai4] /Unterbauch (S)/
+# 易受攻擊的地帶 易受攻击的地带 [yi4 shou4 gong1 ji1 de5 di4 dai4] /Unterbauch (S)/
+# Ver 2026-11-13T14:28:25Z nikolaus Stat-New >Verbesserung 
+易受攻擊的地帶 易受攻击的地带 [yi4 shou4 gong1 ji1 de5 di4 dai4] /gefährdete Zone, angreifbares Gebiet (S, Mil)/
 
 # ID-h61ib4Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -641147,6 +641195,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2026-07-23T10:04:22Z nikolaus Stat-New >Verbesserung
 貢嘎山 貢嘎山 [gong4 ga2 shan1] /Gongga Shan (Berg, 7556 m, Provinz Sichuan) (Geo)/
 
+# ID-j02nh5O
+# Ver 2026-11-13T16:11:47Z nikolaus Stat-New >Neu
+求導法則 求导法则 [qiu2 dao3 fa3 ze2] /Ableitungsregel (S, Math)/
+
 # ID-j02nG3d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 貨運飛船 货运飞船 [huo4 yun4 fei1 chuan2] /Raumtransporter (u.E.) (S)/
@@ -641869,7 +641921,9 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 居住區 居住区 [ju1 zhu4 qu1] /Wohnanlage, Siedlung (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-居住區 居住区 [ju1 zhu4 qu1] /Wohnanlage, Siedlung (S)/
+# 居住區 居住区 [ju1 zhu4 qu1] /Wohnanlage, Siedlung (S)/
+# Ver 2026-11-13T11:36:57Z nikolaus Stat-New >Neu
+居住區 居住区 [ju1 zhu4 qu1] /Wohnanlage, Wohnblock, Siedlung (S, Arch)/
 
 # ID-j03kw4H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -652969,6 +653023,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2020-06-11T14:53:36Z nikolaus Stat-New >Verbesserung 
 恇 恇 [kuang1] /Angst haben, befürchten (V)/bedenklich, begreifend (Adj)/
 
+# ID-j18Ei3d
+# Ver 2026-11-13T19:02:51Z nikolaus Stat-New >Neu
+V型腱鞘炎 V型腱鞘炎 [V xing2 jian4 qiao4 yan2] /V-Phlegmone (eitrische Entzündung) (S, Med)/
+
 # ID-j18EM7Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 連通性 连通性 [lian2 tong1 xing4] /Anschlussmöglichkeit (u.E.) (S)/
@@ -663588,6 +663646,10 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # 八千零七 八千零七 [ba1 qian1 ling2 qi1] /8007 (achttausendsieben) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 八千零七 八千零七 [ba1 qian1 ling2 qi1] /8007 (achttausendsieben)/
+
+# ID-j33gG0L
+# Ver 2026-11-13T07:39:19Z nikolaus Stat-New >Verbesserung
+靈長類 灵长类 [ling2 zhang3 lei4] /Primaten (S, Zool)/
 
 # ID-j33gX3u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -694476,6 +694538,10 @@ R剋 R克 [R ke4] /Ronnagramm (Symbol Rg, Gewichtseinheit) (S, Phys)/
 # Ver 2025-01-17T20:52:44Z nikolaus Stat-New >Verbesserung 
 雄火雞 雄火鸡 [xiong2 huo3 ji1] /Puter, Truthahn (S, Zool)/
 
+# ID-j75Zz8R
+# Ver 2026-11-13T16:22:39Z nikolaus Stat-New >Neu
+中點法則 中点法则 [zhong1 dian3 fa3 ze2] /Mittelpunktsregel, Rechteckregel, Tangenten-Trapezregel (S, Math)/
+
 # ID-j75ZE1R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 吞火者 吞火者 [tun1 huo3 zhe3] /Feuerschlucker (u.E.)/
@@ -706824,6 +706890,10 @@ AD轉換器 AD转换器 [A D zhuan3 huan4 qi4] /AD-Wandler (S, Tech)/
 # 從面包竊據奶油 从面包窃据奶油 [cong2 mian4 bao1 qie4 ju4 nai3 you2] /Butter vom Brot stehlen/
 # Ver 2020-06-19T15:11:58Z nikolaus Stat-New >Verbesserung 
 從面包竊據奶油 从面包窃据奶油 [cong2 mian4 bao1 qie4 ju4 nai3 you2] /Butter vom Brot stehlen (Redew)/
+
+# ID-j93Ae1a
+# Ver 2026-11-13T16:08:26Z nikolaus Stat-New >Neu
+除法法則 除法法则 [chu2 fa3 fa3 ze2] /Quotientenregel (S, Math)/
 
 # ID-j93AN1v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -805689,6 +805759,10 @@ DVD驅動器 DVD驱动器 [D V D qu1 dong4 qi4] /DVD-Laufwerk (S, EDV)/
 # Ver 2023-09-23T07:58:25Z nikolaus Stat-New >Verbesserung 
 吉朗 吉朗 [ji2 lang3] /Geelong (Stadt in Australien) (Geo)/
 
+# ID-l33WG6d
+# Ver 2026-11-13T16:46:04Z nikolaus Stat-New >Neu
+判決規則 判决规则 [pan4 jue2 gui1 ze2] /Entscheidungsregel (Statistik) (S, Math)/
+
 # ID-l33XA1t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 有舵雪橇 有舵雪橇 [you3 duo4 xue3 qiao1] /Bobsport (u.E.) (Sport)/
@@ -816993,7 +817067,9 @@ DNA芯片 DNA芯片 [D N A xin4 pian4] /Biochip (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 李樹 李树 [li3 shu4] /Zwetschgenbaum (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-李樹 李树 [li3 shu4] /Zwetschgenbaum (S)/
+# 李樹 李树 [li3 shu4] /Zwetschgenbaum (S)/
+# Ver 2026-11-13T14:38:14Z nikolaus Stat-New >Verbesserung 
+李樹 李树 [li3 shu4] /Zwetschgenbaum, Zwetschenbaum (lat: Prunus domestica) (S, Bot)/
 
 # ID-l49vW4W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -826177,7 +826253,11 @@ ISDN接口 ISDN接口 [I S D N e1 kou3] /ISDN-Schnittstelle, ISDN-Buchse, ISDN-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 甘菊 甘菊 [gan1 ju2] /Kamille (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-甘菊 甘菊 [gan1 ju2] /Kamille (S)/
+# 甘菊 甘菊 [gan1 ju2] /Kamille (S)/
+# Ver 2026-11-13T14:43:32Z nikolaus Stat-New >Verbesserung 
+# 甘菊 甘菊 [gan1 ju2] /Kamille (S, Bot)/
+# Ver 2026-11-13T14:45:27Z nikolaus Stat-New >Verbesserung 
+甘菊 甘菊 [gan1 ju2] /Kamille (lat: Matricaria chamomilla) (S, Bot)/
 
 # ID-l62Dq4j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -830533,7 +830613,9 @@ n次方根 n次方根 [n ci4 fang1 gen1] /n-te Wurzel (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 課時 课时 [ke4 shi2] /Klasse (S)/Lektion (S)/Periode (S)/Semesterwochenstunde, SWS (S)/Unterrichtsstunde (S)/
 # Ver 2026-11-12T13:32:40Z nikolaus Stat-New >Verbesserung 
-課時 课时 [ke4 shi2] /Klasse, Lektion (S, Edu)/Periode (S)/Semesterwochenstunde, SWS (S  Edu)/Unterrichtsstunde, Schulstunde (S, Edu)/
+# 課時 课时 [ke4 shi2] /Klasse, Lektion (S, Edu)/Periode (S)/Semesterwochenstunde, SWS (S  Edu)/Unterrichtsstunde, Schulstunde (S, Edu)/
+# Ver 2026-11-13T06:43:48Z nikolaus Stat-New >Space
+課時 课时 [ke4 shi2] /Klasse, Lektion (S, Edu)/Periode (S)/Semesterwochenstunde, SWS (S, Edu)/Unterrichtsstunde, Schulstunde (S, Edu)/
 
 # ID-l68Mi4W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -889382,6 +889464,10 @@ CCD電荷耦合器件掃描機 CCD电荷耦合器件扫描机 [C C D dian4 he2 o
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 開放可樂 开放可乐 [kai1 fang4 ke3 le4] /OpenCola (Cola dessen Rezeptur frei verfügbar ist, Open-Source-Cola) (Eig, Ess)/
 
+# ID-m53je5n
+# Ver 2026-11-13T15:29:52Z nikolaus Stat-New >Neu
+冪法則 幂法则 [mi4 fa3 ze2] /Potenzgesetz (S, Mat)/
+
 # ID-m53jr7k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 贊譽 赞誉 [zan4 yu4] /Bestätigung, Anerkennung (u.E.) (S)/anpreisen, preisen (u.E.) (V)/
@@ -894995,7 +895081,9 @@ CCD電荷耦合器件照相機 CCD电荷耦合器件照相机 [C C D dian4 he2 o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 價值規律 价值规律 [jia4 zhi2 gui1 lü4] /Wertgesetz (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-價值規律 价值规律 [jia4 zhi2 gui1 lü4] /Wertgesetz (S)/
+# 價值規律 价值规律 [jia4 zhi2 gui1 lü4] /Wertgesetz (S)/
+# Ver 2026-11-13T15:49:41Z nikolaus Stat-New >Verbesserung 
+價值規律 价值规律 [jia4 zhi2 gui1 lü4] /Wertgesetz (S, Wirtsch)/
 
 # ID-m61au3h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -920205,7 +920293,9 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 專業詞典 专业词典 [zhuan1 ye4 ci2 dian3] /Lexikon (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-專業詞典 专业词典 [zhuan1 ye4 ci2 dian3] /Lexikon (S)/
+# 專業詞典 专业词典 [zhuan1 ye4 ci2 dian3] /Lexikon (S)/
+# Ver 2026-11-13T14:53:08Z nikolaus Stat-New >Verbesserung 
+專業詞典 专业词典 [zhuan1 ye4 ci2 dian3] /Fachwörterbuch (S, Lit)/
 
 # ID-m96uZ3J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1023825,7 +1023915,9 @@ DNA檢驗 DNA检验 [D N A jian3 yan4] /Gentest (S, Bio)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 8頁膠印輪轉機 8页胶印轮转机 [8 ye4 jiao1 yin4 lun2 zhuan3 ji1] /Achtseitenoffsetrotation (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-8頁膠印輪轉機 8页胶印轮转机 [8 ye4 jiao1 yin4 lun2 zhuan3 ji1] /Achtseitenoffsetrotation (S)/
+# 8頁膠印輪轉機 8页胶印轮转机 [8 ye4 jiao1 yin4 lun2 zhuan3 ji1] /Achtseitenoffsetrotation (S)/
+# Ver 2026-11-13T08:34:53Z nikolaus Stat-New >Verbesserung
+8頁膠印輪轉機 8页胶印轮转机 [8 ye4 jiao1 yin4 lun2 zhuan3 ji1] /Achtseitenoffsetrotation (S, Druckw)/
 
 # ID-o42PP0s
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1075579,7 +1075671,9 @@ B超檢查 B超检查 [B chao1 jian3 cha2] /Ultraschall-Untersuchung (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 經濟蕭條 经济萧条 [jing1 ji4 xiao1 tiao2] /Rezession (u.E.) (S, Wirtsch)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-經濟蕭條 经济萧条 [jing1 ji4 xiao1 tiao2] /Rezession (S, Wirtsch)/
+# 經濟蕭條 经济萧条 [jing1 ji4 xiao1 tiao2] /Rezession (S, Wirtsch)/
+# Ver 2026-11-13T11:46:56Z nikolaus Stat-New >Verbesserung 
+經濟蕭條 经济萧条 [jing1 ji4 xiao1 tiao2] /Rezession, Wirtschaftseinbruch (S, Wirtsch)/
 
 # ID-p15Ye2Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
