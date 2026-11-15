@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-14T02:30:01Z
+# Datenstand: 2026-11-15T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -235551,7 +235551,9 @@ A型沸石 A型沸石 [A xing2 fei4 shi2] /Zeolith A (S, Chem)/
 
 # ID-d34Ge5z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-英寸 英寸 [ying1 cun4] /Zoll, Inch (eine Längeneinheit) (S)/
+# 英寸 英寸 [ying1 cun4] /Zoll, Inch (eine Längeneinheit) (S)/
+# Ver 2026-11-14T20:27:32Z nikolaus Stat-Verif >Verbesserung 
+英寸 英寸 [ying1 cun4] /Zoll, Inch (Symbol in, eine Längeneinheit) (S, Phys)/
 
 # ID-d34Go8h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
