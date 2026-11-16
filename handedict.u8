@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-15T02:30:01Z
+# Datenstand: 2026-11-16T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -17271,7 +17271,9 @@ PC機 PC机 [P C ji1] /PC (S)/
 # Ver 2022-10-31T20:00:02Z BiGF00T Stat-Verif >Kein Komma vor Leerzeichen.
 # 米 米 [mi3] /geschälter, ungekochter Reis (S)/Reis (S)/Meter (Zähl), Meter (S, Phys)/Radikal Nr. 119 = Reisfeld, Reis (Sprachw)/
 # Ver 2022-12-04T10:23:20Z nikolaus Stat-Verif >Verbesserung
-米 米 [mi3] /geschälter Reis, ungekochter Reis (S, Ess)/Reis (S)/Meter (Zähl), Meter (S, Phys)/Radikal Nr. 119 = Reisfeld, Reis (Sprachw)/
+# 米 米 [mi3] /geschälter Reis, ungekochter Reis (S, Ess)/Reis (S)/Meter (Zähl), Meter (S, Phys)/Radikal Nr. 119 = Reisfeld, Reis (Sprachw)/
+# Ver 2026-11-15T13:28:28Z nikolaus Stat-Verif >Verbesserung 
+米 米 [mi3] /geschälter Reis, ungekochter Reis (S, Ess)/Reis (S, Ess)/Meter (Zähl), Meter (S, Phys)/Radikal Nr. 119 = Reisfeld, Reis (Sprachw)/
 
 # ID-a23WL9m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -19173,7 +19175,9 @@ PC機 PC机 [P C ji1] /PC (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白口 白口 [bai2 kou3] /Sprechgesang (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白口 白口 [bai2 kou3] /Sprechgesang (S)/
+# 白口 白口 [bai2 kou3] /Sprechgesang (S)/
+# Ver 2026-11-15T13:36:37Z nikolaus Stat-New >Verbesserung 
+白口 白口 [bai2 kou3] /Sprechgesang (S, Mus)/
 
 # ID-a26Dr8a
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -20565,7 +20569,9 @@ PC機 PC机 [P C ji1] /PC (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白鷺 白鹭 [bai2 lu4] /Seidenreiher (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白鷺 白鹭 [bai2 lu4] /Seidenreiher (S)/
+# 白鷺 白鹭 [bai2 lu4] /Seidenreiher (S)/
+# Ver 2026-11-15T13:39:30Z nikolaus Stat-New >Verbesserung 
+白鷺 白鹭 [bai2 lu4] /Seidenreiher (lat: Egretta garzetta) (S, Zool)/
 
 # ID-a28yP6l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -73095,7 +73101,9 @@ DE匯流排關閉 DE汇流排关闭 [D E hui4 liu2 pai2 guan1 bi4] /DE-Schiene g
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 白楊 白杨 [bai2 yang2] /Pappel (S)/
 # Ver 2025-04-07T14:40:57Z nikolaus Stat-New >Verbesserung 
-白楊 白杨 [bai2 yang2] /Pappel (S, Bot)/
+# 白楊 白杨 [bai2 yang2] /Pappel (S, Bot)/
+# Ver 2026-11-15T13:35:50Z nikolaus Stat-New >Verbesserung 
+白楊 白杨 [bai2 yang2] /Pappel (lat: Populus) (S, Bot)/
 
 # ID-b02tL6L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -105005,7 +105013,9 @@ AA制 AA制 [A A zhi4] /Jeder zahlt für sich selbst (Redew)/
 
 # ID-b48zE6n
 # Ver 2020-09-01T15:47:57Z nikolaus Stat-Verif 003>Fehlende HSK6 Vokabeln
-稻谷 稻谷 [dao4 gu3] /roher Reis, Reiskörner (S)/
+# 稻谷 稻谷 [dao4 gu3] /roher Reis, Reiskörner (S)/
+# Ver 2026-11-15T13:25:06Z nikolaus Stat-Verif >Verbesserung 
+稻谷 稻谷 [dao4 gu3] /roher Reis, Reiskörner (S, Agrar)/
 
 # ID-b48zN7s
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -112283,7 +112293,9 @@ IP電話 IP电话 [I P dian4 hua4] /IP-Telefonie (Internet-Protokoll-Telefonie),
 
 # ID-b59sw7H
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-粺 稗 [bai4] /polierter Reis (S)/alte Variante von 稗[bai4] (X)/
+# 粺 稗 [bai4] /polierter Reis (S)/alte Variante von 稗[bai4] (X)/
+# Ver 2026-11-15T13:26:46Z nikolaus Stat-Verif >Verbesserung 
+粺 稗 [bai4] /polierter Reis (S, Ess)/alte Variante von 稗[bai4] (X)/
 
 # ID-b59tI3L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -113685,7 +113697,9 @@ IP電話 IP电话 [I P dian4 hua4] /IP-Telefonie (Internet-Protokoll-Telefonie),
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白話詩 白话诗 [bai2 hua4 shi1] /moderne Poesie (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白話詩 白话诗 [bai2 hua4 shi1] /moderne Poesie (S)/
+# 白話詩 白话诗 [bai2 hua4 shi1] /moderne Poesie (S)/
+# Ver 2026-11-15T13:49:45Z nikolaus Stat-New >Verbesserung 
+白話詩 白话诗 [bai2 hua4 shi1] /moderne Poesie (S, Sprachw)/
 
 # ID-b61rG6k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -139043,7 +139057,9 @@ IT人才 IT人才 [I T ren2 cai2] /IT-Personal (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白骨 白骨 [bai2 gu3] /Gebein (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白骨 白骨 [bai2 gu3] /Gebein (S)/
+# 白骨 白骨 [bai2 gu3] /Gebein (S)/
+# Ver 2026-11-15T13:32:46Z nikolaus Stat-New >Verbesserung 
+白骨 白骨 [bai2 gu3] /Gebein (S, Anat)/
 
 # ID-b97GH7E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -193787,7 +193803,9 @@ x線檢驗 x线检验 [x xian4 jian3 yan4] /Röntgenprüfung (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白必圖 白必图 [bai2 bi4 tu2] /bebeto (u.E.) (Eig, Pers, 1964 - )/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白必圖 白必图 [bai2 bi4 tu2] /bebeto (Eig, Pers, 1964 -)/
+# 白必圖 白必图 [bai2 bi4 tu2] /bebeto (Eig, Pers, 1964 -)/
+# Ver 2026-11-15T13:48:03Z nikolaus Stat-New >Verbesserung 
+白必圖 白必图 [bai2 bi4 tu2] /Bebeto (bras. Fußballnationalspieler) (Eig, Pers, 1964-)/
 
 # ID-c74TI2L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -197271,7 +197289,9 @@ x線檢驗 x线检验 [x xian4 jian3 yan4] /Röntgenprüfung (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 白蛉 白蛉 [bai2 ling2] /Sandmücke (S, Bio)/
 # Ver 2025-04-22T20:54:52Z nikolaus Stat-New >Verbesserung 
-白蛉 白蛉 [bai2 ling2] /Sandmücke (S, Zool)/
+# 白蛉 白蛉 [bai2 ling2] /Sandmücke (S, Zool)/
+# Ver 2026-11-15T13:55:18Z nikolaus Stat-New >Verbesserung 
+白蛉 白蛉 [bai2 ling2] /Sandmücke (lat: Phlebotominae) (S, Zool)/
 
 # ID-c79JZ3c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -210382,7 +210402,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2022-07-22T13:49:08Z nikolaus Stat-New >Verbesserung 
 # 白睡蓮 白睡莲 [bai2 shui4 lian2] /Seerose (S, Bio)/
 # Ver 2025-04-16T14:46:08Z nikolaus Stat-New >Verbesserung 
-白睡蓮 白睡莲 [bai2 shui4 lian2] /Seerose (S, Bot)/
+# 白睡蓮 白睡莲 [bai2 shui4 lian2] /Seerose (S, Bot)/
+# Ver 2026-11-15T13:52:25Z nikolaus Stat-New >Verbesserung 
+白睡蓮 白睡莲 [bai2 shui4 lian2] /Seerose (lat: Nymphaea) (S, Bot)/
 
 # ID-c98uV5m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -241853,7 +241875,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 # 白熊 白熊 [bai2 xiong2] /Eisbär, Polarbär (S, Bio)/
 # Ver 2019-12-31T11:34:29Z nikolaus Stat-Verif >Verbesserung
-白熊 白熊 [bai2 xiong2] /Eisbär, Polarbär (S, Zool)/
+# 白熊 白熊 [bai2 xiong2] /Eisbär, Polarbär (S, Zool)/
+# Ver 2026-11-15T13:45:10Z nikolaus Stat-Verif >Verbesserung 
+白熊 白熊 [bai2 xiong2] /Eisbär, Polarbär (lat: Ursus maritimus) (S, Zool)/
 
 # ID-d43Jp6f
 # Ver 2022-07-27T11:38:57Z nikolaus Stat-New >Neu
@@ -286555,7 +286579,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 艸 艸 [cao3] /Gras, Rasen (S)/Radikal Nr. 140 = Gras (Variante: 艹) (S)/
 # Ver 2022-01-31T17:24:24Z nikolaus Stat-New >Verbesserung 
-艸 艸 [cao3] /Gras, Rasen (S)/Radikal Nr. 140 = Gras (Variante: 艹) (Sprachw)/
+# 艸 艸 [cao3] /Gras, Rasen (S)/Radikal Nr. 140 = Gras (Variante: 艹) (Sprachw)/
+# Ver 2026-11-15T17:07:52Z nikolaus Stat-New >Verbesserung
+艸 艸 [cao3] /Gras, Rasen (S, Agrar)/Radikal Nr. 140 = Gras (Variante: 艹) (Sprachw)/
 
 # ID-e05uJ6q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -328763,7 +328789,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 白人 白人 [bai2 ren2] /Europid/
 # Ver 2023-07-22T21:44:20Z nikolaus Stat-New >Verbesserung 
-白人 白人 [bai2 ren2] /weiße Menschen, Kaukasier (S)/Europide (alt) (S)/
+# 白人 白人 [bai2 ren2] /weiße Menschen, Kaukasier (S)/Europide (alt) (S)/
+# Ver 2026-11-15T13:42:54Z nikolaus Stat-New >Verbesserung 
+白人 白人 [bai2 ren2] /weiße Menschen, Kaukasier (S, Ethn)/Europide (alt) (S, Ethn)/
 
 # ID-e63UZ7w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -485731,7 +485759,9 @@ CAS編號 CAS编号 [C A S bian1 hao4] /CAS-Nummer (S, Chem)/Chemical Abstract S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白磷 白磷 [bai2 lin2] /weißer Phosphor (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白磷 白磷 [bai2 lin2] /weißer Phosphor (S)/
+# 白磷 白磷 [bai2 lin2] /weißer Phosphor (S)/
+# Ver 2026-11-15T13:38:16Z nikolaus Stat-New >Verbesserung 
+白磷 白磷 [bai2 lin2] /weißer Phosphor (S, Chem)/
 
 # ID-g83ZC4e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -533904,7 +533934,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 大白話 大白话 [da4 bai2 hua4] /Dialekt (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-大白話 大白话 [da4 bai2 hua4] /Dialekt (S)/
+# 大白話 大白话 [da4 bai2 hua4] /Dialekt (S)/
+# Ver 2026-11-15T13:56:27Z nikolaus Stat-New >Verbesserung 
+大白話 大白话 [da4 bai2 hua4] /Dialekt (S, Sprachw)/
 
 # ID-h51WY3o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -606241,7 +606273,9 @@ X射線譜學 X射线谱学 [X she4 xian4 pu3 xue2] /Röntgenspektroskopie (S, P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白鯨 白鲸 [bai2 jing1] /Weißwal (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白鯨 白鲸 [bai2 jing1] /Weißwal (S)/
+# 白鯨 白鲸 [bai2 jing1] /Weißwal (S)/
+# Ver 2026-11-15T13:31:56Z nikolaus Stat-New >Verbesserung 
+白鯨 白鲸 [bai2 jing1] /Weißwal, Beluga (lat: Delphinapterus leucas) (S, Zool)/
 
 # ID-i52yc5s
 # Ver 2022-11-24T17:29:11Z nikolaus Stat-New >Neu
@@ -635091,7 +635125,9 @@ X戰警 X战警 [X zhan4 jing3] /X-Men (Gruppe von Comic-Superhelden) (Eig, Werk
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白話 白话 [bai2 hua4] /modernes Chinesisch (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白話 白话 [bai2 hua4] /modernes Chinesisch (S)/
+# 白話 白话 [bai2 hua4] /modernes Chinesisch (S)/
+# Ver 2026-11-15T13:33:32Z nikolaus Stat-New >Verbesserung 
+白話 白话 [bai2 hua4] /modernes Chinesisch (S, Sprachw)/
 
 # ID-i93Fb9J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -682652,7 +682688,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 黑米 黑米 [hei1 mi3] /Schwarzer Reis (u.E.) (Eig, Ess)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-黑米 黑米 [hei1 mi3] /Schwarzer Reis (Eig, Ess)/
+# 黑米 黑米 [hei1 mi3] /Schwarzer Reis (Eig, Ess)/
+# Ver 2026-11-15T13:26:15Z nikolaus Stat-New >Verbesserung 
+黑米 黑米 [hei1 mi3] /schwarzer Reis (S, Ess)/
 
 # ID-j59sY4M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -742274,7 +742312,9 @@ DA轉換器 DA转换器 [D A zhuan3 huan4 qi4] /Digital-Analog-Wandler (S, Phys)
 # Ver 2020-03-07T00:23:04Z Hustensaft Stat-New >http://www.ctrans.org/search.php?word=%E8%8D%89%E5%9D%AA&opts=&optext=%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%89%8D%E6%96%B9%E4%B8%80%E8%87%B4
 # 草坪 草坪 [cao3 ping2] /Rasen, Wiese/
 # Ver 2023-11-12T15:32:03Z nikolaus Stat-New >Verbesserung 
-草坪 草坪 [cao3 ping2] /Rasen, Wiese (S)/
+# 草坪 草坪 [cao3 ping2] /Rasen, Wiese (S)/
+# Ver 2026-11-15T17:06:57Z nikolaus Stat-New >Verbesserung
+草坪 草坪 [cao3 ping2] /Rasen, Wiese (S, Agrar)/
 
 # ID-k44nx1L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -791900,7 +791940,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 餱 糇 [hou2] /getrockneter Reis (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-餱 糇 [hou2] /getrockneter Reis (S)/
+# 餱 糇 [hou2] /getrockneter Reis (S)/
+# Ver 2026-11-15T13:25:36Z nikolaus Stat-New >Verbesserung 
+餱 糇 [hou2] /getrockneter Reis (S, Ess)/
 
 # ID-l14Cu1T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -808449,7 +808491,9 @@ DVD驅動器 DVD驱动器 [D V D qu1 dong4 qi4] /DVD-Laufwerk (S, EDV)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 白唇鹿 白唇鹿 [bai2 chun2 lu4] /Weißlippenhirsch (Bio)/
 # Ver 2022-02-09T17:15:04Z nikolaus Stat-New >Verbesserung 
-白唇鹿 白唇鹿 [bai2 chun2 lu4] /Weißlippenhirsch (S, Zool)/
+# 白唇鹿 白唇鹿 [bai2 chun2 lu4] /Weißlippenhirsch (S, Zool)/
+# Ver 2026-11-15T13:54:10Z nikolaus Stat-New >Verbesserung 
+白唇鹿 白唇鹿 [bai2 chun2 lu4] /Weißlippenhirsch (lat: Cervus albirostris) (S, Zool)/
 
 # ID-l37Ib4t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -934580,7 +934624,9 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白兔 白兔 [bai2 tu4] /Schneehase (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白兔 白兔 [bai2 tu4] /Schneehase (S)/
+# 白兔 白兔 [bai2 tu4] /Schneehase (S)/
+# Ver 2026-11-15T13:41:35Z nikolaus Stat-New >Verbesserung 
+白兔 白兔 [bai2 tu4] /Schneehase (lat: Lepus timidus) (S, Zool)/
 
 # ID-n17iG8X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -936657,7 +936703,9 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 白熾燈 白炽灯 [bai2 chi4 deng1] /Glühlampe (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-白熾燈 白炽灯 [bai2 chi4 deng1] /Glühlampe (S)/
+# 白熾燈 白炽灯 [bai2 chi4 deng1] /Glühlampe (S)/
+# Ver 2026-11-15T13:48:51Z nikolaus Stat-New >Verbesserung 
+白熾燈 白炽灯 [bai2 chi4 deng1] /Glühlampe (S, Tech)/
 
 # ID-n19Tj4L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
