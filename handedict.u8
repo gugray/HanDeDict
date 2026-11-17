@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-16T02:30:01Z
+# Datenstand: 2026-11-17T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -228402,7 +228402,9 @@ C柱 C柱 [C zhu4] /C-Säule (S, Kfz)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 穗 穗 [sui4] /Ähre (S)/Spike (S)/
 # Ver 2024-11-28T16:30:54Z nikolaus Stat-New >Spike unklar 
-穗 穗 [sui4] /Ähre (S, Agrar)/Spike (S)/
+# 穗 穗 [sui4] /Ähre (S, Agrar)/Spike (S)/
+# Ver 2026-11-16T07:52:13Z nikolaus Stat-New >Verbesserung 
+穗 穗 [sui4] /Ähre (S, Agrar)/Quaste, Franse (S)/Abk. für Guangzhou 广州 (X)/
 
 # ID-d23Xd1S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -252456,6 +252458,10 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # 刻刺 刻刺 [ke4 ci4] /Grat (Geo)/
 # Ver 2023-10-21T07:12:54Z nikolaus Stat-New >Stimmt Grat? Oder hat es was mit Schnitzen zu tun?
 刻刺 刻刺 [ke4 ci4] /Grat (S, Geo)/
+
+# ID-d57Ki4a
+# Ver 2026-11-16T10:29:30Z nikolaus Stat-New >Neu
+菱鮃 菱鲆 [ling2 ping2] /Glattbutt, Kleist (lat: Scophthalmus rhombus) (S, Zool)/
 
 # ID-d57KD2h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -381390,7 +381396,9 @@ US房地產危機 US房地产危机 [U S fang2 di4 chan3 wei1 ji1] /US-Immobilie
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 釘上鐵釘 钉上铁钉 [ding1 shang4 tie3 ding1] /Spike (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-釘上鐵釘 钉上铁钉 [ding1 shang4 tie3 ding1] /Spike (S)/
+# 釘上鐵釘 钉上铁钉 [ding1 shang4 tie3 ding1] /Spike (S)/
+# Ver 2026-11-16T07:57:20Z nikolaus Stat-New >Verbesserung 
+釘上鐵釘 钉上铁钉 [ding1 shang4 tie3 ding1] /Spike, Nagel (S, Tech)/
 
 # ID-f38jl9V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -407001,7 +407009,9 @@ Ct機 Ct机 [C t ji1] /Computertomograph, CT (S, Med, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 威廉皮克 威廉皮克 [wei1 lian2 pi2 ke4] /Wilhelm Pieck (u.E.) (Eig, Pers, 1876 - 1960)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-威廉皮克 威廉皮克 [wei1 lian2 pi2 ke4] /Wilhelm Pieck (Eig, Pers, 1876 - 1960)/
+# 威廉皮克 威廉皮克 [wei1 lian2 pi2 ke4] /Wilhelm Pieck (Eig, Pers, 1876 - 1960)/
+# Ver 2026-11-16T08:08:47Z nikolaus Stat-New >Verbesserung 
+威廉皮克 威廉皮克 [wei1 lian2 pi2 ke4] /Wilhelm Pieck (dt. Politiker) (Eig, Pers, 1876-1960)/
 
 # ID-f74zX6l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -442498,7 +442508,9 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 德國汽車俱樂部 德国汽车俱乐部 [de2 guo2 qi4 che1 ju4 le4 bu4] /ADAC/Allgemeiner Deutscher Automobil-Club (S)/
 # Ver 2022-01-30T09:41:30Z nikolaus Stat-New >Wortart
-德國汽車俱樂部 德国汽车俱乐部 [de2 guo2 qi4 che1 ju4 le4 bu4] /ADAC, Allgemeiner Deutscher Automobil-Club (Org)/
+# 德國汽車俱樂部 德国汽车俱乐部 [de2 guo2 qi4 che1 ju4 le4 bu4] /ADAC, Allgemeiner Deutscher Automobil-Club (Org)/
+# Ver 2026-11-16T20:24:36Z nikolaus Stat-New >Verbesserung 
+德國汽車俱樂部 德国汽车俱乐部 [de2 guo2 qi4 che1 ju4 le4 bu4] /ADAC, Allgemeiner Deutscher Automobil-Club (Org, Kfz)/
 
 # ID-g23BZ8Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -549908,6 +549920,10 @@ DE匯流排拉緊 DE汇流排拉紧 [D E hui4 liu2 pai2 la1 jin3] /DE-Schiene ge
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 燒嘴 烧嘴 [shao1 zui3] /Brenndüse (S, Tech)/Brenner (S, Tech)/
 
+# ID-h74ls4p
+# Ver 2026-11-16T10:21:10Z nikolaus Stat-New >Neu
+美首鰈 美首鲽 [mei3 shou3 die2] /Hundszunge, Aalbutt (lat: Glyptocephalus cynoglossus) (S, Zool)/
+
 # ID-h74mm1u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 樓道 楼道 [lou2 dao4] /Gang, Flur, Korridor (u.E.)/
@@ -562234,7 +562250,9 @@ BB型捲筒紙膠印機 BB型卷筒纸胶印机 [B B xing2 juan3 tong3 zhi3 jiao
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 以鞋底尖釘弄傷 以鞋底尖钉弄伤 [yi3 xie2 di3 jian1 ding1 long4 shang1] /Spike (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-以鞋底尖釘弄傷 以鞋底尖钉弄伤 [yi3 xie2 di3 jian1 ding1 long4 shang1] /Spike (S)/
+# 以鞋底尖釘弄傷 以鞋底尖钉弄伤 [yi3 xie2 di3 jian1 ding1 long4 shang1] /Spike (S)/
+# Ver 2026-11-16T08:01:12Z nikolaus Stat-New >Verbesserung 
+以鞋底尖釘弄傷 以鞋底尖钉弄伤 [yi3 xie2 di3 jian1 ding1 long4 shang1] /mit den Stollen verletzen (V)/
 
 # ID-h91BT1B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -577796,7 +577814,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2023-10-17T09:43:55Z nikolaus Stat-New >Neu
 # 香港點心 香港点心 [xiang1 gang3 dian3 xin1] /Hongkong Dimsun (Eig, Ess)/
 # Ver 2023-10-17T09:50:56Z nikolaus Stat-New >Rechtschreibfehler 
-香港點心 香港点心 [xiang1 gang3 dian3 xin1] /Hongkong Dimsum (Eig, Ess)/
+# 香港點心 香港点心 [xiang1 gang3 dian3 xin1] /Hongkong Dimsum (Eig, Ess)/
+# Ver 2026-11-16T20:35:53Z nikolaus Stat-New >Verbesserung 
+香港點心 香港点心 [xiang1 gang3 dian3 xin1] /Hongkong Dimsum (S, Ess)/
 
 # ID-i13FB4d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -591347,7 +591367,9 @@ Y染色體 Y染色体 [Y ran3 se4 ti3] /Y-Chromosom (S, Bio)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 奧林匹克聖火 奥林匹克圣火 [ao4 lin2 pi3 ke4 sheng4 huo3] /Olympische Fackel (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-奧林匹克聖火 奥林匹克圣火 [ao4 lin2 pi3 ke4 sheng4 huo3] /Olympische Fackel (S)/
+# 奧林匹克聖火 奥林匹克圣火 [ao4 lin2 pi3 ke4 sheng4 huo3] /Olympische Fackel (S)/
+# Ver 2026-11-16T08:05:41Z nikolaus Stat-New >Verbesserung 
+奧林匹克聖火 奥林匹克圣火 [ao4 lin2 pi3 ke4 sheng4 huo3] /Olympische Fackel (S, Sport)/
 
 # ID-i32CW5L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -752364,7 +752386,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 
 # ID-k58Mn7w
 # Ver 2023-12-24T22:03:37Z nikolaus Stat-New >Verbesserung 
-尤皮剋人 尤皮克人 [you2 pi2 ke4 ren2] /Yupik (Eig, Ethn)/
+# 尤皮剋人 尤皮克人 [you2 pi2 ke4 ren2] /Yupik (Eig, Ethn)/
+# Ver 2026-11-16T08:07:43Z nikolaus Stat-New >Verbesserung 
+尤皮剋人 尤皮克人 [you2 pi2 ke4 ren2] /Yupik (S, Ethn)/
 
 # ID-k58MP1W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -818559,6 +818583,10 @@ DNA芯片 DNA芯片 [D N A xin4 pian4] /Biochip (S, Med)/
 # Ver 2024-02-14T11:04:09Z nikolaus Stat-New >Verbesserung 
 可隱藏 可隐藏 [ke3 yin3 cang2] /abstellbar, ausblendbar (Adj)/
 
+# ID-l51vz1A
+# Ver 2026-11-16T17:08:45Z nikolaus Stat-New >Neu
+奧斯瓦爾德莫斯利 奥斯瓦尔德莫斯利 [ao4 si1 wa3 er3 de2 mo4 si1 li4] /Oswald Mosley (brit. Faschist) (Eig, Pers, 1896-1980)/
+
 # ID-l51vE3Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 您喝什麼 您喝什么 [nin2 he1 shen2 me5] /Was trinken Sie? (u.E.)/
@@ -866856,7 +866884,9 @@ D日 D日 [D ri4] /D-Day (S, temp)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 斯皮克斯金剛鸚鵡 斯皮克斯金刚鹦鹉 [si1 pi2 ke4 si1 jin1 gang1 ying1 wu3] /Spix-Ara/
 # Ver 2020-02-24T13:57:29Z nikolaus Stat-New >Verbesserung
-斯皮克斯金剛鸚鵡 斯皮克斯金刚鹦鹉 [si1 pi2 ke4 si1 jin1 gang1 ying1 wu3] /Spix-Ara (S, Zool)/
+# 斯皮克斯金剛鸚鵡 斯皮克斯金刚鹦鹉 [si1 pi2 ke4 si1 jin1 gang1 ying1 wu3] /Spix-Ara (S, Zool)/
+# Ver 2026-11-16T08:03:02Z nikolaus Stat-New >Verbesserung 
+斯皮克斯金剛鸚鵡 斯皮克斯金刚鹦鹉 [si1 pi2 ke4 si1 jin1 gang1 ying1 wu3] /Spix-Ara, Spixara (lat: Cyanopsitta spixii) (S, Zool)/
 
 # ID-m20kb6x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -892884,7 +892914,9 @@ LG集團 LG集团 [L G ji2 tuan2] /L.G. Mart Co. Ltd. (Org, Wirtsch)/
 # Ver 2021-01-29T09:50:18Z nikolaus Stat-Verif >Verbesserung
 # 白 白 [bai2] /weiß (Adj); Bsp.: 雪白 雪白 -- schneeweiß; Bsp.: 白襯衫 白衬衫 -- weißes Hemd/hell (Adj); Bsp.: 大白天 大白天 -- am helllichten Tage/pur; einfach (Adj); Bsp.: 白水 白水 -- abgekochtes Wasser/klar; deutlich (Adj); Bsp.: 明白 明白 -- klar; deutlich; offen; unverhüllt; Bsp.: 真相大白 真相大白 -- die ganze Wahrheit kommt ans Licht/erklären (V); Bsp.: 自白 自白 -- Geständnis; Bekenntnis/Weiß (S); Bsp.: 蛋白 蛋白 -- Eiweiß; Protein/Rezitativ (S); Bsp.: 獨白 独白 -- Monolog; Bsp.: 對白 对白 -- Dialog/Dialekt (S); Bsp.: 蘇白 苏白 -- Suzhou-Dialekt/umsonst (Adv); vergeblich (Adj); Bsp.: 我白等了。 我白等了。 -- Ich habe umsonst gewartet./kostenlos (Adj); gratis (Adv); Bsp.: 白送 白送 -- etwas kostenlos geben/Bai (Eig, Fam)/
 # Ver 2022-03-07T15:20:07Z nikolaus Stat-Verif >Verbesserung 
-白 白 [bai2] /weiß (Adj); Bsp.: 雪白 雪白 -- schneeweiß; Bsp.: 白襯衫 白衬衫 -- weißes Hemd/hell (Adj); Bsp.: 大白天 大白天 -- am helllichten Tage/pur; einfach (Adj); Bsp.: 白水 白水 -- abgekochtes Wasser/klar; deutlich (Adj); Bsp.: 明白 明白 -- klar; deutlich; offen; unverhüllt; Bsp.: 真相大白 真相大白 -- die ganze Wahrheit kommt ans Licht/erklären (V); Bsp.: 自白 自白 -- Geständnis; Bekenntnis/Weiß (S); Bsp.: 蛋白 蛋白 -- Eiweiß; Protein/Rezitativ (S); Bsp.: 獨白 独白 -- Monolog; Bsp.: 對白 对白 -- Dialog/Dialekt (S); Bsp.: 蘇白 苏白 -- Suzhou-Dialekt/umsonst (Adv); vergeblich (Adj); Bsp.: 我白等了。 我白等了。 -- Ich habe umsonst gewartet./kostenlos (Adj); gratis (Adv); Bsp.: 白送 白送 -- etw. kostenlos geben/Bai (Eig, Fam)/
+# 白 白 [bai2] /weiß (Adj); Bsp.: 雪白 雪白 -- schneeweiß; Bsp.: 白襯衫 白衬衫 -- weißes Hemd/hell (Adj); Bsp.: 大白天 大白天 -- am helllichten Tage/pur; einfach (Adj); Bsp.: 白水 白水 -- abgekochtes Wasser/klar; deutlich (Adj); Bsp.: 明白 明白 -- klar; deutlich; offen; unverhüllt; Bsp.: 真相大白 真相大白 -- die ganze Wahrheit kommt ans Licht/erklären (V); Bsp.: 自白 自白 -- Geständnis; Bekenntnis/Weiß (S); Bsp.: 蛋白 蛋白 -- Eiweiß; Protein/Rezitativ (S); Bsp.: 獨白 独白 -- Monolog; Bsp.: 對白 对白 -- Dialog/Dialekt (S); Bsp.: 蘇白 苏白 -- Suzhou-Dialekt/umsonst (Adv); vergeblich (Adj); Bsp.: 我白等了。 我白等了。 -- Ich habe umsonst gewartet./kostenlos (Adj); gratis (Adv); Bsp.: 白送 白送 -- etw. kostenlos geben/Bai (Eig, Fam)/
+# Ver 2026-11-16T15:41:39Z nikolaus Stat-Verif >Verbesserung 
+白 白 [bai2] /weiß (Adj); Bsp.: 雪白 雪白 -- schneeweiß; Bsp.: 白襯衫 白衬衫 -- weißes Hemd/hell (Adj); Bsp.: 大白天 大白天 -- am helllichten Tage/pur; einfach (Adj); Bsp.: 白水 白水 -- abgekochtes Wasser/klar; deutlich (Adj); Bsp.: 明白 明白 -- klar; deutlich; offen; unverhüllt; Bsp.: 真相大白 真相大白 -- die ganze Wahrheit kommt ans Licht/erklären (V); Bsp.: 自白 自白 -- Geständnis; Bekenntnis/Weiß (S); Bsp.: 蛋白 蛋白 -- Eiweiß; Protein/Rezitativ (S); Bsp.: 獨白 独白 -- Monolog; Bsp.: 對白 对白 -- Dialog/Dialekt (S, Sprachw); Bsp.: 蘇白 苏白 -- Suzhou-Dialekt/umsonst (Adv); vergeblich (Adj); Bsp.: 我白等了。 我白等了。 -- Ich habe umsonst gewartet./kostenlos (Adj); gratis (Adv); Bsp.: 白送 白送 -- etw. kostenlos geben/Bai (Eig, Fam)/
 
 # ID-m57Pb3M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -907784,7 +907816,9 @@ QR快速剝離效應 QR快速剥离效应 [Q R kuai4 su4 bo1 li2 xiao4 ying4] /Q
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 佐匹克隆 佐匹克隆 [zuo3 pi1 ke4 long2] /Zopiclon (ein Arzneistoff für Schlafmittel) (Eig, Med)/
 # Ver 2025-04-27T14:49:07Z nikolaus Stat-New >Verbesserung 
-佐匹克隆 佐匹克隆 [zuo3 pi1 ke4 long2] /Zopiclon (ein Arzneistoff für Schlafmittel) (S, Pham)/
+# 佐匹克隆 佐匹克隆 [zuo3 pi1 ke4 long2] /Zopiclon (ein Arzneistoff für Schlafmittel) (S, Pham)/
+# Ver 2026-11-16T08:04:31Z nikolaus Stat-New >Verbesserung 
+佐匹克隆 佐匹克隆 [zuo3 pi1 ke4 long2] /Zopiclon (ein Arzneistoff für Schlafmittel) (S, Pharm)/
 
 # ID-m78Ff1R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -908114,7 +908148,9 @@ QR快速剝離效應 QR快速剥离效应 [Q R kuai4 su4 bo1 li2 xiao4 ying4] /Q
 
 # ID-m79bE3S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-香港 香港 [xiang1 gang3] /Hong Kong, Hongkong (Eig, Geo)/
+# 香港 香港 [xiang1 gang3] /Hong Kong, Hongkong (Eig, Geo)/
+# Ver 2026-11-16T20:34:34Z nikolaus Stat-Verif >Verbesserung 
+香港 香港 [xiang1 gang3] /Hong Kong, Hongkong (Geo)/
 
 # ID-m79du8p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -981396,7 +981432,9 @@ X光檢查 X光检查 [X guang1 jian3 cha2] /Durchleuchtung (S)/röntgen (V)/
 
 # ID-n81Cl8b
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-鰷 鲦 [tiao2] /koreanischer Beilbauch-Weißfisch (sharpbelly, Hemiculter leucisculus) (S, Zool)/Döbel, Kaulbarsch (S, Zool)/
+# 鰷 鲦 [tiao2] /koreanischer Beilbauch-Weißfisch (sharpbelly, Hemiculter leucisculus) (S, Zool)/Döbel, Kaulbarsch (S, Zool)/
+# Ver 2026-11-16T15:32:46Z nikolaus Stat-Verif >Verbesserung 
+鰷 鲦 [tiao2] /koreanischer Beilbauch-Weißfisch (lat: Hemiculter leucisculus) (S, Zool)/Döbel, Kaulbarsch (lat: Gymnocephalus cernua) (S, Zool)/Kleinfisch (S, Zool)/
 
 # ID-n81CB5X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1032507,7 +1032545,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 幼鹿的腳 幼鹿的脚 [you4 lu4 de5 jiao3] /Spike (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-幼鹿的腳 幼鹿的脚 [you4 lu4 de5 jiao3] /Spike (S)/
+# 幼鹿的腳 幼鹿的脚 [you4 lu4 de5 jiao3] /Spike (S)/
+# Ver 2026-11-16T07:58:56Z nikolaus Stat-New >Verbesserung 
+幼鹿的腳 幼鹿的脚 [you4 lu4 de5 jiao3] /Rehkitzfuß (S)/
 
 # ID-o54Ev7w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
