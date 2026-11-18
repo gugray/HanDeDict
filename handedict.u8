@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-17T02:30:01Z
+# Datenstand: 2026-11-18T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -25479,7 +25479,9 @@ VDSL網絡 VDSL网络 [V D S L wang3 luo4] /VDSL-Netz (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 後甲板 后甲板 [hou4 jia3 ban3] /Achterdeck (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-後甲板 后甲板 [hou4 jia3 ban3] /Achterdeck (S)/
+# 後甲板 后甲板 [hou4 jia3 ban3] /Achterdeck (S)/
+# Ver 2026-11-17T15:06:45Z nikolaus Stat-New >Verbesserung 
+後甲板 后甲板 [hou4 jia3 ban3] /Achterdeck (S, Naut)/
 
 # ID-a35fR2D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -56914,7 +56916,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 絮語 絮语 [xu4 yu3] /unablässiges Schnattern, Geschwätz/
 # Ver 2020-06-23T16:10:38Z nikolaus Stat-New >Verbesserung 
-絮語 絮语 [xu4 yu3] /unablässiges Schnattern, Geschwätz (S)/
+# 絮語 絮语 [xu4 yu3] /unablässiges Schnattern, Geschwätz (S)/
+# Ver 2026-11-17T13:55:23Z nikolaus Stat-New >Verbesserung 
+絮語 絮语 [xu4 yu3] /unablässiges Schnattern, Geschnatter (S)/Geschwätz (S)/
 
 # ID-a79Kl4q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -106691,6 +106695,10 @@ AA制 AA制 [A A zhi4] /Jeder zahlt für sich selbst (Redew)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 九千六百七十二 九千六百七十二 [jiu3 qian1 liu4 bai3 qi1 shi2 er4] /9672 (neuntausendsechshundertzweiundsiebzig)/
 
+# ID-b50Jq3V
+# Ver 2026-11-17T17:39:19Z nikolaus Stat-New >Neu
+高壓機 高压机 [gao1 ya1 ji1] /Hochdruckmaschine, Hochdruckreiniger (S, Tech)/
+
 # ID-b50JE0K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 外匯買賣 外汇买卖 [wai4 hui4 mai3 mai4] /Agiotage (u.E.) (S)/Börsenhandel (u.E.) (S)/
@@ -117356,6 +117364,12 @@ IP電話 IP电话 [I P dian4 hua4] /IP-Telefonie (Internet-Protokoll-Telefonie),
 # 醫院內感染 医院内感染 [yi1 yuan4 nei4 gan3 ran3] /nosokomiale Infektion (Med)/
 # Ver 2022-04-24T08:44:42Z nikolaus Stat-New >Verbesserung
 醫院內感染 医院内感染 [yi1 yuan4 nei4 gan3 ran3] /nosokomiale Infektion (S, Med)/
+
+# ID-b66yP8I
+# Ver 2026-11-17T12:11:44Z nikolaus Stat-New >Neu
+# 倒數關係 倒数关系 [dao3 shu4 guan1 xi4] /Kehrwertidentität (S, Math)/
+# Ver 2026-11-17T12:14:37Z nikolaus Stat-New >Verbesserung
+倒數關係 倒数关系 [dao3 shu4 guan1 xi4] /reziproke Relation, Kehrwert-Beziehung (S, Math)/
 
 # ID-b66Ai7V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -148343,6 +148357,10 @@ SVD狙擊步槍 SVD狙击步枪 [S V D ju1 ji1 bu4 qiang1] /Dragunov (Mil)/SVD D
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 五千四百十八 五千四百十八 [wu3 qian1 si4 bai3 shi2 ba1] /5418 (fünftausendvierhundertachtzehn)/
 
+# ID-c11cq5x
+# Ver 2026-11-17T12:42:49Z nikolaus Stat-New >Neu
+動物屍體處理場 动物尸体处理场 [dong4 wu4 shi1 ti3 chu4 li3 chang3] /Abdeckerei, Tierkörperbeseitigungsanlage (TBA) (S)/
+
 # ID-c11cE0e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 八千一百八十一 八千一百八十一 [ba1 qian1 yi1 bai3 ba1 shi2 yi1] /8181 (achttausendeinhunderteinundachtzig) (u.E.)/
@@ -159651,7 +159669,9 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 煮蛋器 煮蛋器 [zhu3 dan4 qi4] /Eierkocher (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-煮蛋器 煮蛋器 [zhu3 dan4 qi4] /Eierkocher (S)/
+# 煮蛋器 煮蛋器 [zhu3 dan4 qi4] /Eierkocher (S)/
+# Ver 2026-11-17T20:20:38Z nikolaus Stat-New >Verbesserung 
+煮蛋器 煮蛋器 [zhu3 dan4 qi4] /Eierkocher, Eierkochmaschine (alt) (S, Tech)/
 
 # ID-c26UH9J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -164468,6 +164488,10 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 埃利亞斯赫拉維 埃利亚斯赫拉维 [ai1 li4 ya4 si1 he4 la1 wei2] /Elias Hrawi (Eig, Pers, 1926 - 2006)/
 
+# ID-c33Gv2i
+# Ver 2026-11-17T12:09:07Z nikolaus Stat-New >Neu
+倒數關係式 倒数关系式 [dao3 shu4 guan1 xi4 shi4] /Kehrwertidentität (S, Math)/
+
 # ID-c33Gz4G
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 岵 岵 [hu4] /Berg mit Vegetation (S)/Wohnort eines Vaters (S)/siehe auch 屺[qi3] (X)/
@@ -165858,7 +165882,9 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 下甲板 下甲板 [xia4 jia3 ban3] /Unterdeck (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-下甲板 下甲板 [xia4 jia3 ban3] /Unterdeck (S)/
+# 下甲板 下甲板 [xia4 jia3 ban3] /Unterdeck (S)/
+# Ver 2026-11-17T15:07:44Z nikolaus Stat-New >Verbesserung 
+下甲板 下甲板 [xia4 jia3 ban3] /Unterdeck (S, Naut)/
 
 # ID-c35CB1U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -184830,6 +184856,10 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # 浸信會 浸信会 [jin4 xin4 hui4] /Baptisten/
 # Ver 2024-02-14T16:55:26Z nikolaus Stat-New >Verbesserung 
 浸信會 浸信会 [jin4 xin4 hui4] /Baptisten (S, Rel)/
+
+# ID-c62fW9R
+# Ver 2026-11-17T20:13:01Z nikolaus Stat-New >Neu
+編織機 编织机 [bian1 zhi1 ji1] /Strickmaschine (S, Tech)/
 
 # ID-c62gf1y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -234865,7 +234895,9 @@ A型沸石 A型沸石 [A xing2 fei4 shi2] /Zeolith A (S, Chem)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 經編機 经编机 [jing1 bian1 ji1] /Kettenwirkmaschine (S)/
 # Ver 2025-11-13T14:33:28Z nikolaus Stat-New >Verbesserung
-經編機 经编机 [jing1 bian1 ji1] /Kettenwirkmaschine (S, Tech)/
+# 經編機 经编机 [jing1 bian1 ji1] /Kettenwirkmaschine (S, Tech)/
+# Ver 2026-11-17T20:15:05Z nikolaus Stat-New >Verbesserung 
+經編機 经编机 [jing1 bian1 ji1] /Kettenwirkmaschine, Wirkmaschine (S, Tech)/
 
 # ID-d33HX6l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -259963,6 +259995,10 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2023-11-29T21:32:29Z nikolaus Stat-New >Wortart 
 陶氏化學公司 陶氏化学公司 [tao2 shi4 hua4 xue2 gong1 si1] /Dow Chemical (Org, Wirtsch)/
 
+# ID-d68vD2f
+# Ver 2026-11-17T20:47:48Z nikolaus Stat-New >Neu
+平闆夯 平板夯 [ping2 ban3 hang1] /Rüttelplatte, Rüttelmaschine (S, Tech)/
+
 # ID-d68wj1c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 降雨量 降雨量 [jiang4 yu3 liang4] /Niederschlagsmenge (u.E.) (S)/
@@ -269666,6 +269702,10 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # 安第斯山脈 安第斯山脉 [an1 di4 si1 shan1 mai4] /Anden (S, Geo)/
 # Ver 2023-09-09T21:08:54Z nikolaus Stat-New >Verbesserung 
 安第斯山脈 安第斯山脉 [an1 di4 si1 shan1 mai4] /Anden (Gebirgskette in Südamerika) (Geo)/
+
+# ID-d81UT3w
+# Ver 2026-11-17T12:16:19Z nikolaus Stat-New >Neu
+倒數恆等式 倒数恒等式 [dao3 shu4 heng2 deng3 shi4] /Kehrwertidentität (S, Math)/
 
 # ID-d81UY3G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -296580,6 +296620,10 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2020-07-14T20:34:44Z nikolaus Stat-New >Verbesserung 
 到家 到家 [dao4 jia1] /perfekt sein (V)/zu Hause ankommen (V)/
 
+# ID-e19nd0F
+# Ver 2026-11-17T14:07:40Z nikolaus Stat-New >Neu
+王蛇屬 王蛇属 [wang2 she2 shu3] /Königsnattern (lat: Lampropeltis) (S, Zool)/
+
 # ID-e19nu4e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 交通費 交通费 [jiao1 tong1 fei4] /Fahrtkosten (u.E.)/
@@ -305970,6 +306014,10 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # 多重人格 多重人格 [duo1 chong2 ren2 ge2] /dissoziative Identitätsstörung (S)/
 # Ver 2022-02-08T08:58:55Z nikolaus Stat-New >Verbesserung 
 多重人格 多重人格 [duo1 chong2 ren2 ge2] /dissoziative Identitätsstörung (S, Psych)/
+
+# ID-e32DO3Y
+# Ver 2026-11-17T12:38:12Z nikolaus Stat-New >Neu
+動物屍體處理工 动物尸体处理工 [dong4 wu4 shi1 ti3 chu4 li3 gong1] /Abdecker, Wasenmeister (S)/
 
 # ID-e32Ei2H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -395756,6 +395804,10 @@ X光散射 X光散射 [X guang1 san4 she4] /Röntgenbeugung, Röntgenstreuung (S
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 撾 挝 [wo1] /antike Waffe mit einer Hand oder einer Klaue an der Spitze (S)/
 
+# ID-f58Xb1Q
+# Ver 2026-11-17T09:10:08Z nikolaus Stat-New >Neu
+填喂 填喂 [tian2 wei4] /die Mast, Masttierhaltung (S, Agrar)/
+
 # ID-f58Xc2e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 檢視孔 检视孔 [jian3 shi4 kong3] /Schauloch (u.E.) (S)/
@@ -447544,7 +447596,9 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 草坪割草機 草坪割草机 [cao3 ping2 ge1 cao3 ji1] /Rasenmäher (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-草坪割草機 草坪割草机 [cao3 ping2 ge1 cao3 ji1] /Rasenmäher (S)/
+# 草坪割草機 草坪割草机 [cao3 ping2 ge1 cao3 ji1] /Rasenmäher (S)/
+# Ver 2026-11-17T20:26:35Z nikolaus Stat-New >Verbesserung 
+草坪割草機 草坪割草机 [cao3 ping2 ge1 cao3 ji1] /Rasenmäher, Rasenmähmaschine (S, Tech)/
 
 # ID-g31cD6X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -476487,7 +476541,9 @@ DNA分析 DNA分析 [D N A fen1 xi1] /DNA-Analyse (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 上甲板 上甲板 [shang4 jia3 ban3] /Oberdeck (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-上甲板 上甲板 [shang4 jia3 ban3] /Oberdeck (S)/
+# 上甲板 上甲板 [shang4 jia3 ban3] /Oberdeck (S)/
+# Ver 2026-11-17T15:07:26Z nikolaus Stat-New >Verbesserung 
+上甲板 上甲板 [shang4 jia3 ban3] /Oberdeck (S, Naut)/
 
 # ID-g71eK9g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -573122,7 +573178,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 麻梳 麻梳 [ma2 shu1] /Riffel (Kamm mit langen Eisenzinken zum Abstreifen der Samenkapseln von den Flachsstängeln) (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-麻梳 麻梳 [ma2 shu1] /Riffel (Kamm mit langen Eisenzinken zum Abstreifen der Samenkapseln von den Flachsstängeln) (S)/
+# 麻梳 麻梳 [ma2 shu1] /Riffel (Kamm mit langen Eisenzinken zum Abstreifen der Samenkapseln von den Flachsstängeln) (S)/
+# Ver 2026-11-17T20:37:09Z nikolaus Stat-New >Verbesserung 
+麻梳 麻梳 [ma2 shu1] /Riffel (Kamm mit langen Eisenzinken zum Abstreifen der Samenkapseln von den Flachsstängeln) (S, Tech)/Hechel (für Hanf und Flachs) (S, Tech) /
 
 # ID-i06Wn3A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -586995,7 +587053,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 前甲板 前甲板 [qian2 jia3 ban3] /Vorderdeck (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-前甲板 前甲板 [qian2 jia3 ban3] /Vorderdeck (S)/
+# 前甲板 前甲板 [qian2 jia3 ban3] /Vorderdeck (S)/
+# Ver 2026-11-17T15:07:02Z nikolaus Stat-New >Verbesserung 
+前甲板 前甲板 [qian2 jia3 ban3] /Vorderdeck (S, Naut)/
 
 # ID-i26iY6S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -610785,7 +610845,11 @@ X射線譜學 X射线谱学 [X she4 xian4 pu3 xue2] /Röntgenspektroskopie (S, P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 甲板 甲板 [jia3 ban3] /Bord (u.E.) (S)/Deck (u.E.) (S)/Verdeck (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-甲板 甲板 [jia3 ban3] /Bord (S)/Deck (S)/Verdeck (S)/
+# 甲板 甲板 [jia3 ban3] /Bord (S)/Deck (S)/Verdeck (S)/
+# Ver 2026-11-17T15:06:25Z nikolaus Stat-New >Verbesserung 
+# 甲板 甲板 [jia3 ban3] /Bord, Deck (S, Naut)/Verdeck (S)/
+# Ver 2026-11-17T15:11:29Z nikolaus Stat-New >Verbesserung 
+甲板 甲板 [jia3 ban3] /Bord, Deck, Schiffsdeck (S, Naut)/Verdeck (S)/
 
 # ID-i58Tk8A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -621826,7 +621890,9 @@ CD刻錄機 CD刻录机 [C D ke4 lu4 ji1] /CD-Brenner (S, EDV)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 裝訂機械 装订机械 [zhuang1 ding4 ji1 xie4] /Buchbindereimaschine/
 # Ver 2023-12-19T08:59:03Z nikolaus Stat-New >Verbesserung 
-裝訂機械 装订机械 [zhuang1 ding4 ji1 xie4] /Buchbindereimaschine (S, Druckw)/
+# 裝訂機械 装订机械 [zhuang1 ding4 ji1 xie4] /Buchbindereimaschine (S, Druckw)/
+# Ver 2026-11-17T17:29:24Z nikolaus Stat-New >Verbesserung 
+裝訂機械 装订机械 [zhuang1 ding4 ji1 xie4] /Buchbindereimaschine, Buchbindemaschine (S, Druckw)/
 
 # ID-i74Lo5i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -669766,7 +669832,9 @@ CD自動接紙裝置 CD自动接纸装置 [C D zi4 dong4 jie1 zhi3 zhuang1 zhi4]
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 在甲板上 在甲板上 [zai4 jia3 ban3 shang4] /an Deck/
 # Ver 2020-06-29T11:51:58Z nikolaus Stat-New >Verbesserung 
-在甲板上 在甲板上 [zai4 jia3 ban3 shang4] /an Deck (S)/
+# 在甲板上 在甲板上 [zai4 jia3 ban3 shang4] /an Deck (S)/
+# Ver 2026-11-17T15:08:10Z nikolaus Stat-New >Verbesserung 
+在甲板上 在甲板上 [zai4 jia3 ban3 shang4] /an Deck (S, Naut)/
 
 # ID-j41tf8D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -687349,6 +687417,10 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # 鐵拳 铁拳 [tie3 quan2] /Tekken/
 # Ver 2024-01-24T08:17:38Z nikolaus Stat-New >Verbesserung 
 鐵拳 铁拳 [tie3 quan2] /Tekken (Video) (Spiel)/
+
+# ID-j65CA6t
+# Ver 2026-11-17T13:58:26Z nikolaus Stat-New >Neu
+水游蛇 水游蛇 [shui3 you2 she2] /Ringelnatter (lat: Natrix natrix) (S, Zool)/
 
 # ID-j65CL0c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -712408,6 +712480,10 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # 可拆裝的家具 可拆装的家具 [ke3 chai1 zhuang1 de5 jia1 ju4] /Anbaumöbel (u.E.) (S, EDV)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 可拆裝的家具 可拆装的家具 [ke3 chai1 zhuang1 de5 jia1 ju4] /Anbaumöbel (S, EDV)/
+
+# ID-k01xk7S
+# Ver 2026-11-17T08:54:01Z nikolaus Stat-New >Neu
+消滅傳染病 消灭传染病 [xiao1 mie4 chuan2 ran3 bing4] /Eradikation, Ausrottung von Erregern (S, Med)/
 
 # ID-k01xO0k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -746596,7 +746672,9 @@ B大調 B大调 [B da4 diao4] /H-Dur (S, Mus)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 混凝土攪拌機 混凝土搅拌机 [hun4 ning2 tu3 jiao3 ban4 ji1] /Betonmischer (Standgerät auf kleine Baustellen angewendet) (S, vulg)/Trommelmischer, Freifallmischer (in kleinen Baugrößen auf kleine Baustellen angewendet) (S, Tech)/
 # Ver 2020-01-09T08:55:42Z nikolaus Stat-New >Verbesserung
-混凝土攪拌機 混凝土搅拌机 [hun4 ning2 tu3 jiao3 ban4 ji1] /Betonmischer (Standgerät auf kleine Baustellen angewendet) (S, vulg)/Trommelmischer, Speismischer, Freifallmischer (in kleinen Baugrößen auf kleine Baustellen angewendet) (S, Tech)/
+# 混凝土攪拌機 混凝土搅拌机 [hun4 ning2 tu3 jiao3 ban4 ji1] /Betonmischer (Standgerät auf kleine Baustellen angewendet) (S, vulg)/Trommelmischer, Speismischer, Freifallmischer (in kleinen Baugrößen auf kleine Baustellen angewendet) (S, Tech)/
+# Ver 2026-11-17T20:29:34Z nikolaus Stat-New >Verbesserung 
+混凝土攪拌機 混凝土搅拌机 [hun4 ning2 tu3 jiao3 ban4 ji1] /Betonmischer (Standgerät auf kleine Baustellen) (S, vulg)/Betonmischmaschine (S, Tech)/Trommelmischer, Speismischer, Freifallmischer (in kleinen Baugrößen auf kleine Baustellen) (S, Tech)/
 
 # ID-k50MI4R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -771807,6 +771885,10 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # 七千一百五十一 七千一百五十一 [qi1 qian1 yi1 bai3 wu3 shi2 yi1] /7151 (siebentausendeinhunderteinundfünfzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 七千一百五十一 七千一百五十一 [qi1 qian1 yi1 bai3 wu3 shi2 yi1] /7151 (siebentausendeinhunderteinundfünfzig)/
+
+# ID-k85JB0U
+# Ver 2026-11-17T08:13:49Z nikolaus Stat-New >Neu
+高鉀血癥 高钾血症 [gao1 jia3 xue4 zheng1] /Hyperkaliämie (erhöhter Kaliumgehalt im Blut) (S, Med)/
 
 # ID-k85JL9j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -846971,6 +847053,10 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 # Ver 2022-01-13T09:49:28Z nikolaus Stat-New >Wortart
 實行懲罰 实行惩罚 [shi2 xing2 cheng2 fa2] /verhängt (Adj)/verhängen (V)/
 
+# ID-l91qe0K
+# Ver 2026-11-17T20:38:15Z nikolaus Stat-New >Neu
+梳麻器 梳麻器 [shu1 ma2 qi4] /Hechelmaschine (S, Tech)/
+
 # ID-l91qh1a
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 小麥啤酒 小麦啤酒 [xiao3 mai4 pi2 jiu3] /Weizenbier (u.E.) (S, Ess)/
@@ -884918,7 +885004,9 @@ EP油脂 EP油脂 [E P you2 zhi1] /EP-Fett (EP extreme pressure) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 虎蛇 虎蛇 [hu3 she2] /Tigerottern (Geo)/
 # Ver 2020-01-15T22:05:54Z nikolaus Stat-New >Verbesserung
-虎蛇 虎蛇 [hu3 she2] /Tigerotter (S, Zool)/
+# 虎蛇 虎蛇 [hu3 she2] /Tigerotter (S, Zool)/
+# Ver 2026-11-17T13:14:28Z nikolaus Stat-New >Verbesserung 
+虎蛇 虎蛇 [hu3 she2] /Tigerotter (lat: Notechis, Schlange) (S, Zool)/
 
 # ID-m46yy3z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -889863,6 +889951,10 @@ CCD電荷耦合器件掃描機 CCD电荷耦合器件扫描机 [C C D dian4 he2 o
 # 不能通過 不能通过 [bu4 neng2 tong1 guo4] /Undurchdringlichkeit (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 不能通過 不能通过 [bu4 neng2 tong1 guo4] /Undurchdringlichkeit (S)/
+
+# ID-m53Ad5a
+# Ver 2026-11-17T15:17:18Z nikolaus Stat-New >Neu
+羽絨被 羽绒被 [yu3 rong2 bei4] /Federbett, Federdecke, Daunendecke (S)/
 
 # ID-m53Bf9A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -900744,7 +900836,9 @@ CD音樂 CD音乐 [C D yin1 yue4] /Compact Disc (S)/
 
 # ID-m68Mu5Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-絞肉機 绞肉机 [jiao3 rou4 ji1] /Fleischwolf (S)/
+# 絞肉機 绞肉机 [jiao3 rou4 ji1] /Fleischwolf (S)/
+# Ver 2026-11-17T20:22:58Z nikolaus Stat-Verif >Verbesserung 
+絞肉機 绞肉机 [jiao3 rou4 ji1] /Fleischwolf, Fleichmaschine (S, Tech)/
 
 # ID-m68Mu7Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -907217,6 +907311,10 @@ QR快速剝離效應 QR快速剥离效应 [Q R kuai4 su4 bo1 li2 xiao4 ying4] /Q
 # 故障探尋 故障探寻 [gu4 zhang4 tan4 xun2] /Störungssuche (V, Tech)/
 # Ver 2020-11-06T11:31:44Z nikolaus Stat-New >Verbesserung 
 故障探尋 故障探寻 [gu4 zhang4 tan4 xun2] /Störungssuche (S, Tech)/
+
+# ID-m77Qw7o
+# Ver 2026-11-17T17:27:54Z nikolaus Stat-New >Verbesserung 
+切麵包機 切面包机 [qie1 mian4 bao1 ji1] /Brotschneider, Brotschneidemaschine (S, Tech)/
 
 # ID-m77QO6N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1049881,7 +1049979,9 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 # Ver 2020-06-08T14:28:34Z nikolaus Stat-New >Verbesserung 
 # 振動 振动 [zhen4 dong4] /schwingen (V)/Rüttel.../
 # Ver 2021-12-26T13:07:44Z nikolaus Stat-New >Wortart
-振動 振动 [zhen4 dong4] /schwingen (V)/Rüttel... (S)/
+# 振動 振动 [zhen4 dong4] /schwingen (V)/Rüttel... (S)/
+# Ver 2026-11-17T20:42:21Z nikolaus Stat-New >Verbesserung 
+振動 振动 [zhen4 dong4] /Vibration, Erschütterung (S)/
 
 # ID-o79Np6v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
