@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-18T02:30:01Z
+# Datenstand: 2026-11-19T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -40985,6 +40985,12 @@ EDV輔助的 EDV辅助的 [E D V fu3 zhu4 de5] /EDV-gestützt (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 九千三百二十三 九千三百二十三 [jiu3 qian1 san1 bai3 er4 shi2 san1] /9323 (neuntausenddreihundertdreiundzwanzig)/
 
+# ID-a57eN8t
+# Ver 2026-11-18T16:43:21Z nikolaus Stat-New >Neu
+# 約翰菲利普賴斯 约翰菲利普赖斯 [yue1 han4 fei3 li4 pu3 lai4 si1] /Johann Philipp Reis dt. Physiker und Erfinder) (Eig, Pers, 1834-1874)/
+# Ver 2026-11-18T16:56:59Z nikolaus Stat-New >Formatfehler
+約翰菲利普賴斯 约翰菲利普赖斯 [yue1 han4 fei3 li4 pu3 lai4 si1] /Johann Philipp Reis (dt. Physiker und Erfinder) (Eig, Pers, 1834-1874)/
+
 # ID-a57fg6R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 女業余攝影師 女业余摄影师 [nü3 ye4 yu2 she4 ying3 shi1] /Hobbyfotografin (u.E.) (S)/
@@ -73681,6 +73687,10 @@ DE匯流排關閉 DE汇流排关闭 [D E hui4 liu2 pai2 guan1 bi4] /DE-Schiene g
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 應盡 应尽 [ying4 jin4] /obliegen (V)/
 
+# ID-b03gg9w
+# Ver 2026-11-18T16:53:35Z nikolaus Stat-New >Neu
+焦半徑 焦半径 [jiao1 ban4 jing4] /Fokusradius, Brennradius (S, Phys)/
+
 # ID-b03gs6s
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 起皺 起皱 [qi3 zhou4] /knicken (u.E.) (V)/knittern (Kleidung) (u.E.) (V)/sträuben (u.E.) (V)/
@@ -94363,7 +94373,9 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 豐田 丰田 [feng1 tian2] /Toyota (Eig, Wirtsch)/
 # Ver 2023-10-11T20:34:33Z nikolaus Stat-New >Verbesserung 
-豐田 丰田 [feng1 tian2] /Toyota (Automarke) (Eig)/
+# 豐田 丰田 [feng1 tian2] /Toyota (Automarke) (Eig)/
+# Ver 2026-11-18T18:38:40Z nikolaus Stat-New >Verbesserung 
+豐田 丰田 [feng1 tian2] /Toyota (Automarke) (Eig, Kfz)/
 
 # ID-b33qs3F
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -204990,7 +205002,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 
 # ID-c90WI9G
 # Ver 2020-01-01T14:27:42Z nikolaus Stat-New >Wikipedia
-博格瓦德 博格瓦德 [bo2 ge2 wa3 de2] /Borgward (Automarke) (Eig)/
+# 博格瓦德 博格瓦德 [bo2 ge2 wa3 de2] /Borgward (Automarke) (Eig)/
+# Ver 2026-11-18T18:38:01Z nikolaus Stat-New >Verbesserung 
+博格瓦德 博格瓦德 [bo2 ge2 wa3 de2] /Borgward (Automarke) (Eig, Kfz)/
 
 # ID-c90Xt6A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -228762,7 +228776,9 @@ C柱 C柱 [C zhu4] /C-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 看花眼 看花眼 [kan4 hua1 yan3] /die Qual der Wahl (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-看花眼 看花眼 [kan4 hua1 yan3] /die Qual der Wahl (Eig)/
+# 看花眼 看花眼 [kan4 hua1 yan3] /die Qual der Wahl (Eig)/
+# Ver 2026-11-18T18:41:57Z nikolaus Stat-New >Verbesserung 
+看花眼 看花眼 [kan4 hua1 yan3] /die Qual der Wahl (Redew)/
 
 # ID-d24Gq0o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -243550,6 +243566,10 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # 下西裡西亞省 下西里西亚省 [xia4 xi1 li3 xi1 ya4 sheng3] /Woiwodschaft Niederschlesien/
 # Ver 2021-11-07T22:42:30Z nikolaus Stat-New >Verbesserung 
 下西裡西亞省 下西里西亚省 [xia4 xi1 li3 xi1 ya4 sheng3] /Woiwodschaft Niederschlesien (Polen) (Geo)/
+
+# ID-d45FB7L
+# Ver 2026-11-18T19:01:25Z nikolaus Stat-New >Neu
+病毒式傳播 病毒式传播 [bing4 du2 shi4 chuan2 bo1] /Viralität, virusartige Ausbreitung (S, Soz)/
 
 # ID-d45FU2J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -326359,7 +326379,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 駱家輝 骆家辉 [luo4 jia1 hui1] /Gary Locke (u.E.) (Pers)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-駱家輝 骆家辉 [luo4 jia1 hui1] /Gary Locke (Pers)/
+# 駱家輝 骆家辉 [luo4 jia1 hui1] /Gary Locke (Pers)/
+# Ver 2026-11-18T17:43:37Z nikolaus Stat-New >Verbesserung 
+駱家輝 骆家辉 [luo4 jia1 hui1] /Gary Locke (US-Politiker) (Eig, Pers, 1950-)/
 
 # ID-e60mI8j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -361082,7 +361104,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 
 # ID-f09Ve3J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-賴斯 赖斯 [lai4 si1] /Rice (Eig, Fam)/
+# 賴斯 赖斯 [lai4 si1] /Rice (Eig, Fam)/
+# Ver 2026-11-18T16:38:35Z nikolaus Stat-Verif >Verbesserung 
+賴斯 赖斯 [lai4 si1] /Rice, Reis (Eig, Fam)/
 
 # ID-f09Vo4W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -491431,7 +491455,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 花露水 花露水 [hua1 lu4 shui3] /Duftwasser, Eau de Cologne (S)/
 # Ver 2022-12-13T17:12:13Z nikolaus Stat-New >Verbesserung
-花露水 花露水 [hua1 lu4 shui3] /Duftwasser (S), Eau de Cologne (Eig)/
+# 花露水 花露水 [hua1 lu4 shui3] /Duftwasser (S), Eau de Cologne (Eig)/
+# Ver 2026-11-18T18:43:07Z nikolaus Stat-New >Verbesserung 
+花露水 花露水 [hua1 lu4 shui3] /Duftwasser (S), Eau de Cologne (S)/
 
 # ID-g91Ic8O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -668618,6 +668644,10 @@ CD自動接紙裝置 CD自动接纸装置 [C D zi4 dong4 jie1 zhi3 zhuang1 zhi4]
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 夏侯尚 夏侯尚 [xia4 hou2 shang4] /Xiahou Shang (Eig, Pers, 185 - 225)/
 
+# ID-j39Hz2A
+# Ver 2026-11-18T17:00:52Z nikolaus Stat-New >Neu
+差事件 差事件 [cha1 shi4 jian4] /Differenzereignis, Differenz von Ereignissen (S, Math)/
+
 # ID-j39HO1X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 芯頭 芯头 [xin1 tou2] /Dorn (u.E.)/
@@ -809279,7 +809309,9 @@ DVD驅動器 DVD驱动器 [D V D qu1 dong4 qi4] /DVD-Laufwerk (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 德意志帝國銀行 德意志帝国银行 [de2 yi4 zhi4 di4 guo2 yin2 hang2] /Deutsche Reichsbank (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-德意志帝國銀行 德意志帝国银行 [de2 yi4 zhi4 di4 guo2 yin2 hang2] /Deutsche Reichsbank (Eig)/
+# 德意志帝國銀行 德意志帝国银行 [de2 yi4 zhi4 di4 guo2 yin2 hang2] /Deutsche Reichsbank (Eig)/
+# Ver 2026-11-18T18:45:09Z nikolaus Stat-New >Verbesserung 
+德意志帝國銀行 德意志帝国银行 [de2 yi4 zhi4 di4 guo2 yin2 hang2] /Deutsche Reichsbank (S, Gesch)/
 
 # ID-l38DF6g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1002815,7 +1002847,9 @@ X射線天文學 X射线天文学 [X she4 xian4 tian1 wen2 xue2] /Röntgenastron
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 大輪 大轮 [da4 lun2] /Erster Ingenieur (u.E.) (Eig)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-大輪 大轮 [da4 lun2] /Erster Ingenieur (Eig)/
+# 大輪 大轮 [da4 lun2] /Erster Ingenieur (Eig)/
+# Ver 2026-11-18T18:50:06Z nikolaus Stat-New >Verbesserung 
+大輪 大轮 [da4 lun2] /großes Rad, großes Zahnrad (S, Tech)/
 
 # ID-o12Nu7W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
