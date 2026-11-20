@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-19T02:30:01Z
+# Datenstand: 2026-11-20T02:30:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -51018,7 +51018,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 不育夫人 不育夫人 [bu4 yu4 fu1 ren2] /Unfruchtbare Frau (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-不育夫人 不育夫人 [bu4 yu4 fu1 ren2] /Unfruchtbare Frau (S)/
+# 不育夫人 不育夫人 [bu4 yu4 fu1 ren2] /Unfruchtbare Frau (S)/
+# Ver 2026-11-19T12:15:13Z nikolaus Stat-New >Verbesserung 
+不育夫人 不育夫人 [bu4 yu4 fu1 ren2] /unfruchtbare Frau (S, Med)/
 
 # ID-a71rS9q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -752680,7 +752682,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 # Ver 2024-08-23T07:02:00Z nikolaus Stat-New >Verbesserung 
 # 巨人 巨人 [ju4 ren2] /Riese, Gigant, Schrank (umg großer Person) (S)/Schrank (umg großer Person) (S)/riesig, groß (Adj)/
 # Ver 2024-11-24T08:08:58Z nikolaus Stat-New >Verbesserung 
-巨人 巨人 [ju4 ren2] /Riese, Gigant, Schrank (umg großer Person) (S)/Goliath (Eig, Myth)/Schrank (umg großer Person) (S)/riesig, groß (Adj)/
+# 巨人 巨人 [ju4 ren2] /Riese, Gigant, Schrank (umg großer Person) (S)/Goliath (Eig, Myth)/Schrank (umg großer Person) (S)/riesig, groß (Adj)/
+# Ver 2026-11-19T12:19:29Z nikolaus Stat-New >Verbesserung 
+巨人 巨人 [ju4 ren2] /Riese, Gigant, Titan, Schrank (umg große Person) (S)/Goliath (Eig, Myth)/riesig, groß (Adj)/
 
 # ID-k58ZF0L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -854510,7 +854514,9 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 
 # ID-m01RB2J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-公務用車 公务用车 [gong1 wu4 yong4 che1] /Dienstwagen (S)/
+# 公務用車 公务用车 [gong1 wu4 yong4 che1] /Dienstwagen (S)/
+# Ver 2026-11-19T10:52:00Z nikolaus Stat-Verif >Verbesserung 
+公務用車 公务用车 [gong1 wu4 yong4 che1] /Dienstwagen (S, Kfz)/
 
 # ID-m01RP4J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -856460,7 +856466,9 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 讀數 读数 [du2 shu4] /ablesen (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-讀數 读数 [du2 shu4] /ablesen (V)/
+# 讀數 读数 [du2 shu4] /ablesen (V)/
+# Ver 2026-11-19T10:45:19Z nikolaus Stat-New >Verbesserung 
+讀數 读数 [du2 shu4] /ablesen (V)/Ablesewert, Zählerstand (S, Tech)/
 
 # ID-m04Lh3L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -993403,7 +993411,9 @@ DA匯流排閉合 DA汇流排闭合 [D A hui4 liu2 pai2 bi4 he2] /DA-Schiene ges
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鯨類 鲸类 [jing1 lei4] /Wale (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鯨類 鲸类 [jing1 lei4] /Wale (S)/
+# 鯨類 鲸类 [jing1 lei4] /Wale (S)/
+# Ver 2026-11-19T13:41:37Z nikolaus Stat-New >Verbesserung
+鯨類 鲸类 [jing1 lei4] /Wale (lat: Cetacea) (S, Zool)/
 
 # ID-n98FK0X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1032321,7 +1032331,9 @@ T恤 T恤 [T xu4] /T-Shirt (S)/
 
 # ID-o53XT2X
 # Ver 2025-07-30T17:15:05Z nikolaus Stat-New >Neu
-鈳鉭鐵礦 钶钽铁矿 [e1 tan3 tie3 kuang4] /Coltan (ein Niob-Tantal-Erz) (S, Geol)/
+# 鈳鉭鐵礦 钶钽铁矿 [e1 tan3 tie3 kuang4] /Coltan (ein Niob-Tantal-Erz) (S, Geol)/
+# Ver 2026-11-19T11:55:01Z nikolaus Stat-New >Verbesserung 
+鈳鉭鐵礦 钶钽铁矿 [e1 tan3 tie3 kuang4] /Koltan, Coltan (ein Niob-Tantal-Erz) (S, Geol)/
 
 # ID-o53XX2w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
