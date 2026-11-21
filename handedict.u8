@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-20T02:30:02Z
+# Datenstand: 2026-11-21T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -63859,7 +63859,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 自誇 自夸 [zi4 kua1] /Prahlerei (u.E.) (S)/prahlen (u.E.) (V)/prahlerisch (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-自誇 自夸 [zi4 kua1] /Prahlerei (S)/prahlen (V)/prahlerisch (Adj)/
+# 自誇 自夸 [zi4 kua1] /Prahlerei (S)/prahlen (V)/prahlerisch (Adj)/
+# Ver 2026-11-20T21:58:40Z nikolaus Stat-New >Verbesserung 
+自誇 自夸 [zi4 kua1] /Prahlerei, Angeberei (S)/prahlen (V)/prahlerisch (Adj)/
 
 # ID-a89As1z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -100761,7 +100763,9 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 裸體繪畫 裸体绘画 [luo3 ti3 hui4 hua4] /Akt, Aktbild (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-裸體繪畫 裸体绘画 [luo3 ti3 hui4 hua4] /Akt, Aktbild (S)/
+# 裸體繪畫 裸体绘画 [luo3 ti3 hui4 hua4] /Akt, Aktbild (S)/
+# Ver 2026-11-20T21:57:51Z nikolaus Stat-New >Verbesserung 
+裸體繪畫 裸体绘画 [luo3 ti3 hui4 hua4] /Akt, Aktbild (S, Kunst)/Aktgemälde, Aktmalerei (S, Kunst)/
 
 # ID-b42eI5f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -110227,7 +110231,9 @@ AA制 AA制 [A A zhi4] /Jeder zahlt für sich selbst (Redew)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 毆打撕打 殴打撕打 [ou1 da3 si1 da3] /Prügelei (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-毆打撕打 殴打撕打 [ou1 da3 si1 da3] /Prügelei (S)/
+# 毆打撕打 殴打撕打 [ou1 da3 si1 da3] /Prügelei (S)/
+# Ver 2026-11-20T22:14:24Z nikolaus Stat-New >Verbesserung 
+毆打撕打 殴打撕打 [ou1 da3 si1 da3] /Prügelei, Keilerei (S)/
 
 # ID-b56gU9w
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -140961,7 +140967,9 @@ MP5衝鋒槍 MP5冲锋枪 [M P 5 chong1 feng1 qiang1] /HK MP5 (Maschinengewehr) 
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 搶劫 抢劫 [qiang3 jie2] /Überfall, Plünderung, Raub (S)/überfallen, plündern, rauben (V)/gewaltsam etw. an sich reißen (V)/gewaltsam etw. wegnehmen (V)/
 # Ver 2020-05-08T14:08:56Z nikolaus Stat-New >Verbesserung 
-搶劫 抢劫 [qiang3 jie2] /Überfall, Plünderung, Raub (S, Rechtsw) /überfallen, plündern, rauben (V, Rechtsw) /gewaltsam etw. an sich reißen (V)/gewaltsam etw. wegnehmen (V)/
+# 搶劫 抢劫 [qiang3 jie2] /Überfall, Plünderung, Raub (S, Rechtsw) /überfallen, plündern, rauben (V, Rechtsw) /gewaltsam etw. an sich reißen (V)/gewaltsam etw. wegnehmen (V)/
+# Ver 2026-11-20T22:24:21Z nikolaus Stat-New >Verbesserung 
+搶劫 抢劫 [qiang3 jie2] /Überfall, Plünderung, Raub, Räuberei (S, Rechtsw) /überfallen, plündern, rauben (V, Rechtsw) /gewaltsam etw. an sich reißen (V)/gewaltsam etw. wegnehmen (V)/
 
 # ID-c00Bh6D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -218119,6 +218127,10 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2020-06-10T21:04:13Z nikolaus Stat-New >Verbesserung 
 引人注意 引人注意 [yin3 ren2 zhu4 yi4] /attraktiv, reizvoll (Adj)/
 
+# ID-d09jt4a
+# Ver 2026-11-20T16:07:06Z nikolaus Stat-New >Neu 
+格婁斯 格娄斯 [ge2 lou2 si1] /Gross, Groß (Eig, Fam)/
+
 # ID-d09jz2g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 喀麥隆國家足球隊 喀麦隆国家足球队 [ka1 mai4 long2 guo2 jia1 zu2 qiu2 dui4] /Kamerunische Fußballnationalmannschaft (u.E.) (S)/
@@ -225753,7 +225765,9 @@ C柱 C柱 [C zhu4] /C-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 懶散 懒散 [lan3 san3] /Müßiggang, Faulheit (u.E.) (S)/sich aalen (u.E.) (V)/langsam (u.E.) (Adj)/müßig (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-懶散 懒散 [lan3 san3] /Müßiggang, Faulheit (S)/sich aalen (V)/langsam (Adj)/müßig (Adj)/
+# 懶散 懒散 [lan3 san3] /Müßiggang, Faulheit (S)/sich aalen (V)/langsam (Adj)/müßig (Adj)/
+# Ver 2026-11-20T22:04:26Z nikolaus Stat-New >Verbesserung 
+懶散 懒散 [lan3 san3] /Müßiggang, Faulheit, Faulenzerei (S)/sich aalen (V)/langsam (Adj)/müßig (Adj)/
 
 # ID-d20mu4d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -249068,6 +249082,10 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2021-04-04T13:45:29Z nikolaus Stat-New >Verbesserung
 軌範 轨范 [gui3 fan4] /Kriterium, Standard, Norm, Regel (S)/Regulation, Hauptregeln (S)/
 
+# ID-d53eW6X
+# Ver 2026-11-20T08:24:23Z nikolaus Stat-New >Neu
+復雜局麵 复杂局面 [fu4 za2 ju2 mian4] /Gemengelage, komplexe Situation (S)/
+
 # ID-d53fd3B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 東莞市 东莞市 [dong1 wan3 shi4] /Dongguan (Stadt in der Provinz Guangdong, China) (u.E.) (Eig, Geo)/
@@ -258047,7 +258065,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 養蜂業 养蜂业 [yang3 feng1 ye4] /Bienenzucht (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-養蜂業 养蜂业 [yang3 feng1 ye4] /Bienenzucht (S)/
+# 養蜂業 养蜂业 [yang3 feng1 ye4] /Bienenzucht (S)/
+# Ver 2026-11-20T22:09:20Z nikolaus Stat-New >Verbesserung 
+養蜂業 养蜂业 [yang3 feng1 ye4] /Bienenzucht, Imkerei (S)/
 
 # ID-d65KR5G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -289591,7 +289611,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 養蜂 养蜂 [yang3 feng1] /Bienenzucht (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-養蜂 养蜂 [yang3 feng1] /Bienenzucht (S)/
+# 養蜂 养蜂 [yang3 feng1] /Bienenzucht (S)/
+# Ver 2026-11-20T22:10:01Z nikolaus Stat-New >Verbesserung 
+養蜂 养蜂 [yang3 feng1] /Bienenzucht, Imkerei (S)/
 
 # ID-e09sR0v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -291029,7 +291051,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 牧師的住宅 牧师的住宅 [mu4 shi1 de5 zhu4 zhai2] /Pfarrhaus (u.E.) (S, Rel)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-牧師的住宅 牧师的住宅 [mu4 shi1 de5 zhu4 zhai2] /Pfarrhaus (S, Rel)/
+# 牧師的住宅 牧师的住宅 [mu4 shi1 de5 zhu4 zhai2] /Pfarrhaus (S, Rel)/
+# Ver 2026-11-20T22:21:34Z nikolaus Stat-New >Verbesserung 
+牧師的住宅 牧师的住宅 [mu4 shi1 de5 zhu4 zhai2] /Pfarrhaus, Pfarrei (S, Rel)/
 
 # ID-e11tB9I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -308011,7 +308035,9 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 污穢 污秽 [wu1 hui4] /schmutzig, unsauber/Dreck (S)/Kontamination (S)/Schmutzigkeit (S)/Verseuchung (S)/fies (Adj)/garstig (Adj)/
 # Ver 2021-12-16T14:54:27Z nikolaus Stat-New >Wortart
-污穢 污秽 [wu1 hui4] /schmutzig, unsauber (Adj)/Dreck (S)/Kontamination (S)/Schmutzigkeit (S)/Verseuchung (S)/fies (Adj)/garstig (Adj)/
+# 污穢 污秽 [wu1 hui4] /schmutzig, unsauber (Adj)/Dreck (S)/Kontamination (S)/Schmutzigkeit (S)/Verseuchung (S)/fies (Adj)/garstig (Adj)/
+# Ver 2026-11-20T22:30:39Z nikolaus Stat-New >Verbesserung 
+污穢 污秽 [wu1 hui4] /schmutzig, unsauber (Adj)/Dreck (S)/Kontamination (S)/Schmutzigkeit, Sauerei (S)/Verseuchung (S)/fies (Adj)/garstig (Adj)/
 
 # ID-e35tx3W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -345123,7 +345149,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 板栗 板栗 [ban3 li4] /Chinesische Kastanie (lat. Castanea mollissima) (S, Bio)/Weichkastanie (lat. Castanea mollissima) (S, Bio)/
 # Ver 2025-04-05T15:11:55Z nikolaus Stat-New >Verbesserung 
-板栗 板栗 [ban3 li4] /Chinesische Kastanie (lat. Castanea mollissima) (S, Bot)/Weichkastanie (lat. Castanea mollissima) (S, Bot)/
+# 板栗 板栗 [ban3 li4] /Chinesische Kastanie (lat. Castanea mollissima) (S, Bot)/Weichkastanie (lat. Castanea mollissima) (S, Bot)/
+# Ver 2026-11-20T13:24:55Z nikolaus Stat-New >Verbesserung 
+板栗 板栗 [ban3 li4] /Chinesische Kastanie (lat: Castanea mollissima) (S, Bot)/Weichkastanie (lat: Castanea mollissima) (S, Bot)/
 
 # ID-e87tx8Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -400582,7 +400610,9 @@ X光散射 X光散射 [X guang1 san4 she4] /Röntgenbeugung, Röntgenstreuung (S
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 閑話 闲话 [xian2 hua4] /klatschen, schwatzen/Geschrei (S)/Geschwätz (S)/
 # Ver 2021-12-25T14:36:23Z nikolaus Stat-New >Wortart
-閑話 闲话 [xian2 hua4] /klatschen, schwatzen (V)/Geschrei (S)/Geschwätz (S)/
+# 閑話 闲话 [xian2 hua4] /klatschen, schwatzen (V)/Geschrei (S)/Geschwätz (S)/
+# Ver 2026-11-20T22:18:35Z nikolaus Stat-New >Verbesserung 
+閑話 闲话 [xian2 hua4] /klatschen, schwatzen, lästern (V)/Geschrei (S)/Geschwätz, Lästerei (S)/
 
 # ID-f65us9P
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -434712,7 +434742,9 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 戴維格婁斯 戴维格娄斯 [dai4 wei2 ge2 lou2 si1] /David Gross (u.E.) (Eig, Pers, 1941 - )/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-戴維格婁斯 戴维格娄斯 [dai4 wei2 ge2 lou2 si1] /David Gross (Eig, Pers, 1941 -)/
+# 戴維格婁斯 戴维格娄斯 [dai4 wei2 ge2 lou2 si1] /David Gross (Eig, Pers, 1941 -)/
+# Ver 2026-11-20T16:06:03Z nikolaus Stat-New >Verbesserung 
+戴維格婁斯 戴维格娄斯 [dai4 wei2 ge2 lou2 si1] /David Gross (US-Physiker) (Eig, Pers, 1941-)/
 
 # ID-g12tc7a
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -675023,7 +675055,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 水彩畫 水彩画 [shui3 cai3 hua4] /Aquarell (S)/
 # Ver 2022-12-19T23:08:53Z nikolaus Stat-New >Verbesserung 
-水彩畫 水彩画 [shui3 cai3 hua4] /Aquarell (S, Kunst)/
+# 水彩畫 水彩画 [shui3 cai3 hua4] /Aquarell (S, Kunst)/
+# Ver 2026-11-20T21:59:41Z nikolaus Stat-New >Verbesserung 
+水彩畫 水彩画 [shui3 cai3 hua4] /Aquarell, Aquarellmalerei (S, Kunst)/
 
 # ID-j48OJ5c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -684064,6 +684098,10 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
 醓 醓 [tan3] /Lake von eingelegtem Fleisch (S)/
 
+# ID-j60Yk9j
+# Ver 2026-11-20T15:35:22Z nikolaus Stat-New >Neu
+基普費爾 基普费尔 [ji1 pu3 fei4 er3] /Kipfel, Kipferl (S, Ess)/
+
 # ID-j60Yv7x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 瑪麗安東尼特 玛丽安东尼特 [ma3 li4 an1 dong1 ni2 te4] /Marie Antoinette (u.E.) (Eig, Pers, 1755 - 1793)/
@@ -689349,6 +689387,10 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # 死板的人 死板的人 [si3 ban3 de5 ren2] /Formalist (u.E.) (S)/Pedant (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 死板的人 死板的人 [si3 ban3 de5 ren2] /Formalist (S)/Pedant (S)/
+
+# ID-j68jA6n
+# Ver 2026-11-20T12:43:58Z nikolaus Stat-New >Neu
+新纈草屬 新缬草属 [xin1 xie2 cao3 shu3] /Rapunzel, Feldsalat (lat: Valerianella) (S, Bot)/
 
 # ID-j68jD3y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -747459,6 +747501,10 @@ B大調 B大调 [B da4 diao4] /H-Dur (S, Mus)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 可服務 可服务 [ke3 fu2 wu4] /Operationsfähigkeit (S)/
 
+# ID-k51MM2E
+# Ver 2026-11-20T08:38:00Z nikolaus Stat-New >Neu
+交叉分析 交叉分析 [jiao1 cha1 fen1 xi1] /Kreuztabellenanalyse, Querschnittsanalyse (S, Math)/
+
 # ID-k51Nd5z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 不信 不信 [bu4 xin4] /misstraut (u.E.)/Unglaube (u.E.) (S)/
@@ -779920,6 +779966,10 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 四千四百四十二 四千四百四十二 [si4 qian1 si4 bai3 si4 shi2 er4] /4442 (viertausendvierhundertzweiundvierzig)/
 
+# ID-k97sA9l
+# Ver 2026-11-20T22:12:54Z nikolaus Stat-New >Neu
+咖啡烘焙坊 咖啡烘焙坊 [ka1 fei1 hong1 bei4 fang1] /Kaffeerösterei, Rösterei (S)/
+
 # ID-k97tu8A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 荒無人煙 荒无人烟 [huang1 wu2 ren2 yan1] /menschenleer (u.E.) (Adj)/
@@ -802889,7 +802939,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 連環圖 连环图 [lian2 huan2 tu2] /Comic Strip (u.E.) (S, Kunst)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-連環圖 连环图 [lian2 huan2 tu2] /Comic Strip (S, Kunst)/
+# 連環圖 连环图 [lian2 huan2 tu2] /Comic Strip (S, Kunst)/
+# Ver 2026-11-20T20:30:50Z nikolaus Stat-New >Verbesserung 
+連環圖 连环图 [lian2 huan2 tu2] /Comicstrip (S, Kunst)/
 
 # ID-l29EL4v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -816298,7 +816350,9 @@ DNA芯片 DNA芯片 [D N A xin4 pian4] /Biochip (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 糖萵苣 糖莴苣 [tang2 wo1 ju4] /Mangold (S)/
 # Ver 2025-04-14T14:35:32Z nikolaus Stat-New >Verbesserung 
-糖萵苣 糖莴苣 [tang2 wo1 ju4] /Mangold (S, Bot)/
+# 糖萵苣 糖莴苣 [tang2 wo1 ju4] /Mangold (S, Bot)/
+# Ver 2026-11-20T12:58:33Z nikolaus Stat-New >Verbesserung 
+糖萵苣 糖莴苣 [tang2 wo1 ju4] /Mangold (lat: Beta vulgaris) (S, Bot)/
 
 # ID-l48gK6D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -880841,7 +880895,9 @@ EP油脂 EP油脂 [E P you2 zhi1] /EP-Fett (EP extreme pressure) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 野萵苣 野莴苣 [ye3 wo1 ju4] /Feldsalat (S)/
 # Ver 2025-01-31T21:08:24Z nikolaus Stat-New >Verbesserung 
-野萵苣 野莴苣 [ye3 wo1 ju4] /Feldsalat (S, Agrar)/
+# 野萵苣 野莴苣 [ye3 wo1 ju4] /Feldsalat (S, Agrar)/
+# Ver 2026-11-20T12:46:16Z nikolaus Stat-New >Verbesserung 
+野萵苣 野莴苣 [ye3 wo1 ju4] /Stachel-Lattich, Kompass-Lattich, Zaun-Lattich (lat: Lactuca serriola) (S, Bot)/
 
 # ID-m39Mr4B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -903236,7 +903292,9 @@ QR快速剝離效應 QR快速剥离效应 [Q R kuai4 su4 bo1 li2 xiao4 ying4] /Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 危言聳聽 危言耸听 [wei1 yan2 song3 ting1] /Panikmache (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-危言聳聽 危言耸听 [wei1 yan2 song3 ting1] /Panikmache (S)/
+# 危言聳聽 危言耸听 [wei1 yan2 song3 ting1] /Panikmache (S)/
+# Ver 2026-11-20T22:20:45Z nikolaus Stat-New >Verbesserung 
+危言聳聽 危言耸听 [wei1 yan2 song3 ting1] /Panikmache, Panikmacherei (S)/
 
 # ID-m72aJ8F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -975917,6 +975975,10 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 回轉 回转 [hui2 zhuan3] /Rotation, Wendung, Drehung, Schwenk- (S)/
 
+# ID-n73Po3n
+# Ver 2026-11-20T22:41:59Z nikolaus Stat-New >Neu
+鞋匠店 鞋匠店 [xie2 jiang4 dian4] /Schumacherei, Schusterei (S)/
+
 # ID-n73Qk3D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 地域性 地域性 [di4 yu4 xing4] /Region (u.E.) (S)/regional (u.E.) (Adj)/
@@ -983787,6 +983849,10 @@ X光檢查 X光检查 [X guang1 jian3 cha2] /Durchleuchtung (S)/röntgen (V)/
 # 噝 咝 [si1] /zischen (u.E.) (V)/Silbe (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 噝 咝 [si1] /zischen (V)/Silbe (S)/
+
+# ID-n84Iy0k
+# Ver 2026-11-20T12:53:13Z nikolaus Stat-New >Neu
+萵苣屬 莴苣属 [wo1 ju4 shu3] /Lattiche (lat: Lactuca) (S, Bot)/
 
 # ID-n84JT1W
 # Ver 2024-09-16T20:02:23Z nikolaus Stat-New >Neu
@@ -1002019,7 +1002085,9 @@ X射線天文學 X射线天文学 [X she4 xian4 tian1 wen2 xue2] /Röntgenastron
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 腹瀉 腹泻 [fu4 xie4] /Durchfall/
 # Ver 2020-06-08T16:35:48Z nikolaus Stat-New >Verbesserung 
-腹瀉 腹泻 [fu4 xie4] /Durchfall (S, Med)/
+# 腹瀉 腹泻 [fu4 xie4] /Durchfall (S, Med)/
+# Ver 2026-11-20T22:34:32Z nikolaus Stat-New >Verbesserung 
+腹瀉 腹泻 [fu4 xie4] /Durchfall (S, Med)/Scheißerei (vulg) (S)/
 
 # ID-o11Be6y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1050443,7 +1050511,9 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 
 # ID-o80rf5u
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-讙 欢 [huan1] /Krach, Lärm (S)/Geschrei (S)/Variante von 歡|欢[huan1] (X)/
+# 讙 欢 [huan1] /Krach, Lärm (S)/Geschrei (S)/Variante von 歡|欢[huan1] (X)/
+# Ver 2026-11-20T22:36:04Z nikolaus Stat-Verif >Verbesserung 
+讙 欢 [huan1] /Krach, Lärm (S)/Geschrei, Schreierei (S)/Variante von 歡|欢[huan1] (X)/
 
 # ID-o80tq7y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
