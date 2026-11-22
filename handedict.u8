@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-21T02:30:01Z
+# Datenstand: 2026-11-22T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -45983,7 +45983,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 書籍裝訂用的油墨 书籍装订用的油墨 [shu1 ji2 zhuang1 ding4 yong4 de5 you2 mo4] /Buchbinderfarbe (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-書籍裝訂用的油墨 书籍装订用的油墨 [shu1 ji2 zhuang1 ding4 yong4 de5 you2 mo4] /Buchbinderfarbe (S)/
+# 書籍裝訂用的油墨 书籍装订用的油墨 [shu1 ji2 zhuang1 ding4 yong4 de5 you2 mo4] /Buchbinderfarbe (S)/
+# Ver 2026-11-21T17:48:37Z nikolaus Stat-New >Verbesserung 
+書籍裝訂用的油墨 书籍装订用的油墨 [shu1 ji2 zhuang1 ding4 yong4 de5 you2 mo4] /Buchbinderfarbe (S, Druckw)/
 
 # ID-a63QD1i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -75941,7 +75943,9 @@ DE匯流排關閉 DE汇流排关闭 [D E hui4 liu2 pai2 guan1 bi4] /DE-Schiene g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 高爾夫球場 高尔夫球场 [gao1 er3 fu1 qiu2 chang3] /Golfplatz (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-高爾夫球場 高尔夫球场 [gao1 er3 fu1 qiu2 chang3] /Golfplatz (S)/
+# 高爾夫球場 高尔夫球场 [gao1 er3 fu1 qiu2 chang3] /Golfplatz (S)/
+# Ver 2026-11-21T13:56:23Z nikolaus Stat-New >Verbesserung 
+高爾夫球場 高尔夫球场 [gao1 er3 fu1 qiu2 chang3] /Golfplatz (S, Sport)/
 
 # ID-b06NT5H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -114963,7 +114967,9 @@ IP電話 IP电话 [I P dian4 hua4] /IP-Telefonie (Internet-Protokoll-Telefonie),
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 海盜行為 海盗行为 [hai3 dao4 xing2 wei2] /Piraterie (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-海盜行為 海盗行为 [hai3 dao4 xing2 wei2] /Piraterie (S)/
+# 海盜行為 海盗行为 [hai3 dao4 xing2 wei2] /Piraterie (S)/
+# Ver 2026-11-21T08:17:05Z nikolaus Stat-New >Verbesserung 
+海盜行為 海盗行为 [hai3 dao4 xing2 wei2] /Piraterie, Seeräuberei (S, Rechtsw)/
 
 # ID-b62ZO2U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -146391,6 +146397,10 @@ SVD狙擊步槍 SVD狙击步枪 [S V D ju1 ji1 bu4 qiang1] /Dragunov (Mil)/SVD D
 # Ver 2024-06-30T13:29:21Z nikolaus Stat-New >Verbesserung 
 水翼船 水翼船 [shui3 yi4 chuan2] /Tragflächenboot, Tragflügelboot (S, Infra)/
 
+# ID-c08iN6v
+# Ver 2026-11-21T08:41:06Z nikolaus Stat-New >Verbesserung 
+代謝疾病 代谢疾病 [dai4 xie4 ji2 bing4] /Stoffwechselstörung, Stoffwechselanomalie, Stoffwechselkrankheit (S, Med)/
+
 # ID-c08jj9E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 全世界無產者聯合起來 全世界无产者联合起来 [quan2 shi4 jie4 wu2 chan3 zhe3 lian2 he2 qi3 lai2] /Proletarier aller Länder vereinigt euch! (u.E.)/
@@ -172790,7 +172800,9 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 書籍裝訂技術 书籍装订技术 [shu1 ji2 zhuang1 ding4 ji4 shu4] /Buchbindetechnik (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-書籍裝訂技術 书籍装订技术 [shu1 ji2 zhuang1 ding4 ji4 shu4] /Buchbindetechnik (S)/
+# 書籍裝訂技術 书籍装订技术 [shu1 ji2 zhuang1 ding4 ji4 shu4] /Buchbindetechnik (S)/
+# Ver 2026-11-21T17:49:54Z nikolaus Stat-New >Verbesserung 
+書籍裝訂技術 书籍装订技术 [shu1 ji2 zhuang1 ding4 ji4 shu4] /Buchbindetechnik (S, Druckw)/
 
 # ID-c45fB0J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -194994,6 +195006,10 @@ x線檢驗 x线检验 [x xian4 jian3 yan4] /Röntgenprüfung (S)/
 # 自動調心球軸承 自动调心球轴承 [zi4 dong4 diao4 xin1 qiu2 zhou2 cheng2] /Pendelkugellager (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 自動調心球軸承 自动调心球轴承 [zi4 dong4 diao4 xin1 qiu2 zhou2 cheng2] /Pendelkugellager (S)/
+
+# ID-c76pO9I
+# Ver 2026-11-21T17:39:39Z nikolaus Stat-New >Neu
+盆骨 盆骨 [pen2 gu3] /Beckenknochen, Becken (S, Anat)/
 
 # ID-c76rf8X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -241307,6 +241323,10 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2022-04-22T19:59:58Z nikolaus Stat-New >Verbesserung 
 內部器官 内部器官 [nei4 bu4 qi4 guan1] /innere Organe (des Körpers) (S, Med)/
 
+# ID-d42Hf5r
+# Ver 2026-11-21T15:39:24Z nikolaus Stat-New >Neu
+高爾夫錦標賽 高尔夫锦标赛 [gao1 er3 fu1 jin3 biao1 sai4] /Golfturnier, Golfmeisterschaft (S, Sport)/
+
 # ID-d42HU6A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鼕 鼕 [dong1] /donnern, dröhnen (u.E.)/
@@ -245465,7 +245485,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 裝訂商 装订商 [zhuang1 ding4 shang1] /Buchbinderei (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-裝訂商 装订商 [zhuang1 ding4 shang1] /Buchbinderei (S)/
+# 裝訂商 装订商 [zhuang1 ding4 shang1] /Buchbinderei (S)/
+# Ver 2026-11-21T17:47:34Z nikolaus Stat-New >Verbesserung 
+裝訂商 装订商 [zhuang1 ding4 shang1] /Buchbinderei (S, Druckw)/
 
 # ID-d48hO3c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -259929,7 +259951,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 
 # ID-d68qr7H
 # Ver 2020-05-12T13:51:31Z nikolaus Stat-New >Neu
-悲觀 悲观 [bei1 guan4] /pessimistisch, schwarzseherisch (Adj)/Mutlosigkeit, Pessimismus (S, Psych)/
+# 悲觀 悲观 [bei1 guan4] /pessimistisch, schwarzseherisch (Adj)/Mutlosigkeit, Pessimismus (S, Psych)/
+# Ver 2026-11-21T08:14:21Z nikolaus Stat-New >Verbesserung 
+悲觀 悲观 [bei1 guan4] /pessimistisch, schwarzseherisch (Adj)/Mutlosigkeit, Pessimismus, Schwarzseherei (S, Psych)/
 
 # ID-d68qy0a
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -306772,6 +306796,10 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # 盆景樹 盆景树 [pen2 jing3 shu4] /Baum (S)/Bonsai (S)/Bonsaibaum (S)/Zwerg (S)/Zwergbaum (S)/
 # Ver 2025-04-13T08:49:15Z nikolaus Stat-New >Verbesserung 
 盆景樹 盆景树 [pen2 jing3 shu4] /Bonsai, Bonsaibaum (S, Bot)/Zwerg (S)/Zwergbaum, Baum (S, Bot)/
+
+# ID-e33Eh3K
+# Ver 2026-11-21T08:27:39Z nikolaus Stat-New >Neu 
+碎麥米粥 碎麦米粥 [sui4 mai4 mi3 zhou1] /Grießbrei, Weizenschrotbrei (S, Ess)/
 
 # ID-e33Ev0y
 # Ver 2022-11-19T16:18:21Z nikolaus Stat-New >Neu Mathematik
@@ -375968,7 +375996,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 高爾夫球棒 高尔夫球棒 [gao1 er3 fu1 qiu2 bang4] /Golfschläger (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-高爾夫球棒 高尔夫球棒 [gao1 er3 fu1 qiu2 bang4] /Golfschläger (S)/
+# 高爾夫球棒 高尔夫球棒 [gao1 er3 fu1 qiu2 bang4] /Golfschläger (S)/
+# Ver 2026-11-21T13:57:40Z nikolaus Stat-New >Verbesserung 
+高爾夫球棒 高尔夫球棒 [gao1 er3 fu1 qiu2 bang4] /Golfschläger (S, Sport)/
 
 # ID-f30wj9b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -504687,7 +504717,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 最顯著的位置 最显著的位置 [zui4 xian3 zhu4 de5 wei4 zhi4] /Fußball (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-最顯著的位置 最显著的位置 [zui4 xian3 zhu4 de5 wei4 zhi4] /Fußball (S)/
+# 最顯著的位置 最显著的位置 [zui4 xian3 zhu4 de5 wei4 zhi4] /Fußball (S)/
+# Ver 2026-11-21T16:07:52Z nikolaus Stat-New >Verbesserung 
+最顯著的位置 最显著的位置 [zui4 xian3 zhu4 de5 wei4 zhi4] /herausragendste Position (S)/
 
 # ID-h10bO0J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -543034,7 +543066,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 高爾夫俱樂部 高尔夫俱乐部 [gao1 er3 fu1 ju4 le4 bu4] /Golfschläger (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-高爾夫俱樂部 高尔夫俱乐部 [gao1 er3 fu1 ju4 le4 bu4] /Golfschläger (S)/
+# 高爾夫俱樂部 高尔夫俱乐部 [gao1 er3 fu1 ju4 le4 bu4] /Golfschläger (S)/
+# Ver 2026-11-21T13:58:14Z nikolaus Stat-New >Verbesserung 
+高爾夫俱樂部 高尔夫俱乐部 [gao1 er3 fu1 ju4 le4 bu4] /Golfschläger (S, Sport)/
 
 # ID-h64nT9e
 # Ver 2025-09-28T18:01:10Z nikolaus Stat-New >Neu
@@ -706669,7 +706703,9 @@ AD轉換器 AD转换器 [A D zhuan3 huan4 qi4] /AD-Wandler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 裝釘廠 装钉厂 [zhuang1 ding1 chang3] /Buchbinderei (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-裝釘廠 装钉厂 [zhuang1 ding1 chang3] /Buchbinderei (S)/
+# 裝釘廠 装钉厂 [zhuang1 ding1 chang3] /Buchbinderei (S)/
+# Ver 2026-11-21T17:47:17Z nikolaus Stat-New >Verbesserung 
+裝釘廠 装钉厂 [zhuang1 ding1 chang3] /Buchbinderei (S, Druckw)/
 
 # ID-j92RB6i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -753954,7 +753990,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 
 # ID-k60KM3b
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-踠 踠 [wan3] /Fessel, Fußgelenk, Knöchel, Sprunggelenk (S), Köte (S), Neigung (S), gebogen (Adj), gekrümmt (Adj), gebeugt (Adj)/
+# 踠 踠 [wan3] /Fessel, Fußgelenk, Knöchel, Sprunggelenk (S), Köte (S), Neigung (S), gebogen (Adj), gekrümmt (Adj), gebeugt (Adj)/
+# Ver 2026-11-21T17:31:36Z nikolaus Stat-Verif >Verbesserung 
+踠 踠 [wan3] /Fessel (S)/Fußgelenk, Knöchel, Sprunggelenk (S, Anat)/Köte (S), Neigung (S)/gebogen, gekrümmt, gebeugt (Adj)/
 
 # ID-k60KO3N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -756687,7 +756725,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 口角 口角 [kou3 jiao3] /Gezänk (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-口角 口角 [kou3 jiao3] /Gezänk (S)/
+# 口角 口角 [kou3 jiao3] /Gezänk (S)/
+# Ver 2026-11-21T08:19:01Z nikolaus Stat-New >Verbesserung 
+口角 口角 [kou3 jiao3] /Gezänk, Streiterei (S)/
 
 # ID-k64px2g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -974107,7 +974147,9 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 裝訂廠 装订厂 [zhuang1 ding4 chang3] /Buchbinderei (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-裝訂廠 装订厂 [zhuang1 ding4 chang3] /Buchbinderei (S)/
+# 裝訂廠 装订厂 [zhuang1 ding4 chang3] /Buchbinderei (S)/
+# Ver 2026-11-21T17:47:01Z nikolaus Stat-New >Verbesserung 
+裝訂廠 装订厂 [zhuang1 ding4 chang3] /Buchbinderei (S, Druckw)/
 
 # ID-n71kC4t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -999771,7 +999813,9 @@ X射線天文學 X射线天文学 [X she4 xian4 tian1 wen2 xue2] /Röntgenastron
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 悲觀主義 悲观主义 [bei1 guan1 zhu3 yi4] /Pessimismus (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-悲觀主義 悲观主义 [bei1 guan1 zhu3 yi4] /Pessimismus (S)/
+# 悲觀主義 悲观主义 [bei1 guan1 zhu3 yi4] /Pessimismus (S)/
+# Ver 2026-11-21T08:13:53Z nikolaus Stat-New >Verbesserung 
+悲觀主義 悲观主义 [bei1 guan1 zhu3 yi4] /Pessimismus, Schwarzseherei (S, Psych)/
 
 # ID-o08fq2m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1059299,7 +1059343,9 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 高球場 高球场 [gao1 qiu2 chang3] /Golfplatz (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-高球場 高球场 [gao1 qiu2 chang3] /Golfplatz (S)/
+# 高球場 高球场 [gao1 qiu2 chang3] /Golfplatz (S)/
+# Ver 2026-11-21T13:55:47Z nikolaus Stat-New >Verbesserung 
+高球場 高球场 [gao1 qiu2 chang3] /Golfplatz (S, Sport)/
 
 # ID-o93dn1l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
