@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-22T02:30:01Z
+# Datenstand: 2026-11-23T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -74487,6 +74487,10 @@ DE匯流排關閉 DE汇流排关闭 [D E hui4 liu2 pai2 guan1 bi4] /DE-Schiene g
 # Ver 2020-06-24T10:47:37Z nikolaus Stat-New >Verbesserung 
 韁繩 韁绳 [jiang1 sheng5] /Zügel (S), bremsen (fig., zügeln) (V)/
 
+# ID-b04xR0B
+# Ver 2026-11-22T09:36:36Z nikolaus Stat-New >Neu
+雁屬 雁属 [yan4 shu3] /Feldgänse (lat: Anser) (S, Zool)/
+
 # ID-b04yz3K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 七千六百四十九 七千六百四十九 [qi1 qian1 liu4 bai3 si4 shi2 jiu3] /7649 (siebentausendsechshundertneunundvierzig) (u.E.)/
@@ -86701,7 +86705,9 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 測量表 测量表 [ce4 liang4 biao3] /Messuhr (S)/
 # Ver 2024-08-31T21:58:09Z eingu Stat-New >liáng
-測量表 测量表 [ce4 liang2 biao3] /Messuhr (S)/
+# 測量表 测量表 [ce4 liang2 biao3] /Messuhr (S)/
+# Ver 2026-11-22T17:46:27Z nikolaus Stat-New >Verbesserung 
+測量表 测量表 [ce4 liang2 biao3] /Messuhr (S, Tech)/
 
 # ID-b21VB3J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -121727,7 +121733,9 @@ X光吸收光譜 X光吸收光谱 [X guang1 xi1 shou1 guang1 pu3] /Röntgenabsor
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 髮型 发型 [fa3 xing2] /Frisur/
 # Ver 2023-12-10T17:15:10Z nikolaus Stat-New >Verbesserung 
-髮型 发型 [fa3 xing2] /Frisur (S)/
+# 髮型 发型 [fa3 xing2] /Frisur (S)/
+# Ver 2026-11-22T14:31:33Z nikolaus Stat-New >Verbesserung 
+髮型 发型 [fa3 xing2] /Frisur, Haarpracht (S)/
 
 # ID-b72Dr2x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -176904,7 +176912,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 彌撒用書 弥撒用书 [mi2 sa3 yong4 shu1] /Messbuch (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-彌撒用書 弥撒用书 [mi2 sa3 yong4 shu1] /Messbuch (S)/
+# 彌撒用書 弥撒用书 [mi2 sa3 yong4 shu1] /Messbuch (S)/
+# Ver 2026-11-22T17:34:22Z nikolaus Stat-New >Verbesserung 
+彌撒用書 弥撒用书 [mi2 sa3 yong4 shu1] /Messbuch (S, Rel)/
 
 # ID-c51dQ6c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -193040,6 +193050,10 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # ID-c73FG9d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 大眾社會 大众社会 [da4 zhong4 she4 hui4] /Massengesellschaft (S)/
+
+# ID-c73FR1V
+# Ver 2026-11-22T08:43:07Z nikolaus Stat-New >Neu
+隻有復數形式的名詞 只有复数形式的名词 [zhi1 you3 fu4 shu4 xing2 shi4 de5 ming2 ci2] /Mehrzahlwort, Pluralwort, Pluraletantum (Grammatik) (S, Sprachw)/
 
 # ID-c73GI3M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -336597,6 +336611,10 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2026-04-05T06:48:29Z nikolaus Stat-New >Verbesserung
 黃嘌呤 黄嘌呤 [huang2 biao1 ling2] /Xanthin, 2,6-Dihydroxypurin (S, Chem)/
 
+# ID-e75AB6t
+# Ver 2026-11-22T09:41:08Z nikolaus Stat-New >Neu
+點斑鴨 点斑鸭 [dian3 ban1 ya1] /Affenente, Pünktchenente, Pünktchengans (S, Zool)/Affengans (lat: Stictonetta naevosa) (S, Zool)/
+
 # ID-e75AC2a
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 千鳥類 千鸟类 [qian1 niao3 lei4] /Regenpfeifer (u.E.) (S)/
@@ -380728,7 +380746,9 @@ US房地產危機 US房地产危机 [U S fang2 di4 chan3 wei1 ji1] /US-Immobilie
 # Ver 2021-06-21T14:31:55Z nikolaus Stat-New >Verbesserung
 # 捲尺 卷尺 [juan3 chi3] /Bandmaß (S)\ZEW:把[ba3] (X)/
 # Ver 2022-12-04T10:52:15Z nikolaus Stat-New >Verbesserung
-捲尺 卷尺 [juan3 chi3] /Bandmaß (S), ZEW:把[ba3] (X)/
+# 捲尺 卷尺 [juan3 chi3] /Bandmaß (S), ZEW:把[ba3] (X)/
+# Ver 2026-11-22T17:36:40Z nikolaus Stat-New >Verbesserung 
+捲尺 卷尺 [juan3 chi3] /Bandmaß, Messband (S), ZEW:把[ba3] (X)/
 
 # ID-f37bm9u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -612907,7 +612927,9 @@ ccd電荷耦合器件照相機 CCD电荷耦合器件照相机 [c c d dian4 he2 o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 車輛所載的貨物 车辆所载的货物 [che1 liang4 suo3 zai4 de5 huo4 wu4] /Wagenladung (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-車輛所載的貨物 车辆所载的货物 [che1 liang4 suo3 zai4 de5 huo4 wu4] /Wagenladung (S)/
+# 車輛所載的貨物 车辆所载的货物 [che1 liang4 suo3 zai4 de5 huo4 wu4] /Wagenladung (S)/
+# Ver 2026-11-22T17:52:40Z nikolaus Stat-New >Verbesserung 
+車輛所載的貨物 车辆所载的货物 [che1 liang4 suo3 zai4 de5 huo4 wu4] /Wagenladung, Fahrzeugladung, Fuhre (S)/
 
 # ID-i61NG6N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -667854,6 +667876,10 @@ CD自動接紙裝置 CD自动接纸装置 [C D zi4 dong4 jie1 zhi3 zhuang1 zhi4]
 # Ver 2023-10-12T15:53:04Z nikolaus Stat-New >Verbesserung 
 亞洲電影大獎 亚洲电影大奖 [ya4 zhou1 dian4 ying3 da4 jiang3] /Asian Film Awards (Org, Film)/
 
+# ID-j38Gy7j
+# Ver 2026-11-22T09:45:00Z nikolaus Stat-New >Neu
+黑翅草雁 黑翅草雁 [hei1 chi4 cao3 yan4] /Andengans (lat: Oressochen melanopterus, syn.: Chloephaga melanoptera) (S, Zool)/
+
 # ID-j38HB8c
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 修腳 修脚 [xiu1 jiao3] /Pediküre (u.E.) (S)/
@@ -705735,7 +705761,9 @@ AD轉換器 AD转换器 [A D zhuan3 huan4 qi4] /AD-Wandler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 掉頭發 掉头发 [diao4 tou2 fa1] /Haarausfall (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-掉頭發 掉头发 [diao4 tou2 fa1] /Haarausfall (S)/
+# 掉頭發 掉头发 [diao4 tou2 fa1] /Haarausfall (S)/
+# Ver 2026-11-22T14:33:40Z nikolaus Stat-New >Verbesserung 
+掉頭發 掉头发 [diao4 tou2 fa1] /Haarausfall, Haarschwund (S)/
 
 # ID-j91rl3u
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -720654,6 +720682,10 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # 褻瀆神明的言詞 亵渎神明的言词 [xie4 du2 shen2 ming2 de5 yan2 ci2] /Gotteslästerung (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 褻瀆神明的言詞 亵渎神明的言词 [xie4 du2 shen2 ming2 de5 yan2 ci2] /Gotteslästerung (S)/
+
+# ID-k12BP9C
+# Ver 2026-11-22T16:11:39Z nikolaus Stat-New >Neu
+軍人運動員 军人运动员 [jun1 ren2 yun4 dong4 yuan2] /Sportsoldat, Militärsportler (S, Sport, Mil)/
 
 # ID-k12Cc7L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -797249,7 +797281,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 網誌 网志 [wang3 zhi4] /Blog, Weblog, Web-Blog (Internet-Tagebuch) (u.E.) (S, EDV)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-網誌 网志 [wang3 zhi4] /Blog, Weblog, Web-Blog (Internet-Tagebuch) (S, EDV)/
+# 網誌 网志 [wang3 zhi4] /Blog, Weblog, Web-Blog (Internet-Tagebuch) (S, EDV)/
+# Ver 2026-11-22T07:12:16Z nikolaus Stat-New >Schreibweise nicht gefunden
+網誌 网志 [wang3 zhi4] /Blog, Weblog (Web-Blog, Internet-Tagebuch) (S, EDV)/
 
 # ID-l21HN0Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -816336,7 +816370,9 @@ DNA芯片 DNA芯片 [D N A xin4 pian4] /Biochip (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 耳鼻喉醫生 耳鼻喉医生 [er3 bi2 hou2 yi1 sheng1] /HNO Arzt, Arzt für Hals-, Nasen-, Ohrheilkunde (S)/
 # Ver 2020-05-29T12:58:57Z nikolaus Stat-New >Verbesserung 
-耳鼻喉醫生 耳鼻喉医生 [er3 bi2 hou2 yi1 sheng1] /HNO Arzt, Arzt für Hals-, Nasen-, Ohrheilkunde (S, Med)/
+# 耳鼻喉醫生 耳鼻喉医生 [er3 bi2 hou2 yi1 sheng1] /HNO Arzt, Arzt für Hals-, Nasen-, Ohrheilkunde (S, Med)/
+# Ver 2026-11-22T14:14:11Z nikolaus Stat-New >Verbesserung 
+耳鼻喉醫生 耳鼻喉医生 [er3 bi2 hou2 yi1 sheng1] /HNO-Arzt, HNO-Ärztin, Arzt für Hals-, Nasen-, Ohrheilkunde (S, Med)/
 
 # ID-l48ej3q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -836342,7 +836378,9 @@ CRT電子搶 CRT电子抢 [C R T dian4 zi3 qiang3] /Kathodenstrahlröhre (S, Tec
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 髮式 发式 [fa4 shi4] /Frisur (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-髮式 发式 [fa4 shi4] /Frisur (S)/
+# 髮式 发式 [fa4 shi4] /Frisur (S)/
+# Ver 2026-11-22T14:35:06Z nikolaus Stat-New >Verbesserung 
+髮式 发式 [fa4 shi4] /Frisur, Haartracht (S)/
 
 # ID-l76iL1q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -839585,7 +839623,9 @@ CRT電子搶 CRT电子抢 [C R T dian4 zi3 qiang3] /Kathodenstrahlröhre (S, Tec
 # 頭髮 头发 [tou2 fa3] /Kopfhaar (S)/
 # Ver 2021-02-02T09:49:54Z whosnick Stat-Flagged >Duplicate with wrong pinyin, should be deleted.
 # Ver 2022-10-21T08:04:24Z whosnick Stat-Flagged >was duplicate
-頭髮夾子 头发夹子 [tou2 fa4 jia1 zi5] /Haarnadel, Haarspange, Haarklammer (S)/
+# 頭髮夾子 头发夹子 [tou2 fa4 jia1 zi5] /Haarnadel, Haarspange, Haarklammer (S)/
+# Ver 2026-11-22T14:18:50Z nikolaus Stat-Flagged >Verbesserung 
+頭髮夾子 头发夹子 [tou2 fa4 jia1 zi5] /Haarnadel, Haarspange (S)/Haarklammer, Haarkrebs (S)/
 
 # ID-l80LE4i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -845219,7 +845259,9 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 洗發水 洗发水 [xi3 fa1 shui3] /Haarwaschmittel, Shampoo (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-洗發水 洗发水 [xi3 fa1 shui3] /Haarwaschmittel, Shampoo (S)/
+# 洗發水 洗发水 [xi3 fa1 shui3] /Haarwaschmittel, Shampoo (S)/
+# Ver 2026-11-22T14:39:01Z nikolaus Stat-New >Verbesserung 
+洗發水 洗发水 [xi3 fa1 shui3] /Haarwaschmittel, Shampoo (S)/Haarwasser (S)/
 
 # ID-l88KY1g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1012918,6 +1012960,10 @@ pH值 pH值 [p H zhi2] /pH-Wert (S, Chem)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 六千五百零六 六千五百零六 [liu4 qian1 wu3 bai3 ling2 liu4] /6506 (sechstausendfünfhundertsechs)/
 
+# ID-o26Pe7P
+# Ver 2026-11-22T17:30:07Z nikolaus Stat-New >Neu 
+刺傷者 刺伤者 [ci4 shang1 zhe3] /Messerstecher (S, Rechtsw)/
+
 # ID-o26Pm5y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 激動起來 激动起来 [ji1 dong4 qi3 lai2] /außer Rand und Band geraten (u.E.) (Sprichw)/
@@ -1025989,7 +1026035,9 @@ DNA檢驗 DNA检验 [D N A jian3 yan4] /Gentest (S, Bio)/
 
 # ID-o45oI1X
 # Ver 2020-01-24T15:33:47Z nikolaus Stat-New >DAS NEUE CD Wörterbuch
-發 发 [fa4] /Haar (S)/
+# 發 发 [fa4] /Haar (S)/
+# Ver 2026-11-22T14:27:54Z nikolaus Stat-New >Verbesserung 
+髮 发 [fa4] /Haar (S)/
 
 # ID-o45qN3W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
