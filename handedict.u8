@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-23T02:30:01Z
+# Datenstand: 2026-11-24T02:30:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -942,7 +942,9 @@
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 撤銷 撤销 [che4 xiao1] /etw. rückgängig machen; abschaffen; annulieren; widerrufen (V)/
 # Ver 2021-04-14T15:45:25Z nikolaus Stat-New >Verbesserung
-撤銷 撤销 [che4 xiao1] /etw. rückgängig machen; abschaffen; annullieren; widerrufen (V)/
+# 撤銷 撤销 [che4 xiao1] /etw. rückgängig machen; abschaffen; annullieren; widerrufen (V)/
+# Ver 2026-11-23T20:57:20Z nikolaus Stat-New >Verbesserung
+撤銷 撤销 [che4 xiao1] /etw. rückgängig machen, abschaffen, annullieren, widerrufen (V)/Annullierung, Annullation (S)/
 
 # ID-a01ry7w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -13001,7 +13003,9 @@ CCD電荷耦合器件光學系統 CCD电荷耦合器件光学系统 [C C D dian4
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鍏 鍏 [wei2] /Pik, Schaufel (für Kinder) (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鍏 鍏 [wei2] /Pik, Schaufel (für Kinder) (S)/
+# 鍏 鍏 [wei2] /Pik, Schaufel (für Kinder) (S)/
+# Ver 2026-11-23T09:24:27Z nikolaus Stat-New >Verbesserung 
+鍏 鍏 [wei2] /Spaten, Schaufel (für Kinder) (S)/
 
 # ID-a18fv7L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -13335,7 +13339,9 @@ CCD電荷耦合器件光學系統 CCD电荷耦合器件光学系统 [C C D dian4
 # Ver 2021-02-02T14:28:47Z nikolaus Stat-New >Verbesserung
 # 鋪子 铺子 [pu4 zi5] /Laden; Geschäft; Kaufhaus (S)/
 # Ver 2022-03-27T15:34:34Z nikolaus Stat-New >Verbesserung
-鋪子 铺子 [pu4 zi5] /Laden, Geschäft, Kaufhaus (S)/
+# 鋪子 铺子 [pu4 zi5] /Laden, Geschäft, Kaufhaus (S)/
+# Ver 2026-11-23T08:39:15Z nikolaus Stat-New >Verbesserung 
+鋪子 铺子 [pu4 zi5] /Laden, Geschäft, Kaufhaus (S, Wirtsch)/
 
 # ID-a18EC4I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -13369,7 +13375,9 @@ CCD電荷耦合器件光學系統 CCD电荷耦合器件光学系统 [C C D dian4
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 梩 梩 [li2] /Pik, Schaufel (für Kinder) (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-梩 梩 [li2] /Pik, Schaufel (für Kinder) (S)/
+# 梩 梩 [li2] /Pik, Schaufel (für Kinder) (S)/
+# Ver 2026-11-23T09:23:18Z nikolaus Stat-New >Verbesserung 
+梩 梩 [li2] /Spaten, Schaufel (für Kinder) (S)/
 
 # ID-a18FN3G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -16658,6 +16666,10 @@ PC機 PC机 [P C ji1] /PC (S)/
 # 青天白日旗 青天白日旗 [qing1 tian1 bai2 ri4 qi2] /Wappen Taiwans/
 # Ver 2023-11-28T17:04:56Z nikolaus Stat-New >Wortart 
 青天白日旗 青天白日旗 [qing1 tian1 bai2 ri4 qi2] /Wappen Taiwans (S, Hera)/
+
+# ID-a23dM2w
+# Ver 2026-11-23T21:02:30Z nikolaus Stat-New >Neu
+雪車 雪车 [xue3 che1] /Bob (Rennschlitten) (S, Sport)/
 
 # ID-a23eu7K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -32217,7 +32229,9 @@ BB式滾筒結構 BB式滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 餓死了 饿死了 [e4 si3 le5] /einen Bärenhunger haben/
 # Ver 2023-11-02T07:08:06Z nikolaus Stat-New >Wortart
-餓死了 饿死了 [e4 si3 le5] /einen Bärenhunger haben (V)/
+# 餓死了 饿死了 [e4 si3 le5] /einen Bärenhunger haben (V)/
+# Ver 2026-11-23T17:13:45Z nikolaus Stat-New >Verbesserung 
+餓死了 饿死了 [e4 si3 le5] /einen Bärenhunger haben (V)/Bärenhunger, Riesenhunger (S)/
 
 # ID-a44DC1T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -50055,7 +50069,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鋪面 铺面 [pu4 mian4] /Laden, Ladenfassade (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鋪面 铺面 [pu4 mian4] /Laden, Ladenfassade (S)/
+# 鋪面 铺面 [pu4 mian4] /Laden, Ladenfassade (S)/
+# Ver 2026-11-23T08:39:59Z nikolaus Stat-New >Verbesserung 
+鋪面 铺面 [pu4 mian4] /Laden, Ladenfassade (S, Wirtsch)/
 
 # ID-a69Qy3I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -54512,7 +54528,9 @@ U盤 U盘 [U pan2] /Memory stick (S, EDV)/USB-Stick (S, EDV)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 繼承權 继承权 [ji4 cheng2 quan2] /Aufeinanderfolge (S)/Erbe, Erbschaft (S)/Erbrecht (S)/
 # Ver 2024-12-19T15:48:57Z nikolaus Stat-New >Verbesserung 
-繼承權 继承权 [ji4 cheng2 quan2] /Aufeinanderfolge (S)/Erbe, Erbschaft (S)/Anwartschaft (S, Rechtsw)/Erbrecht, Erbfolge (S, Rechtsw)/
+# 繼承權 继承权 [ji4 cheng2 quan2] /Aufeinanderfolge (S)/Erbe, Erbschaft (S)/Anwartschaft (S, Rechtsw)/Erbrecht, Erbfolge (S, Rechtsw)/
+# Ver 2026-11-23T13:01:57Z nikolaus Stat-New >Verbesserung 
+繼承權 继承权 [ji4 cheng2 quan2] /Aufeinanderfolge (S)/das Erbe, die Erbschaft (S)/Anwartschaft (S, Rechtsw)/Erbrecht, Erbfolge (S, Rechtsw)/
 
 # ID-a75ZQ0L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -71933,7 +71951,9 @@ DE匯流排關閉 DE汇流排关闭 [D E hui4 liu2 pai2 guan1 bi4] /DE-Schiene g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 爐瘤 炉瘤 [lu2 liu2] /Bär (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-爐瘤 炉瘤 [lu2 liu2] /Bär (S)/
+# 爐瘤 炉瘤 [lu2 liu2] /Bär (S)/
+# Ver 2026-11-23T14:16:53Z nikolaus Stat-New >Verbesserung
+爐瘤 炉瘤 [lu2 liu2] /Ofensau (Hüttenwesen) (S, Tech)/
 
 # ID-b00HZ4f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -77443,7 +77463,9 @@ ISBN國際標準書號 ISBN国际标准书号 [I S B N guo2 ji4 biao1 zhun3 shu1
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 短笛 短笛 [duan3 di2] /Piccoloflöte (Mus)/
 # Ver 2023-11-16T18:00:06Z nikolaus Stat-New >Wortart 
-短笛 短笛 [duan3 di2] /Piccoloflöte (S, Mus)/
+# 短笛 短笛 [duan3 di2] /Piccoloflöte (S, Mus)/
+# Ver 2026-11-23T09:44:02Z nikolaus Stat-New >Verbesserung 
+短笛 短笛 [duan3 di2] /Piccoloflöte, Piccolo (S, Mus)/
 
 # ID-b08Qo0S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -82857,7 +82879,9 @@ IP地址 IP地址 [I P di4 zhi3] /IP-Adresse (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 機車 机车 [ji1 che1] /Lokomotive (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-機車 机车 [ji1 che1] /Lokomotive (S)/
+# 機車 机车 [ji1 che1] /Lokomotive (S)/
+# Ver 2026-11-23T21:23:53Z nikolaus Stat-New >Verbesserung
+機車 机车 [ji1 che1] /Lokomotive, Lok (S)/
 
 # ID-b16BF1i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -176058,7 +176082,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 
 # ID-c49Wd9d
 # Ver 2023-09-17T17:47:52Z nikolaus Stat-New >Neu 
-土耳其毯帽 土耳其毯帽 [tu3 er3 qi2 tan3 mao4] /Fes, türkischer Hut (S)/
+# 土耳其毯帽 土耳其毯帽 [tu3 er3 qi2 tan3 mao4] /Fes, türkischer Hut (S)/
+# Ver 2026-11-23T21:40:55Z nikolaus Stat-New >Verbesserung
+土耳其毯帽 土耳其毯帽 [tu3 er3 qi2 tan3 mao4] /Fes, Fez, türkischer Hut (S)/
 
 # ID-c49Wg9o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -262595,7 +262621,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 沖模 冲模 [chong1 mo2] /Gesenk (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-沖模 冲模 [chong1 mo2] /Gesenk (S)/
+# 沖模 冲模 [chong1 mo2] /Gesenk (S)/
+# Ver 2026-11-23T11:28:26Z nikolaus Stat-New >Verbesserung 
+沖模 冲模 [chong1 mo2] /Gesenk (S, Tech)/
 
 # ID-d72cj4I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -325737,7 +325765,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 節拍 节拍 [jie2 pai1] /Takt (S)/Arbeitstakt/
 # Ver 2022-02-02T10:44:36Z nikolaus Stat-New >Wortart
-節拍 节拍 [jie2 pai1] /Takt (S)/Arbeitstakt (S)/
+# 節拍 节拍 [jie2 pai1] /Takt (S)/Arbeitstakt (S)/
+# Ver 2026-11-23T21:54:34Z nikolaus Stat-New >Verbesserung
+節拍 节拍 [jie2 pai1] /Takt, Rhythmus, Beat (S, Mus)/Arbeitstakt (S)/
 
 # ID-e59ri2z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -391502,7 +391532,9 @@ V形皮帶傳動 V形皮带传动 [V xing2 pi2 dai4 chuan2 dong4] /Keilriemenant
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 暗井 暗井 [an4 jing3] /Gesenk (Bergbau)/
 # Ver 2022-02-10T09:05:41Z nikolaus Stat-New >Wortart
-暗井 暗井 [an4 jing3] /Gesenk (Bergbau) (S)/
+# 暗井 暗井 [an4 jing3] /Gesenk (Bergbau) (S)/
+# Ver 2026-11-23T11:29:13Z nikolaus Stat-New >Verbesserung 
+暗井 暗井 [an4 jing3] /Gesenk (Bergbau) (S, Tech)/
 
 # ID-f52OE9M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -420567,7 +420599,9 @@ A計劃 A计划 [A ji4 hua4] /Der Superfighter (Film)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 荒漠 荒漠 [huang1 mo4] /Ödnis (Adj)/
 # Ver 2020-09-18T15:39:24Z nikolaus Stat-New >Verbesserung 
-荒漠 荒漠 [huang1 mo4] /Ödnis (S)/
+# 荒漠 荒漠 [huang1 mo4] /Ödnis (S)/
+# Ver 2026-11-23T21:52:23Z nikolaus Stat-New >Verbesserung
+荒漠 荒漠 [huang1 mo4] /Ödnis, Öde (S)/Wüste, Einöde (S, Geo)/
 
 # ID-f93EJ2i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -421710,7 +421744,9 @@ A計劃 A计划 [A ji4 hua4] /Der Superfighter (Film)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 普通高中畢業會考合格證 普通高中毕业会考合格证 [pu3 tong1 gao1 zhong1 bi4 ye4 hui4 kao3 he2 ge2 zheng4] /Abitur (S)/
 # Ver 2021-10-26T08:20:45Z nikolaus Stat-New >Verbesserung 
-普通高中畢業會考合格證 普通高中毕业会考合格证 [pu3 tong1 gao1 zhong1 bi4 ye4 hui4 kao3 he2 ge2 zheng4] /Abitur (S, Edu)/
+# 普通高中畢業會考合格證 普通高中毕业会考合格证 [pu3 tong1 gao1 zhong1 bi4 ye4 hui4 kao3 he2 ge2 zheng4] /Abitur (S, Edu)/
+# Ver 2026-11-23T14:05:12Z nikolaus Stat-New >Verbesserung
+普通高中畢業會考合格證 普通高中毕业会考合格证 [pu3 tong1 gao1 zhong1 bi4 ye4 hui4 kao3 he2 ge2 zheng4] /Abiturzeugnis (S, Edu)/
 
 # ID-f95eX0b
 # Ver 2025-03-16T21:06:16Z nikolaus Stat-New >Neu
@@ -440680,7 +440716,9 @@ v形皮帶 V形皮带 [v xing2 pi2 dai4] /Keilriemen (S, Tech)/
 # Ver 2025-04-11T12:37:25Z nikolaus Stat-New >Verbesserung 
 # 蘆薈 芦荟 [lu2 hui4] /Aloe Vera (S, Bot)/Aloen (S, Bot)/
 # Ver 2026-04-21T07:59:02Z nikolaus Stat-New >Verbesserung
-蘆薈 芦荟 [lu2 hui4] /Echte Aloe (lat: Aloe vera), Aloe Vera (S, Bot)/Aloen (S, Bot)/
+# 蘆薈 芦荟 [lu2 hui4] /Echte Aloe (lat: Aloe vera), Aloe Vera (S, Bot)/Aloen (S, Bot)/
+# Ver 2026-11-23T21:28:59Z nikolaus Stat-New >Verbesserung
+蘆薈 芦荟 [lu2 hui4] /Echte Aloe (lat: Aloe vera), Aloe Vera (S, Bot)/Aloe, Aloen (S, Bot)/
 
 # ID-g20LL1e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -474723,6 +474761,10 @@ DNA分析 DNA分析 [D N A fen1 xi1] /DNA-Analyse (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 小金縣 小金县 [xiao3 jin1 xian4] /Kreis Xiaojin (Provinz Sichuan, China) (Eig, Geo)/
 
+# ID-g68qC1n
+# Ver 2026-11-23T21:36:18Z nikolaus Stat-New >Neu
+迎風麵 迎风面 [ying2 feng1 mian4] /Luv, Luvseite (S, Naut)/
+
 # ID-g68qO2G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 紐結論 纽结论 [niu3 jie2 lun4] /Knotentheorie (u.E.)/
@@ -478365,7 +478407,9 @@ T恤衫 T恤衫 [T xu4 shan1] /T-Shirt (S)/
 # 大學 大学 [tai4 xue2] /Universität (S)/
 # Ver 2017-11-16T21:38:40Z msp Stat-Flagged >Eintrag sollte gelöscht werden, richtig ist 大学 dàxué
 # Ver 2022-01-21T13:43:32Z nikolaus Stat-Flagged >Wortart
-大學 大学 [tai4 xue2] /Universität (S, Edu)/
+# 大學 大学 [tai4 xue2] /Universität (S, Edu)/
+# Ver 2026-11-23T21:18:35Z nikolaus Stat-Flagged >löschen
+大學 大学 [tai4 xue2] /*** löschen (X)/
 
 # ID-g73zd1f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -489517,7 +489561,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2021-11-28T21:48:05Z nikolaus Stat-New >Richtigstellung 
 # 牧地 牧地 [mu4 de5] /Grasland, Weideland (S, Geo)/
 # Ver 2024-09-01T14:28:56Z eingu Stat-New >dì
-牧地 牧地 [mu4 di4] /Grasland, Weideland (S, Geo)/
+# 牧地 牧地 [mu4 di4] /Grasland, Weideland (S, Geo)/
+# Ver 2026-11-23T13:59:47Z nikolaus Stat-New >Verbesserung
+牧地 牧地 [mu4 di4] /Grasland, Weideland, Au (S, Geo)/
 
 # ID-g89eG0y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -499695,7 +499741,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 骨頭 骨头 [gu2 tou5] /Knochen (S)/
 # Ver 2024-12-28T15:34:01Z nikolaus Stat-New >Verbesserung 
-骨頭 骨头 [gu2 tou5] /Knochen (S, Anat)/
+# 骨頭 骨头 [gu2 tou5] /Knochen (S, Anat)/
+# Ver 2026-11-23T21:13:29Z nikolaus Stat-New >Verbesserung
+骨頭 骨头 [gu2 tou5] /Knochen, Os (S, Anat)/
 
 # ID-h02YM8S
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -501042,6 +501090,10 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # 患糖尿病 患糖尿病 [huan4 tang2 sui1 bing4] /zuckerkrank (Adj)/
 # Ver 2021-10-22T21:12:22Z nikolaus Stat-New >Verbesserung 
 患糖尿病 患糖尿病 [huan4 tang2 sui1 bing4] /zuckerkrank (Adj, Med)/
+
+# ID-h04Pk4n
+# Ver 2026-11-23T11:33:43Z nikolaus Stat-New >Neu
+上模 上模 [shang4 mo2] /Obergesenk (S, Tech)/
 
 # ID-h04PE1C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -523494,7 +523546,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 高中畢業 高中毕业 [gao1 zhong1 bi4 ye4] /Abitur (S)/Oberschulabschluss (S)/
 # Ver 2021-10-26T08:17:58Z nikolaus Stat-New >Verbesserung 
-高中畢業 高中毕业 [gao1 zhong1 bi4 ye4] /Abitur (S, Edu)/Oberschulabschluss (S, Edu)/
+# 高中畢業 高中毕业 [gao1 zhong1 bi4 ye4] /Abitur (S, Edu)/Oberschulabschluss (S, Edu)/
+# Ver 2026-11-23T14:03:21Z nikolaus Stat-New >Verbesserung
+高中畢業 高中毕业 [gao1 zhong1 bi4 ye4] /Abitur, Abi (S, Edu)/Oberschulabschluss (S, Edu)/
 
 # ID-h36VN9Y
 # Ver 2022-11-17T07:39:52Z nikolaus Stat-New >Neu Mathematik
@@ -534004,7 +534058,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 小熊維尼歷險記 小熊维尼历险记 [xiao3 xiong2 wei2 ni2 li4 xian3 ji4] /Pu der Bär (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-小熊維尼歷險記 小熊维尼历险记 [xiao3 xiong2 wei2 ni2 li4 xian3 ji4] /Pu der Bär (S)/
+# 小熊維尼歷險記 小熊维尼历险记 [xiao3 xiong2 wei2 ni2 li4 xian3 ji4] /Pu der Bär (S)/
+# Ver 2026-11-23T14:20:14Z nikolaus Stat-New >Verbesserung
+小熊維尼歷險記 小熊维尼历险记 [xiao3 xiong2 wei2 ni2 li4 xian3 ji4] /Pu der Bär (Kinderbuch von Alan Alexander Milne) (Lit, Werk)/
 
 # ID-h51Qx6p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -537282,7 +537338,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鋼模 钢模 [gang1 mo2] /Gesenk (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鋼模 钢模 [gang1 mo2] /Gesenk (S)/
+# 鋼模 钢模 [gang1 mo2] /Gesenk (S)/
+# Ver 2026-11-23T11:29:48Z nikolaus Stat-New >Verbesserung 
+鋼模 钢模 [gang1 mo2] /Gesenk (S, Tech)/
 
 # ID-h56qq4m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -547254,7 +547312,9 @@ BB式滾筒結構 BB型滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 坊店 坊店 [fang1 dian4] /Laden, Geschäft (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-坊店 坊店 [fang1 dian4] /Laden, Geschäft (S)/
+# 坊店 坊店 [fang1 dian4] /Laden, Geschäft (S)/
+# Ver 2026-11-23T08:40:58Z nikolaus Stat-New >Verbesserung 
+坊店 坊店 [fang1 dian4] /Laden, Geschäft (S, Wirtsch)/
 
 # ID-h70qd7d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -579526,7 +579586,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 降低成本 降低成本 [jiang4 di1 cheng2 ben3] /die Selbstkosten senken (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-降低成本 降低成本 [jiang4 di1 cheng2 ben3] /die Selbstkosten senken (V)/
+# 降低成本 降低成本 [jiang4 di1 cheng2 ben3] /die Selbstkosten senken (V)/
+# Ver 2026-11-23T11:42:25Z nikolaus Stat-New >Verbesserung 
+降低成本 降低成本 [jiang4 di1 cheng2 ben3] /die Selbstkosten senken (V, Wirtsch)/Kostenreduzierung, Kostensenkung (S, Wirtsch)/
 
 # ID-i15Rb4i
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -582568,7 +582630,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 臀 臀 [tun2] /Gesäß, Hintern, Popo (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-臀 臀 [tun2] /Gesäß, Hintern, Popo (S)/
+# 臀 臀 [tun2] /Gesäß, Hintern, Popo (S)/
+# Ver 2026-11-23T14:02:16Z nikolaus Stat-New >Verbesserung
+臀 臀 [tun2] /Gesäß, Hintern, Popo, Po (S, Anat)/
 
 # ID-i19SO0E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -605485,7 +605549,9 @@ X射線譜學 X射线谱学 [X she4 xian4 pu3 xue2] /Röntgenspektroskopie (S, P
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 機器人 机器人 [ji1 qi4 ren2] /Roboter (S, EDV)/Androide (S)/Robot (S)/Robotik (S)/
 # Ver 2017-08-10T21:24:23Z msp Stat-New >Ergänzungen und Korrekturen
-機器人 机器人 [ji1 qi4 ren2] /Maschinenmensch (S)/Roboter (S)/Androide (S)//
+# 機器人 机器人 [ji1 qi4 ren2] /Maschinenmensch (S)/Roboter (S)/Androide (S)//
+# Ver 2026-11-23T20:58:45Z nikolaus Stat-New >Verbesserung
+機器人 机器人 [ji1 qi4 ren2] /Maschinenmensch (S, Tech)/Roboter, Bot (S, Tech)/Androide (S, Tech)/
 
 # ID-i51nj3m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -607521,7 +607587,9 @@ X射線譜學 X射线谱学 [X she4 xian4 pu3 xue2] /Röntgenspektroskopie (S, P
 # Ver 2018-01-27T21:52:08Z msp Stat-New >Ergänzungen
 # 通知 通知 [tong1 zhi1] /mitteilen; informieren; Bsp.: 請馬上通知我！ 请马上通知我！ -- Bitte informieren Sie mich sofort!; Bsp.: 把我們的決定通知他們。 把我们的决定通知他们。 -- Informieren Sie sie über unsere Entscheidung./Benachrichtigung; Mitteilung; Bsp.: 口頭通知 口头通知 -- mündliche Bekanntmachung; Bsp.: 等候通知 等候通知 -- auf Benachrichtigung warten/
 # Ver 2022-04-08T15:41:13Z nikolaus Stat-New >Wortart
-通知 通知 [tong1 zhi1] /mitteilen, informieren (V); Bsp.: 請馬上通知我！ 请马上通知我！ -- Bitte informieren Sie mich sofort!; Bsp.: 把我們的決定通知他們。 把我们的决定通知他们。 -- Informieren Sie sie über unsere Entscheidung./Benachrichtigung, Mitteilung (S); Bsp.: 口頭通知 口头通知 -- mündliche Bekanntmachung; Bsp.: 等候通知 等候通知 -- auf Benachrichtigung warten/
+# 通知 通知 [tong1 zhi1] /mitteilen, informieren (V); Bsp.: 請馬上通知我！ 请马上通知我！ -- Bitte informieren Sie mich sofort!; Bsp.: 把我們的決定通知他們。 把我们的决定通知他们。 -- Informieren Sie sie über unsere Entscheidung./Benachrichtigung, Mitteilung (S); Bsp.: 口頭通知 口头通知 -- mündliche Bekanntmachung; Bsp.: 等候通知 等候通知 -- auf Benachrichtigung warten/
+# Ver 2026-11-23T21:46:04Z nikolaus Stat-New >Verbesserung
+通知 通知 [tong1 zhi1] /mitteilen, informieren (V); Bsp.: 請馬上通知我！ 请马上通知我！ -- Bitte informieren Sie mich sofort!; Bsp.: 把我們的決定通知他們。 把我们的决定通知他们。 -- Informieren Sie sie über unsere Entscheidung./Benachrichtigung, Mitteilung, Avis (S); Bsp.: 口頭通知 口头通知 -- mündliche Bekanntmachung; Bsp.: 等候通知 等候通知 -- auf Benachrichtigung warten/
 
 # ID-i53VZ5i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -628711,7 +628779,9 @@ X線診斷學 X线诊断学 [X xian4 zhen3 duan4 xue2] /Röntgendiagnostik (S, M
 # Ver 2020-09-18T14:06:09Z nikolaus Stat-New >Verbesserung 
 # 荒 荒 [huang1] /Ödland, unkultiviertes Land (S, Geo)/Mißernte, Hungersnot (S, Agrar)/verlernen, aus der Übung kommen, vernachlässigen (V)/öde, brachliegend, unkultiviert (Adj)/großer Mangel, große Knappheit (S)/roh, unbearbeitet (Adj)/unbestimmt, ungenau, ungesichert, dahergeredet (Adj)/wüst, verlassen, einsam, menschenleer (Adj)/
 # Ver 2021-04-10T14:23:47Z nikolaus Stat-New >Verbesserung
-荒 荒 [huang1] /Ödland, unkultiviertes Land (S, Geo)/Missernte, Hungersnot (S, Agrar)/verlernen, aus der Übung kommen, vernachlässigen (V)/öde, brachliegend, unkultiviert (Adj)/großer Mangel, große Knappheit (S)/roh, unbearbeitet (Adj)/unbestimmt, ungenau, ungesichert, dahergeredet (Adj)/wüst, verlassen, einsam, menschenleer (Adj)/
+# 荒 荒 [huang1] /Ödland, unkultiviertes Land (S, Geo)/Missernte, Hungersnot (S, Agrar)/verlernen, aus der Übung kommen, vernachlässigen (V)/öde, brachliegend, unkultiviert (Adj)/großer Mangel, große Knappheit (S)/roh, unbearbeitet (Adj)/unbestimmt, ungenau, ungesichert, dahergeredet (Adj)/wüst, verlassen, einsam, menschenleer (Adj)/
+# Ver 2026-11-23T21:49:58Z nikolaus Stat-New >Verbesserung
+荒 荒 [huang1] /Ödland, Öde, unkultiviertes Land (S, Geo)/Missernte, Hungersnot (S, Agrar)/verlernen, aus der Übung kommen, vernachlässigen (V)/öde, brachliegend, unkultiviert (Adj)/großer Mangel, große Knappheit (S)/roh, unbearbeitet (Adj)/unbestimmt, ungenau, ungesichert, dahergeredet (Adj)/wüst, verlassen, einsam, menschenleer (Adj)/
 
 # ID-i84nm8k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -644749,7 +644819,9 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 一艘遠洋貨輪 一艘远洋货轮 [yi1 sou1 yuan3 yang2 huo4 lun2] /ein Überseefrachter (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-一艘遠洋貨輪 一艘远洋货轮 [yi1 sou1 yuan3 yang2 huo4 lun2] /ein Überseefrachter (S)/
+# 一艘遠洋貨輪 一艘远洋货轮 [yi1 sou1 yuan3 yang2 huo4 lun2] /ein Überseefrachter (S)/
+# Ver 2026-11-23T07:58:30Z nikolaus Stat-New >Verbesserung 
+一艘遠洋貨輪 一艘远洋货轮 [yi1 sou1 yuan3 yang2 huo4 lun2] /ein Überseefrachter (S, Naut)/
 
 # ID-j06SV3B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -651859,7 +651931,9 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 筋骨 筋骨 [jin1 gu3] /Knochen und Muskeln, menschlicher Körper (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-筋骨 筋骨 [jin1 gu3] /Knochen und Muskeln, menschlicher Körper (S)/
+# 筋骨 筋骨 [jin1 gu3] /Knochen und Muskeln, menschlicher Körper (S)/
+# Ver 2026-11-23T21:12:24Z nikolaus Stat-New >Verbesserung
+筋骨 筋骨 [jin1 gu3] /Knochen und Muskeln, menschlicher Körper (S, Anat)/
 
 # ID-j16HZ3U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -662777,7 +662851,9 @@ V型腱鞘炎 V型腱鞘炎 [V xing2 jian4 qiao4 yan2] /V-Phlegmone (eitrische E
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 模 模 [mo2] /Norm, Standard (S)/Vorbild, Muster (S)/nachahmen, imitieren (V)/
 # Ver 2020-03-23T11:50:33Z nikolaus Stat-New >Verbesserung
-模 模 [mo2] /Norm, Standard (S)/Vorbild, Muster (S)/Moduln (S, Math)/nachahmen, imitieren (V)/
+# 模 模 [mo2] /Norm, Standard (S)/Vorbild, Muster (S)/Moduln (S, Math)/nachahmen, imitieren (V)/
+# Ver 2026-11-23T11:20:04Z nikolaus Stat-New >Verbesserung 
+模 模 [mo2] /Norm, Standard (S)/Vorbild, Muster (S)/Modul, Moduln (S, Math)/nachahmen, imitieren (V)/
 
 # ID-j31yJ4H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -678594,7 +678670,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 嗣子 嗣子 [si4 zi3] /Erbe (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-嗣子 嗣子 [si4 zi3] /Erbe (S)/
+# 嗣子 嗣子 [si4 zi3] /Erbe (S)/
+# Ver 2026-11-23T12:57:49Z nikolaus Stat-New >Verbesserung 
+嗣子 嗣子 [si4 zi3] /Erbe, Adoptivsohn (S, Rechtsw)/
 
 # ID-j53CD1e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -682086,7 +682164,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 沖制下壓模 冲制下压模 [chong1 zhi4 xia4 ya1 mo2] /Untergesenk (V)/
 # Ver 2022-11-15T11:39:05Z nikolaus Stat-New >Verbesserung
-沖制下壓模 冲制下压模 [chong1 zhi4 xia4 ya1 mo2] /Untergesenk, Stanzwerkzeug (S)/
+# 沖制下壓模 冲制下压模 [chong1 zhi4 xia4 ya1 mo2] /Untergesenk, Stanzwerkzeug (S)/
+# Ver 2026-11-23T11:31:12Z nikolaus Stat-New >Verbesserung 
+沖制下壓模 冲制下压模 [chong1 zhi4 xia4 ya1 mo2] /Untergesenk, Stanzwerkzeug (S, Tech)/
 
 # ID-j58pC3J
 # Ver 2025-01-16T16:08:28Z nikolaus Stat-New >Neu
@@ -684318,7 +684398,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 遠洋貨輪 远洋货轮 [yuan3 yang2 huo4 lun2] /Hochseefrachter (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-遠洋貨輪 远洋货轮 [yuan3 yang2 huo4 lun2] /Hochseefrachter (S)/
+# 遠洋貨輪 远洋货轮 [yuan3 yang2 huo4 lun2] /Hochseefrachter (S)/
+# Ver 2026-11-23T07:57:36Z nikolaus Stat-New >Verbesserung 
+遠洋貨輪 远洋货轮 [yuan3 yang2 huo4 lun2] /Hochseefrachter (S, Naut)/
 
 # ID-j61mb4b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -707647,7 +707729,9 @@ AD轉換器 AD转换器 [A D zhuan3 huan4 qi4] /AD-Wandler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 貨船 货船 [huo4 chuan2] /Frachter (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-貨船 货船 [huo4 chuan2] /Frachter (S)/
+# 貨船 货船 [huo4 chuan2] /Frachter (S)/
+# Ver 2026-11-23T07:56:56Z nikolaus Stat-New >Verbesserung 
+貨船 货船 [huo4 chuan2] /Frachter (S, Naut)/
 
 # ID-j94tT9w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -710697,7 +710781,9 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 印模 印模 [yin4 mo2] /Druckform (u.E.) (S)/Gesenk (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-印模 印模 [yin4 mo2] /Druckform (S)/Gesenk (S)/
+# 印模 印模 [yin4 mo2] /Druckform (S)/Gesenk (S)/
+# Ver 2026-11-23T11:28:54Z nikolaus Stat-New >Verbesserung 
+印模 印模 [yin4 mo2] /Druckform (S, Tech)/Gesenk (S, Tech)/
 
 # ID-j98JE4G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -728532,7 +728618,9 @@ Ct掃描儀 Ct扫描仪 [C t sao4 miao2 yi2] /Computertomograf, CT, CT-Scanner (
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 遺產 遗产 [yi2 chan3] /Nachlass, Erbe (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-遺產 遗产 [yi2 chan3] /Nachlass, Erbe (S)/
+# 遺產 遗产 [yi2 chan3] /Nachlass, Erbe (S)/
+# Ver 2026-11-23T13:00:02Z nikolaus Stat-New >Verbesserung 
+遺產 遗产 [yi2 chan3] /Nachlass, das Erbe (S)/
 
 # ID-k23HE2F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -748778,7 +748866,9 @@ B大調 B大调 [B da4 diao4] /H-Dur (S, Mus)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 針眼 针眼 [zhen1 yan3] /Gerstenkorn, Hordeolum; Nadelöhr, Einstichloch, Nadelspur (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-針眼 针眼 [zhen1 yan3] /Gerstenkorn, Hordeolum; Nadelöhr, Einstichloch, Nadelspur (S)/
+# 針眼 针眼 [zhen1 yan3] /Gerstenkorn, Hordeolum; Nadelöhr, Einstichloch, Nadelspur (S)/
+# Ver 2026-11-23T21:31:23Z nikolaus Stat-New >Verbesserung
+針眼 针眼 [zhen1 yan3] /Gerstenkorn, Hordeolum (S)/Nadelöhr, Öhr, Einstichloch, Nadelspur (S)/
 
 # ID-k53vw3Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -755952,7 +756042,9 @@ ANSI標準代號 ANSI标准代号 [A N S I biao1 zhun3 dai4 hao4] /ANSI-Code (S,
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 緔 绱 [shang4] /Flicken, Ledersohle (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-緔 绱 [shang4] /Flicken, Ledersohle (S)/
+# 緔 绱 [shang4] /Flicken, Ledersohle (S)/
+# Ver 2026-11-23T10:39:43Z nikolaus Stat-New >Verbesserung 
+緔 绱 [shang4] /Schuhsohle, Ledersohle (S)/annähen (V)/
 
 # ID-k63kh8g
 # Ver 2023-09-19T16:44:48Z nikolaus Stat-New >Neu
@@ -779574,7 +779666,9 @@ CRT陰極射線管曝光機 CRT阴极射线管曝光机 [C R T yin1 ji2 she4 xia
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 店鋪 店铺 [dian4 pu4] /Laden, Geschäft/
 # Ver 2022-03-27T15:33:23Z nikolaus Stat-New >Wortart
-店鋪 店铺 [dian4 pu4] /Laden, Geschäft (S)/
+# 店鋪 店铺 [dian4 pu4] /Laden, Geschäft (S)/
+# Ver 2026-11-23T08:38:01Z nikolaus Stat-New >Verbesserung 
+店鋪 店铺 [dian4 pu4] /Laden, Geschäft (S, Wirtsch)/
 
 # ID-k96Fv0L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -786316,7 +786410,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 高中畢業考試 高中毕业考试 [gao1 zhong1 bi4 ye4 kao3 shi4] /Abitur (S)/
 # Ver 2021-10-26T08:18:24Z nikolaus Stat-New >Verbesserung 
-高中畢業考試 高中毕业考试 [gao1 zhong1 bi4 ye4 kao3 shi4] /Abitur (S, Edu)/
+# 高中畢業考試 高中毕业考试 [gao1 zhong1 bi4 ye4 kao3 shi4] /Abitur (S, Edu)/
+# Ver 2026-11-23T14:03:38Z nikolaus Stat-New >Verbesserung
+高中畢業考試 高中毕业考试 [gao1 zhong1 bi4 ye4 kao3 shi4] /Abitur, Abi (S, Edu)/
 
 # ID-l06it7F
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -797749,7 +797845,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 火車頭 火车头 [huo3 che1 tou2] /Lokomotive (S)/eine Person, von der eine starke Antriebskraft auf andere ausgeht (S)/
 # Ver 2022-12-14T10:43:46Z nikolaus Stat-New >Verbesserung
-火車頭 火车头 [huo3 che1 tou2] /Lokomotive (S)/eine starke Person (von der eine starke Antriebskraft auf andere ausgeht) (S)/
+# 火車頭 火车头 [huo3 che1 tou2] /Lokomotive (S)/eine starke Person (von der eine starke Antriebskraft auf andere ausgeht) (S)/
+# Ver 2026-11-23T21:22:22Z nikolaus Stat-New >Verbesserung
+火車頭 火车头 [huo3 che1 tou2] /Lokomotive, Lok (S)/eine starke Person (von der eine starke Antriebskraft auf andere ausgeht) (S)/
 
 # ID-l22mB8L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -798045,7 +798143,9 @@ U池 U池 [U chi2] /Halfpipe (S)/
 # Ver 2017-11-16T21:37:34Z msp Stat-New >Ergänzungen
 # 大學 大学 [da4 xue2] /Universität (S)/Hochschule (S)/
 # Ver 2022-12-23T21:55:15Z nikolaus Stat-New >Verbesserung 
-大學 大学 [da4 xue2] /Universität (S, Edu)/Hochschule (S, Edu)/
+# 大學 大学 [da4 xue2] /Universität (S, Edu)/Hochschule (S, Edu)/
+# Ver 2026-11-23T21:17:48Z nikolaus Stat-New >Verbesserung
+大學 大学 [da4 xue2] /Universität, Uni (S, Edu)/Hochschule (S, Edu)/
 
 # ID-l22Fn1b
 # Ver 2026-06-12T17:51:49Z nikolaus Stat-New >Neu
@@ -814292,7 +814392,9 @@ DNA芯片 DNA芯片 [D N A xin4 pian4] /Biochip (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 足球隊 足球队 [zu2 qiu2 dui4] /Fußballmannschaft (S)/
 # Ver 2024-11-17T13:58:21Z nikolaus Stat-New >Verbesserung 
-足球隊 足球队 [zu2 qiu2 dui4] /Fußballmannschaft (S, Sport)/
+# 足球隊 足球队 [zu2 qiu2 dui4] /Fußballmannschaft (S, Sport)/
+# Ver 2026-11-23T21:26:12Z nikolaus Stat-New >Verbesserung
+足球隊 足球队 [zu2 qiu2 dui4] /Fußballmannschaft, Elf (S, Sport)/
 
 # ID-l45ri1N
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -827029,7 +827131,9 @@ ISDN接口 ISDN接口 [I S D N e1 kou3] /ISDN-Schnittstelle, ISDN-Buchse, ISDN-A
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 麥酒 麦酒 [mai4 jiu3] /Bier (S)/
 # Ver 2022-09-27T09:39:50Z nikolaus Stat-New >Verbesserung 
-麥酒 麦酒 [mai4 jiu3] /Bier (S, Ess)/
+# 麥酒 麦酒 [mai4 jiu3] /Bier (S, Ess)/
+# Ver 2026-11-23T21:09:51Z nikolaus Stat-New >Verbesserung
+麥酒 麦酒 [mai4 jiu3] /Bier, Ale (S, Ess)/
 
 # ID-l63cE7O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -835800,7 +835904,9 @@ n次方根 n次方根 [n ci4 fang1 gen1] /n-te Wurzel (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鋪 铺 [pu4] /Laden, kleines Geschäft; Bettstatt (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鋪 铺 [pu4] /Laden, kleines Geschäft; Bettstatt (S)/
+# 鋪 铺 [pu4] /Laden, kleines Geschäft; Bettstatt (S)/
+# Ver 2026-11-23T08:37:34Z nikolaus Stat-New >Verbesserung 
+鋪 铺 [pu4] /Laden, kleines Geschäft (S, Wirtsch)/Bettstatt (S)/
 
 # ID-l75rs0A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -901142,7 +901248,9 @@ CD音樂 CD音乐 [C D yin1 yue4] /Compact Disc (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鍹 鍹 [xuan1] /Pik, Schaufel (für Kinder) (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鍹 鍹 [xuan1] /Pik, Schaufel (für Kinder) (S)/
+# 鍹 鍹 [xuan1] /Pik, Schaufel (für Kinder) (S)/
+# Ver 2026-11-23T09:23:49Z nikolaus Stat-New >Verbesserung 
+鍹 鍹 [xuan1] /Spaten, Schaufel (für Kinder) (S)/
 
 # ID-m68Ya2C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -907622,7 +907730,9 @@ QR快速剝離效應 QR快速剥离效应 [Q R kuai4 su4 bo1 li2 xiao4 ying4] /Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 中醫 中医 [zhong1 yi1] /traditionelle chinesische Medizin (TCM)  (u.E.) (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-中醫 中医 [zhong1 yi1] /traditionelle chinesische Medizin (TCM) (S, Med)/
+# 中醫 中医 [zhong1 yi1] /traditionelle chinesische Medizin (TCM) (S, Med)/
+# Ver 2026-11-23T21:20:04Z nikolaus Stat-New >Verbesserung
+中醫 中医 [zhong1 yi1] /traditionelle chinesische Medizin, TCM (S, Med)/
 
 # ID-m78cd4t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -937037,7 +937147,9 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 禁令 禁令 [jin4 ling4] /Verbot (u.E.) (S)/verbieten (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-禁令 禁令 [jin4 ling4] /Verbot (S)/verbieten (V)/
+# 禁令 禁令 [jin4 ling4] /Verbot (S)/verbieten (V)/
+# Ver 2026-11-23T21:44:10Z nikolaus Stat-New >Verbesserung
+禁令 禁令 [jin4 ling4] /Verbot, Bann (S)/verbieten (V)/
 
 # ID-n19Ul7n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -938525,7 +938637,9 @@ A4幅面 A4幅面 [A 4 fu2 mian4] /Format A4 (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鍛模 锻模 [duan4 mu2] /Gesenk (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鍛模 锻模 [duan4 mu2] /Gesenk (S)/
+# 鍛模 锻模 [duan4 mu2] /Gesenk (S)/
+# Ver 2026-11-23T11:29:29Z nikolaus Stat-New >Verbesserung 
+鍛模 锻模 [duan4 mu2] /Gesenk (S, Tech)/
 
 # ID-n22bW8O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -958836,7 +958950,9 @@ USB電纜 USB电缆 [U S B dian4 lan3] /USB-Kabel (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 河邊 河边 [he2 bian1] /Flussufer (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-河邊 河边 [he2 bian1] /Flussufer (S)/
+# 河邊 河边 [he2 bian1] /Flussufer (S)/
+# Ver 2026-11-23T14:00:45Z nikolaus Stat-New >Verbesserung
+河邊 河边 [he2 bian1] /Flussufer, Au (S, Geo)/
 
 # ID-n50bB0E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -990542,7 +990658,9 @@ DA匯流排閉合 DA汇流排闭合 [D A hui4 liu2 pai2 bi4 he2] /DA-Schiene ges
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 撥禾輪 拨禾轮 [bo1 he2 lun2] /Haspel (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-撥禾輪 拨禾轮 [bo1 he2 lun2] /Haspel (S)/
+# 撥禾輪 拨禾轮 [bo1 he2 lun2] /Haspel (S)/
+# Ver 2026-11-23T10:27:58Z nikolaus Stat-New >Verbesserung
+撥禾輪 拨禾轮 [bo1 he2 lun2] /Haspel (S, Tech)/
 
 # ID-n94sA9P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1011444,7 +1011562,9 @@ pH值 pH值 [p H zhi2] /pH-Wert (S, Chem)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 模量 模量 [mo2 liang4] /Modul (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-模量 模量 [mo2 liang4] /Modul (S)/
+# 模量 模量 [mo2 liang4] /Modul (S)/
+# Ver 2026-11-23T11:54:50Z nikolaus Stat-New >Verbesserung 
+模量 模量 [mo2 liang4] /der Modul (S, Tech)/
 
 # ID-o24Mm3G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1047299,7 +1047419,9 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 吹風機 吹风机 [chui1 feng1 ji1] /Haartrockner, Föhn (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-吹風機 吹风机 [chui1 feng1 ji1] /Haartrockner, Föhn (S)/
+# 吹風機 吹风机 [chui1 feng1 ji1] /Haartrockner, Föhn (S)/
+# Ver 2026-11-23T21:25:20Z nikolaus Stat-New >Verbesserung
+吹風機 吹风机 [chui1 feng1 ji1] /Haartrockner, Föhn, Fön (S, Tech)/
 
 # ID-o75wb6i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1049191,7 +1049313,9 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 禁止通行 禁止通行 [jin4 zhi3 tong1 xing2] /Sperre (u.E.) (S)/sperren (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-禁止通行 禁止通行 [jin4 zhi3 tong1 xing2] /Sperre (S)/sperren (V)/
+# 禁止通行 禁止通行 [jin4 zhi3 tong1 xing2] /Sperre (S)/sperren (V)/
+# Ver 2026-11-23T21:42:51Z nikolaus Stat-New >Verbesserung
+禁止通行 禁止通行 [jin4 zhi3 tong1 xing2] /Sperre, Bann (S)/sperren (V)/
 
 # ID-o78qh0i
 # Ver 2024-11-21T15:45:08Z nikolaus Stat-New >Neu
@@ -1053523,6 +1053647,10 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 確定性 确定性 [que4 ding4 xing4] /definitiv (Adj)/
 
+# ID-o84Fd1P
+# Ver 2026-11-23T21:08:25Z nikolaus Stat-New >Neu
+惡意 恶意 [e4 yi4] /Falschheit, Arg, böse Absicht (S)/
+
 # ID-o84Is2N
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 女實習生 女实习生 [nü3 shi2 xi2 sheng5] /Praktikantin   ( Praktikum ) (u.E.) (S, Wirtsch)/
@@ -1055075,7 +1055203,9 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # Ver 2021-03-04T13:29:46Z BiGF00T Stat-New >Rechtschreibfehler korrigiert
 # 館 馆 [guan3] /Laden, Geschäft, Restaurant (S)/Sitz einer diplomatischen Vertretung (z. B. Botschaft, Konsulat etc.) (S)/Stätte für kulturelle Aktivtät (z. B. Museum, Ausstellungshalle, Konzerthalle, Bibliothek, Dojo etc.) (S)/Unterkunft für Gäste (z. B. Hotel, Pension. Gästehaus etc.) (S)/
 # Ver 2021-03-24T16:47:43Z nikolaus Stat-New >Verbesserung
-館 馆 [guan3] /Laden, Geschäft, Restaurant (S)/Sitz einer diplomatischen Vertretung (z. B. Botschaft, Konsulat etc.) (S)/Stätte für kulturelle Aktivität (z. B. Museum, Ausstellungshalle, Konzerthalle, Bibliothek, Dojo etc.) (S)/Unterkunft für Gäste (z. B. Hotel, Pension. Gästehaus etc.) (S)/
+# 館 馆 [guan3] /Laden, Geschäft, Restaurant (S)/Sitz einer diplomatischen Vertretung (z. B. Botschaft, Konsulat etc.) (S)/Stätte für kulturelle Aktivität (z. B. Museum, Ausstellungshalle, Konzerthalle, Bibliothek, Dojo etc.) (S)/Unterkunft für Gäste (z. B. Hotel, Pension. Gästehaus etc.) (S)/
+# Ver 2026-11-23T08:38:30Z nikolaus Stat-New >Verbesserung 
+館 馆 [guan3] /Laden, Geschäft, Restaurant (S, Witsch)/Sitz einer diplomatischen Vertretung (z. B. Botschaft, Konsulat etc.) (S)/Stätte für kulturelle Aktivität (z. B. Museum, Ausstellungshalle, Konzerthalle, Bibliothek, Dojo etc.) (S)/Unterkunft für Gäste (z. B. Hotel, Pension. Gästehaus etc.) (S)/
 
 # ID-o87an1y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1058275,7 +1058405,9 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鋪戶 铺户 [pu4 hu4] /Laden, Geschäft (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鋪戶 铺户 [pu4 hu4] /Laden, Geschäft (S)/
+# 鋪戶 铺户 [pu4 hu4] /Laden, Geschäft (S)/
+# Ver 2026-11-23T08:40:21Z nikolaus Stat-New >Verbesserung 
+鋪戶 铺户 [pu4 hu4] /Laden, Geschäft (S, Wirtsch)/
 
 # ID-o91vy0t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1073259,7 +1073391,9 @@ B超檢查 B超检查 [B chao1 jian3 cha2] /Ultraschall-Untersuchung (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 有軌電車 有轨电车 [you3 gui3 dian4 che1] /Straßenbahn (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-有軌電車 有轨电车 [you3 gui3 dian4 che1] /Straßenbahn (S)/
+# 有軌電車 有轨电车 [you3 gui3 dian4 che1] /Straßenbahn (S)/
+# Ver 2026-11-23T21:04:23Z nikolaus Stat-New >Verbesserung
+有軌電車 有轨电车 [you3 gui3 dian4 che1] /Straßenbahn (S, Infra)/Bim (Straßenbahn in Wien) (S, Infra)/
 
 # ID-p11VJ9G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
