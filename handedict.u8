@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-24T02:30:02Z
+# Datenstand: 2026-11-25T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -30609,7 +30609,9 @@ BB式滾筒結構 BB式滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 失聰 失聪 [shi1 cong1] /Gehörverlust (u.E.) (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-失聰 失聪 [shi1 cong1] /Gehörverlust (S, Med)/
+# 失聰 失聪 [shi1 cong1] /Gehörverlust (S, Med)/
+# Ver 2026-11-24T08:20:01Z nikolaus Stat-New >Verbesserung 
+失聰 失聪 [shi1 cong1] /Gehörverlust, Hörverlust (S, Med)/
 
 # ID-a42qx7I
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -141855,6 +141857,10 @@ MP5衝鋒槍 MP5冲锋枪 [M P 5 chong1 feng1 qiang1] /HK MP5 (Maschinengewehr) 
 # Ver 2023-11-07T10:43:37Z nikolaus Stat-New >Wortart
 馬塞拉蒂 马塞拉蒂 [ma3 sai4 la1 di4] /Maserati (Eig, Fam)/
 
+# ID-c01Og9L
+# Ver 2026-11-24T08:06:05Z nikolaus Stat-New >Neu
+施工噪聲 施工噪声 [shi1 gong1 zao4 sheng1] /Baulärm (S)/
+
 # ID-c01Ot4f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 住進 住进 [zhu4 jin4] /einziehen, Einzug halten (u.E.) (V)/
@@ -151755,6 +151761,10 @@ SVD狙擊步槍 SVD狙击步枪 [S V D ju1 ji1 bu4 qiang1] /Dragunov (Mil)/SVD D
 # Ver 2020-06-28T16:42:39Z nikolaus Stat-New >Verbesserung 
 破的 破的 [po4 di4] /ins Ziel treffen (V)/
 
+# ID-c15DJ5q
+# Ver 2026-11-24T20:02:25Z nikolaus Stat-New >Neu
+薩剋森明鏡 萨克森明镜 [sa4 ke4 sen1 ming2 jing4] /Sachsenspiegel (Rechtskodex aus dem 13. JH) (S, Rechtsw)/
+
 # ID-c15Fl6C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 # 蔬菜 蔬菜 [shu1 cai4] /Gemüse (S)/
@@ -158522,7 +158532,9 @@ mm地面以上 mm地面以上 [m m di4 mian4 yi3 shang4] /mm Höhe über Boden (
 
 # ID-c25mG1D
 # Ver 2020-05-13T12:45:17Z nikolaus Stat-New >Neu
-昌盛 昌盛 [chang1 sheng4] /blühend, glücklich, gedeihlich (Adj)/
+# 昌盛 昌盛 [chang1 sheng4] /blühend, glücklich, gedeihlich (Adj)/
+# Ver 2026-11-24T14:48:37Z nikolaus Stat-New >Verbesserung 
+昌盛 昌盛 [chang1 sheng4] /blühend, üppig, gedeihlich (Adj)/Üppigkeit (S)/
 
 # ID-c25mG4e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -204104,7 +204116,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 正派 正派 [zheng4 pai4] /anständig (u.E.) (Adj)/aufrecht (u.E.) (Adj)/ordentlich (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-正派 正派 [zheng4 pai4] /anständig (Adj)/aufrecht (Adj)/ordentlich (Adj)/
+# 正派 正派 [zheng4 pai4] /anständig (Adj)/aufrecht (Adj)/ordentlich (Adj)/
+# Ver 2026-11-24T14:55:59Z nikolaus Stat-New >Verbesserung 
+正派 正派 [zheng4 pai4] /anständig (Adj)/aufrecht (Adj)/ordentlich (Adj)/Anständigkeit (S)/
 
 # ID-c89DM7n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -212209,6 +212223,10 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # 不屈服 不屈服 [bu4 qu1 fu2] /unbeugsam (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 不屈服 不屈服 [bu4 qu1 fu2] /unbeugsam (Adj)/
+
+# ID-d00PQ1n
+# Ver 2026-11-24T08:09:33Z nikolaus Stat-New >Neu
+飛機噪音 飞机噪音 [fei1 ji1 zao4 yin1] /Fluglärm, Flugzeuglärm (S)/
 
 # ID-d00Qq0W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -249488,7 +249506,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 線速度 线速度 [xian4 su4 du4] /Lineargeschwindigkeit (S)/
 # Ver 2022-11-28T22:56:19Z nikolaus Stat-New >Verbesserung 
-線速度 线速度 [xian4 su4 du4] /Lineargeschwindigkeit (S, Phys)/
+# 線速度 线速度 [xian4 su4 du4] /Lineargeschwindigkeit (S, Phys)/
+# Ver 2026-11-24T21:06:07Z nikolaus Stat-New >Verbesserung 
+線速度 线速度 [xian4 su4 du4] /Lineargeschwindigkeit (S, Phys)/Bahngeschwindigkeit (S, Phys)/
 
 # ID-d53DF0Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -343519,7 +343539,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 酒癮 酒瘾 [jiu3 yin3] /Trunksucht, Trinksucht (S)/
 # Ver 2024-12-02T16:34:03Z nikolaus Stat-New >Verbesserung 
-酒癮 酒瘾 [jiu3 yin3] /Trunksucht, Trinksucht, Alkoholismus, Alkoholsucht (S, Med)/
+# 酒癮 酒瘾 [jiu3 yin3] /Trunksucht, Trinksucht, Alkoholismus, Alkoholsucht (S, Med)/
+# Ver 2026-11-24T14:51:24Z nikolaus Stat-New >Verbesserung 
+酒癮 酒瘾 [jiu3 yin3] /Trunksucht, Trinksucht (S, Med)/Alkoholismus, Alkoholsucht, Alkoholabhängigkeit (S, Med)/
 
 # ID-e84ZG7R
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -381248,7 +381270,9 @@ US房地產危機 US房地产危机 [U S fang2 di4 chan3 wei1 ji1] /US-Immobilie
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 戰爭中受害的人們 战争中受害的人们 [zhan4 zheng1 zhong1 shou4 hai4 de5 ren2 men5] /Kriegsopfer (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-戰爭中受害的人們 战争中受害的人们 [zhan4 zheng1 zhong1 shou4 hai4 de5 ren2 men5] /Kriegsopfer (S)/
+# 戰爭中受害的人們 战争中受害的人们 [zhan4 zheng1 zhong1 shou4 hai4 de5 ren2 men5] /Kriegsopfer (S)/
+# Ver 2026-11-24T08:50:20Z nikolaus Stat-New >Verbesserung 
+戰爭中受害的人們 战争中受害的人们 [zhan4 zheng1 zhong1 shou4 hai4 de5 ren2 men5] /Kriegsopfer, Kriegsgeschädigte (S, Mil)/
 
 # ID-f37KK1s
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -411604,6 +411628,10 @@ Ct機 Ct机 [C t ji1] /Computertomograph, CT (S, Med, Tech)/
 # 不公平 不公平 [bu4 gong1 ping2] /unfair/Benachteiligung (S)/Unbilligkeit (S)/ungerecht (Adj)/unrechtem (Adj)/
 # Ver 2022-01-28T10:34:21Z nikolaus Stat-New >Wortart
 不公平 不公平 [bu4 gong1 ping2] /unfair (Adj)/Benachteiligung (S)/Unbilligkeit (S)/ungerecht (Adj)/unrecht (Adj)/
+
+# ID-f80xw2E
+# Ver 2026-11-24T15:10:40Z nikolaus Stat-New >Neu
+霍韋爾拉山 霍韦尔拉山 [huo4 wei2 er3 la1 shan1] /Howerla (Berg in der Ukraine) (Geo)/
 
 # ID-f80yz4Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -457257,7 +457285,9 @@ H型印刷機組 H型印刷机组 [H xing2 yin4 shua4 ji1 zu3] /H-Druckwerk (S, 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 野心 野心 [ye3 xin1] /Ambition, Ehrgeiz (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-野心 野心 [ye3 xin1] /Ambition, Ehrgeiz (S)/
+# 野心 野心 [ye3 xin1] /Ambition, Ehrgeiz (S)/
+# Ver 2026-11-24T07:53:40Z nikolaus Stat-New >Verbesserung 
+野心 野心 [ye3 xin1] /Ambition, Ehrgeiz (S, Psych)/Erfolgshunger (S, Psych)/
 
 # ID-g44oM3m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -460759,7 +460789,9 @@ H型印刷機組 H型印刷机组 [H xing2 yin4 shua4 ji1 zu3] /H-Druckwerk (S, 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 傷亡 伤亡 [shang1 wang2] /Opfer (u.E.) (S)/Unfall (u.E.) (S)/Verlust (u.E.) (S)/Verwundete und Gefallene (u.E.) (S, Mil)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-傷亡 伤亡 [shang1 wang2] /Opfer (S)/Unfall (S)/Verlust (S)/Verwundete und Gefallene (S, Mil)/
+# 傷亡 伤亡 [shang1 wang2] /Opfer (S)/Unfall (S)/Verlust (S)/Verwundete und Gefallene (S, Mil)/
+# Ver 2026-11-24T08:46:10Z nikolaus Stat-New >Verbesserung 
+傷亡 伤亡 [shang1 wang2] /Opfer (S)/Unfall (S)/Verlust (S)/Kriegsverluste, Verluste (S, Mil)/Verwundete und Gefallene (S, Mil)/
 
 # ID-g49dn0U
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -512885,6 +512917,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2023-09-15T08:31:54Z nikolaus Stat-New >Verbesserung 
 陸 陆 [lu4] /Festland (S, Geo)/
 
+# ID-h21Oc9s
+# Ver 2026-11-24T09:06:35Z nikolaus Stat-New >Neu
+榛睡鼠 榛睡鼠 [zhen1 shui4 shu3] /Haselmaus (lat: Muscardinus avellanarius) (S, Zool)/
+
 # ID-h21Pg7V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 真理 真理 [zhen1 li3] /Evangelium (u.E.) (S)/Wahrheit (u.E.) (S, Math)/
@@ -514752,6 +514788,10 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # 九千三百七十八 九千三百七十八 [jiu3 qian1 san1 bai3 qi1 shi2 ba1] /9378 (neuntausenddreihundertachtundsiebzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 九千三百七十八 九千三百七十八 [jiu3 qian1 san1 bai3 qi1 shi2 ba1] /9378 (neuntausenddreihundertachtundsiebzig)/
+
+# ID-h24uG6b
+# Ver 2026-11-24T08:09:57Z nikolaus Stat-New >Beu
+機場噪音 机场噪音 [ji1 chang3 zao4 yin1] /Flughafenlärm (S)/
 
 # ID-h24uL2K
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -582140,6 +582180,10 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 講習會 讲习会 [jiang3 xi2 hui4] /Lehrgang (S)/
 
+# ID-i19eB1e
+# Ver 2026-11-24T13:19:23Z nikolaus Stat-New >Neu
+預定斷裂點 预定断裂点 [yu4 ding4 duan4 lie4 dian3] /Sollbruchstelle, eingebaute Schwachstelle (S, Tech)/
+
 # ID-i19eF4G
 # Ver 2020-05-29T13:59:20Z nikolaus Stat-New >Neu
 安寧病房 安宁病房 [an1 ning2 bing4 fang2] /Hospiz, Sterbebegleitung (S, Med)/
@@ -594499,7 +594543,9 @@ Y染色體 Y染色体 [Y ran3 se4 ti3] /Y-Chromosom (S, Bio)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 鹵水 卤水 [lu3 shui3] /Salzlake (u.E.) (S)/Salzlauge (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-鹵水 卤水 [lu3 shui3] /Salzlake (S)/Salzlauge (S)/
+# 鹵水 卤水 [lu3 shui3] /Salzlake (S)/Salzlauge (S)/
+# Ver 2026-11-24T13:11:53Z nikolaus Stat-New >Verbesserung 
+鹵水 卤水 [lu3 shui3] /Salzlake (S)/Salzlauge, Sole (S, Chem)/
 
 # ID-i36mz7D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -613081,7 +613127,9 @@ ccd電荷耦合器件照相機 CCD电荷耦合器件照相机 [c c d dian4 he2 o
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 脆弱性 脆弱性 [cui4 ruo4 xing4] /Vulnerabilität (S)/
 # Ver 2025-10-19T15:47:57Z nikolaus Stat-New >Verbesserung 
-脆弱性 脆弱性 [cui4 ruo4 xing4] /Vulnerabilität (S, Psych)/
+# 脆弱性 脆弱性 [cui4 ruo4 xing4] /Vulnerabilität (S, Psych)/
+# Ver 2026-11-24T14:53:16Z nikolaus Stat-New >Verbesserung 
+脆弱性 脆弱性 [cui4 ruo4 xing4] /Vulnerabilität, Anfälligkeit (S, Psych)/
 
 # ID-i61Sq4x
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -653019,6 +653067,12 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2023-01-01T17:04:07Z nikolaus Stat-New >Verbesserung
 多心 多心 [duo1 xin1] /misstrauisch, argwöhnisch (Adj)/
 
+# ID-j18iY5F
+# Ver 2026-11-24T16:55:17Z nikolaus Stat-New >Neu
+# 函數函數 函数函数 [han2 shu4 han2 shu4] /Zeta-Funktion (S, Math)/
+# Ver 2026-11-24T16:57:53Z nikolaus Stat-New >Verbesserung 
+ζ函數 ζ函数 [ζ han2 shu4] /Zeta-Funktion (S, Math)/
+
 # ID-j18jm5G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 膩蟲 腻虫 [ni4 chong2] /Blattlaus (u.E.) (S)/
@@ -654425,7 +654479,9 @@ V型腱鞘炎 V型腱鞘炎 [V xing2 jian4 qiao4 yan2] /V-Phlegmone (eitrische E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 交通噪音 交通噪音 [jiao1 tong1 zao4 yin1] /Verkehrslärm (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-交通噪音 交通噪音 [jiao1 tong1 zao4 yin1] /Verkehrslärm (S)/
+# 交通噪音 交通噪音 [jiao1 tong1 zao4 yin1] /Verkehrslärm (S)/
+# Ver 2026-11-24T08:00:46Z nikolaus Stat-New >Verbesserung 
+交通噪音 交通噪音 [jiao1 tong1 zao4 yin1] /Verkehrslärm, Straßenlärm (S)/
 
 # ID-j19Xa4j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -684450,7 +684506,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 戰爭犧牲者 战争牺牲者 [zhan4 zheng1 xi1 sheng1 zhe3] /Kriegsopfer (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-戰爭犧牲者 战争牺牲者 [zhan4 zheng1 xi1 sheng1 zhe3] /Kriegsopfer (S)/
+# 戰爭犧牲者 战争牺牲者 [zhan4 zheng1 xi1 sheng1 zhe3] /Kriegsopfer (S)/
+# Ver 2026-11-24T08:47:44Z nikolaus Stat-New >Verbesserung 
+戰爭犧牲者 战争牺牲者 [zhan4 zheng1 xi1 sheng1 zhe3] /Kriegsopfer (S, Mil)/
 
 # ID-j61pp0T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -764201,7 +764259,9 @@ A大調 A大调 [A da4 diao4] /A-Dur (S, Mus)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 慾望 欲望 [yu4 wang4] /Wunsch, Begehren, Verlangen, Begierde (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-慾望 欲望 [yu4 wang4] /Wunsch, Begehren, Verlangen, Begierde (S)/
+# 慾望 欲望 [yu4 wang4] /Wunsch, Begehren, Verlangen, Begierde (S)/
+# Ver 2026-11-24T08:24:38Z nikolaus Stat-New >Verbesserung 
+慾望 欲望 [yu4 wang4] /Wunsch, Begehren, Verlangen, (S)/Gelüste, Begierde (S)/
 
 # ID-k74Kn3Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -823111,7 +823171,9 @@ ISDN接口 ISDN接口 [I S D N e1 kou3] /ISDN-Schnittstelle, ISDN-Buchse, ISDN-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 氧飢餓 氧饥饿 [yang3 ji1 e4] /Sauerstoffmangel (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-氧飢餓 氧饥饿 [yang3 ji1 e4] /Sauerstoffmangel (S)/
+# 氧飢餓 氧饥饿 [yang3 ji1 e4] /Sauerstoffmangel (S)/
+# Ver 2026-11-24T11:57:42Z nikolaus Stat-New >Verbesserung 
+氧飢餓 氧饥饿 [yang3 ji1 e4] /Sauerstoffmangel, Sauerstoffdefizit (S)/
 
 # ID-l57Cc3D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -848299,7 +848361,9 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 
 # ID-l92Np8Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-快慢 快慢 [kuai4 man4] /Geschwindigkeit (S)/
+# 快慢 快慢 [kuai4 man4] /Geschwindigkeit (S)/
+# Ver 2026-11-24T21:13:48Z nikolaus Stat-Verif >Verbesserung 
+快慢 快慢 [kuai4 man4] /Geschwindigkeit (S, Phys)/
 
 # ID-l92Nz2m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -880487,6 +880551,10 @@ EP油脂 EP油脂 [E P you2 zhi1] /EP-Fett (EP extreme pressure) (S)/
 # Ver 2024-07-25T13:15:37Z nikolaus Stat-New >Verbesserung 
 帶金屬底託的上光版 带金属底托的上光版 [dai4 jin1 shu3 di3 tuo1 de5 shang4 guang1 ban3] /Lackplatte mit Metallträger (S)/
 
+# ID-m38Gc0R
+# Ver 2026-11-24T21:18:47Z nikolaus Stat-New >Neu
+相對速度 相对速度 [xiang1 dui4 su4 du4] /Relativgeschwindigkeit (S, Phys)/
+
 # ID-m38Hu9f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 討飯的人 讨饭的人 [tao3 fan4 di4 ren2] /Bettler (u.E.) (S)/
@@ -912229,7 +912297,9 @@ QR快速剝離效應 QR快速剥离效应 [Q R kuai4 su4 bo1 li2 xiao4 ying4] /Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 無望 无望 [wu2 wang4] /Trostlosigkeit (u.E.) (S)/Verlassenheit (u.E.) (S)/verlieren (u.E.) (V)/unentwirrbar (u.E.) (Adj)/verloren (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-無望 无望 [wu2 wang4] /Trostlosigkeit (S)/Verlassenheit (S)/verlieren (V)/unentwirrbar (Adj)/verloren (Adj)/
+# 無望 无望 [wu2 wang4] /Trostlosigkeit (S)/Verlassenheit (S)/verlieren (V)/unentwirrbar (Adj)/verloren (Adj)/
+# Ver 2026-11-24T21:02:02Z nikolaus Stat-New >Verbesserung 
+無望 无望 [wu2 wang4] /Trostlosigkeit, Aussichtslosigkeit (S)/Verlassenheit (S)/verlieren (V)/unentwirrbar (Adj)/verloren (Adj)/
 
 # ID-m84Br6X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -932091,6 +932161,10 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # 四千二百五十一 四千二百五十一 [si4 qian1 er4 bai3 wu3 shi2 yi1] /4251 (viertausendzweihunderteinundfünfzig) (u.E.)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 四千二百五十一 四千二百五十一 [si4 qian1 er4 bai3 wu3 shi2 yi1] /4251 (viertausendzweihunderteinundfünfzig)/
+
+# ID-n12Gq7X
+# Ver 2026-11-24T08:19:18Z nikolaus Stat-New >Verbesserung 
+聽力損失 听力损失 [ting1 li4 sun3 shi1] /Hörverlust, Hörminderung (S, Med)/
 
 # ID-n12GC7o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1007637,7 +1007711,9 @@ X射線天文學 X射线天文学 [X she4 xian4 tian1 wen2 xue2] /Röntgenastron
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 戰爭受害者 战争受害者 [zhan4 zheng1 shou4 hai4 zhe3] /Kriegsopfer (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-戰爭受害者 战争受害者 [zhan4 zheng1 shou4 hai4 zhe3] /Kriegsopfer (S)/
+# 戰爭受害者 战争受害者 [zhan4 zheng1 shou4 hai4 zhe3] /Kriegsopfer (S)/
+# Ver 2026-11-24T08:47:19Z nikolaus Stat-New >Verbesserung 
+戰爭受害者 战争受害者 [zhan4 zheng1 shou4 hai4 zhe3] /Kriegsopfer (S, Mil)/
 
 # ID-o19dp5M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1060245,7 +1060321,9 @@ X射線光電子光譜學 X射线光电子光谱学 [X she4 xian4 guang1 dian4 z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 住房緊缺 住房紧缺 [zhu4 fang2 jin3 que1] /Wohnungsknappheit (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-住房緊缺 住房紧缺 [zhu4 fang2 jin3 que1] /Wohnungsknappheit (S)/
+# 住房緊缺 住房紧缺 [zhu4 fang2 jin3 que1] /Wohnungsknappheit (S)/
+# Ver 2026-11-24T12:00:32Z nikolaus Stat-New >Verbesserung 
+住房緊缺 住房紧缺 [zhu4 fang2 jin3 que1] /Wohnungsknappheit, Wohnraummangel, Wohnraumdefizit (S)/
 
 # ID-o93Uy4p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
