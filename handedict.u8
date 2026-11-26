@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-25T02:30:01Z
+# Datenstand: 2026-11-26T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -12080,6 +12080,10 @@ DNA測試 DNA测试 [D N A ce4 shi4] /DNA-Test (S, Med)/
 # 公證機關 公证机关 [gong1 zheng4 ji1 guan1] /Beglaubigungsstelle (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 公證機關 公证机关 [gong1 zheng4 ji1 guan1] /Beglaubigungsstelle (S)/
+
+# ID-a16Qo2k
+# Ver 2026-11-25T10:26:03Z nikolaus Stat-New >Neu
+掃帚間 扫帚间 [sao3 zhou3 jian1] /Besenkammer, Besenkammerl (S)/
 
 # ID-a16QL8f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -100787,6 +100791,10 @@ X線 X线 [X xian4] /Röntgenstrahl, Röntgenstrahlung (S, Med)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 締結 缔结 [di4 jie2] /abschließen, schließen, unterzeichnen (Vertrag u.ä.) (V)/
 
+# ID-b42cJ4a
+# Ver 2026-11-25T21:22:01Z nikolaus Stat-New >Neu
+存在量詞 存在量词 [cun2 zai4 liang4 ci2] /Existenzquantor (Symbol ∃) (S, Math)/
+
 # ID-b42cT4g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 開放系統 开放系统 [kai1 fang4 xi4 tong3] /offenes System (u.E.)/
@@ -143831,6 +143839,10 @@ MP5衝鋒槍 MP5冲锋枪 [M P 5 chong1 feng1 qiang1] /HK MP5 (Maschinengewehr) 
 # Ver 2024-12-30T11:49:08Z nikolaus Stat-New >Verbesserung 
 挪 挪 [nuo2] /austauschen, tauschen (V)/erregen, verschieben, zuschieben (V)/
 
+# ID-c04CO7i
+# Ver 2026-11-25T07:48:13Z nikolaus Stat-New >Neu
+基本輸入輸出係統 基本输入输出系统 [ji1 ben3 shu1 ru4 shu1 chu1 xi4 tong3] /BIOS (Basis-Eingabe-\Ausgabe-System) (S, EDV)/
+
 # ID-c04CP8O
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 多軼事趣聞 多轶事趣闻 [duo1 yi4 shi4 qu4 wen2] /anekdotenhaft (u.E.) (Adj)/
@@ -155064,7 +155076,9 @@ X射線管 X射线管 [X she4 xian4 guan3] /Röntgenstrahler (S, Tech)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 頂樓 顶楼 [ding3 lou2] /Bodenkammer (u.E.) (S)/Dachgeschoss (u.E.) (S)/Dachstube (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-頂樓 顶楼 [ding3 lou2] /Bodenkammer (S)/Dachgeschoss (S)/Dachstube (S)/
+# 頂樓 顶楼 [ding3 lou2] /Bodenkammer (S)/Dachgeschoss (S)/Dachstube (S)/
+# Ver 2026-11-25T10:57:14Z nikolaus Stat-New >Verbesserung 
+頂樓 顶楼 [ding3 lou2] /Bodenkammer (S, Arch)/Dachgeschoss, Dachstube (S, Arch)/
 
 # ID-c19Zv5y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -156196,7 +156210,9 @@ X射線管 X射线管 [X she4 xian4 guan3] /Röntgenstrahler (S, Tech)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 資格 资格 [zi1 ge5] /Berechtigung, Anspruch (S)/Eignung, Befähigung (S)/Qualifikation (S)/qualifiziert, geeignet, berechtigt/
 # Ver 2021-12-27T14:30:23Z nikolaus Stat-New >Wortart
-資格 资格 [zi1 ge5] /Berechtigung, Anspruch (S)/Eignung, Befähigung (S)/Qualifikation (S)/qualifiziert, geeignet, berechtigt (Adj)/
+# 資格 资格 [zi1 ge5] /Berechtigung, Anspruch (S)/Eignung, Befähigung (S)/Qualifikation (S)/qualifiziert, geeignet, berechtigt (Adj)/
+# Ver 2026-11-25T21:04:41Z nikolaus Stat-New >Verbesserung
+資格 资格 [zi1 ge5] /Berechtigung, Anspruch (S)/Eignung, Befähigung (S)/Qualifikation, (umg) Quali (S)/qualifiziert, geeignet, berechtigt (Adj)/
 
 # ID-c21PN0P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -214372,7 +214388,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 埠 埠 [bu4] /Hafenstadt (u.E.) (S)/Handelshafen (u.E.) (S)/Kai, Pier, Mole, Landungsplatz (u.E.) (S)/Ortschaft mit einem Anlegerplatz für Schiffe (u.E.) (S)/Stadt ( mit Hafen ) (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-埠 埠 [bu4] /Hafenstadt (S)/Handelshafen (S)/Kai, Pier, Mole, Landungsplatz (S)/Ortschaft mit einem Anlegerplatz für Schiffe (S)/Stadt (mit Hafen) (S)/
+# 埠 埠 [bu4] /Hafenstadt (S)/Handelshafen (S)/Kai, Pier, Mole, Landungsplatz (S)/Ortschaft mit einem Anlegerplatz für Schiffe (S)/Stadt (mit Hafen) (S)/
+# Ver 2026-11-25T07:23:27Z nikolaus Stat-New >Verbesserung
+埠 埠 [bu4] /Hafenstadt (S)/Handelshafen (S, Naut)/Kai, Pier, Mole, Landungsplatz (S, Naut)/Ortschaft mit einem Anlegerplatz für Schiffe (S, Naut)/Stadt (mit Hafen) (S, Geo)/
 
 # ID-d03PQ1i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -303935,7 +303953,11 @@ GOOGLE的容量為1G的郵箱 GOOGLE的容量为1G的邮箱 [G O O G L E de5 ron
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 四肢癱瘓 四肢瘫痪 [si4 zhi1 tan1 huan4] /an allen Gliedern gelähmt/
 # Ver 2024-06-05T08:51:14Z nikolaus Stat-New >Verbesserung 
-四肢癱瘓 四肢瘫痪 [si4 zhi1 tan1 huan4] /Tetraplegie (an allen Gliedern gelähmt) (S, Med)/
+# 四肢癱瘓 四肢瘫痪 [si4 zhi1 tan1 huan4] /Tetraplegie (an allen Gliedern gelähmt) (S, Med)/
+# Ver 2026-11-25T20:55:13Z nikolaus Stat-New >Verbesserung
+# 四肢癱瘓 四肢瘫痪 [si4 zhi1 tan1 huan4] /Quadroplegie, Tetraplegie (an allen Gliedern gelähmt) (S, Med)/
+# Ver 2026-11-25T20:56:28Z nikolaus Stat-New >Fehler
+四肢癱瘓 四肢瘫痪 [si4 zhi1 tan1 huan4] /Quadriplegie, Tetraplegie (an allen Gliedern gelähmt) (S, Med)/
 
 # ID-e29sE1J
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -373126,7 +373148,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 
 # ID-f26vX6p
 # Ver 2024-06-05T08:53:05Z nikolaus Stat-New >Neu
-四肢癱 四肢瘫 [si4 zhi1 tan1] /Tetraplegie (S, Med)/
+# 四肢癱 四肢瘫 [si4 zhi1 tan1] /Tetraplegie (S, Med)/
+# Ver 2026-11-25T20:56:12Z nikolaus Stat-New >Verbesserung
+四肢癱 四肢瘫 [si4 zhi1 tan1] /Quadriplegie, Tetraplegie (S, Med)/
 
 # ID-f26wS4k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -390314,7 +390338,9 @@ V形皮帶傳動 V形皮带传动 [V xing2 pi2 dai4 chuan2 dong4] /Keilriemenant
 # Ver 2024-08-21T16:51:37Z nikolaus Stat-New >Verbesserung 
 # 地下公寓 地下公寓 [de5 xia4 gong1 yu4] /Kellerwohnung, Souterrain (S, Arch)/
 # Ver 2024-09-01T20:05:00Z eingu Stat-New >dì
-地下公寓 地下公寓 [di4 xia4 gong1 yu4] /Kellerwohnung, Souterrain (S, Arch)/
+# 地下公寓 地下公寓 [di4 xia4 gong1 yu4] /Kellerwohnung, Souterrain (S, Arch)/
+# Ver 2026-11-25T11:03:12Z nikolaus Stat-New >Verbesserung 
+地下公寓 地下公寓 [di4 xia4 gong1 yu4] /Kellerwohnung, Kellergeschosswohnung, Souterrain (S, Arch)/
 
 # ID-f50Rr6j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -485359,7 +485385,9 @@ CAS編號 CAS编号 [C A S bian1 hao4] /CAS-Nummer (S, Chem)/Chemical Abstract S
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 馬虎的工作 馬虎的工作 [ma3 hu3 de5 gong1 zuo4] /Pfusch (ugs) (S)/Pfuscherei (ugs) (S)/Stümperei (ugs) (S)/
 # Ver 2024-08-25T09:52:29Z nikolaus Stat-New >Verbesserung 
-馬虎的工作 馬虎的工作 [ma3 hu3 de5 gong1 zuo4] /(umg) Pfusch (S)/(umg) Pfuscherei (S)/(umg) Stümperei (S)/
+# 馬虎的工作 馬虎的工作 [ma3 hu3 de5 gong1 zuo4] /(umg) Pfusch (S)/(umg) Pfuscherei (S)/(umg) Stümperei (S)/
+# Ver 2026-11-25T20:03:30Z nikolaus Stat-New >Verbesserung 
+馬虎的工作 馬虎的工作 [ma3 hu3 de5 gong1 zuo4] /(umg) Pfusch (S)/(umg) Quacksalberei (S)/(umg) Pfuscherei (S)/(umg) Stümperei (S)/
 
 # ID-g83iQ9B
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -510559,7 +510587,9 @@ B級 B级 [B ji2] /B-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 左舷 左舷 [zuo3 xian2] /backbord (u.E.) (Adj)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-左舷 左舷 [zuo3 xian2] /backbord (Adj)/
+# 左舷 左舷 [zuo3 xian2] /backbord (Adj)/
+# Ver 2026-11-25T09:36:20Z nikolaus Stat-New >Verbesserung 
+左舷 左舷 [zuo3 xian2] /backbord (Adj)/Backbord (S, Naut)/
 
 # ID-h18rj4q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -569054,6 +569084,10 @@ BP機 BP机 [B P ji1] /Piepser (S)/
 # Ver 2026-07-15T21:05:14Z nikolaus Stat-New >Neu
 塞爾布 塞尔布 [sai1 er3 bu4] /Selb (Stadt in Deutschland) (Geo)/
 
+# ID-i00RN6h
+# Ver 2026-11-25T10:56:14Z nikolaus Stat-New >Neu
+閣樓房間 阁楼房间 [ge2 lou2 fang2 jian1] /Dachzimmer, Dachkammer (S, Arch)/
+
 # ID-i00RV0Y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 六千零四十一 六千零四十一 [liu4 qian1 ling2 si4 shi2 yi1] /6041 (sechstausendeinundvierzig) (u.E.)/
@@ -575562,7 +575596,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 抽煙 抽烟 [chou1 yan1] /rauchen (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-抽煙 抽烟 [chou1 yan1] /rauchen (V)/
+# 抽煙 抽烟 [chou1 yan1] /rauchen (V)/
+# Ver 2026-11-25T21:15:16Z nikolaus Stat-New >Verbesserung
+抽煙 抽烟 [chou1 yan1] /rauchen (V)/Rauchen, Qualmerei (S)/
 
 # ID-i09XJ5o
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -582104,7 +582140,9 @@ N乙酰神經氨酸 N乙酰神经氨酸 [N yi3 xian1 shen2 jing1 an1 suan1] /N-A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 尖牙 尖牙 [jian1 ya2] /Eckzahn (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-尖牙 尖牙 [jian1 ya2] /Eckzahn (S)/
+# 尖牙 尖牙 [jian1 ya2] /Eckzahn (S)/
+# Ver 2026-11-25T09:46:37Z nikolaus Stat-New >Verbesserung
+尖牙 尖牙 [jian1 ya2] /Eckzahn (S, Anat)/
 
 # ID-i18Yw0X
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -648293,7 +648331,9 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 素質 素质 [su4 zhi4] /Anlage, Qualität, Veranlagung, Bildungsstand (S, Bio)/
 # Ver 2025-04-12T07:22:59Z nikolaus Stat-New >Verbesserung 
-素質 素质 [su4 zhi4] /Anlage, Qualität (S, Bio)/Veranlagung, Bildungsstand (S, Soz)/
+# 素質 素质 [su4 zhi4] /Anlage, Qualität (S, Bio)/Veranlagung, Bildungsstand (S, Soz)/
+# Ver 2026-11-25T21:07:44Z nikolaus Stat-New >Verbesserung
+素質 素质 [su4 zhi4] /Anlage, Qualität (S, Bio)/Qualitäten, Tugenden (S)/Veranlagung, Bildungsstand (S, Soz)/
 
 # ID-j11AT9a
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -667444,7 +667484,9 @@ CD自動接紙裝置 CD自动接纸装置 [C D zi4 dong4 jie1 zhi3 zhuang1 zhi4]
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 犬齒 犬齿 [quan3 chi3] /Eckzahn (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-犬齒 犬齿 [quan3 chi3] /Eckzahn (S)/
+# 犬齒 犬齿 [quan3 chi3] /Eckzahn (S)/
+# Ver 2026-11-25T09:46:07Z nikolaus Stat-New >Verbesserung
+犬齒 犬齿 [quan3 chi3] /Eckzahn (S, Anat)/
 
 # ID-j37Lk8W
 # Ver 2021-11-05T21:30:24Z nikolaus Stat-New >Neu
@@ -719091,6 +719133,10 @@ I型印刷機組 I型印刷机组 [I xing2 yin4 shua4 ji1 zu3] /I-Druckwerk (S, 
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 臉色 脸色 [lian3 se4] /Gesichtsfarbe (S)/
 
+# ID-k10aM7Q
+# Ver 2026-11-25T08:12:05Z nikolaus Stat-New >Neu
+骨乾網 骨干网 [gu3 gan1 wang3] /Backbone, Backbone-Netzwerk (S, EDV)/
+
 # ID-k10bG5W
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 機器制 机器制 [ji1 qi5 zhi4] /maschinell hergestellt (u.E.)/
@@ -740005,7 +740051,9 @@ DA轉換器 DA转换器 [D A zhuan3 huan4 qi4] /Digital-Analog-Wandler (S, Phys)
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 板牙 板牙 [ban3 ya2] /Backenzahn (u.E.) (S)/Gewindeschneidkopf, Schneideisen (für Außengewinde) (u.E.) (S)/Schneidezahn (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-板牙 板牙 [ban3 ya2] /Backenzahn (S)/Gewindeschneidkopf, Schneideisen (für Außengewinde) (S)/Schneidezahn (S)/
+# 板牙 板牙 [ban3 ya2] /Backenzahn (S)/Gewindeschneidkopf, Schneideisen (für Außengewinde) (S)/Schneidezahn (S)/
+# Ver 2026-11-25T09:43:57Z nikolaus Stat-New >Verbesserung
+板牙 板牙 [ban3 ya2] /Backenzahn, Schneidezahn (S, Anat)/Gewindeschneidkopf, Schneideisen (für Außengewinde) (S, Tech)/
 
 # ID-k40nn5f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -759433,6 +759481,10 @@ A大調 A大调 [A da4 diao4] /A-Dur (S, Mus)/
 # Ver 2026-01-12T21:06:27Z nikolaus Stat-New >Verbesserung
 茶爐子 茶炉子 [cha2 lu2 zi5] /Teekocher, Teezubereiter (S, Tech)/
 
+# ID-k67XM1s
+# Ver 2026-11-25T21:02:37Z nikolaus Stat-New >Neu
+四聲道 四声道 [si4 sheng1 dao4] /Quadrofonie, Quadrophonie (Vier-Ton-Kanal) (S, Tech)/
+
 # ID-k67XR4w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 僧伽 僧伽 [seng1 ga1] /Sangha (u.E.) (Sprachw)/
@@ -764261,7 +764313,9 @@ A大調 A大调 [A da4 diao4] /A-Dur (S, Mus)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 慾望 欲望 [yu4 wang4] /Wunsch, Begehren, Verlangen, Begierde (S)/
 # Ver 2026-11-24T08:24:38Z nikolaus Stat-New >Verbesserung 
-慾望 欲望 [yu4 wang4] /Wunsch, Begehren, Verlangen, (S)/Gelüste, Begierde (S)/
+# 慾望 欲望 [yu4 wang4] /Wunsch, Begehren, Verlangen, (S)/Gelüste, Begierde (S)/
+# Ver 2026-11-25T07:10:32Z nikolaus Stat-New >Formatfehler
+慾望 欲望 [yu4 wang4] /Wunsch, Begehren, Verlangen (S)/Gelüste, Begierde (S)/
 
 # ID-k74Kn3Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -827695,7 +827749,9 @@ ISDN接口 ISDN接口 [I S D N e1 kou3] /ISDN-Schnittstelle, ISDN-Buchse, ISDN-A
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 工作馬虎的人 工作馬虎的人 [gong1 zuo4 ma3 hu3 de5 ren2] /Pfuscher, Stümper (ugs) (S)/
 # Ver 2022-03-18T21:07:04Z nikolaus Stat-New >Verbesserung 
-工作馬虎的人 工作馬虎的人 [gong1 zuo4 ma3 hu3 de5 ren2] /Pfuscher, Stümper (umg) (S)/
+# 工作馬虎的人 工作馬虎的人 [gong1 zuo4 ma3 hu3 de5 ren2] /Pfuscher, Stümper (umg) (S)/
+# Ver 2026-11-25T20:02:05Z nikolaus Stat-New >Verbesserung 
+工作馬虎的人 工作馬虎的人 [gong1 zuo4 ma3 hu3 de5 ren2] /Pfuscher, Stümper, Quacksalber (umg) (S)/
 
 # ID-l63Rp1E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -868860,7 +868916,9 @@ D日 D日 [D ri4] /D-Day (S, temp)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 方塊 方块 [fang1 kuai4] /Rot, Karo, Carreau, Diamond (Spielkarte) (S)/
 # Ver 2023-04-10T10:05:12Z nikolaus Stat-New >Verbesserung 
-方塊 方块 [fang1 kuai4] /Rot, Karo (Spielkarte) (S)/Würfel, Block, Rechteck, Quadrat (S)/
+# 方塊 方块 [fang1 kuai4] /Rot, Karo (Spielkarte) (S)/Würfel, Block, Rechteck, Quadrat (S)/
+# Ver 2026-11-25T20:06:03Z nikolaus Stat-New >Verbesserung 
+方塊 方块 [fang1 kuai4] /Rot, Karo (Spielkarte) (S)/Würfel, Block (S)/Rechteck, Quadrat (S, Math)/
 
 # ID-m22rx0B
 # Ver 2025-02-19T20:11:28Z nikolaus Stat-New >Neu
@@ -904792,7 +904850,9 @@ QR快速剝離效應 QR快速剥离效应 [Q R kuai4 su4 bo1 li2 xiao4 ying4] /Q
 
 # ID-m73TG0r
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-質量問題 质量问题 [zhi4 liang4 wen4 ti2] /Qualitätsproblem (S)/
+# 質量問題 质量问题 [zhi4 liang4 wen4 ti2] /Qualitätsproblem (S)/
+# Ver 2026-11-25T21:10:05Z nikolaus Stat-Verif >Verbesserung
+質量問題 质量问题 [zhi4 liang4 wen4 ti2] /Qualitätsproblem, Qualitätsmangel (S)/
 
 # ID-m73TN9y
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -923614,6 +923674,10 @@ Java遠程方法調用 Java远程方法调用 [J a v a yuan3 cheng2 fang1 fa3 di
 # 驚怕 惊怕 [jing1 pa4] /beunruhigen (u.E.) (V)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 驚怕 惊怕 [jing1 pa4] /beunruhigen (V)/
+
+# ID-n00zI3s
+# Ver 2026-11-25T10:27:34Z nikolaus Stat-New >Neu
+掃把櫃 扫把柜 [sao3 ba3 gui4] /Besenschrank (S)/
 
 # ID-n00zT0Z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -973719,7 +973783,9 @@ delta變種病毒 delta变种病毒 [bian4 zhong3 bing4 du2] /Delta Variante (B.
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
 # 量詞 量词 [liang4 ci2] /Zählwort, Zähleinheitswort, ZEW (S, Sprachw)/
 # Ver 2023-06-20T17:59:46Z nikolaus Stat-Verif >Verbesserung 
-量詞 量词 [liang4 ci2] /Zählwort, Zähleinheitswort, ZEW (Grammatik) (S, Sprachw)/
+# 量詞 量词 [liang4 ci2] /Zählwort, Zähleinheitswort, ZEW (Grammatik) (S, Sprachw)/
+# Ver 2026-11-25T21:19:09Z nikolaus Stat-Verif >Verbesserung
+量詞 量词 [liang4 ci2] /Quantor (S, Math)/Zählwort, Zähleinheitswort, ZEW (Grammatik) (S, Sprachw)/
 
 # ID-n70rG5g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -977901,7 +977967,9 @@ X光檢查 X光检查 [X guang1 jian3 cha2] /Durchleuchtung (S)/röntgen (V)/
 
 # ID-n76bQ6f
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
-吸煙 吸烟 [xi1 yan1] /rauchen (V)/
+# 吸煙 吸烟 [xi1 yan1] /rauchen (V)/
+# Ver 2026-11-25T21:14:32Z nikolaus Stat-Verif >Verbesserung
+吸煙 吸烟 [xi1 yan1] /rauchen (V)/Rauchen, Qualmerei (S)/
 
 # ID-n76bU3V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -985236,7 +985304,9 @@ DA匯流排閉合 DA汇流排闭合 [D A hui4 liu2 pai2 bi4 he2] /DA-Schiene ges
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 頂樓公寓 顶楼公寓 [ding3 lou2 gong1 yu4] /Attikawohnung (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-頂樓公寓 顶楼公寓 [ding3 lou2 gong1 yu4] /Attikawohnung (S)/
+# 頂樓公寓 顶楼公寓 [ding3 lou2 gong1 yu4] /Attikawohnung (S)/
+# Ver 2026-11-25T10:59:55Z nikolaus Stat-New >Verbesserung 
+頂樓公寓 顶楼公寓 [ding3 lou2 gong1 yu4] /Attikawohnung, Dachwohnung (S, Arch)/
 
 # ID-n86mo4w
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1002132,6 +1002202,10 @@ X射線天文學 X射线天文学 [X she4 xian4 tian1 wen2 xue2] /Röntgenastron
 # 氧化物 氧化物 [yang3 hua4 wu4] /Oxid (u.E.) (S, Chem)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 氧化物 氧化物 [yang3 hua4 wu4] /Oxid (S, Chem)/
+
+# ID-o11lJ5c
+# Ver 2026-11-25T21:21:12Z nikolaus Stat-New >Neu
+全稱量詞 全称量词 [quan2 cheng1 liang4 ci2] /Allquantor (Symbol ∀) (S, Math)/
 
 # ID-o11lT0j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
