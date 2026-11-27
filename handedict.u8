@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2026-11-26T02:30:01Z
+# Datenstand: 2026-11-27T02:30:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -31283,7 +31283,9 @@ BB式滾筒結構 BB式滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 模數 模数 [mo2 shu4] /Modul (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-模數 模数 [mo2 shu4] /Modul (S)/
+# 模數 模数 [mo2 shu4] /Modul (S)/
+# Ver 2026-11-26T08:27:31Z nikolaus Stat-New >Verbesserung
+模數 模数 [mo2 shu4] /der Modul (S, Tech)/
 
 # ID-a43mR6b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -64841,7 +64843,9 @@ KZ紀念廣場 KZ纪念广场 [K Z ji4 nian4 guang3 chang3] /KZ-Gedenkstätte (S
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 生意 生意 [sheng1 yi5] /geschäftlich (Adj)/Geschäft, Handel/
 # Ver 2021-12-09T09:20:56Z nikolaus Stat-New >Wortart
-生意 生意 [sheng1 yi5] /geschäftlich (Adj)/Geschäft, Handel (S)/
+# 生意 生意 [sheng1 yi5] /geschäftlich (Adj)/Geschäft, Handel (S)/
+# Ver 2026-11-26T21:51:14Z nikolaus Stat-New >Verbesserung 
+生意 生意 [sheng1 yi5] /geschäftlich (Adj)/Geschäfte (S, Wirtsch)/
 
 # ID-a90Wl4k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -84291,7 +84295,9 @@ IP地址 IP地址 [I P di4 zhi3] /IP-Adresse (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 爭議 争议 [zheng1 yi4] /Kontroverse, Meinungsverschiedenheit, Streit, Zwist (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-爭議 争议 [zheng1 yi4] /Kontroverse, Meinungsverschiedenheit, Streit, Zwist (S)/
+# 爭議 争议 [zheng1 yi4] /Kontroverse, Meinungsverschiedenheit, Streit, Zwist (S)/
+# Ver 2026-11-26T22:02:01Z nikolaus Stat-New >Verbesserung 
+爭議 争议 [zheng1 yi4] /Kontroverse, Meinungsverschiedenheit (S)/Streit, Zwist, Hader (S)/
 
 # ID-b18sh7m
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -85135,7 +85141,9 @@ IP地址 IP地址 [I P di4 zhi3] /IP-Adresse (S, EDV)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 高薪 高薪 [gao1 xin1] /hohes Gehalt (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-高薪 高薪 [gao1 xin1] /hohes Gehalt (S)/
+# 高薪 高薪 [gao1 xin1] /hohes Gehalt (S)/
+# Ver 2026-11-26T09:59:50Z nikolaus Stat-New >Verbesserung
+高薪 高薪 [gao1 xin1] /hohes Gehalt (S, Wirtsch)/
 
 # ID-b19DS5t
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -108695,7 +108703,9 @@ AA制 AA制 [A A zhi4] /Jeder zahlt für sich selbst (Redew)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 民眾 民众 [min2 zhong4] /Gesindel, Pöbel (abwertend) (u.E.) (S)/Menge, Massen ( Bürger ) (u.E.) (S)/Volk, Volksmassen (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-民眾 民众 [min2 zhong4] /Gesindel, Pöbel (abwertend) (S)/Menge, Massen (Bürger) (S)/Volk, Volksmassen (S)/
+# 民眾 民众 [min2 zhong4] /Gesindel, Pöbel (abwertend) (S)/Menge, Massen (Bürger) (S)/Volk, Volksmassen (S)/
+# Ver 2026-11-26T08:19:35Z nikolaus Stat-New >Verbesserung
+民眾 民众 [min2 zhong4] /Gesindel, Pöbel, Pack (abwertend) (S, Soz)/Menge, Massen (Bürger) (S)/Volk, Volksmassen (S)/
 
 # ID-b53Ok5Q
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -109559,7 +109569,9 @@ AA制 AA制 [A A zhi4] /Jeder zahlt für sich selbst (Redew)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 豬腳 猪脚 [zhu1 jiao3] /Eisbein (u.E.) (S, Ess)/Hachse, Haxe (u.E.) (S, Ess)/Schweinshachse, Schweinshaxe (u.E.) (S, Ess)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-豬腳 猪脚 [zhu1 jiao3] /Eisbein (S, Ess)/Hachse, Haxe (S, Ess)/Schweinshachse, Schweinshaxe (S, Ess)/
+# 豬腳 猪脚 [zhu1 jiao3] /Eisbein (S, Ess)/Hachse, Haxe (S, Ess)/Schweinshachse, Schweinshaxe (S, Ess)/
+# Ver 2026-11-26T21:28:12Z nikolaus Stat-New >Verbesserung 
+豬腳 猪脚 [zhu1 jiao3] /Eisbein (S, Ess)/Hachse, Haxe, Haspel (S, Ess)/Schweinshachse, Schweinshaxe (S, Ess)/
 
 # ID-b55ke6g
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -113781,7 +113793,9 @@ IP電話 IP电话 [I P dian4 hua4] /IP-Telefonie (Internet-Protokoll-Telefonie),
 
 # ID-b61sw9p
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-謪 謪 [shang1] /konsultieren (V)/beratschlagen (V)/Handel; Umgang (S)/
+# 謪 謪 [shang1] /konsultieren (V)/beratschlagen (V)/Handel; Umgang (S)/
+# Ver 2026-11-26T21:57:34Z nikolaus Stat-Verif >Verbesserung 
+謪 謪 [shang1] /konsultieren (V)/beratschlagen (V)/alte Variante von 商[shang1] (X)/
 
 # ID-b61tp5i
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -183759,7 +183773,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 下三賴 下三赖 [xia4 san1 lai4] /Poebel (S)/Unterklasse (S)/
 # Ver 2025-12-10T06:45:12Z nikolaus Stat-New >Verbesserung
-下三賴 下三赖 [xia4 san1 lai4] /Pöbel (S, Soz)/Unterklasse (S, Soz)/
+# 下三賴 下三赖 [xia4 san1 lai4] /Pöbel (S, Soz)/Unterklasse (S, Soz)/
+# Ver 2026-11-26T08:20:22Z nikolaus Stat-New >Verbesserung
+下三賴 下三赖 [xia4 san1 lai4] /Pöbel, Pack  (S, Soz)/Unterklasse (S, Soz)/
 
 # ID-c60yH9j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -183845,7 +183861,9 @@ y坐標 y坐标 [y zuo4 biao1] /y-Koordinate (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 薪水 薪水 [xin1 shui3] /Bezug (S)/Gehalt (S)/Lohn (S)/Bezahlung/
 # Ver 2021-01-18T13:09:20Z nikolaus Stat-New >Verbesserung
-薪水 薪水 [xin1 shui3] /Bezug (S)/Gehalt (S)/Lohn (S)/Bezahlung (S)/
+# 薪水 薪水 [xin1 shui3] /Bezug (S)/Gehalt (S)/Lohn (S)/Bezahlung (S)/
+# Ver 2026-11-26T10:07:58Z nikolaus Stat-New >Verbesserung
+薪水 薪水 [xin1 shui3] /Bezug (S, Wirtsch)/Gehalt, Lohn (S, Wirtsch)/Bezahlung (S, Wirtsch)/
 
 # ID-c60CG4P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -210102,7 +210120,9 @@ CCI計算機控制油墨裝置 CCI计算机控制油墨装置 [C C I ji4 suan4 j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 工商業 工商业 [gong1 shang1 ye4] /Geschäft, Handel, kaufmännische Branche (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-工商業 工商业 [gong1 shang1 ye4] /Geschäft, Handel, kaufmännische Branche (S)/
+# 工商業 工商业 [gong1 shang1 ye4] /Geschäft, Handel, kaufmännische Branche (S)/
+# Ver 2026-11-26T21:37:12Z nikolaus Stat-New >Verbesserung 
+工商業 工商业 [gong1 shang1 ye4] /Handel und Gewerbe, kaufmännische Branche (S, Wirtsch)/
 
 # ID-c97OE3z
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -239997,7 +240017,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 豬肘子 猪肘子 [zhu1 zhou3 zi3] /Eisbein, Hachse, Haxe, Schweinshaxe, Schweinshachse (u.E.) (S, Ess)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-豬肘子 猪肘子 [zhu1 zhou3 zi3] /Eisbein, Hachse, Haxe, Schweinshaxe, Schweinshachse (S, Ess)/
+# 豬肘子 猪肘子 [zhu1 zhou3 zi3] /Eisbein, Hachse, Haxe, Schweinshaxe, Schweinshachse (S, Ess)/
+# Ver 2026-11-26T21:29:01Z nikolaus Stat-New >Verbesserung 
+豬肘子 猪肘子 [zhu1 zhou3 zi3] /Eisbein, Hachse, Haxe, Haspel (S, Ess)/Schweinshaxe, Schweinshachse (S, Ess)/
 
 # ID-d40KP9L
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -248826,7 +248848,9 @@ X射線斷層掃描儀 X射线断层扫描仪 [X she4 xian4 duan4 ceng2 sao4 mia
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 爭吵 争吵 [zheng1 chao3] /Entzweiung (S)/Streit, Krach (S)/Unfriede, Unfrieden (S)/Zwist, Zwistigkeit (S)/streiten (V)/zerstreiten (V)/
 # Ver 2025-07-16T16:21:39Z nikolaus Stat-New >Verbesserung 
-爭吵 争吵 [zheng1 chao3] /Entzweiung (S)/Streit, Krach (S)/Unfriede, Unfrieden (S)/Zwist, Zwistigkeit (S)/(umg) Knatsch (S)/streiten (V)/zerstreiten (V)/
+# 爭吵 争吵 [zheng1 chao3] /Entzweiung (S)/Streit, Krach (S)/Unfriede, Unfrieden (S)/Zwist, Zwistigkeit (S)/(umg) Knatsch (S)/streiten (V)/zerstreiten (V)/
+# Ver 2026-11-26T22:03:00Z nikolaus Stat-New >Verbesserung 
+爭吵 争吵 [zheng1 chao3] /Entzweiung (S)/Streit, Krach, Hader (S)/Unfriede, Unfrieden (S)/Zwist, Zwistigkeit (S)/(umg) Knatsch (S)/streiten (V)/zerstreiten (V)/
 
 # ID-d52Ih7l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -266137,7 +266161,9 @@ US地產抵押危機 US地产抵押危机 [U S di4 chan3 di3 ya1 wei1 ji1] /US-H
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 薪水 薪水 [xin1 shui5] /Gehalt (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-薪水 薪水 [xin1 shui5] /Gehalt (S)/
+# 薪水 薪水 [xin1 shui5] /Gehalt (S)/
+# Ver 2026-11-26T10:07:08Z nikolaus Stat-New >Verbesserung
+薪水 薪水 [xin1 shui5] /Gehalt, Lohn (S, Wirtsch)/
 
 # ID-d77dM7b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -276063,7 +276089,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 繼承人 继承人 [ji4 cheng2 ren2] /Erbe (u.E.) (S)/Nachfolger (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-繼承人 继承人 [ji4 cheng2 ren2] /Erbe (S)/Nachfolger (S)/
+# 繼承人 继承人 [ji4 cheng2 ren2] /Erbe (S)/Nachfolger (S)/
+# Ver 2026-11-26T11:40:27Z nikolaus Stat-New >Verbesserung
+繼承人 继承人 [ji4 cheng2 ren2] /der Erbe (S)/Nachfolger (S)/
 
 # ID-d90vu8d
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -284183,7 +284211,9 @@ n階行列式 n阶行列式 [n jie1 hang2 lie4 shi4] /Determinante der Ordnung n
 # Ver 2021-04-06T07:56:08Z nikolaus Stat-New >Verbesserung
 # 交易 交易 [jiao1 yi4] /Abmachung (S)/Durchführung (S, Wirtsch)/Erledigung (S)/Gelegenheitskauf (S)/Geschäft (S)/Gewerbe (S)/Handel (S)/Operation (S)/Tauschbörse (S)/Transaktion (S)/Umgang (S)/Umsetzung (S)/mit...handeln (V)/
 # Ver 2023-02-15T12:18:02Z nikolaus Stat-New >Verbesserung
-交易 交易 [jiao1 yi4] /Abmachung (S)/Durchführung (S, Wirtsch)/Erledigung (S)/Gelegenheitskauf (S)/Geschäft (S)/Gewerbe (S)/Handel (S)/Operation (S)/Tauschbörse (S)/Transaktion (S)/Umgang (S)/Umsetzung (S)/mit etw. handeln (V)/
+# 交易 交易 [jiao1 yi4] /Abmachung (S)/Durchführung (S, Wirtsch)/Erledigung (S)/Gelegenheitskauf (S)/Geschäft (S)/Gewerbe (S)/Handel (S)/Operation (S)/Tauschbörse (S)/Transaktion (S)/Umgang (S)/Umsetzung (S)/mit etw. handeln (V)/
+# Ver 2026-11-26T21:33:48Z nikolaus Stat-New >Verbesserung 
+交易 交易 [jiao1 yi4] /Abmachung (S)/Durchführung (S, Wirtsch)/Erledigung (S)/Gelegenheitskauf (S)/Geschäft, Gewerbe, Handel (S, Wirtsch)/Operation (S)/Tauschbörse (S)/Transaktion (S)/Umgang (S)/Umsetzung (S)/mit etw. handeln (V)/
 
 # ID-e01Js7M
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -336135,7 +336165,9 @@ X射線晶體學 X射线晶体学 [X she4 xian4 jing1 ti3 xue2] /Röntgenkristal
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 組件 组件 [zu3 jian4] /Baugruppe, Komponente (u.E.) (S)/Modul (u.E.) (S)/Montagegruppe (u.E.) (S)/Unterbaugruppe (u.E.) (S)/Werkstück (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-組件 组件 [zu3 jian4] /Baugruppe, Komponente (S)/Modul (S)/Montagegruppe (S)/Unterbaugruppe (S)/Werkstück (S)/
+# 組件 组件 [zu3 jian4] /Baugruppe, Komponente (S)/Modul (S)/Montagegruppe (S)/Unterbaugruppe (S)/Werkstück (S)/
+# Ver 2026-11-26T08:30:09Z nikolaus Stat-New >Verbesserung
+組件 组件 [zu3 jian4] /Baugruppe, Komponente (S)/das Modul (S)/Montagegruppe (S)/Unterbaugruppe (S)/Werkstück (S)/
 
 # ID-e74Gs9p
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -361726,7 +361758,9 @@ A柱 A柱 [A zhu4] /A-Säule (S, Kfz)/
 
 # ID-f10AE0U
 # Ver 2022-12-17T10:23:39Z nikolaus Stat-New >Neu
-奧斯卡蘭格 奥斯卡兰格 [ao4 si1 ka3 lan2 ge2] /Oskar Lange (polnischer Wirtschaftswissenschaftler und Politiker) (Eig, Pers, 1904-1965)/
+# 奧斯卡蘭格 奥斯卡兰格 [ao4 si1 ka3 lan2 ge2] /Oskar Lange (polnischer Wirtschaftswissenschaftler und Politiker) (Eig, Pers, 1904-1965)/
+# Ver 2026-11-26T17:33:31Z nikolaus Stat-New >Verbesserung 
+奧斯卡蘭格 奥斯卡兰格 [ao4 si1 ka3 lan2 ge2] /Oskar Lange (poln. Wirtschaftswissenschaftler und Politiker) (Eig, Pers, 1904-1965)/
 
 # ID-f10AV8e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -488237,7 +488271,9 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # Ver 2019-12-03T17:40:17Z nikolaus Stat-New >Verbesserung
 # 伙 伙 [huo3] /Gemeinschaft (S)/Gruppe von 10 Personen (hist.) (S)/Kerl, Junge, Bursche, Typ (S)/Möbel, Utensilien, Werkzeuge (hist.) (S)/Partner, Kumpel (S)/Verpflegung, Kost, Beköstigung, Pension (S, Ess)/ZEW für Gruppen (abwertend) z.B. Gangs (Zähl)/
 # Ver 2021-03-04T09:24:32Z BiGF00T Stat-New >Leerzeichen
-伙 伙 [huo3] /Gemeinschaft (S)/Gruppe von 10 Personen (hist.) (S)/Kerl, Junge, Bursche, Typ (S)/Möbel, Utensilien, Werkzeuge (hist.) (S)/Partner, Kumpel (S)/Verpflegung, Kost, Beköstigung, Pension (S, Ess)/ZEW für Gruppen (abwertend) z. B. Gangs (Zähl)/
+# 伙 伙 [huo3] /Gemeinschaft (S)/Gruppe von 10 Personen (hist.) (S)/Kerl, Junge, Bursche, Typ (S)/Möbel, Utensilien, Werkzeuge (hist.) (S)/Partner, Kumpel (S)/Verpflegung, Kost, Beköstigung, Pension (S, Ess)/ZEW für Gruppen (abwertend) z. B. Gangs (Zähl)/
+# Ver 2026-11-26T09:36:06Z nikolaus Stat-New >Verbesserung 
+伙 伙 [huo3] /Gemeinschaft (S)/Gruppe von 10 Personen (hist.) (S)/Kerl, Junge, Bursche, Typ, Lackel (S)/Möbel, Utensilien, Werkzeuge (hist.) (S)/Partner, Kumpel (S)/Verpflegung, Kost, Beköstigung, Pension (S, Ess)/ZEW für Gruppen (abwertend) z. B. Gangs (Zähl)/
 
 # ID-g87gW4C
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -490236,6 +490272,10 @@ UV幅射器 UV幅射器 [U V fu2 she4 qi4] /UV-Strahler (S, Tech)/
 # 赴席 赴席 [fu4 xi2] /der Einladung zu einem Festessen/Bankett folgen (V)/
 # Ver 2022-02-09T09:44:38Z nikolaus Stat-New >Wortart
 赴席 赴席 [fu4 xi2] /der Einladung zu einem Festessen od. Bankett folgen (V)/
+
+# ID-g89Vt0l
+# Ver 2026-11-26T22:11:22Z nikolaus Stat-New >Neu
+爭吵者 争吵者 [zheng1 chao3 zhe3] /Nörgler, Haderer, streitsüchtiger Mensch (S)/
 
 # ID-g89VM6L
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -546786,7 +546826,9 @@ BB式滾筒結構 BB型滚筒结构 [B B shi4 gun3 tong3 jie2 gou4] /Gummigummi 
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 模塊 模块 [mo2 kuai4] /Modul, modularer Baustein (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-模塊 模块 [mo2 kuai4] /Modul, modularer Baustein (S)/
+# 模塊 模块 [mo2 kuai4] /Modul, modularer Baustein (S)/
+# Ver 2026-11-26T08:28:41Z nikolaus Stat-New >Verbesserung
+模塊 模块 [mo2 kuai4] /das Modul, modularer Baustein (S)/
 
 # ID-h69tG7j
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -567298,7 +567340,9 @@ BP機 BP机 [B P ji1] /Piepser (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 貿 贸 [mao4] /Handel (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-貿 贸 [mao4] /Handel (S)/
+# 貿 贸 [mao4] /Handel (S)/
+# Ver 2026-11-26T21:42:17Z nikolaus Stat-New >Verbesserung 
+貿 贸 [mao4] /Handel (S, Wirtsch)/Handel treiben (V)/
 
 # ID-h98nx0p
 # Ver 2026-05-18T10:47:11Z nikolaus Stat-New >Neu
@@ -567396,7 +567440,9 @@ BP機 BP机 [B P ji1] /Piepser (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 薪資 薪资 [xin1 zi1] /Gehalt (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-薪資 薪资 [xin1 zi1] /Gehalt (S)/
+# 薪資 薪资 [xin1 zi1] /Gehalt (S)/
+# Ver 2026-11-26T09:59:13Z nikolaus Stat-New >Verbesserung
+薪資 薪资 [xin1 zi1] /Gehalt, Lohn (S, Wirtsch)/
 
 # ID-h98wC9V
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -637653,7 +637699,9 @@ IT系統經紀師 IT系统经纪师 [I T xi4 tong3 jing1 ji4 shi1] /IT-Systemkau
 # Ver 2020-03-12T00:47:38Z Hustensaft Stat-New >http://www.ctrans.org/search.php?word=%E6%81%B6%E6%A3%8D&opts=&optext=%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%89%8D%E6%96%B9%E4%B8%80%E8%87%B4
 # 惡棍 恶棍 [e4 gun4] /Halunke, Schuft, Lump, Schurke/
 # Ver 2021-01-20T21:19:12Z nikolaus Stat-New >Verbesserung 
-惡棍 恶棍 [e4 gun4] /Halunke, Schuft, Lump, Schurke (S)/
+# 惡棍 恶棍 [e4 gun4] /Halunke, Schuft, Lump, Schurke (S)/
+# Ver 2026-11-26T22:06:07Z nikolaus Stat-New >Verbesserung 
+惡棍 恶棍 [e4 gun4] /Halunke, Lump, Haderlump (S)/Schuft, Schurke (S)/
 
 # ID-i96ya9v
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -655835,7 +655883,9 @@ V型腱鞘炎 V型腱鞘炎 [V xing2 jian4 qiao4 yan2] /V-Phlegmone (eitrische E
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 遺產受贈人 遗产受赠人 [yi2 chan3 shou4 zeng4 ren2] /Erbe (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-遺產受贈人 遗产受赠人 [yi2 chan3 shou4 zeng4 ren2] /Erbe (S)/
+# 遺產受贈人 遗产受赠人 [yi2 chan3 shou4 zeng4 ren2] /Erbe (S)/
+# Ver 2026-11-26T11:41:43Z nikolaus Stat-New >Verbesserung
+遺產受贈人 遗产受赠人 [yi2 chan3 shou4 zeng4 ren2] /der Erbe, die Erbin (S)/
 
 # ID-j21Jo0P
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -678770,7 +678820,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 嗣子 嗣子 [si4 zi3] /Erbe (S)/
 # Ver 2026-11-23T12:57:49Z nikolaus Stat-New >Verbesserung 
-嗣子 嗣子 [si4 zi3] /Erbe, Adoptivsohn (S, Rechtsw)/
+# 嗣子 嗣子 [si4 zi3] /Erbe, Adoptivsohn (S, Rechtsw)/
+# Ver 2026-11-26T11:42:16Z nikolaus Stat-New >Verbesserung
+嗣子 嗣子 [si4 zi3] /der Erbe, Adoptivsohn (S, Rechtsw)/
 
 # ID-j53CD1e
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -680680,7 +680732,9 @@ X光照片 X光照片 [X guang1 zhao4 pian4] /Röntgenaufnahme (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 加工模數 加工模数 [jia1 gong1 mo2 shu4] /Modul (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-加工模數 加工模数 [jia1 gong1 mo2 shu4] /Modul (S)/
+# 加工模數 加工模数 [jia1 gong1 mo2 shu4] /Modul (S)/
+# Ver 2026-11-26T08:37:49Z nikolaus Stat-New >Verbesserung
+加工模數 加工模数 [jia1 gong1 mo2 shu4] /Bearbeitungsmodul, der Schnittmodul (S, Tech)/
 
 # ID-j56gj5T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -702182,7 +702236,9 @@ C級系列 C级系列 [C ji2 xi4 lie4] /C-Klasse (S)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 模件 模件 [mo2 jian4] /Modul (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-模件 模件 [mo2 jian4] /Modul (S)/
+# 模件 模件 [mo2 jian4] /Modul (S)/
+# Ver 2026-11-26T08:32:39Z nikolaus Stat-New >Verbesserung
+模件 模件 [mo2 jian4] /das Modul, Baugruppe (S, Tech)/
 
 # ID-j86wt5T
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -822161,7 +822217,9 @@ DNA芯片 DNA芯片 [D N A xin4 pian4] /Biochip (S, Med)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 薪俸 薪俸 [xin1 feng4] /Vergütung, Gage, Honorar, Gehalt (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-薪俸 薪俸 [xin1 feng4] /Vergütung, Gage, Honorar, Gehalt (S)/
+# 薪俸 薪俸 [xin1 feng4] /Vergütung, Gage, Honorar, Gehalt (S)/
+# Ver 2026-11-26T10:00:23Z nikolaus Stat-New >Verbesserung
+薪俸 薪俸 [xin1 feng4] /Vergütung, Gage, Honorar, Gehalt (S, Wirtsch)/
 
 # ID-l55WV1h
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -829939,7 +829997,9 @@ n次方根 n次方根 [n ci4 fang1 gen1] /n-te Wurzel (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 切斯瓦夫米沃什 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shi2] /Czesław Miłosz (u.E.) (Eig, Pers, 1911 - 2004)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-切斯瓦夫米沃什 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shi2] /Czesław Miłosz (Eig, Pers, 1911 - 2004)/
+# 切斯瓦夫米沃什 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shi2] /Czesław Miłosz (Eig, Pers, 1911 - 2004)/
+# Ver 2026-11-26T17:37:26Z nikolaus Stat-New >Verbesserung 
+切斯瓦夫米沃什 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shi2] /Czesław Miłosz (poln. Dichtet) (Eig, Pers, 1911-2004)/
 
 # ID-l66SO0A
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -830493,7 +830553,9 @@ n次方根 n次方根 [n ci4 fang1 gen1] /n-te Wurzel (S, Math)/
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 德國豬腳 德国猪脚 [de2 guo2 zhu1 jue2] /Eisbein, Hachse, Haxe, Schweinshachse, Schweinshaxe (u.E.) (S, Ess)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-德國豬腳 德国猪脚 [de2 guo2 zhu1 jue2] /Eisbein, Hachse, Haxe, Schweinshachse, Schweinshaxe (S, Ess)/
+# 德國豬腳 德国猪脚 [de2 guo2 zhu1 jue2] /Eisbein, Hachse, Haxe, Schweinshachse, Schweinshaxe (S, Ess)/
+# Ver 2026-11-26T21:26:56Z nikolaus Stat-New >Verbesserung 
+德國豬腳 德国猪脚 [de2 guo2 zhu1 jue2] /Eisbein, Hachse, Haxe, Haspel (S, Ess)/Schweinshachse, Schweinshaxe (S, Ess)/
 
 # ID-l67LL7W
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
@@ -833984,7 +834046,9 @@ n次方根 n次方根 [n ci4 fang1 gen1] /n-te Wurzel (S, Math)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 欠薪 欠薪 [qian4 xin1] /ausstehender Gehalt (S)/jdn. Lohn schulden (V)/ausstehender Lohn (S)/
 # Ver 2025-01-10T12:29:50Z nikolaus Stat-New >Verbesserung 
-欠薪 欠薪 [qian4 xin1] /ausstehender Gehalt (S)/jmdm. Lohn schulden (V)/ausstehender Lohn (S)/
+# 欠薪 欠薪 [qian4 xin1] /ausstehender Gehalt (S)/jmdm. Lohn schulden (V)/ausstehender Lohn (S)/
+# Ver 2026-11-26T10:01:27Z nikolaus Stat-New >Verbesserung
+欠薪 欠薪 [qian4 xin1] /ausstehendes Gehalt, ausstehender Lohn (S, Wirtsch)/jmdm. Lohn schulden (V)/
 
 # ID-l72BL0l
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-Verif 001>Originalversion HanDeDict-Datei
@@ -843819,7 +843883,9 @@ DE匯流排開啟 DE汇流排开启 [D E hui4 liu2 pai2 kai1 qi3] /DE-Schiene of
 
 # ID-l86wd5Z
 # Ver 2021-10-31T12:06:55Z nikolaus Stat-Verif 004>4000+ neue Einträge
-俸 俸 [feng4] /Gehalt, Vergütung (S)/
+# 俸 俸 [feng4] /Gehalt, Vergütung (S)/
+# Ver 2026-11-26T10:08:53Z nikolaus Stat-Verif >Verbesserung
+俸 俸 [feng4] /Gehalt, Vergütung (S, Wirtsch)/
 
 # ID-l86wr7b
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1031147,7 +1031213,9 @@ T恤 T恤 [T xu4] /T-Shirt (S)/
 # Ver 2025-02-27T17:06:27Z nikolaus Stat-New >Verbesserung 
 # 口實 口实 [kou3 shi2] /Lebensmittel, Gehalt (alt) (S/ein Vorwand, ein Grund für Klatsch (S)/
 # Ver 2025-02-28T09:34:55Z nikolaus Stat-New >Formatfehler
-口實 口实 [kou3 shi2] /Lebensmittel, Gehalt (alt) (S)/ein Vorwand, ein Grund für Klatsch (S)/
+# 口實 口实 [kou3 shi2] /Lebensmittel, Gehalt (alt) (S)/ein Vorwand, ein Grund für Klatsch (S)/
+# Ver 2026-11-26T10:05:11Z nikolaus Stat-New >Verbesserung
+口實 口实 [kou3 shi2] /Gehalt (alt) (S, Wirtsch)/Lebensmittel (S)/ein Vorwand, ein Grund für Klatsch (S)/
 
 # ID-o51Qw0k
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1037901,7 +1037969,11 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 切斯瓦夫米沃甚 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shen2] /Czesław Miłosz (Lit)/
 # Ver 2022-09-11T11:49:35Z nikolaus Stat-New >Verbesserung 
-切斯瓦夫米沃甚 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shen2] /Czesław Miłosz (polnischer Dichter) (Eig, Pers, 1911-2004)/
+# 切斯瓦夫米沃甚 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shen2] /Czesław Miłosz (polnischer Dichter) (Eig, Pers, 1911-2004)/
+# Ver 2026-11-26T17:34:33Z nikolaus Stat-New >Verbesserung 
+# 切斯瓦夫米沃甚 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shen2] /Czesław Miłosz (poln. Dichter) (Eig, Pers, 1911-2004)/
+# Ver 2026-11-26T17:36:37Z nikolaus Stat-New >Löschen
+切斯瓦夫米沃甚 切斯瓦夫米沃什 [qie1 si1 wa3 fu1 mi3 wo4 shen2] /*** löschen (X)/
 
 # ID-o61hP4W
 # Ver 2021-11-28T21:14:25Z nikolaus Stat-New >Neu
@@ -1039775,7 +1039847,9 @@ DM單 DM单 [D M dan1] /Broschüre (S)/Flyer (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
 # 薪 薪 [xin1] /Brennmaterial, Brennmittel (S)/Gehalt (S)/Bezahlung/
 # Ver 2021-12-17T08:20:02Z nikolaus Stat-New >Wortart
-薪 薪 [xin1] /Brennmaterial, Brennmittel (S)/Gehalt, Bezahlung (S)/
+# 薪 薪 [xin1] /Brennmaterial, Brennmittel (S)/Gehalt, Bezahlung (S)/
+# Ver 2026-11-26T09:58:06Z nikolaus Stat-New >Verbesserung
+薪 薪 [xin1] /Brennmaterial, Brennmittel (S)/Gehalt, Bezahlung (S, Wirtsch)/
 
 # ID-o63Kr4D
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1048031,7 +1048105,9 @@ BB式膠印機構 BB型胶印机构 [B B shi4 jiao1 yin4 ji1 gou4] /Gummigummidr
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
 # 薪酬 薪酬 [xin1 chou2] /Bezahlung (u.E.) (S)/Entgelt (u.E.) (S)/Gehalt (u.E.) (S)/Lohn (u.E.) (S)/
 # Ver 2016-10-23T15:32:07Z zydeo-robot Stat-New 002>Datenbereinigung
-薪酬 薪酬 [xin1 chou2] /Bezahlung (S)/Entgelt (S)/Gehalt (S)/Lohn (S)/
+# 薪酬 薪酬 [xin1 chou2] /Bezahlung (S)/Entgelt (S)/Gehalt (S)/Lohn (S)/
+# Ver 2026-11-26T10:10:10Z nikolaus Stat-New >Verbesserung
+薪酬 薪酬 [xin1 chou2] /Bezahlung, Entgelt (S, Wirtsch)/Gehalt, Lohn (S, Wirtsch)/
 
 # ID-o76hY1G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
@@ -1068853,7 +1068929,9 @@ IBM敷設電纜系統 IBM敷设电缆系统 [I B M fu1 she4 dian4 lan3 xi4 tong3
 # Ver 2021-02-06T13:42:52Z nikolaus Stat-New >Verbesserung
 # 威廉費勒 威廉费勒 [wei1 lian2 fei4 lei1] /William Feller, kroatischer Mathematiker (Eig, Pers, 1906, 1970)/
 # Ver 2022-02-21T17:36:00Z nikolaus Stat-New >Verbesserung
-威廉費勒 威廉费勒 [wei1 lian2 fei4 lei1] /William Feller (kroatischer Mathematiker) (Eig, Pers, 1906, 1970)/
+# 威廉費勒 威廉费勒 [wei1 lian2 fei4 lei1] /William Feller (kroatischer Mathematiker) (Eig, Pers, 1906, 1970)/
+# Ver 2026-11-26T17:30:48Z nikolaus Stat-New >Verbesserung 
+威廉費勒 威廉费勒 [wei1 lian2 fei4 lei1] /William Feller (kroat. Mathematiker) (Eig, Pers, 1906-1970)/
 
 # ID-p05DY3G
 # Ver 2011-05-28T01:27:49Z HanDeDict Stat-New 001>Originalversion HanDeDict-Datei
